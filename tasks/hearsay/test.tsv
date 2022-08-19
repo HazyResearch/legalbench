@@ -1,0 +1,96 @@
+label	text	slice
+No	On the issue of whether James is an smart individual, the fact that James came first in his class in law school.	Non-assertive conduct
+No	On the issue of whether Robert negligently drove, the fact that Robert fell asleep while driving.	Non-assertive conduct
+No	On the issue of whether John knew about the conspiracy, the fact that John likes sweatpants.	Non-assertive conduct
+No	On the issue of whether Michael was guilty of murder, the fact that Michael left the crime scene immediately.	Non-assertive conduct
+No	On the issue of whether William was loved by his community, the fact that he was selected to speak at his graduation.	Non-assertive conduct
+No	On the issue of whether Mary robbed the bank, the fact that Mary went to the bank in disguise.	Non-assertive conduct
+No	On the issue of whether Patricia was a fan of Coldplay, the fact that she had a poster with the lyrics of "Viva la Vida" on her bedroom wall.	Non-assertive conduct
+No	On the issue of whether Jennifer suffered reputational harm from Linda's article, the fact that Linda worked with several different editors to proof read and cross-check her article.	Non-assertive conduct
+No	On the issue of whether Elizabeth was misdiagnosed by Barbara, the fact that Barbara didn't consult with her usual charts while assessing Elizabethg.	Non-assertive conduct
+No	On the issue of whether Richard had ever visited Chicago, the fact that he gave a speech there in 2005.	Non-assertive conduct
+No	On the issue of how long Joseph and Thomas had known each other, the fact that were neighbors during elementary school.	Non-assertive conduct
+No	On the issue of whether Susan was familiar with Shakespeare, the fact that she had once played the role of Macbeth and recieved a standing ovation after her monologue.	Non-assertive conduct
+No	On the issue of whether Jessica was aware she was trespassing, the fact that Jessica had been diagnosed as near-sighted by her ophthalmologist.	Non-assertive conduct
+No	On the issue of whether Sarah was acting as an agent for the corporation, the fact that Sarah had worked there previously for four years.	Non-assertive conduct
+No	On the issue of whether Charles was responsible for the defamatory article published online, the fact that Charles had visited the website responsible for the article multiple times in the past year.	Non-assertive conduct
+No	On the issue of whether Karen negligently operated the forklift, the fact that Karen is a terrible driver who needed several tries to pass her commercial license test.	Non-assertive conduct
+No	On the issue of whether the patent was infringed, the fact that the corporation's chief scientist was known to cheat at card games.	Non-assertive conduct
+No	On the issue of whether Christopher acted with malice, the fact that Christopher was often moody and had a large temper.	Non-assertive conduct
+No	On the issue of whether the parties had actually agreed to the contract, the fact that one of the parties had mistaken the identity of the other party.	Non-assertive conduct
+No	On the issue of which car was responsible for a hit-and-run, the witness's statement in court that she believed it was the blue sedan.	Statement made in-court
+No	On the issue of the faultiness of the designed house, the drawing the witness made on the stand during testimony.	Statement made in-court
+No	On the issue of which of the defendants was responsible for driving the get-away car, the fact that the witness on the stand turned and pointed to the man in the blue suit.	Statement made in-court
+No	On the issue of whether Ana lied to Jim, Jim's statement on cross-examination that he did not believe Ana to be an honest individual.	Statement made in-court
+No	On the issue of whether Daniel drove negligently, the fact that Daniel testified during the trial that he told his wife he was tired before driving into a tree.	Statement made in-court
+No	On the issue of whether Carl had knowledge of Amy's intentions, Carl told the questioning attorney on redirect examination that he knew Amy's intentions.	Statement made in-court
+No	On the issue of whether Nancy knew who attacked her, Nancy's statement in court, "I was attacked by Sandra."	Statement made in-court
+No	During the trial, Mark nodded when asked if it was him who vandalized Emily's garage.	Statement made in-court
+No	On the issue of which employee saw Emily last, the fact that James testified on the stand that he was on vacation that day and had last spoken to Emily the week before.	Statement made in-court
+No	On the issue of whether Will knew that the company intended to announce its drug trials had been cancelled, the fact that he told the jury that "he didn't know the first thing about how medicines worked."	Statement made in-court
+No	On the issue of the defendant's guilt, Alex told the jury that he believed the defendant was guilty.	Statement made in-court
+No	When showed floorplans of the museum during the trial, Andrew pointed out all the escape routes that he and his co-conspirators had planned to use. 	Statement made in-court
+No	When asked if he was remorseful by his attorney, Adam testified that "he regretted his actions."	Statement made in-court
+No	On the issue of whether Donna was ill, the fact that Margaret testified during trial that she thought Donna was unwell.	Statement made in-court
+Yes	On the issue of the sanity of Deborah, the fact that Deborah told her friend that she is completely sane.	Standard hearsay
+Yes	On the issue of whether Joshua's friend was attacked by Ashley, the fact that Joshua's friend told Joshua that he was just attacked by Ashley.	Standard hearsay
+Yes	To prove that Tom was in town, a witness testifies that her friend Susan told her Tom was in town.	Standard hearsay
+Yes	To prove that Shirley committed fraud, the fact that she told her neighbor she was planning on tricking the defendant by selling them a fake handbag.	Standard hearsay
+Yes	To prove that Stephen drove his car through a stoplight, the fact that Stephen told his wife on the phone that he was not paying attention to the road.	Standard hearsay
+Yes	On the issue of whether Henry negligently hit Kelly with his car, Kelly's statement, "a witness told me after the crash that Henry was on his cell phone while driving."	Standard hearsay
+Yes	On the issue of whether Sean knew he was going to die, the fact that he called his lawyer wanting to make final changes to his will.	Standard hearsay
+Yes	To prove that Alice was planning a robbery, the fact that she told Bob she was researching escape routes.	Standard hearsay
+Yes	To prove that Bruce committed medical malpractice, the fact that he told a nurse after the surgery that he thought he made a mistake.	Standard hearsay
+Yes	To prove that Alice suffered reputational harm, the fact that people were telling Bob that they had heard bad things about Alice.	Standard hearsay
+Yes	To prove that the Denise and Tom were married, the fact that Amber sent them a card congratulating them on their wedding.	Standard hearsay
+Yes	To prove that Alex owned a red car, the fact that she sent an email to her mother explaining how she was planning on purchasing a red car.	Standard hearsay
+Yes	On the issue of whether the accident was a result of negligence, a bystander's exclamation that driver was looking down at their phone while driving.	Standard hearsay
+Yes	On the issue of whether Henry committed insider trading, Alice's statement to Bob that Henry told her he had a "great tip about what a certain stock was going to do." 	Standard hearsay
+Yes	On the issue of whether Jane knew that Arthur was having an affair, the fact that Bob told Jane he suspected Arthur was up to something.	Standard hearsay
+Yes	On the issue of whether Mary was Tom's mother, the fact that Albert told Mary that Tom looked like her.	Standard hearsay
+Yes	Alex is being sued for breach of contract relating to a delay in the shipment of mangos. To prove that the shipment was delayed, a witness for the plaintiffs testifies that he heard Alex complain about not being able to deliver the mangos in time. 	Standard hearsay
+Yes	Alex is being prosecuted for participation in a criminal conspiracy. To prove that Alex participated in the conspiracy, the prosecution's witness testifies that she heard Alex making plans to meet with his co-conspirators.	Standard hearsay
+Yes	Dave is being sued by Taylor Swift for copyright infringement. To prove that Dave had listened to Taylor Swift, the plaintiffs introduced evidence of Dave telling his friend that his favorite artist was Taylor Swift.	Standard hearsay
+Yes	Angela is suing Harold for defamation. To prove that Harold knowingly spread falsehoods about her, Angela introduces evidence of Harold admitting to his friend that his statements about Angela were all lies.	Standard hearsay
+Yes	Joe is being prosecuted for illegally transporting turtle eggs under an animal trafficking statute. To prove that Joe owned the duffel bag in which contained the turtle eggs, the prosecution introduces evidence of Joe asking a store-owner if they carried any duffel bags.	Standard hearsay
+Yes	Corporation A decides to sue Corporation B for stealing trade secrets. To prove that B did it, lawyers for A introduce as evidence a statement made by B's CEO to one of his friends that B "would soon have the ability to compete with A." 	Standard hearsay
+Yes	Kim is sued by Jim for medical malpractice. To prove that Kim was a bad doctor, Jim introduces evidence that Kim told her friend that she cheated on all her medical school exams.	Standard hearsay
+Yes	To prove that Albert likes ice cream, the prosecution introduces evidence that Albert told Jim that "he wanted an ice cream."	Standard hearsay
+Yes	To prove that Jose liked red Ferraris, the defense introduces testimony from Tracy discussing how Jose told her that his favorite color is red and his favorite car is a Ferrari.	Standard hearsay
+Yes	To prove that Michael was in charge of the group, the plaintiffs introduce evidence of Michael stating, "I am the boss here."	Standard hearsay
+Yes	On the issue of whether Sandy knew that the cash belonged to Michael, Amy testifies that Sandy told her he thought he had Michael's cash.	Standard hearsay
+Yes	On the issue of whether the brakes were faulty, Amy testifies that she heard Arthur claim that he thought something was wrong with the car.	Standard hearsay
+Yes	To prove that the CEO knew of the fraudulent activities occuring, an email he sent his acknowledging his awareness of the conduct.	Non-verbal hearsay
+Yes	On the issue of whether the defendant knew he was trespassing, the fact that he shook his head when asked by a passing security guard about whether he knew he was on private property.	Non-verbal hearsay
+Yes	To prove that the insured under a life policy is dead, his wife offers a death certificate.	Non-verbal hearsay
+Yes	On the issue of which car was responsible for the hit and run, the fact that a bystander turned and pointed to a blue sedan.	Non-verbal hearsay
+Yes	To prove that the defendant was present at the scene of the crime, a forensics report describing traces of the defendant's DNA that was found by investigators.	Non-verbal hearsay
+Yes	To prove that the student was a terrible student, the mid-term report written by his teacher.	Non-verbal hearsay
+Yes	On the issue of whether Albert visited the garage sale, the fact that Tom wrote in an email to Mary that he saw Albert at the garage sale.	Non-verbal hearsay
+Yes	On the issue of whether Albert supported environmental reform, the fact that his car has many stickers with environmental slogans.	Non-verbal hearsay
+Yes	On the issue of whether Albert bought a knife, Angela testified that he shook his head when she asked him.	Non-verbal hearsay
+Yes	On the issue of Albert's wellbeing after the accident, Angela testified that he gave a thumbs up when asked how he was feeling.	Non-verbal hearsay
+Yes	Albert is being sued by Tim for breach of contract. The issue is whether Albert knew at the time signing the contract that he had no intention of following through. Tim's lawyers introduce an email Albert wrote to his friend saying he wasn't planning on honoring the contract with Tim.	Non-verbal hearsay
+Yes	On the issue of whether factory management had underpaid its workers, the fact that workers carried signs during a protest demanding equitable compensation.	Non-verbal hearsay
+Yes	On the issue of whether Albert liked Taylor Swift, a social media post written by Albert describing Taylor as his favorite artist.	Non-verbal hearsay
+Yes	On the issue of whether Tom identified the suspect at the scene of the crime, the fact that he pointed at the defendant.	Non-verbal hearsay
+No	On the issue of the sanity of Bobby, the fact that Bobby told a friend that she believed she was Santa Clause.	Not introduced to prove truth
+No	On the issue of whether Vincent was provoked by Roy, the fact that Vincent was told by his friend that he had just been attacked by Roy.	Not introduced to prove truth
+No	On the issue of whether Kayla knew she was ill, the fact that Philip told him she was unwell.	Not introduced to prove truth
+No	On the issue of damage to Mason's reputation as a sober individual, Lori's public statement, "I have never seen Mason drink."	Not introduced to prove truth
+No	On the issue of whether Gerald was alive immediately after being attacked by Kathryn, Gerald's statement, "I was attacked by Kathryn."	Not introduced to prove truth
+No	On issue of Dylan's ill feeling toward Andrew, Dylan's statement, "Andrew is a liar and a hypocrite."	Not introduced to prove truth
+No	On the issue of whether Ann and Austin had a discussion, Ann's statement to Austin, "I will sell my car to you for a cost."	Not introduced to prove truth
+No	On the issue of whether Patty knew Dave, the prosecution introduces evidence that Patty told Arthur, "Dave is really dishonest."	Not introduced to prove truth
+No	To prove that Arthur knew English, the fact that Arthur told Bill (in English) that he thought Mary robbed the bank.	Not introduced to prove truth
+No	To prove that Arthur had notice that a bank robbery was being planned, the fact that Arthur told Mary that he heard a bank robbery was going to happen.	Not introduced to prove truth
+No	To prove that Mary was at the mall on January 2nd, a mall employee testifies that on January 2nd, Mary told him she was planning on purchasing several diamonds.	Not introduced to prove truth
+No	To prove that Anne supported David, the fact that Anne said that David was the best boss in the world.	Not introduced to prove truth
+No	To prove that Daniel was sad upon hearing the news, the fact he exlaimed "the world was ending" and "nothing mattered anymore."	Not introduced to prove truth
+No	To prove that Amy believed that Karl was an employee of the store, the fact that Amy told Karl that the store needed to refund her because their marketing had been decieving. 	Not introduced to prove truth
+No	To prove that Arthur believed that Amy and Daniel were married, the fact that he wished them a happy anniversary.	Not introduced to prove truth
+No	To prove that the trademarks of restaurant A and restaurant B created confusion, the fact that a customer called one and placed an order believing it to actually be the other.	Not introduced to prove truth
+No	To prove that Michael knew of the existing patent, the fact that he told his friend that the patent was poorly written.	Not introduced to prove truth
+No	To prove that Arthur and Mary had a conversation, the fact that Arthur told Mary that the weather the following week would be terrible.	Not introduced to prove truth
+No	To prove that James believed that he had entered into a contract with Michael, the fact that he told Amy that "Michael said he would deliver 50 oranges to me."	Not introduced to prove truth
+Yes	On the issue of whether Melissa was the agent of Mark, Melissa's statement to Tim that her offer was being made as an agent of Mark.	Standard hearsay
