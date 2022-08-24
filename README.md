@@ -40,7 +40,7 @@ There are two ways to contribute tasks–via Github and via email. We prefer sub
 2. Create `test.tsv` in this directory with the test data. Make sure the file has the columns "label" and "text." 
 3. [OPTIONAL] If you have created training data as well, put that in a file called `train.tsv`.
 
-See [LINK HERE]() for an example merge request.
+See [here]() for an example merge request.
 
 **Contributing via email**. Please create the above files and email Neel Guha (nguha@stanford.edu)! He will manually add them to this repository.
 
@@ -49,5 +49,6 @@ To submit prompt, see [here](./prompts/README.md) for more information about our
 
 
 ## Current tasks
+See [here](https://docs.google.com/spreadsheets/d/1DiY4ktP5zYi-uC6OgGUf8E05WX9Ea8IiZsuZicL8kHg/edit?usp=sharing) for a list of currently supported tasks.
 
 ## Citing this work
