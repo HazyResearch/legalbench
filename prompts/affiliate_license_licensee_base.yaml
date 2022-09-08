@@ -1,0 +1,7 @@
+introduction: Does the clause describe a license grant to a licensee (incl. sublicensor)
+  and the affiliates of such licensee/sublicensor?
+label_prefix: 'A: '
+labels: default
+sample_prefix: 'Clause: '
+sample_suffix: null
+task: affiliate_license_licensee

@@ -1,0 +1,7 @@
+introduction: Does the clause award either party liquidated damages for breach or
+  a fee upon the termination of a contract (termination fee)?
+label_prefix: 'A: '
+labels: default
+sample_prefix: 'Clause: '
+sample_suffix: null
+task: liquidated_damages

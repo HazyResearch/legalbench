@@ -1,0 +1,7 @@
+introduction: Does the clause require a party to share revenue or profit with the
+  counterparty for any technology, goods, or services?
+label_prefix: 'A: '
+labels: default
+sample_prefix: 'Clause: '
+sample_suffix: null
+task: revenue_profit_sharing

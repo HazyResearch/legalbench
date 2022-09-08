@@ -1,0 +1,8 @@
+introduction: Does the clause subject a party to obligations after the termination
+  or expiration of a contract, including any post-termination transition, payment,
+  transfer of IP, wind-down, last-buy, or similar commitments?
+label_prefix: 'A: '
+labels: default
+sample_prefix: 'Clause: '
+sample_suffix: null
+task: post_termination_services

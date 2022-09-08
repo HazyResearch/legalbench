@@ -1,0 +1,6 @@
+introduction: Does the clause require a party not to disparage the counterparty?
+label_prefix: 'A: '
+labels: default
+sample_prefix: 'Clause: '
+sample_suffix: null
+task: non_disparagement

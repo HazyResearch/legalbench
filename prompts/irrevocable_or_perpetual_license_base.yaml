@@ -1,0 +1,6 @@
+introduction: Does the clause specify a license grant that is irrevocable or perpetual?
+label_prefix: 'A: '
+labels: default
+sample_prefix: 'Clause: '
+sample_suffix: null
+task: irrevocable_or_perpetual_license

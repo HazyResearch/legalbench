@@ -1,0 +1,9 @@
+introduction: "Does the clause specify that a party\u2019s liability is uncapped upon\
+  \ the breach of its obligation in the contract? This also includes uncap liability\
+  \ for a particular type of breach such as IP infringement or breach of confidentiality\
+  \ obligation"
+label_prefix: 'A: '
+labels: default
+sample_prefix: 'Clause: '
+sample_suffix: null
+task: uncapped_liability

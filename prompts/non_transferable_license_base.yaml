@@ -1,0 +1,7 @@
+introduction: Does the clause limit the ability of a party to transfer the license
+  being granted to a third party?
+label_prefix: 'A: '
+labels: default
+sample_prefix: 'Clause: '
+sample_suffix: null
+task: non_transferable_license

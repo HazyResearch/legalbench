@@ -1,0 +1,8 @@
+introduction: Does the clause restrict a party from contracting or soliciting customers
+  or partners of the counterparty, whether during the contract or after the contract
+  ends (or both)?
+label_prefix: 'A: '
+labels: default
+sample_prefix: 'Clause: '
+sample_suffix: null
+task: no_solicit_of_customers

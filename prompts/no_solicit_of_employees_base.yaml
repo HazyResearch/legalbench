@@ -1,0 +1,8 @@
+introduction: "Does the clause restrict a party\u2019s soliciting or hiring employees\
+  \ and/or contractors from the counterparty, whether during the contract or after\
+  \ the contract ends (or both)?"
+label_prefix: 'A: '
+labels: default
+sample_prefix: 'Clause: '
+sample_suffix: null
+task: no_solicit_of_employees

@@ -1,0 +1,7 @@
+introduction: Does the clause describe a license grant by affiliates of the licensor
+  or that includes intellectual property of affiliates of the licensor?
+label_prefix: 'A: '
+labels: default
+sample_prefix: 'Clause: '
+sample_suffix: null
+task: affiliate_license_licensor

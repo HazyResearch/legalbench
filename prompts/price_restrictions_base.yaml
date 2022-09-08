@@ -1,0 +1,7 @@
+introduction: Does the clause place a restriction on the ability of a party to raise
+  or reduce prices of technology, goods, or services provided?
+label_prefix: 'A: '
+labels: default
+sample_prefix: 'Clause: '
+sample_suffix: null
+task: price_restrictions

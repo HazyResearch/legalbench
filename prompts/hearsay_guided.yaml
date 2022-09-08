@@ -1,0 +1,7 @@
+introduction: Hearsay is an out-of-court statement introduced to prove the truth of
+  the matter asserted.
+label_prefix: 'A: '
+labels: train_explanations.txt
+sample_prefix: 'Q: '
+sample_suffix: ' Is there hearsay?'
+task: hearsay

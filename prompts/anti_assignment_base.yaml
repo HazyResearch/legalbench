@@ -1,0 +1,7 @@
+introduction: Does the clause require consent or notice of a party if the contract
+  is assigned to a third party?
+label_prefix: 'A: '
+labels: default
+sample_prefix: 'Clause: '
+sample_suffix: null
+task: anti_assignment

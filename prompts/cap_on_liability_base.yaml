@@ -1,0 +1,8 @@
+introduction: "Does the clause specify a cap on liability upon the breach of a party\u2019\
+  s obligation? This includes time limitation for the counterparty to bring claims\
+  \ or maximum amount for recovery."
+label_prefix: 'A: '
+labels: default
+sample_prefix: 'Clause: '
+sample_suffix: null
+task: cap_on_liability

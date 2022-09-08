@@ -1,12 +1,12 @@
 # Prompts
 
-We developed a simple schema for specifying a prompt. This allows us to concisely represent prompt types in yaml configuration files. A prompt consists of all text fed into the model, including in-context samples and the inference sample. At the bare minimum, the prompt must contain the test sample. However, it can contain many more elements.
+We developed a simple schema for specifying a prompt. This allows us to concisely represent prompt types in yaml configuration files. A prompt consists of all text fed into the model, including in-context samples and the inference sample.
 
 ## Prompt elements
 
-In our schema, a prompt consists of the following elements. 
+In our schema, a prompt can consist of the following elements.
 
-**Introductory statement**: a statement which begins the prompt. This can be a task instruction, i.e.,
+**Introductory statement**: a statement which begins the prompt. This typically defines the task, i.e.,
 
 > <ins>Translate the following from English to French.</ins> <br>
 > Hello, how are you?
@@ -33,4 +33,13 @@ It can also define context for the task, such as definitions/rules.
 
 **Label**: prompts often contain train samples. We may want to compare different ways of expressing the labels for train samples. By default, we consider the label column to contain the label. However, we can also specify a label via a path to a text file where each line contains the label corresponding to the sample in the same line of the train file.
 
-p
+The screenshot below presents an example of different prompt elements.
+
+![Image of prompt](../img/prompt_elements.png "Prompt")
+
+Above, the rule statement is shaded in yellow, the sample prefix is shaded in blue, the sample text is shaded in purple, and the sample suffix is shaded in orange, and the label prefix is shaded in red.
+
+## Adding a prompt
+
+To submit a new prompt, create a pull request with a yaml file corresponding to the prompt. Alternatively, email Neel Guha (nguha@stanford.edu) with a description of your prompt, and he will manually add it.
+

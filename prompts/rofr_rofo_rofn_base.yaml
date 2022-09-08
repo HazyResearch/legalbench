@@ -1,0 +1,8 @@
+introduction: Does the clause grant one party a right of first refusal, right of first
+  offer or right of first negotiation to purchase, license, market, or distribute
+  equity interest, technology, assets, products or services?
+label_prefix: 'A: '
+labels: default
+sample_prefix: 'Clause: '
+sample_suffix: null
+task: rofr_rofo_rofn

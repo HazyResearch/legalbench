@@ -1,0 +1,8 @@
+introduction: Does the clause specify a non-contracting party who is
+  a beneficiary to some or all of the clauses in the contract and therefore can enforce
+  its rights against a contracting party?
+label_prefix: 'A: '
+labels: default
+sample_prefix: 'Clause: '
+sample_suffix: null
+task: third_party_beneficiary

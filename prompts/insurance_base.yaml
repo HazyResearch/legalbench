@@ -1,0 +1,7 @@
+introduction: Is there a requirement for insurance that must be maintained by one
+  party for the benefit of the counterparty?
+label_prefix: 'A: '
+labels: default
+sample_prefix: 'Clause: '
+sample_suffix: null
+task: insurance

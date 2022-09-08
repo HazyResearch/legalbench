@@ -1,0 +1,7 @@
+introduction: "Does the clause grant one party an \u201Centerprise,\u201D \u201Call\
+  \ you can eat\u201D or unlimited usage license?"
+label_prefix: 'A: '
+labels: default
+sample_prefix: 'Clause: '
+sample_suffix: null
+task: unlimited_all_you_can_eat_license

@@ -1,0 +1,7 @@
+introduction: Does the clause restrict the ability of a party to compete with the
+  counterparty or operate in a certain geography or business or technology sector?
+label_prefix: 'A: '
+labels: default
+sample_prefix: 'Clause: '
+sample_suffix: null
+task: non_compete
