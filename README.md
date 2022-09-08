@@ -53,7 +53,9 @@ There are three ways to contribute tasks.
 3. [OPTIONAL] If you have created training data as well, put that in a file called `train.tsv`.
 4. [OPTIONAL] If you would like to contribute a chain-of-thought style prompt, then write chain-of-thought style explanations for the provided train samples in a file called `train_explanations.txt`. See the hearsay task for an explanation.
 
+
 **Contributing via Google forms**. Please submit the task using this [form](https://forms.gle/HjgH8Vd3b2143cu29).
+
 
 **Contributing via email**. Please create the above files and email Neel Guha (nguha@stanford.edu)! He will manually add them to this repository.
 
@@ -62,9 +64,9 @@ There are three ways to contribute tasks.
 To submit prompt, see [here](./prompts/README.md) for more information about our prompt schema, and how to submit prompts.
 
 ## Current tasks
-
 See [here](https://docs.google.com/spreadsheets/d/1DiY4ktP5zYi-uC6OgGUf8E05WX9Ea8IiZsuZicL8kHg/edit?usp=sharing) for a description of current tasks. We shall update this as more tasks are added.
 
 ## Citing this work
 
 Please cite to our ArXiv paper!
+
