@@ -2,7 +2,7 @@
 
 ## About
 
-LegalBench is an open science effort to benchmark legal reasoning in [foundation models](https://arxiv.org/abs/2108.07258). For more information, please see our call for submissions on ArXiv, which outlines our vision for this project.
+LegalBench is an open science effort to benchmark legal reasoning in [foundation models](https://arxiv.org/abs/2108.07258). For more information, please see our [call for submissions on ArXiv](https://arxiv.org/abs/2209.06120), which outlines our vision for this project.
 
 The goals for this project are twofold:
 
@@ -69,4 +69,17 @@ See [here](https://docs.google.com/spreadsheets/d/1DiY4ktP5zYi-uC6OgGUf8E05WX9Ea
 ## Citing this work
 
 Please cite to our ArXiv paper!
+
+```
+@misc{https://doi.org/10.48550/arxiv.2209.06120, 
+  doi = {10.48550/ARXIV.2209.06120}, 
+  url = {https://arxiv.org/abs/2209.06120}, 
+  author = {Guha, Neel and Ho, Daniel E. and Nyarko, Julian and Ré, Christopher}, 
+  keywords = {Artificial Intelligence (cs.AI), FOS: Computer and information sciences, FOS: Computer and information sciences}, 
+  title = {LegalBench: Prototyping a Collaborative Benchmark for Legal Reasoning}, 
+  publisher = {arXiv}, 
+  year = {2022}, 
+  copyright = {arXiv.org perpetual, non-exclusive license}
+}
+```
 
