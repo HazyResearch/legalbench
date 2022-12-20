@@ -1,1 +1,25 @@
 This task measures LLM ability to predict whether a proposed bill is relevant to a company.
+
+You can prompt the model like this:
+
+```
+template = """You are a lobbyist analyzing Congressional bills for their impacts on companies. 
+Given the title and summary of the bill, plus information on the company from its 10K SEC filing, it is your job to determine if a bill is at least somewhat relevant to a company in terms of whether it could impact the company's bottom-line if it was enacted (by saying YES or NO; note the all-caps). 
+Official title of bill: {bill_title}
+Official summary of bill: {bill_summary}
+Company name: {company_name}
+Company business description: {company_description}
+Is this bill potentially relevant to the company? FINAL ANSWER:
+"""
+```
+
+Where
+
+```
+Official title of bill: {bill_title}
+Official summary of bill: {bill_summary}
+Company name: {company_name}
+Company business description: {company_description}
+```
+
+Are four of the five columns of this data.
