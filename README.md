@@ -66,6 +66,21 @@ To submit prompt, see [here](./prompts/README.md) for more information about our
 ## Current tasks
 See [here](https://docs.google.com/spreadsheets/d/1DiY4ktP5zYi-uC6OgGUf8E05WX9Ea8IiZsuZicL8kHg/edit?usp=sharing) for a description of current tasks. We shall update this as more tasks are added.
 
+## Licenses
+LegalBench is a mix of created and transformed datasets. We ask that you follow the license of the dataset creator. 
+
+
+| Task                        | License                                                   | 
+| --------------------------- | --------------------------------------------------------- | 
+| CUAD                        | [CC by 4.0](https://creativecommons.org/licenses/by/4.0/) | 
+| Abercrombie                 | [CC by 4.0](https://creativecommons.org/licenses/by/4.0/) |  
+| Diversity                   | [CC by 4.0](https://creativecommons.org/licenses/by/4.0/) | 
+| Hearsay                     | [CC by 4.0](https://creativecommons.org/licenses/by/4.0/) | 
+| Personal Jurisdiction       | [CC by 4.0](https://creativecommons.org/licenses/by/4.0/) | 
+| PROA                        | [CC by 4.0](https://creativecommons.org/licenses/by/4.0/) | 
+| Rule QA                     | [CC by 4.0](https://creativecommons.org/licenses/by/4.0/) | 
+| Intra-rule distinguishing   | [CC by 4.0](https://creativecommons.org/licenses/by/4.0/) | 
+
 ## Citing this work
 
 Please cite to our ArXiv paper!
