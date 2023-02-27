@@ -1,6 +1,10 @@
 # Abercrombie
 
-**Authors**: Neel Guha (nguha@stanford.edu)
+**Contributor**: Neel Guha (nguha@stanford.edu)
+
+**Source**: Neel Guha
+
+**License**: [CC by 4.0](https://creativecommons.org/licenses/by/4.0/)
 
 
 ## Task description
