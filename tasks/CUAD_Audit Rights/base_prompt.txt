@@ -1,0 +1,22 @@
+Does the clause give a party the right to audit the books, records, or physical locations of the counterparty to ensure compliance with the contract?
+
+Clause: At the request of Harpoon, AbbVie shall permit an independent public accounting firm of nationally recognized standing designated by Harpoon and reasonably acceptable to AbbVie, [***], to audit the books and records maintained pursuant to this Section 6.11 to ensure the accuracy of all reports and payments made hereunder, including any permitted deductions from Net Sales pursuant to Section 1.108.
+Label: Yes
+
+Clause: Upon termination or expiration of this Agreement, Calm (at its sole expense) may engage a third party to audit XSPA's inventory of any and all Product Collateral then on hand at each Store and XSPA shall promptly return or dispose of such inventory as instructed by Calm at Calm's sole expense.
+Label: Yes
+
+Clause: Impresse agrees to purchase at least $[*] of such Banners and Newsletters in each calendar quarter after the Effective Date until a total of $[*] have been purchased, provided, the total dollar amount purchased by Impresse in any calendar quarter shall not consist of greater than 70% of either Banners or Newsletters.
+Label: No
+
+Clause: Provided that such referred customer is not already a Eutectix customer, Eutectix may accept such customer referral, and in that case hereby agrees to pay Liquidmetal a cash commission based on a percentage of the invoice price of Licensed Products sold by Eutectix or its permitted sublicensees and for which payment was actually received by Eutectix, in addition to the Liquidmetal Royalty.
+Label: No
+
+Clause: NCM shall maintain with financially sound and reputable insurance companies insurance for its business and Equipment in such amounts and against such perils as NCM deems adequate for its business, including the installation services set forth in Section 2.2 herein.
+Label: No
+
+Clause: During the Term of this Agreement, HealthGate shall accommodate one employee or representative of Publishers at HealthGate's office for the purpose of reviewing and understanding the operation of the Site.
+Label: Yes
+
+Clause: {{text}}
+Label:

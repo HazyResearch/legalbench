@@ -1,0 +1,22 @@
+Does the clause specify a renewal term?
+
+Clause: In the event COMWARE does not meet these minimum purchase requirements, this Agreement will automatically and immediately terminate and neither of the parties hereto will have any further obligations, one to the other.
+Label: No
+
+Clause: [***], Valeant hereby grants to Dova a fully paid-up, royalty free, non-transferable, non- exclusive license (with a limited right to sub-license to its Affiliates) to any Valeant Property that appears on, embodied on or contained in the Product materials or Product Labeling solely for use in connection with Dova's promotion or other commercialization of the Product in the Territory.
+Label: No
+
+Clause: The term of this Agreement shall be for one (1) year commencing on the Effective Date and automatically renewing annually thereafter, unless either party provides a thirty-day notice of written termination one to the other ("Term").
+Label: Yes
+
+Clause: LeadersOnline shall have the option, subject to VerticalNet's approval exercised in its sole and absolute discretion, to extend the Term of this Agreement for an additional 12 months (a "Renewal Term") on such terms and conditions as may be mutually agreed upon by the Parties.
+Label: Yes
+
+Clause: The Agreement may be renewed for an additional period of seven (7) years at the option of the Licensor.
+Label: Yes
+
+Clause: During each 12 month period during the Initial Term that commences on the Effective Date or an anniversary of the Effective Date (each, a "Contract Year"),<omitted>commissions shall accrue in an amount equal to [*] of any Medical Products Net Revenues during such Contract Year resulting from (a) any VerticalNet Medical Products Listing or (b) any Neoforma Medical Products Listing for which VerticalNet was the Transaction Origination Party.
+Label: No
+
+Clause: {{text}}
+Label:

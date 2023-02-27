@@ -1,0 +1,22 @@
+Does the clause give one party the right to terminate or is consent or notice required of the counterparty if such party undergoes a change of control, such as a merger, stock sale, transfer of all or substantially all of its assets or business, or assignment by operation of law?
+
+Clause: The Owners may not enter into any shareholders' agreement, management agreement, voting trust or other arrangement that gives a third party the power to direct and control your affairs without our prior written consent.
+Label: Yes
+
+Clause: Subject to Section 3.5(b), in the event that Vendor, prior to Location Acceptance at all Cell Sites and without the prior written consent of AT&T, consummates (i) any sale, assignment, transfer, license, lease or conveyance of any interest in any Cell Site or any of the Material or Services contemplated in this Agreement or (ii) any Change of Control of Vendor to a Restricted Entity or to any other Person who, in AT&T's reasonable discretion, lacks the financial or operational resources, skill or expertise to fulfill the obligations of Vendor contemplated by this Agreement, then AT&T may terminate this Agreement and exercise any other remedies available to AT&T under this Agreement or at law or equity, including any of its Termination Remedies set forth in the Build Addendum.
+Label: Yes
+
+Clause: For purposes of this Section 4.4, a "Change of Control" shall mean any transaction or series of related transactions that results in (including by way of merger or consolidation), or that is in connection with, the Village Media Company no longer being controlled (as defined in Section 1.2) by or under common control (as defined in Section 1.2) with HOFV.
+Label: Yes
+
+Clause: The term of this Agreement will commence on the date that the Affiliate Registration Form is approved by Chase and will end when terminated by either party.
+Label: No
+
+Clause: In the event that the Servicer resigns or is terminated hereunder, the Servicer shall use its commercially reasonable efforts to and shall cooperate with the Owner and take other reasonable steps requested by the Owner to assist in the orderly and efficient transfer of the administration of the Serviced Assets to the successor Servicer.
+Label: No
+
+Clause: Exact agrees it shall spend at least eighty million dollars ($80,000,000) toward Marketing and Promotion (including any amounts spent between January 1, 2018 and the Effective Date) and the pro-rated Shared M&P Expense for 2018.
+Label: No
+
+Clause: {{text}}
+Label:

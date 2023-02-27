@@ -1,0 +1,22 @@
+Does the clause limit the ability of a party to transfer the license being granted to a third party?
+
+Clause: Notwithstanding the foregoing, Women.com shall be entitled to (aa) provide mini and micro web sites and Women.com promotions and sponsorships to Jenny Craig; (bb) sell, display, or distribute advertisements, including banner advertisements, newsletter placements, internet radio, commerce placements and market research, or otherwise promote Competitive Companies on pages other than the Gateway Page of the Diet Center.
+Label: No
+
+Clause: Subject to the terms and conditions hereof, drkoop.com hereby represents that it has the power and authority to grant, and does hereby grant to Sponsor a non-exclusive, non-transferable, royalty-free, worldwide license to reproduce and display all logos, trademarks, trade names and similar identifying material relating to drkoop.com and, solely as allowed pursuant to this Agreement, to the Dr. C. Everett Koop name (collectively, the "drkoop.com Marks") solely in connection with the promotion, marketing and distribution of the parties and the Sites in accordance with the terms hereof, provided, however, that Sponsor shall, other than as specifically provided for in Section 4.4 of this Agreement, not make any specific use of any drkoop.com Marks without first submitting a sample of such use to drkoop.com and obtaining its prior consent, which consent shall not be unreasonably withheld.
+Label: Yes
+
+Clause: Either party may terminate the Agreement on 60-days written notice during a renewed term.
+Label: No
+
+Clause: This Agreement shall be effective on the later of the dates that it is executed by Imprimis and Surgical (the "Effective Date") and shall terminate pursuant to the terms of the SOW (the "Term").
+Label: No
+
+Clause: The supply of the Miltenyi Products hereunder conveys to Bellicum the limited, non-exclusive, non-transferable (except as expressly provided herein, including as set forth in Article 17) right to use, and to permit its Subcontractors and Licensees to use the Miltenyi Products solely for Ex Vivo Cell Processing in the manufacture of Bellicum Products for use in the Field in the Territory (including for research, pre-clinical, clinical, regulatory and commercial purposes), in accordance with applicable Regulatory Authority requirements and approvals (including (to the extent applicable) any relevant clinical trial protocol, IND, and/or IRB approval pertaining to such Bellicum Products), in each case consistent with the terms and conditions of this Agreement and in accordance with Applicable Laws (the "Permitted Use"). Bellicum's Permitted Use of the Miltenyi Products shall be limited to the Designated Countries, subject to Section 2.3.
+Label: Yes
+
+Clause: In the event ExxonMobil notifies FCE that it has formally decided not to pursue Generation 2 Technology for Carbon Capture Applications, then upon FCE's written request, ExxonMobil agrees to negotiate a grant to FCE, under commercially reasonable terms to be determined in good faith, a worldwide, non-exclusive, royalty-bearing (with the royalty to be negotiated), non-sub- licensable (except as set forth in this Paragraph 7.01(b)(2)), non-transferable (except pursuant to Article 14 (Assignment)), right and license to practice Program Results solely for Carbon Capture Applications.
+Label: Yes
+
+Clause: {{text}}
+Label:

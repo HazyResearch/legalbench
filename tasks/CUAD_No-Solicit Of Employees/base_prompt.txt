@@ -1,0 +1,22 @@
+Does the clause restrict a party’s soliciting or hiring employees and/or contractors from the counterparty, whether during the contract or after the contract ends (or both)?
+
+Clause: Astellas shall have the exclusive right to market, sell and distribute the Lead Compounds supplied by FG for use in the Astellas Territory within the Field under the license granted in Article 13.
+Label: No
+
+Clause: IBM agrees that, for a period of [*] years from the Effective Date of this Agreement, it will not in any way solicit for employment any Transferred Employees without the prior written consent of MSL; provided, however, that the foregoing will not restrict or prevent IBM from a) employing any such person who contacts IBM on his or her own initiative without any solicitation or encouragement from IBM or b) by using general employment advertising or communications or independent search firms, hiring any person who responds thereto, provided that IBM does not direct or encourage such independent search firms to solicit such Transferred Employees.
+Label: Yes
+
+Clause: Notwithstanding the foregoing, nothing herein shall restrict or preclude the Parties' right to make generalized searches for employees by way of a general solicitation for employment placed in a trade journal, newspaper or website.
+Label: Yes
+
+Clause: In turn, UTEK agrees that it will not directly or indirectly solicit any present employee of AVDU.
+Label: Yes
+
+Clause: The license granted pursuant to this Section 10.3 shall be non­exclusive in the Territory and exclusive in the rest of the world outside the Territory.
+Label: No
+
+Clause: Party A's contribution to the registered capital of the Joint Venture Company shall be Fourteen Million Six Hundred Fifty-One Thousand United States Dollars (US$14,651,000), representing a forty-nine percent (49%) share of the Joint Venture Company's registered capital. Party B's contribution to the registered capital of the Joint Venture Company shall be Fifteen Million Two Hundred Forty Nine Thousand United States Dollars (US$15,249,000), representing a fifty-one percent (51%) share of the Joint Venture Company's registered capital.
+Label: No
+
+Clause: {{text}}
+Label:

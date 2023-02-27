@@ -1,0 +1,22 @@
+Does the clause require one party to deposit its source code into escrow with a third party, which can be released to the counterparty upon the occurrence of certain events (bankruptcy, insolvency, etc.)?
+
+Clause: Furthermore, Fox grants to Licensee a limited, exclusive (except as may otherwise be provided in this Agreement), non-transferable (except as permitted in Paragraph 17(d)) right and license to make, have made, reproduce, modify, create derivative works of, advertise, promote, distribute, sell and license the Wireless Products, including any PSM included therein, solely (i) for use on mobile or cellular telephones (the "Wireless Platform"); (ii) in the Territory (as defined in Paragraph 3), (iii) during the Term (as defined in Paragraph 4), (iv) for distribution by Licensee through the Distribution Channels (as defined in Paragraph 2(c)) granted herein; and (v) by means of periodic subscription fee, a per-download basis, or through a retail purchase.
+Label: No
+
+Clause: During the Term hereof and for a period of six (6) months following the termination of this Agreement or the discontinuation of any of the Company Products, (i) the Reseller shall have the exclusive right to commission for any Registered Referrals, (ii) the Company shall not market, promote, sell, or distribute Company Products or solicit or procure orders for the Company Products, or for any product(s) or service(s) similar to the Company Products, in the Territory other than through the Reseller and pursuant to this Agreement, except with the prior written consent of the Reseller, and (iii) without limitation to the foregoing, the Company shall not, directly or through other parties (whether agents, representatives, intermediaries, resellers or other parties), market, promote, sell, distribute, solicit or procure orders to any existing or prospective customer of the Reseller.
+Label: No
+
+Clause: Depomed shall notify King in writing in the event that Depomed desires to divest itself of its rights to the Product in the Territory (e.g., by asset sale or product license to a Third Party), or of its rights in the Territory to a product owned or controlled by Depomed containing metformin and another active pharmaceutical ingredient in combination with Depomed's proprietary drug delivery technology incorporated within the Product (currently referred to as the AcuForm technology) (a "Combination Product").
+Label: No
+
+Clause: The Escrow Agreement provides that the Escrow Agent shall, under certain circumstances, release the Source Code and related DOCUMENTATION to TELKOM.
+Label: Yes
+
+Clause: The following events shall constitute "Source Code Access Conditions": (i) D2's insolvency, general assignment for the benefit of creditors, or ceasing to do business, or (ii) D2's failure or inability to meet its warranty, maintenance and support obligations under Article 6, or its warranty obligations under Article 8.3, within fifteen days after written notice by LICENSEE to D2 of D2's failure to meet such obligations, or (iii) termination of this Agreement by LICENSEE pursuant to Articles 9.3 and 9.4, or (iv) as needed by LICENSEE for fault isolation.
+Label: Yes
+
+Clause: If a Release Condition has occurred, Bank of America may immediately release the Source Code for the purposes described in Section 8.8, following the issuance of a written statement to Supplier by Bank of America's executive management, stating that a Release Condition has occurred.
+Label: Yes
+
+Clause: {{text}}
+Label:
