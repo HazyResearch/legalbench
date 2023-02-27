@@ -35,7 +35,7 @@ It can also define context for the task, such as definitions/rules.
 
 The screenshot below presents an example of different prompt elements.
 
-![Image of prompt](../img/prompt_elements.png "Prompt")
+![Image of prompt](img/prompt_elements.png "Prompt")
 
 Above, the rule statement is shaded in yellow, the sample prefix is shaded in blue, the sample text is shaded in purple, and the sample suffix is shaded in orange, and the label prefix is shaded in red.
 
