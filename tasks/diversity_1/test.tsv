@@ -1,97 +1,301 @@
-label	text	slice
-No	Elton (from Kentucky) sues Tarryn (from Kentucky) for defamation for $4,900,000.	No diverse parties, yes aic
-Yes	Chinita (from Wyoming) sues Joanne (from Maryland) for fraud for $450,000.	Yes diverse parties, yes aic
-Yes	Leiah (from New York) sues Joyanne (from Oregon) for negligence for $8,100,000.	Yes diverse parties, yes aic
-No	Lakindra (from Rhode Island) sues Edelmira (from Nevada) for legal malpractice for $54,000.	Yes diverse parties, no aic
-No	Marnie (from Connecticut) sues Lynzee (from Arkansas) for defamation for $53,000.	Yes diverse parties, no aic
-Yes	Yael (from Kansas) sues Arlina (from Missouri) for legal malpractice for $8,400,000.	Yes diverse parties, yes aic
-Yes	Laquanna (from Wyoming) sues Rejeana (from Alabama) for intentional infliction of emotional distress for $6,100,000.	Yes diverse parties, yes aic
-No	Carlita (from Oregon) sues Rufina (from Oregon) for breach of contract for $7,900,000.	No diverse parties, yes aic
-Yes	Alysson (from Georgia) sues Tre (from Vermont) for wrongful eviction for $98,000.	Yes diverse parties, yes aic
-No	Roma (from Ohio) sues Shaneen (from Ohio) for discrimination for $1,700,000.	No diverse parties, yes aic
-No	Herlinda (from Utah) sues Jentry (from Utah) for negligence for $450,000.	No diverse parties, yes aic
-Yes	Celina (from Rhode Island) sues Artesia (from Tennessee) for medical malpractice for $99,000.	Yes diverse parties, yes aic
-Yes	Telah (from New Mexico) sues Porschea (from Wyoming) for discrimination for $94,000.	Yes diverse parties, yes aic
-No	Cherylee (from Arizona) sues Cederick (from Colorado) for legal malpractice for $12,000.	Yes diverse parties, no aic
-No	Christianna (from Virginia) sues Brayden (from Virginia) for medical malpractice for $7,700,000.	No diverse parties, yes aic
-Yes	Hiroko (from Maryland) sues Arnoldo (from Pennsylvania) for breach of contract for $8,800,000.	Yes diverse parties, yes aic
-Yes	Paula (from New York) sues Ludivina (from Missouri) for medical malpractice for $93,000.	Yes diverse parties, yes aic
-Yes	Mehan (from Idaho) sues Marvelous (from Alaska) for legal malpractice for $1,100,000.	Yes diverse parties, yes aic
-No	Uniqua (from Missouri) sues Willena (from Missouri) for legal malpractice for $600,000.	No diverse parties, yes aic
-No	Eyad (from Colorado) sues Carie (from Illinois) for medical malpractice for $11,000.	Yes diverse parties, no aic
-Yes	Sianna (from New Hampshire) sues Antoinette (from Nevada) for medical malpractice for $2,000,000.	Yes diverse parties, yes aic
-Yes	Domenik (from Massachusetts) sues Vern (from South Dakota) for fraud for $900,000.	Yes diverse parties, yes aic
-No	Donita (from Nebraska) sues Daviel (from Georgia) for wrongful eviction for $46,000.	Yes diverse parties, no aic
-Yes	Chana (from Michigan) sues Clover (from Ohio) for wrongful eviction for $650,000.	Yes diverse parties, yes aic
-No	Rondale (from Louisiana) sues Laketta (from Tennessee) for legal malpractice for $49,000.	Yes diverse parties, no aic
-No	Donnica (from New Mexico) sues Almon (from New Mexico) for fraud for $5,100,000.	No diverse parties, yes aic
-Yes	Ladarius (from Arizona) sues Mariadelaluz (from Illinois) for discrimination for $93,000.	Yes diverse parties, yes aic
-No	Brad (from Tennessee) sues Chikara (from Tennessee) for fraud for $4,000,000.	No diverse parties, yes aic
-Yes	Joanthan (from Minnesota) sues Asia (from New York) for negligence for $1,800,000.	Yes diverse parties, yes aic
-No	Saadia (from Nevada) sues Tresa (from North Dakota) for legal malpractice for $72,000.	Yes diverse parties, no aic
-Yes	Sapna (from Alabama) sues Elisheba (from Nebraska) for wrongful eviction for $89,000.	Yes diverse parties, yes aic
-Yes	Dariel (from Massachusetts) sues Tineka (from Maryland) for medical malpractice for $2,800,000.	Yes diverse parties, yes aic
-No	Rakesha (from Kansas) sues Marrissa (from Kansas) for intentional infliction of emotional distress for $150,000.	No diverse parties, yes aic
-Yes	Basilio (from Nevada) sues Charonda (from Maine) for defamation for $1,800,000.	Yes diverse parties, yes aic
-No	Charlette (from Utah) sues Abbye (from Utah) for intentional infliction of emotional distress for $66,000.	No diverse parties, no aic
-Yes	Taisia (from Wisconsin) sues Kitrina (from Oklahoma) for medical malpractice for $7,300,000.	Yes diverse parties, yes aic
-No	Laurice (from South Carolina) sues Moncia (from South Carolina) for medical malpractice for $23,000.	No diverse parties, no aic
-No	Orlan (from Florida) sues Derrill (from Florida) for legal malpractice for $67,000.	No diverse parties, no aic
-No	Starlet (from Virginia) sues Arletta (from Virginia) for breach of contract for $5,400,000.	No diverse parties, yes aic
-Yes	Eveline (from Mississippi) sues Tosha (from Minnesota) for medical malpractice for $7,200,000.	Yes diverse parties, yes aic
-Yes	Latiesha (from Alabama) sues Gretchen (from Maine) for negligence for $78,000.	Yes diverse parties, yes aic
-No	Latonya (from California) sues Nalee (from Washington) for negligence for $44,000.	Yes diverse parties, no aic
-No	Margherita (from West Virginia) sues Yukiko (from Maine) for defamation for $44,000.	Yes diverse parties, no aic
-No	Paulmichael (from Alaska) sues Keshonda (from Alaska) for fraud for $37,000.	No diverse parties, no aic
-Yes	Marketia (from Arkansas) sues Tyrese (from Ohio) for fraud for $150,000.	Yes diverse parties, yes aic
-Yes	Destiney (from Georgia) sues Won (from Delaware) for breach of contract for $3,900,000.	Yes diverse parties, yes aic
-No	Angelos (from Michigan) sues Tiffancy (from Michigan) for medical malpractice for $3,800,000.	No diverse parties, yes aic
-No	Yakov (from Alabama) sues Hannan (from Alabama) for fraud for $82,000.	No diverse parties, yes aic
-Yes	Chane (from New Hampshire) sues Adonnis (from Alabama) for intentional infliction of emotional distress for $750,000.	Yes diverse parties, yes aic
-Yes	Jacqulyn (from Mississippi) sues Bayan (from Iowa) for fraud for $6,400,000.	Yes diverse parties, yes aic
-Yes	Teniqua (from Tennessee) sues Lorin (from Nevada) for discrimination for $8,600,000.	Yes diverse parties, yes aic
-No	Estaban (from California) sues Ladreka (from New York) for defamation for $36,000.	Yes diverse parties, no aic
-No	Shara (from Minnesota) sues Adal (from Minnesota) for wrongful eviction for $7,100,000.	No diverse parties, yes aic
-No	Nam (from Idaho) sues Barret (from New York) for breach of contract for $39,000.	Yes diverse parties, no aic
-No	Dusti (from Maine) sues Dimitrios (from Maine) for intentional infliction of emotional distress for $32,000.	No diverse parties, no aic
-No	Terris (from Washington) sues Meegan (from Washington) for discrimination for $67,000.	No diverse parties, no aic
-Yes	Keven (from Hawaii) sues Jeanene (from Alaska) for legal malpractice for $5,500,000.	Yes diverse parties, yes aic
-Yes	Ivelisse (from Arkansas) sues Kimerly (from Montana) for discrimination for $250,000.	Yes diverse parties, yes aic
-Yes	Lakecia (from Arizona) sues Kelvis (from Rhode Island) for fraud for $7,600,000.	Yes diverse parties, yes aic
-No	Tyris (from Michigan) sues Ahna (from Nebraska) for defamation for $17,000.	Yes diverse parties, no aic
-Yes	Maricia (from Alaska) sues Angelamarie (from Idaho) for wrongful eviction for $4,500,000.	Yes diverse parties, yes aic
-Yes	Tanasia (from Texas) sues Rasha (from Nevada) for legal malpractice for $9,200,000.	Yes diverse parties, yes aic
-No	Wendell (from California) sues Davi (from California) for discrimination for $3,600,000.	No diverse parties, yes aic
-No	Kelcie (from Wyoming) sues Mateo (from Wyoming) for legal malpractice for $8,000.	No diverse parties, no aic
-No	Iyesha (from North Dakota) sues Vita (from North Dakota) for intentional infliction of emotional distress for $8,500,000.	No diverse parties, yes aic
-Yes	Darvis (from Mississippi) sues Kyree (from Texas) for breach of contract for $4,300,000.	Yes diverse parties, yes aic
-No	Joab (from Maine) sues Alexius (from Illinois) for medical malpractice for $49,000.	Yes diverse parties, no aic
-No	Tedi (from Wyoming) sues Starlena (from Washington) for discrimination for $66,000.	Yes diverse parties, no aic
-Yes	Tamira (from Kentucky) sues Franz (from Nevada) for wrongful eviction for $1,500,000.	Yes diverse parties, yes aic
-Yes	Maryalice (from Vermont) sues Joeanthony (from Oregon) for discrimination for $7,200,000.	Yes diverse parties, yes aic
-Yes	Sheriece (from Pennsylvania) sues Shannette (from Nebraska) for legal malpractice for $1,700,000.	Yes diverse parties, yes aic
-No	Kriss (from New Hampshire) sues Rodrick (from New Hampshire) for legal malpractice for $29,000.	No diverse parties, no aic
-No	Gianfranco (from Arkansas) sues Malaina (from Alabama) for legal malpractice for $7,000.	Yes diverse parties, no aic
-Yes	Maleka (from Connecticut) sues Lowell (from Michigan) for fraud for $9,500,000.	Yes diverse parties, yes aic
-No	Towanna (from Arizona) sues Shardae (from Missouri) for defamation for $39,000.	Yes diverse parties, no aic
-No	Chase (from Connecticut) sues Pamala (from Connecticut) for negligence for $5,200,000.	No diverse parties, yes aic
-Yes	Jennfier (from New Jersey) sues Jenia (from Vermont) for discrimination for $4,600,000.	Yes diverse parties, yes aic
-No	Nakecia (from Maine) sues Kinard (from Maine) for intentional infliction of emotional distress for $7,000.	No diverse parties, no aic
-No	Shariff (from New Mexico) sues Dennison (from New Mexico) for defamation for $60,000.	No diverse parties, no aic
-Yes	Trell (from North Carolina) sues Cyrstal (from Hawaii) for negligence for $3,100,000.	Yes diverse parties, yes aic
-Yes	Hiedi (from Maryland) sues Alonso (from Pennsylvania) for wrongful eviction for $5,000,000.	Yes diverse parties, yes aic
-Yes	Lorena (from New Jersey) sues Garold (from Hawaii) for medical malpractice for $2,800,000.	Yes diverse parties, yes aic
-No	Shacarra (from Wisconsin) sues Theadore (from Wisconsin) for fraud for $57,000.	No diverse parties, no aic
-No	Stephanee (from Georgia) sues Natha (from Georgia) for legal malpractice for $9,900,000.	No diverse parties, yes aic
-Yes	Deven (from Delaware) sues Senta (from Florida) for breach of contract for $6,500,000.	Yes diverse parties, yes aic
-Yes	Shira (from Nevada) sues Tamoya (from Idaho) for medical malpractice for $350,000.	Yes diverse parties, yes aic
-No	Tamicka (from Wisconsin) sues Neel (from Wisconsin) for discrimination for $94,000.	No diverse parties, yes aic
-Yes	Tristyn (from Louisiana) sues Karel (from New Mexico) for legal malpractice for $350,000.	Yes diverse parties, yes aic
-Yes	Katoya (from Massachusetts) sues Taria (from Arkansas) for fraud for $6,000,000.	Yes diverse parties, yes aic
-Yes	Felishia (from South Dakota) sues Minta (from New Jersey) for legal malpractice for $9,300,000.	Yes diverse parties, yes aic
-No	Toshiba (from South Carolina) sues Lake (from South Carolina) for legal malpractice for $9,500,000.	No diverse parties, yes aic
-Yes	Jacquetta (from West Virginia) sues Amylynn (from Kansas) for wrongful eviction for $7,900,000.	Yes diverse parties, yes aic
-Yes	Ashanti (from West Virginia) sues Shabazz (from Idaho) for intentional infliction of emotional distress for $8,600,000.	Yes diverse parties, yes aic
-Yes	Raymondo (from West Virginia) sues Jamaica (from Michigan) for breach of contract for $83,000.	Yes diverse parties, yes aic
-Yes	Rapheal (from Rhode Island) sues Jujuan (from Oregon) for intentional infliction of emotional distress for $750,000.	Yes diverse parties, yes aic
-Yes	Rayland (from Kansas) sues Demarko (from Montana) for fraud for $5,000,000.	Yes diverse parties, yes aic
+text	label	parties_are_diverse	aic_is_met
+James is from Arizona. Lucas is from Arizona. James sues Lucas for negligence for $64,000.	No	False	False
+Benjamin is from Alaska. Isabella is from Rhode Island. Benjamin sues Isabella for patent infringement for $36,000.	No	True	False
+James is from Montana. Elijah is from Montana. James sues Elijah for legal malpractice for $12,000.	No	False	False
+Elijah is from California. Liam is from California. Elijah sues Liam for breach of contract for $62,000.	No	False	False
+Liam is from Georgia. Noah is from South Dakota. Liam sues Noah for negligence for $2,716,000.	Yes	True	True
+Olivia is from Arkansas. Ava is from Arkansas. Olivia sues Ava for breach of contract for $9,824,000.	No	False	True
+Sophia is from Nebraska. Ava is from Washington. Sophia sues Ava for legal malpractice for $34,000.	No	True	False
+Isabella is from South Dakota. Olivia is from South Dakota. Isabella sues Olivia for defamation for $45,000.	No	False	False
+Ava is from West Virginia. James is from Florida. Ava sues James for medical malpractice for $3,000.	No	True	False
+Noah is from Nebraska. Evelyn is from Mississippi. Noah sues Evelyn for negligence for $7,361,000.	Yes	True	True
+Sophia is from North Carolina. William is from New York. Sophia sues William for negligence for $24,000.	No	True	False
+Isabella is from New Jersey. Benjamin is from Texas. Isabella sues Benjamin for wrongful eviction for $8,050,000.	Yes	True	True
+Mia is from Illinois. Theodore is from Alaska. Mia sues Theodore for medical malpractice for $7,232,000.	Yes	True	True
+Theodore is from Arizona. Evelyn is from Vermont. Theodore sues Evelyn for copyright infringement for $72,000.	No	True	False
+Evelyn is from New York. William is from New York. Evelyn sues William for medical malpractice for $59,000.	No	False	False
+Henry is from Montana. Ava is from Florida. Henry sues Ava for trademark infringement for $4,824,000.	Yes	True	True
+Benjamin is from Arkansas. Amelia is from Arkansas. Benjamin sues Amelia for legal malpractice for $39,000.	No	False	False
+Lucas is from Massachusetts. Theodore is from Massachusetts. Lucas sues Theodore for trademark infringement for $17,000.	No	False	False
+William is from New Jersey. Olivia is from New Jersey. William sues Olivia for legal malpractice for $23,000.	No	False	False
+Lucas is from West Virginia. James is from West Virginia. Lucas sues James for patent infringement for $47,000.	No	False	False
+Evelyn is from Wisconsin. Amelia is from Iowa. Evelyn sues Amelia for breach of contract for $51,000.	No	True	False
+Emma is from Virginia. Isabella is from Virginia. Emma sues Isabella for breach of contract for $6,348,000.	No	False	True
+Sophia is from Nevada. Evelyn is from Nevada. Sophia sues Evelyn for defamation for $10,000.	No	False	False
+Elijah is from Kansas. Liam is from California. Elijah sues Liam for copyright infringement for $33,000.	No	True	False
+Liam is from Rhode Island. Amelia is from Alabama. Liam sues Amelia for wrongful eviction for $1,756,000.	Yes	True	True
+Theodore is from Iowa. William is from Iowa. Theodore sues William for legal malpractice for $28,000.	No	False	False
+Mia is from Michigan. Sophia is from Michigan. Mia sues Sophia for legal malpractice for $7,684,000.	No	False	True
+Harper is from New York. Lucas is from New York. Harper sues Lucas for medical malpractice for $9,000.	No	False	False
+Evelyn is from Arkansas. Noah is from South Dakota. Evelyn sues Noah for patent infringement for $56,000.	No	True	False
+Charlotte is from Georgia. Harper is from Kansas. Charlotte sues Harper for patent infringement for $40,000.	No	True	False
+Elijah is from Oregon. William is from Maine. Elijah sues William for wrongful eviction for $4,721,000.	Yes	True	True
+Elijah is from Arkansas. James is from Arkansas. Elijah sues James for breach of contract for $25,000.	No	False	False
+Elijah is from Indiana. William is from North Carolina. Elijah sues William for negligence for $9,001,000.	Yes	True	True
+Mia is from Connecticut. Sophia is from Connecticut. Mia sues Sophia for trespass for $2,195,000.	No	False	True
+Charlotte is from Illinois. Benjamin is from Massachusetts. Charlotte sues Benjamin for negligence for $22,000.	No	True	False
+William is from Hawaii. Oliver is from Hawaii. William sues Oliver for wrongful eviction for $2,000.	No	False	False
+Noah is from Texas. Ava is from Texas. Noah sues Ava for negligence for $3,527,000.	No	False	True
+Emma is from Florida. Elijah is from Hawaii. Emma sues Elijah for medical malpractice for $70,000.	No	True	False
+Charlotte is from Wyoming. Olivia is from Wyoming. Charlotte sues Olivia for defamation for $3,628,000.	No	False	True
+Noah is from Texas. Olivia is from Texas. Noah sues Olivia for negligence for $59,000.	No	False	False
+Olivia is from West Virginia. Harper is from West Virginia. Olivia sues Harper for medical malpractice for $62,000.	No	False	False
+Emma is from Maine. Benjamin is from Maine. Emma sues Benjamin for trespass for $33,000.	No	False	False
+Harper is from Mississippi. William is from Mississippi. Harper sues William for securities fraud for $48,000.	No	False	False
+Mia is from Maryland. Noah is from Maryland. Mia sues Noah for breach of contract for $36,000.	No	False	False
+Olivia is from Washington. Liam is from Washington. Olivia sues Liam for trademark infringement for $60,000.	No	False	False
+Henry is from Minnesota. Harper is from Oklahoma. Henry sues Harper for wrongful eviction for $3,550,000.	Yes	True	True
+Harper is from Indiana. James is from Missouri. Harper sues James for trademark infringement for $17,000.	No	True	False
+Harper is from Idaho. Amelia is from Idaho. Harper sues Amelia for trademark infringement for $51,000.	No	False	False
+Olivia is from Maryland. Amelia is from Colorado. Olivia sues Amelia for defamation for $69,000.	No	True	False
+Amelia is from North Dakota. Noah is from North Dakota. Amelia sues Noah for negligence for $47,000.	No	False	False
+William is from Tennessee. Charlotte is from Delaware. William sues Charlotte for wrongful eviction for $2,544,000.	Yes	True	True
+Oliver is from Nevada. Noah is from Nevada. Oliver sues Noah for medical malpractice for $53,000.	No	False	False
+James is from Idaho. Olivia is from Kansas. James sues Olivia for wrongful eviction for $6,257,000.	Yes	True	True
+Noah is from Wyoming. Olivia is from Wyoming. Noah sues Olivia for legal malpractice for $2,495,000.	No	False	True
+Amelia is from Hawaii. Oliver is from Hawaii. Amelia sues Oliver for defamation for $9,587,000.	No	False	True
+Theodore is from Missouri. Amelia is from Missouri. Theodore sues Amelia for defamation for $3,559,000.	No	False	True
+Theodore is from Connecticut. Mia is from West Virginia. Theodore sues Mia for breach of contract for $20,000.	No	True	False
+Sophia is from Ohio. Elijah is from Ohio. Sophia sues Elijah for wrongful eviction for $9,867,000.	No	False	True
+Elijah is from Washington. Charlotte is from Missouri. Elijah sues Charlotte for trespass for $68,000.	No	True	False
+James is from Hawaii. Noah is from South Dakota. James sues Noah for breach of contract for $1,441,000.	Yes	True	True
+Charlotte is from Georgia. Mia is from Georgia. Charlotte sues Mia for trespass for $2,073,000.	No	False	True
+Harper is from Virginia. Isabella is from Illinois. Harper sues Isabella for medical malpractice for $5,941,000.	Yes	True	True
+Liam is from Wisconsin. Noah is from Wisconsin. Liam sues Noah for legal malpractice for $69,000.	No	False	False
+Elijah is from Montana. Lucas is from Delaware. Elijah sues Lucas for trademark infringement for $56,000.	No	True	False
+Charlotte is from Kansas. James is from Kansas. Charlotte sues James for copyright infringement for $13,000.	No	False	False
+Olivia is from Oregon. Oliver is from Oregon. Olivia sues Oliver for breach of contract for $7,736,000.	No	False	True
+Mia is from Arizona. Amelia is from Arizona. Mia sues Amelia for defamation for $730,000.	No	False	True
+Harper is from Delaware. Charlotte is from Arizona. Harper sues Charlotte for trespass for $769,000.	Yes	True	True
+Benjamin is from Rhode Island. Oliver is from Utah. Benjamin sues Oliver for legal malpractice for $40,000.	No	True	False
+Isabella is from Louisiana. Emma is from Hawaii. Isabella sues Emma for defamation for $2,714,000.	Yes	True	True
+Theodore is from Texas. Noah is from Texas. Theodore sues Noah for trademark infringement for $6,956,000.	No	False	True
+Benjamin is from North Carolina. Evelyn is from North Carolina. Benjamin sues Evelyn for defamation for $1,220,000.	No	False	True
+Benjamin is from Nevada. Evelyn is from Louisiana. Benjamin sues Evelyn for breach of contract for $49,000.	No	True	False
+Emma is from Tennessee. Lucas is from Tennessee. Emma sues Lucas for wrongful eviction for $1,600,000.	No	False	True
+Isabella is from Virginia. Amelia is from Colorado. Isabella sues Amelia for patent infringement for $827,000.	Yes	True	True
+Sophia is from Virginia. Lucas is from Virginia. Sophia sues Lucas for patent infringement for $7,947,000.	No	False	True
+Liam is from Alabama. James is from Alabama. Liam sues James for wrongful eviction for $2,269,000.	No	False	True
+Liam is from North Carolina. Elijah is from North Carolina. Liam sues Elijah for legal malpractice for $7,879,000.	No	False	True
+Elijah is from New York. James is from Alaska. Elijah sues James for medical malpractice for $8,244,000.	Yes	True	True
+Amelia is from Arkansas. Olivia is from New Hampshire. Amelia sues Olivia for trademark infringement for $7,403,000.	Yes	True	True
+Isabella is from Wyoming. Benjamin is from Wyoming. Isabella sues Benjamin for copyright infringement for $19,000.	No	False	False
+Olivia is from New York. James is from New York. Olivia sues James for medical malpractice for $6,810,000.	No	False	True
+Mia is from Michigan. Amelia is from Michigan. Mia sues Amelia for copyright infringement for $5,791,000.	No	False	True
+Liam is from Indiana. William is from Indiana. Liam sues William for negligence for $9,278,000.	No	False	True
+Theodore is from Delaware. Liam is from Rhode Island. Theodore sues Liam for defamation for $58,000.	No	True	False
+James is from North Dakota. Noah is from Georgia. James sues Noah for negligence for $1,506,000.	Yes	True	True
+Oliver is from Nevada. Emma is from Michigan. Oliver sues Emma for copyright infringement for $37,000.	No	True	False
+Olivia is from Wyoming. Oliver is from Wyoming. Olivia sues Oliver for breach of contract for $7,322,000.	No	False	True
+Noah is from Massachusetts. Lucas is from North Carolina. Noah sues Lucas for securities fraud for $7,756,000.	Yes	True	True
+Mia is from Vermont. Evelyn is from Kansas. Mia sues Evelyn for trespass for $8,300,000.	Yes	True	True
+Oliver is from Hawaii. Theodore is from Maryland. Oliver sues Theodore for breach of contract for $8,330,000.	Yes	True	True
+Henry is from Maine. Theodore is from Oklahoma. Henry sues Theodore for defamation for $52,000.	No	True	False
+Charlotte is from New Jersey. Isabella is from Rhode Island. Charlotte sues Isabella for defamation for $8,000.	No	True	False
+Sophia is from West Virginia. William is from West Virginia. Sophia sues William for negligence for $3,000.	No	False	False
+Henry is from Virginia. Liam is from Minnesota. Henry sues Liam for securities fraud for $25,000.	No	True	False
+Lucas is from Vermont. Mia is from Michigan. Lucas sues Mia for breach of contract for $7,676,000.	Yes	True	True
+Emma is from Maryland. Charlotte is from Texas. Emma sues Charlotte for breach of contract for $1,763,000.	Yes	True	True
+James is from Wisconsin. Olivia is from Wisconsin. James sues Olivia for breach of contract for $58,000.	No	False	False
+Theodore is from Montana. Noah is from Montana. Theodore sues Noah for medical malpractice for $7,045,000.	No	False	True
+Oliver is from Missouri. Elijah is from Wisconsin. Oliver sues Elijah for patent infringement for $53,000.	No	True	False
+Ava is from Arkansas. Henry is from Arkansas. Ava sues Henry for breach of contract for $47,000.	No	False	False
+Evelyn is from Missouri. Liam is from Missouri. Evelyn sues Liam for legal malpractice for $9,413,000.	No	False	True
+Theodore is from New Hampshire. Amelia is from New Hampshire. Theodore sues Amelia for legal malpractice for $2,133,000.	No	False	True
+Benjamin is from New York. Henry is from New York. Benjamin sues Henry for patent infringement for $9,039,000.	No	False	True
+Olivia is from New Hampshire. Lucas is from New Hampshire. Olivia sues Lucas for trespass for $8,885,000.	No	False	True
+Amelia is from Arizona. Emma is from Arizona. Amelia sues Emma for trademark infringement for $62,000.	No	False	False
+Sophia is from Maryland. Henry is from Oregon. Sophia sues Henry for defamation for $9,544,000.	Yes	True	True
+Henry is from Illinois. William is from Wisconsin. Henry sues William for legal malpractice for $54,000.	No	True	False
+Elijah is from South Dakota. Evelyn is from South Dakota. Elijah sues Evelyn for negligence for $68,000.	No	False	False
+Benjamin is from Colorado. Ava is from Minnesota. Benjamin sues Ava for medical malpractice for $57,000.	No	True	False
+Liam is from Nebraska. Lucas is from Nebraska. Liam sues Lucas for trademark infringement for $5,000.	No	False	False
+Oliver is from Georgia. Isabella is from South Dakota. Oliver sues Isabella for negligence for $47,000.	No	True	False
+Evelyn is from Indiana. Olivia is from Indiana. Evelyn sues Olivia for legal malpractice for $2,608,000.	No	False	True
+Emma is from New Mexico. Ava is from New Mexico. Emma sues Ava for copyright infringement for $55,000.	No	False	False
+Benjamin is from Oregon. Theodore is from Oregon. Benjamin sues Theodore for wrongful eviction for $9,420,000.	No	False	True
+Oliver is from Utah. Henry is from Utah. Oliver sues Henry for defamation for $6,375,000.	No	False	True
+James is from North Dakota. Ava is from West Virginia. James sues Ava for trespass for $26,000.	No	True	False
+Olivia is from New Jersey. William is from Indiana. Olivia sues William for wrongful eviction for $4,689,000.	Yes	True	True
+James is from South Dakota. Sophia is from Virginia. James sues Sophia for negligence for $9,010,000.	Yes	True	True
+Isabella is from Kentucky. Liam is from Kentucky. Isabella sues Liam for wrongful eviction for $37,000.	No	False	False
+Noah is from South Dakota. Harper is from South Dakota. Noah sues Harper for wrongful eviction for $71,000.	No	False	False
+Mia is from New Hampshire. Theodore is from New Hampshire. Mia sues Theodore for copyright infringement for $4,000.	No	False	False
+James is from Oregon. Elijah is from Tennessee. James sues Elijah for medical malpractice for $72,000.	No	True	False
+Liam is from Wisconsin. Henry is from Wisconsin. Liam sues Henry for negligence for $70,000.	No	False	False
+Lucas is from West Virginia. Ava is from Arizona. Lucas sues Ava for wrongful eviction for $3,071,000.	Yes	True	True
+Lucas is from Mississippi. Harper is from Delaware. Lucas sues Harper for wrongful eviction for $8,362,000.	Yes	True	True
+Benjamin is from Massachusetts. James is from Louisiana. Benjamin sues James for defamation for $5,784,000.	Yes	True	True
+Emma is from New Mexico. Elijah is from South Carolina. Emma sues Elijah for patent infringement for $74,000.	No	True	False
+Noah is from Colorado. Charlotte is from Rhode Island. Noah sues Charlotte for trademark infringement for $13,000.	No	True	False
+Benjamin is from Maine. Mia is from Nebraska. Benjamin sues Mia for patent infringement for $49,000.	No	True	False
+Oliver is from Tennessee. Isabella is from Alaska. Oliver sues Isabella for breach of contract for $56,000.	No	True	False
+Charlotte is from South Carolina. Benjamin is from Georgia. Charlotte sues Benjamin for wrongful eviction for $5,947,000.	Yes	True	True
+Liam is from Kansas. Lucas is from Louisiana. Liam sues Lucas for legal malpractice for $22,000.	No	True	False
+Olivia is from Iowa. Emma is from Iowa. Olivia sues Emma for legal malpractice for $5,020,000.	No	False	True
+Oliver is from New York. Sophia is from Louisiana. Oliver sues Sophia for trademark infringement for $26,000.	No	True	False
+Lucas is from Montana. Mia is from Nebraska. Lucas sues Mia for securities fraud for $21,000.	No	True	False
+Emma is from Kentucky. Charlotte is from Kentucky. Emma sues Charlotte for trademark infringement for $12,000.	No	False	False
+Liam is from Florida. Noah is from Florida. Liam sues Noah for securities fraud for $47,000.	No	False	False
+Lucas is from Alaska. Noah is from Alaska. Lucas sues Noah for securities fraud for $5,215,000.	No	False	True
+Isabella is from Wyoming. Mia is from Wyoming. Isabella sues Mia for wrongful eviction for $40,000.	No	False	False
+Noah is from South Dakota. Evelyn is from Utah. Noah sues Evelyn for breach of contract for $20,000.	No	True	False
+Noah is from Kansas. Sophia is from South Carolina. Noah sues Sophia for trespass for $47,000.	No	True	False
+Mia is from Arizona. William is from Arizona. Mia sues William for copyright infringement for $2,685,000.	No	False	True
+Henry is from Nebraska. Charlotte is from Mississippi. Henry sues Charlotte for copyright infringement for $56,000.	No	True	False
+Sophia is from North Carolina. William is from North Carolina. Sophia sues William for medical malpractice for $7,261,000.	No	False	True
+Charlotte is from South Carolina. Henry is from South Carolina. Charlotte sues Henry for patent infringement for $3,202,000.	No	False	True
+Harper is from Iowa. Evelyn is from West Virginia. Harper sues Evelyn for trespass for $9,778,000.	Yes	True	True
+Theodore is from Minnesota. Amelia is from Minnesota. Theodore sues Amelia for trademark infringement for $6,000.	No	False	False
+Amelia is from Minnesota. Sophia is from Minnesota. Amelia sues Sophia for breach of contract for $1,900,000.	No	False	True
+Elijah is from Minnesota. Theodore is from Wyoming. Elijah sues Theodore for wrongful eviction for $3,000.	No	True	False
+Mia is from Tennessee. Benjamin is from Tennessee. Mia sues Benjamin for defamation for $37,000.	No	False	False
+Liam is from South Dakota. Evelyn is from Maryland. Liam sues Evelyn for trespass for $7,138,000.	Yes	True	True
+Amelia is from Utah. Oliver is from Rhode Island. Amelia sues Oliver for copyright infringement for $40,000.	No	True	False
+Benjamin is from Alaska. Evelyn is from Alaska. Benjamin sues Evelyn for breach of contract for $7,111,000.	No	False	True
+Lucas is from Massachusetts. Amelia is from Ohio. Lucas sues Amelia for legal malpractice for $16,000.	No	True	False
+Benjamin is from Georgia. Emma is from North Dakota. Benjamin sues Emma for defamation for $2,555,000.	Yes	True	True
+Amelia is from Arizona. Theodore is from Alaska. Amelia sues Theodore for defamation for $18,000.	No	True	False
+Theodore is from Arkansas. Sophia is from Arkansas. Theodore sues Sophia for copyright infringement for $2,442,000.	No	False	True
+Evelyn is from Kansas. Olivia is from Montana. Evelyn sues Olivia for legal malpractice for $4,676,000.	Yes	True	True
+Sophia is from Tennessee. Oliver is from Oklahoma. Sophia sues Oliver for patent infringement for $1,196,000.	Yes	True	True
+Amelia is from New Jersey. Mia is from South Carolina. Amelia sues Mia for breach of contract for $18,000.	No	True	False
+Elijah is from Oklahoma. James is from Oklahoma. Elijah sues James for breach of contract for $4,334,000.	No	False	True
+Sophia is from Massachusetts. Isabella is from New York. Sophia sues Isabella for copyright infringement for $62,000.	No	True	False
+James is from Pennsylvania. Amelia is from Pennsylvania. James sues Amelia for patent infringement for $21,000.	No	False	False
+Henry is from Montana. Mia is from Montana. Henry sues Mia for securities fraud for $63,000.	No	False	False
+Noah is from Florida. Elijah is from Iowa. Noah sues Elijah for wrongful eviction for $59,000.	No	True	False
+Ava is from Utah. Henry is from Utah. Ava sues Henry for breach of contract for $18,000.	No	False	False
+Henry is from New Mexico. Emma is from New Mexico. Henry sues Emma for trademark infringement for $47,000.	No	False	False
+Olivia is from Connecticut. Oliver is from Wyoming. Olivia sues Oliver for breach of contract for $46,000.	No	True	False
+Ava is from North Carolina. Olivia is from North Carolina. Ava sues Olivia for trespass for $13,000.	No	False	False
+Harper is from California. Theodore is from Ohio. Harper sues Theodore for negligence for $62,000.	No	True	False
+Mia is from Washington. Amelia is from California. Mia sues Amelia for patent infringement for $6,400,000.	Yes	True	True
+Harper is from Arizona. Mia is from Nebraska. Harper sues Mia for trespass for $5,442,000.	Yes	True	True
+Henry is from Illinois. Oliver is from Connecticut. Henry sues Oliver for copyright infringement for $502,000.	Yes	True	True
+Sophia is from Rhode Island. Mia is from Pennsylvania. Sophia sues Mia for defamation for $6,275,000.	Yes	True	True
+Olivia is from Kansas. Evelyn is from Kansas. Olivia sues Evelyn for legal malpractice for $7,289,000.	No	False	True
+Mia is from Utah. Evelyn is from Utah. Mia sues Evelyn for securities fraud for $41,000.	No	False	False
+Harper is from Nebraska. Benjamin is from Nebraska. Harper sues Benjamin for trespass for $5,638,000.	No	False	True
+Evelyn is from Arizona. William is from Nebraska. Evelyn sues William for breach of contract for $3,052,000.	Yes	True	True
+Evelyn is from Virginia. Benjamin is from Wisconsin. Evelyn sues Benjamin for legal malpractice for $5,304,000.	Yes	True	True
+Elijah is from Indiana. William is from Missouri. Elijah sues William for securities fraud for $5,197,000.	Yes	True	True
+Theodore is from California. James is from Maryland. Theodore sues James for defamation for $2,770,000.	Yes	True	True
+Mia is from Georgia. James is from Georgia. Mia sues James for securities fraud for $56,000.	No	False	False
+Oliver is from Oregon. William is from Oregon. Oliver sues William for defamation for $3,000.	No	False	False
+Ava is from Delaware. Mia is from Missouri. Ava sues Mia for wrongful eviction for $1,319,000.	Yes	True	True
+Henry is from Kansas. Oliver is from Nevada. Henry sues Oliver for securities fraud for $8,335,000.	Yes	True	True
+James is from California. Elijah is from California. James sues Elijah for wrongful eviction for $5,265,000.	No	False	True
+Amelia is from West Virginia. Benjamin is from Ohio. Amelia sues Benjamin for trespass for $59,000.	No	True	False
+Sophia is from Tennessee. Olivia is from Wyoming. Sophia sues Olivia for trespass for $8,770,000.	Yes	True	True
+James is from Oklahoma. Noah is from Rhode Island. James sues Noah for securities fraud for $4,295,000.	Yes	True	True
+Ava is from Maryland. Elijah is from Idaho. Ava sues Elijah for medical malpractice for $40,000.	No	True	False
+Oliver is from Kentucky. Ava is from Kentucky. Oliver sues Ava for trademark infringement for $2,004,000.	No	False	True
+Sophia is from Massachusetts. Theodore is from South Dakota. Sophia sues Theodore for copyright infringement for $31,000.	No	True	False
+Lucas is from South Carolina. Theodore is from Illinois. Lucas sues Theodore for breach of contract for $2,203,000.	Yes	True	True
+Harper is from Delaware. Emma is from Iowa. Harper sues Emma for negligence for $4,178,000.	Yes	True	True
+Henry is from Delaware. Ava is from Wyoming. Henry sues Ava for copyright infringement for $9,509,000.	Yes	True	True
+Emma is from Louisiana. Charlotte is from Louisiana. Emma sues Charlotte for defamation for $11,000.	No	False	False
+William is from Michigan. Emma is from Maryland. William sues Emma for trespass for $1,000.	No	True	False
+Evelyn is from Tennessee. Harper is from Tennessee. Evelyn sues Harper for legal malpractice for $5,000.	No	False	False
+William is from Washington. Oliver is from Washington. William sues Oliver for wrongful eviction for $10,000.	No	False	False
+Amelia is from Tennessee. Henry is from Tennessee. Amelia sues Henry for medical malpractice for $7,913,000.	No	False	True
+Noah is from Wisconsin. Evelyn is from Wisconsin. Noah sues Evelyn for trademark infringement for $33,000.	No	False	False
+Elijah is from Florida. Emma is from New York. Elijah sues Emma for medical malpractice for $8,920,000.	Yes	True	True
+Evelyn is from Maine. Isabella is from California. Evelyn sues Isabella for patent infringement for $28,000.	No	True	False
+Oliver is from Massachusetts. William is from Massachusetts. Oliver sues William for defamation for $36,000.	No	False	False
+William is from South Dakota. Theodore is from South Dakota. William sues Theodore for breach of contract for $1,159,000.	No	False	True
+Ava is from New Hampshire. James is from New Hampshire. Ava sues James for copyright infringement for $3,451,000.	No	False	True
+Henry is from New Jersey. Evelyn is from New Jersey. Henry sues Evelyn for negligence for $8,780,000.	No	False	True
+Theodore is from Oregon. Harper is from Louisiana. Theodore sues Harper for securities fraud for $1,097,000.	Yes	True	True
+Liam is from Tennessee. Harper is from Florida. Liam sues Harper for patent infringement for $49,000.	No	True	False
+Henry is from Massachusetts. William is from Louisiana. Henry sues William for trespass for $8,916,000.	Yes	True	True
+Olivia is from Idaho. Oliver is from Idaho. Olivia sues Oliver for patent infringement for $51,000.	No	False	False
+Ava is from Illinois. Isabella is from Alaska. Ava sues Isabella for medical malpractice for $58,000.	No	True	False
+Elijah is from Montana. Henry is from Montana. Elijah sues Henry for medical malpractice for $9,419,000.	No	False	True
+Mia is from Maryland. Liam is from Florida. Mia sues Liam for defamation for $7,836,000.	Yes	True	True
+Olivia is from Arizona. Charlotte is from Arizona. Olivia sues Charlotte for copyright infringement for $7,957,000.	No	False	True
+Amelia is from Illinois. Elijah is from Illinois. Amelia sues Elijah for negligence for $11,000.	No	False	False
+Olivia is from Michigan. Henry is from Michigan. Olivia sues Henry for wrongful eviction for $2,445,000.	No	False	True
+Amelia is from Indiana. Elijah is from Michigan. Amelia sues Elijah for breach of contract for $74,000.	No	True	False
+Evelyn is from Louisiana. Henry is from Connecticut. Evelyn sues Henry for legal malpractice for $32,000.	No	True	False
+William is from Maine. Amelia is from Michigan. William sues Amelia for trademark infringement for $5,492,000.	Yes	True	True
+Sophia is from Missouri. Amelia is from Vermont. Sophia sues Amelia for copyright infringement for $37,000.	No	True	False
+William is from South Dakota. Elijah is from Wyoming. William sues Elijah for wrongful eviction for $32,000.	No	True	False
+Isabella is from California. Sophia is from California. Isabella sues Sophia for medical malpractice for $43,000.	No	False	False
+Benjamin is from Connecticut. Ava is from Connecticut. Benjamin sues Ava for negligence for $74,000.	No	False	False
+Emma is from Maryland. Lucas is from Maryland. Emma sues Lucas for breach of contract for $7,845,000.	No	False	True
+Isabella is from Idaho. Ava is from Idaho. Isabella sues Ava for legal malpractice for $6,199,000.	No	False	True
+William is from Pennsylvania. Emma is from Pennsylvania. William sues Emma for negligence for $14,000.	No	False	False
+Oliver is from New Hampshire. Amelia is from Tennessee. Oliver sues Amelia for securities fraud for $18,000.	No	True	False
+Noah is from Alabama. Oliver is from Alabama. Noah sues Oliver for securities fraud for $4,565,000.	No	False	True
+Oliver is from Texas. Emma is from Mississippi. Oliver sues Emma for defamation for $7,000.	No	True	False
+Isabella is from Vermont. Emma is from Vermont. Isabella sues Emma for patent infringement for $66,000.	No	False	False
+William is from Oregon. Henry is from Washington. William sues Henry for securities fraud for $7,645,000.	Yes	True	True
+Charlotte is from Connecticut. Sophia is from Connecticut. Charlotte sues Sophia for patent infringement for $28,000.	No	False	False
+Emma is from Wyoming. Lucas is from Wyoming. Emma sues Lucas for securities fraud for $9,429,000.	No	False	True
+Benjamin is from Colorado. Sophia is from Colorado. Benjamin sues Sophia for securities fraud for $158,000.	No	False	True
+Sophia is from Tennessee. Liam is from Iowa. Sophia sues Liam for negligence for $15,000.	No	True	False
+Benjamin is from Arizona. Sophia is from Arizona. Benjamin sues Sophia for medical malpractice for $7,000.	No	False	False
+Emma is from Pennsylvania. Evelyn is from Delaware. Emma sues Evelyn for trademark infringement for $51,000.	No	True	False
+Olivia is from New York. Amelia is from Missouri. Olivia sues Amelia for wrongful eviction for $4,722,000.	Yes	True	True
+Liam is from Connecticut. Olivia is from Connecticut. Liam sues Olivia for legal malpractice for $2,000.	No	False	False
+Noah is from Texas. Isabella is from Texas. Noah sues Isabella for patent infringement for $53,000.	No	False	False
+Oliver is from Louisiana. Ava is from Louisiana. Oliver sues Ava for copyright infringement for $772,000.	No	False	True
+Henry is from California. Charlotte is from New Jersey. Henry sues Charlotte for wrongful eviction for $35,000.	No	True	False
+Harper is from Colorado. Evelyn is from Colorado. Harper sues Evelyn for legal malpractice for $23,000.	No	False	False
+Benjamin is from Vermont. Lucas is from Vermont. Benjamin sues Lucas for negligence for $4,352,000.	No	False	True
+Mia is from Pennsylvania. Theodore is from Montana. Mia sues Theodore for medical malpractice for $66,000.	No	True	False
+Henry is from Iowa. Oliver is from North Carolina. Henry sues Oliver for legal malpractice for $8,702,000.	Yes	True	True
+Ava is from Georgia. James is from Georgia. Ava sues James for defamation for $43,000.	No	False	False
+Noah is from Nevada. Liam is from Colorado. Noah sues Liam for defamation for $2,442,000.	Yes	True	True
+Lucas is from Georgia. Isabella is from Georgia. Lucas sues Isabella for wrongful eviction for $52,000.	No	False	False
+William is from Maine. Noah is from North Carolina. William sues Noah for defamation for $6,908,000.	Yes	True	True
+Noah is from Virginia. Isabella is from Virginia. Noah sues Isabella for negligence for $50,000.	No	False	False
+James is from Georgia. Harper is from Rhode Island. James sues Harper for patent infringement for $6,009,000.	Yes	True	True
+Benjamin is from Maryland. Charlotte is from Wisconsin. Benjamin sues Charlotte for breach of contract for $5,934,000.	Yes	True	True
+Liam is from New Jersey. Oliver is from Kentucky. Liam sues Oliver for wrongful eviction for $28,000.	No	True	False
+James is from Connecticut. Oliver is from Alaska. James sues Oliver for trespass for $26,000.	No	True	False
+Benjamin is from Connecticut. William is from Connecticut. Benjamin sues William for trespass for $59,000.	No	False	False
+Evelyn is from Hawaii. Charlotte is from Hawaii. Evelyn sues Charlotte for defamation for $5,401,000.	No	False	True
+Charlotte is from Indiana. Ava is from Indiana. Charlotte sues Ava for trespass for $22,000.	No	False	False
+Emma is from Vermont. Ava is from Vermont. Emma sues Ava for trademark infringement for $3,521,000.	No	False	True
+Harper is from California. Isabella is from California. Harper sues Isabella for patent infringement for $8,374,000.	No	False	True
+Harper is from Arizona. Mia is from Arizona. Harper sues Mia for negligence for $9,000.	No	False	False
+Sophia is from Idaho. Noah is from California. Sophia sues Noah for trademark infringement for $1,924,000.	Yes	True	True
+Elijah is from Maine. Henry is from Maine. Elijah sues Henry for medical malpractice for $28,000.	No	False	False
+Emma is from New Mexico. Liam is from New Mexico. Emma sues Liam for trademark infringement for $5,854,000.	No	False	True
+William is from Georgia. Isabella is from Georgia. William sues Isabella for breach of contract for $7,000.	No	False	False
+Harper is from Wisconsin. Olivia is from Michigan. Harper sues Olivia for trespass for $48,000.	No	True	False
+Charlotte is from West Virginia. Theodore is from West Virginia. Charlotte sues Theodore for trespass for $43,000.	No	False	False
+Benjamin is from Alaska. Isabella is from Arkansas. Benjamin sues Isabella for breach of contract for $64,000.	No	True	False
+Emma is from New Mexico. Liam is from New Mexico. Emma sues Liam for patent infringement for $47,000.	No	False	False
+Charlotte is from North Dakota. Liam is from North Dakota. Charlotte sues Liam for defamation for $8,000.	No	False	False
+Isabella is from Delaware. Oliver is from Delaware. Isabella sues Oliver for defamation for $43,000.	No	False	False
+Noah is from Michigan. Ava is from Texas. Noah sues Ava for trademark infringement for $3,346,000.	Yes	True	True
+Charlotte is from Arkansas. Emma is from Louisiana. Charlotte sues Emma for copyright infringement for $9,606,000.	Yes	True	True
+Isabella is from Kentucky. Oliver is from Rhode Island. Isabella sues Oliver for medical malpractice for $17,000.	No	True	False
+Henry is from Arizona. William is from Kansas. Henry sues William for trespass for $42,000.	No	True	False
+James is from Kentucky. Theodore is from Kentucky. James sues Theodore for medical malpractice for $28,000.	No	False	False
+Lucas is from Virginia. Mia is from New York. Lucas sues Mia for breach of contract for $2,565,000.	Yes	True	True
+Elijah is from West Virginia. Harper is from Utah. Elijah sues Harper for patent infringement for $34,000.	No	True	False
+Amelia is from Pennsylvania. Benjamin is from Pennsylvania. Amelia sues Benjamin for patent infringement for $39,000.	No	False	False
+Olivia is from Pennsylvania. Isabella is from Pennsylvania. Olivia sues Isabella for wrongful eviction for $4,896,000.	No	False	True
+Benjamin is from Montana. Sophia is from California. Benjamin sues Sophia for negligence for $10,000.	No	True	False
+Olivia is from Iowa. Amelia is from California. Olivia sues Amelia for negligence for $37,000.	No	True	False
+William is from Rhode Island. James is from Rhode Island. William sues James for trademark infringement for $9,043,000.	No	False	True
+Ava is from Nevada. Evelyn is from Nevada. Ava sues Evelyn for patent infringement for $8,000.	No	False	False
+Amelia is from North Dakota. James is from North Carolina. Amelia sues James for copyright infringement for $3,730,000.	Yes	True	True
+James is from Maine. Evelyn is from Arizona. James sues Evelyn for defamation for $42,000.	No	True	False
+Noah is from Maryland. Harper is from Maryland. Noah sues Harper for trademark infringement for $4,047,000.	No	False	True
+James is from North Dakota. Emma is from Texas. James sues Emma for patent infringement for $5,556,000.	Yes	True	True
+Emma is from Delaware. Sophia is from Delaware. Emma sues Sophia for securities fraud for $4,507,000.	No	False	True
+Henry is from New York. William is from North Dakota. Henry sues William for trespass for $67,000.	No	True	False
+Elijah is from Indiana. Charlotte is from Virginia. Elijah sues Charlotte for trespass for $19,000.	No	True	False
+Benjamin is from Oklahoma. Mia is from Oklahoma. Benjamin sues Mia for negligence for $3,382,000.	No	False	True
+Henry is from Kentucky. Noah is from Arizona. Henry sues Noah for breach of contract for $70,000.	No	True	False
+Elijah is from New Jersey. Benjamin is from Hawaii. Elijah sues Benjamin for legal malpractice for $4,626,000.	Yes	True	True
+Lucas is from North Dakota. Emma is from Arizona. Lucas sues Emma for breach of contract for $57,000.	No	True	False
+Harper is from Maryland. Henry is from Maryland. Harper sues Henry for trespass for $63,000.	No	False	False
+Olivia is from Washington. Amelia is from Virginia. Olivia sues Amelia for breach of contract for $3,199,000.	Yes	True	True
+William is from Illinois. Liam is from Illinois. William sues Liam for legal malpractice for $9,665,000.	No	False	True
