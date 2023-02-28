@@ -59,7 +59,9 @@ If you wish to add metadata for each sample---to categorize subgroups in the dat
 
 ### Task test data
 
-The test data file should be formatted identically to the train data file. Test data should consist of at least 50 samples. The file should be named `test.tsv`.
+The test data file should be formatted identically to the train data file. The file should be named `test.tsv`.
+
+**Note: smaller and manually crafted test sets are accepted! We ask only that test sets be at least 50 samples.**
 
 ### Base prompt
 
