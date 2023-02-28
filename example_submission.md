@@ -18,7 +18,7 @@ We chose to split these 100 fact patterns into a train split of 5 and a test spl
 
 Our [train](https://github.com/HazyResearch/legalbench/blob/main/tasks/hearsay/train.tsv) and [test](https://github.com/HazyResearch/legalbench/blob/main/tasks/hearsay/test.tsv) files are formatted as tab-separated value files. If you construct data manually in Google Sheets or Excel, then it's possible to export the file as a TSV.
 
-## Prompt Construction
+## Prompt Construction [OPTIONAL]
 
 Our prompt for this task follows a very simple template, in which we provide the rule for hearsay first, and then several examples. We append "Is this hearsay?" to every fact pattern.
 
