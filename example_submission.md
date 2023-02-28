@@ -78,4 +78,4 @@ And then click submit! Neel will then work on integrating the task into the Gith
 
 ## Submitting via pull-request
 
-See [here]() for an example.
+See [here](https://github.com/HazyResearch/legalbench/pull/6) for an example.
