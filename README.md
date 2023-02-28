@@ -1,19 +1,21 @@
 # LegalBench
 
-LegalBench is a **collaborative** benchmark intended to evaluate English large language models on legal reasoning and legal text-based tasks. LegalBench currently consists of more than 40 tasks, which are described in detail [here](https://github.com/HazyResearch/legalbench/tree/main/tasks). A paper describing the organization of an initial seed set of tasks is available as a preprint [here](https://arxiv.org/abs/2209.06120). This paper will be updated with the most recent task submissions by May 2023, with task submitters included as authors.
+LegalBench is a **collaborative** benchmark intended to evaluate English large language models on legal reasoning and legal text-based tasks. LegalBench currently consists of more than 40 tasks, which are described in detail [here](https://github.com/HazyResearch/legalbench/tree/main/tasks). A paper describing the organization of an initial seed set of tasks is available as a preprint [here](https://arxiv.org/abs/2209.06120). 
 
-We are currently soliciting submissions. Tasks will be reviewed and merged into this repository on a rolling basis.
+This paper will be updated with the most recent task submissions by June 2023, with task submitters included as authors. If you are interested in joining this version of the paper as an author, please submit your task by **April 30th, 2023**.
+
 
 - [About us](#about-us)
 - [Contributing a task](#contributing-a-task)
-  - [Task train data](#task-train-data)
-  - [Task test data](#task-test-data)
-  - [Base prompt](#base-prompt)
+  - [Task data (one file)](#task-data-one-file)
+  - [Task data (two files)](#task-data-two-files)
   - [Task description](#task-description)
+  - [Base prompt](#base-prompt)
   - [Submission via Github](#submission-via-github)
   - [Submission via Google Forms](#submission-via-google-forms)
   - [Misc](#misc)
 - [Contributors](#contributors)
+- [Licenses](#licenses)
 - [Citing this work](#citing-this-work)
 - [Contact](#contact)
 
@@ -49,19 +51,38 @@ We are currently in the process of adding more tasks to LegalBench. If you are i
   - Asking the model to determine the Bluebook signal that should preface a particular parenthetical.
   - Asking the model to evaluate which premise most strongly supports a legal argument.
 
-A task submission consists of the following: (1) a task train data file, (2) a task test data file, (3) a base prompt, (3) a task description. We accept new tasks via Github or via Google Forms. Instructions on both methods of submission are provided below. A step-by-step walkthrough is provided [here](https://github.com/HazyResearch/legalbench/blob/main/example_submission.md).
+Task submissions consist of a:
 
-### Task train data
+1. A task data file. This may be submitted as one file, or optionally, as a pre-split train and test file.
+2. A description of the task.
+3. [Optional] A prompt to use for the task. If no prompt is submitted, then we will craft one for you.
 
-Task train data should be formatted as TSV (tab separated value) file. The first row of the TSV file should contain a header for each column of data. Most tasks will have only two columns, corresponding to the task input and the correct task output (e.g., [Unfair TOS](/tasks/unfair_tos/)). However, a task may have more than one column (e.g., [Statutory Reasoning Assessment](/legalbench/tasks/statutory_reasoning_assessment)). Each remaining row in the file should correspond to a sample. Task training data should consist of between 5-7 samples. The file should be named `train.tsv`.
+We accept new tasks via Github or via Google Forms. Instructions on both methods of submission are provided below. A step-by-step walkthrough is provided [here](https://github.com/HazyResearch/legalbench/blob/main/example_submission.md).
+
+**Note: smaller and manually crafted data sets are accepted! We ask only that the data set be at least 50 samples.**
+
+
+### Task data (one file)
+
+Task data may be submitted as a single TSV (tab-separated value) file. The first row of the TSV file should contain a header for each column of data. Most tasks will have only two columns, corresponding to the task input and the correct task output (e.g., [Unfair TOS](/tasks/unfair_tos/)). However, a task may have more than one column (e.g., [Statutory Reasoning Assessment](https://github.com/HazyResearch/legalbench/tree/main/tasks/statutory_reasoning_assessment). Each remaining row in the file should correspond to a sample. Task training data should consist of between 5-7 samples. The file should be named `data.tsv`.
 
 If you wish to add metadata for each sample---to categorize subgroups in the dataset which implicate similar challenges---then add that as a column. For instance, [Hearsay](https://github.com/HazyResearch/legalbench/tree/main/tasks/hearsay) consists of a `slice` column, which describes the element of the hearsay rule being tested for each sample.
 
-### Task test data
+If you submit as one file, we will go through the process of splitting the file into a train and test set. 
 
-The test data file should be formatted identically to the train data file. The file should be named `test.tsv`.
+If you write your data in Excel or Google Sheets, then there is an option to export as a tsv file.
 
-**Note: smaller and manually crafted test sets are accepted! We ask only that test sets be at least 50 samples.**
+### Task data (two files)
+
+Alternatively, if you wish to split train and test yourself, then please submit two files. The first file should correspond to the train data, and should be named as `train.tsv`. The second file should correspond to test data, and be named `test.tsv`. Both shou
+
+### Task description
+
+Lastly, tasks should be accompanied by a description, which includes the following:
+
+- What the task is.
+- What types of legal reasoning the task evaluates.
+- How the data was collected or created. If the task was adapted from an existing benchmark, then a reference to that paper should be included.
 
 ### Base prompt
 
@@ -92,13 +113,6 @@ A:
 
 Text enclosed in brackets should correspond to column names in the task data files.
 
-### Task description
-
-Lastly, tasks should be accompanied by a description, which includes the following:
-
-- What the task is.
-- What types of legal reasoning the task evaluates.
-- How the data was collected or created. If the task was adapted from an existing benchmark, then a reference to that paper should be included.
 
 ### Submission via Github
 

@@ -8,11 +8,13 @@ We modeled the Hearsay task on the types of hypotheticals that a law student wou
 
 ## Dataset construction
 
-We constructed this task by manually generating fact patterns to test the hearsay rule. All our fact patterns are intended to have an obvious answer---there are no close calls or subjectivity here. We manually generated 100 such fact patterns, used 5 as train samples, and the remaining 95 as test samples. An example of a fact pattern is provided below:
+We constructed this task by manually generating fact patterns to test the hearsay rule. All our fact patterns are intended to have an obvious answer---there are no close calls or subjectivity here. We manually generated 100 such fact patterns. An example of a fact pattern is provided below:
 
 ```text
 On the issue of whether Rebecca was ill, the fact that Rebecca told Ronald that she was unwell.
 ```
+
+We chose to split these 100 fact patterns into a train split of 5 and a test split of 95. We select samples for the train which tested different aspects of the hearsay rule. However, you may submit all data together, as a single file. 
 
 Our [train](https://github.com/HazyResearch/legalbench/blob/main/tasks/hearsay/train.tsv) and [test](https://github.com/HazyResearch/legalbench/blob/main/tasks/hearsay/test.tsv) files are formatted as tab-separated value files. If you construct data manually in Google Sheets or Excel, then it's possible to export the file as a TSV.
 
