@@ -51,3 +51,4 @@ proa | Determine if a clause contains a private right of action | CC by 4.0
 rule_qa | Question-Answering over different legal rules | CC by 4.0
 statutory_reasoning_assessment | Perform reasoning over IRS statutes | 
 unfair_tos | Classify if clauses in terms-of-service agreements are unfair | CC by 4.0
+example_task | [Put a short description of your task here so others can quickly reference it] | [Put the license here]

@@ -14,6 +14,7 @@ We are currently soliciting submissions. Tasks will be reviewed and merged into 
   - [Submission via Google Forms](#submission-via-google-forms)
   - [Misc](#misc)
 - [Contributors](#contributors)
+- [Licenses](#licenses)
 - [Citing this work](#citing-this-work)
 - [Contact](#contact)
 
@@ -127,6 +128,7 @@ The following individuals have contributed to LegalBench:
 - Julian Nyarko
 - Daniel E. Ho
 - Christopher Ré
+- [Add your name as a contributor here]
 
 ## Licenses
 LegalBench is a mix of created and transformed datasets. We ask that you follow the license of the dataset creator. 
