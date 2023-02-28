@@ -129,23 +129,11 @@ The following individuals have contributed to LegalBench:
 - Christopher Ré
 
 ## Licenses
-LegalBench is a mix of created and transformed datasets. We ask that you follow the license of the dataset creator. 
-
-
-| Task                        | License                                                   | 
-| --------------------------- | --------------------------------------------------------- | 
-| CUAD                        | [CC by 4.0](https://creativecommons.org/licenses/by/4.0/) | 
-| Abercrombie                 | [CC by 4.0](https://creativecommons.org/licenses/by/4.0/) |  
-| Diversity                   | [CC by 4.0](https://creativecommons.org/licenses/by/4.0/) | 
-| Hearsay                     | [CC by 4.0](https://creativecommons.org/licenses/by/4.0/) | 
-| Personal Jurisdiction       | [CC by 4.0](https://creativecommons.org/licenses/by/4.0/) | 
-| PROA                        | [CC by 4.0](https://creativecommons.org/licenses/by/4.0/) | 
-| Rule QA                     | [CC by 4.0](https://creativecommons.org/licenses/by/4.0/) | 
-| Intra-rule distinguishing   | [CC by 4.0](https://creativecommons.org/licenses/by/4.0/) | 
+LegalBench is a mix of created and transformed datasets. We ask that you follow the license of the dataset creator. Please see the [task page](https://github.com/HazyResearch/legalbench/tree/main/tasks) for a list of tasks and licenses.
 
 ## Citing this work
 
-Please cite to our ArXiv paper!
+For now, please cite to the ArXiv paper. This will be updated in May 2023 when a paper with task contributors is released. 
 
 ```
 @misc{https://doi.org/10.48550/arxiv.2209.06120, 
