@@ -1,13 +1,12 @@
 # Example Submission: Hearsay
 
-We walk through the process of submitting a task, using the [Hearsay](https://github.com/HazyResearch/legalbench/tree/main/tasks/hearsay) as an example. 
-
+We walk through the process of submitting a task, using the [Hearsay](https://github.com/HazyResearch/legalbench/tree/main/tasks/hearsay) as an example.
 
 ## Designing the task
 
-We modeled the Hearsay task on the types of hypotheticals that a law student would be asked in a law school course on Evidence. The rule for hearsay dictates that "out-of-court statements introduced to prove the truth of the matter asserted" are inadmissible as evidence. Course questions testing the hearsay rule usually provide a brief description of a legal issue and a piece of evidence. The student is tasked with determining if that evidence---in the context of the issue---constitutes hearsay. 
+We modeled the Hearsay task on the types of hypotheticals that a law student would be asked in a law school course on Evidence. The rule for hearsay dictates that "out-of-court statements introduced to prove the truth of the matter asserted" are inadmissible as evidence. Course questions testing the hearsay rule usually provide a brief description of a legal issue and a piece of evidence. The student is tasked with determining if that evidence---in the context of the issue---constitutes hearsay.
 
-## Dataset construction 
+## Dataset construction
 
 We constructed this task by manually generating fact patterns to test the hearsay rule. All our fact patterns are intended to have an obvious answer---there are no close calls or subjectivity here. We manually generated 100 such fact patterns, used 5 as train samples, and the remaining 95 as test samples. An example of a fact pattern is provided below:
 
@@ -16,7 +15,6 @@ On the issue of whether Rebecca was ill, the fact that Rebecca told Ronald that 
 ```
 
 Our [train](https://github.com/HazyResearch/legalbench/blob/main/tasks/hearsay/train.tsv) and [test](https://github.com/HazyResearch/legalbench/blob/main/tasks/hearsay/test.tsv) files are formatted as tab-separated value files. If you construct data manually in Google Sheets or Excel, then it's possible to export the file as a TSV.
-
 
 ## Prompt Construction
 
@@ -46,7 +44,7 @@ A:
 
 ## Submitting via Google Forms
 
-Tasks may be submitted via this [form](https://docs.google.com/forms/d/e/1FAIpQLScTlLR0vA2Zd4Vak0yhNOY7dZPXbUy3jzvXkTspE4Qgw5lHxQ/viewform). We step through each step of the form. 
+Tasks may be submitted via this [form](https://docs.google.com/forms/d/e/1FAIpQLScTlLR0vA2Zd4Vak0yhNOY7dZPXbUy3jzvXkTspE4Qgw5lHxQ/viewform). We step through each step of the form.
 
 First, we enter our name and email.
 
@@ -76,8 +74,8 @@ Finally, we include the prompt that should be used.
 
 ![Image of prompt](img/form_submission_hearsay_example/prompt.png)
 
-And then click submit! Neel will then work on integrating the task into the Github, and will follow up with next steps. 
+And then click submit! Neel will then work on integrating the task into the Github, and will follow up with next steps.
 
-## Submitting via pull-request. 
+## Submitting via pull-request
 
 See [here]() for an example.
