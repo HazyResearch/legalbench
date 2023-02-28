@@ -100,6 +100,8 @@ Lastly, tasks should be accompanied by a description, which includes the followi
 
 ### Submission via Github
 
+See [this pull request](https://github.com/HazyResearch/legalbench/pull/6) for an illustration of how to add a task via PR.
+
 ### Submission via Google Forms
 
 Tasks may be submitted via Google Forms at [this link](https://forms.gle/6wRB4ety1a7D1GQF8). Task data can be uploaded as TSV files.
