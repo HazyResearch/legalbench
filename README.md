@@ -49,7 +49,7 @@ We are currently in the process of adding more tasks to LegalBench. If you are i
   - Asking the model to determine the Bluebook signal that should preface a particular parenthetical.
   - Asking the model to evaluate which premise most strongly supports a legal argument.
 
-A task submission consists of the following: (1) a task train data file, (2) a task test data file, (3) a base prompt, (3) a task description. We accept new tasks via Github or via Google Forms. Instructions on both methods of submission are provided below.
+A task submission consists of the following: (1) a task train data file, (2) a task test data file, (3) a base prompt, (3) a task description. We accept new tasks via Github or via Google Forms. Instructions on both methods of submission are provided below. A step-by-step walkthrough is provided [here](https://github.com/HazyResearch/legalbench/blob/main/example_submission.md).
 
 ### Task train data
 
