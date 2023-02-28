@@ -1,9 +1,0 @@
-introduction: Does the clause state that if a third party gets better terms on the
-  licensing or sale of technology/goods/services described in the contract, the buyer
-  of such technology/goods/services under the contract shall be entitled to those
-  better terms?
-label_prefix: 'A: '
-labels: default
-sample_prefix: 'Clause: '
-sample_suffix: null
-task: most_favored_nation

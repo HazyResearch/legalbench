@@ -8,7 +8,7 @@
 
 ## Task Description
 
-A particular mark (e.g. a name for a product or service) is only eligible for trademark protection if it is considered to be \textit{distinctive}~\todocite. In assessing whether a mark is distinctive, lawyers and judges follow the framework set out in the case \textit{Abercrombie \& Fitch Co. v. Hunting World, Inc.}, which enumerates 5 categories of distinctiveness~\todocite. These categories characterize the relationship between the dictionary definition of the term used in the mark, and the service or product it is being attached to.
+A particular mark (e.g. a name for a product or service) is only eligible for trademark protection if it is considered to be \textit{distinctive}~\todocite. In assessing whether a mark is distinctive, lawyers and judges follow the framework set out in the case *Abercrombie & Fitch Co. v. Hunting World, Inc.*, which enumerates 5 categories of distinctiveness. These categories characterize the relationship between the dictionary definition of the term used in the mark, and the service or product it is being attached to.
 
 - **Generic**: Generic terms are those which connote the basic nature of articles or services, rather than the more individualized characteristics of a product.
 - **Descriptive**: Descriptive terms identify a characteristic or quality of an article or service, such as color, odor, function, dimensions, or ingredients.

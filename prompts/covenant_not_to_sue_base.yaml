@@ -1,8 +1,0 @@
-introduction: "Is a party restricted from contesting the validity of the counterparty\u2019\
-  s ownership of intellectual property or otherwise bringing a claim against the counterparty\
-  \ for matters unrelated to the contract?"
-label_prefix: 'A: '
-labels: default
-sample_prefix: 'Clause: '
-sample_suffix: null
-task: covenant_not_to_sue

@@ -1,10 +1,8 @@
 # LegalBench
 
-LegalBench is a **collaborative** benchmark intended to evaluate English large language models on legal reasoning and legal text-based tasks. LegalBench currently consists of more than 50 tasks, which are described in detail [here](). A paper describing the organization of an initial seed set of tasks is available as a preprint [here](https://arxiv.org/abs/2209.06120). This paper will be updated with the most recent task submissions by May 2023, with task submitters included as authors.
+LegalBench is a **collaborative** benchmark intended to evaluate English large language models on legal reasoning and legal text-based tasks. LegalBench currently consists of more than 40 tasks, which are described in detail [here](https://github.com/HazyResearch/legalbench/tree/main/tasks). A paper describing the organization of an initial seed set of tasks is available as a preprint [here](https://arxiv.org/abs/2209.06120). This paper will be updated with the most recent task submissions by May 2023, with task submitters included as authors.
 
 We are currently soliciting submissions. Tasks will be reviewed and merged into this repository on a rolling basis.
-
-**Table of contents**
 
 - [About us](#about-us)
 - [Contributing a task](#contributing-a-task)
@@ -17,6 +15,7 @@ We are currently soliciting submissions. Tasks will be reviewed and merged into 
   - [Misc](#misc)
 - [Contributors](#contributors)
 - [Citing this work](#citing-this-work)
+- [Contact](#contact)
 
 ## About us
 
@@ -56,13 +55,15 @@ A task submission consists of the following: (1) a task train data file, (2) a t
 
 Task train data should be formatted as TSV (tab separated value) file. The first row of the TSV file should contain a header for each column of data. Most tasks will have only two columns, corresponding to the task input and the correct task output (e.g., [Unfair TOS](/tasks/unfair_tos/)). However, a task may have more than one column (e.g., [Statutory Reasoning Assessment](/legalbench/tasks/statutory_reasoning_assessment)). Each remaining row in the file should correspond to a sample. Task training data should consist of between 5-7 samples. The file should be named `train.tsv`.
 
+If you wish to add metadata for each sample---to categorize subgroups in the dataset which implicate similar challenges---then add that as a column. For instance, [Hearsay](https://github.com/HazyResearch/legalbench/tree/main/tasks/hearsay) consists of a `slice` column, which describes the element of the hearsay rule being tested for each sample.
+
 ### Task test data
 
 The test data file should be formatted identically to the train data file. Test data should consist of at least 50 samples. The file should be named `test.tsv`.
 
 ### Base prompt
 
-The base prompt file contains a prompt that can be used to solve the task. Below is an example of a prompt for the [Hearsay](tasks/hearsay/) task.
+The base prompt file contains a prompt that can be used to solve the task. Below is an example of a prompt for the [Hearsay](https://github.com/HazyResearch/legalbench/tree/main/tasks/hearsay) task.
 
 ```text
 Hearsay is an out-of-court statement introduced to prove the truth of the matter asserted.
@@ -107,15 +108,13 @@ Tasks may be submitted via Google Forms at [this link](https://forms.gle/6wRB4et
 
 - Tasks that have been previously published as parts of other works or benchmarks may be added to LegalBench. If you are doing so, please be sure to follow the licensing requirements imposed by the original publishers, and to include a citation to the original work (see more below).
 - Task datasets should consist of at least 50 samples. However, if this is a barrier, please contact us and we can work with you to scale the dataset.
-- Due to the length limitations of most large language models, we prefer tasks which operate on sequences of text that are less than 2000 words. For tasks involving longer documents---like contract clause extraction---we encourage you to reframe the task as a classification task, by chunking the long document into subparts. For an example, see [here]().
-
+- Due to the length limitations of most large language models, we prefer tasks which operate on sequences of text that are less than 2000 words. For tasks involving longer documents---like contract clause extraction---we encourage you to reframe the task as a classification task, by chunking the long document into subparts.
 
 # Evaluating on LegalBench tasks
 
-We encourage you to use LegalBench. See this [notebook]() for a guide on how to load task data and prompts. 
+We encourage you to use LegalBench. See this [notebook]() for a guide on how to load task data and prompts.
 
-
-LegalBench tasks will be made available via Huggingface in June 2023. 
+LegalBench tasks will be made available via Huggingface in June 2023.
 
 ## Contributors
 
@@ -145,3 +144,7 @@ Please cite to our ArXiv paper!
   copyright = {arXiv.org perpetual, non-exclusive license}
 }
 ```
+
+## Contact
+
+For questions, concerns, or comments, please reach out to Neel (nguha@stanford.edu).
