@@ -1,0 +1,22 @@
+Does the clause restrict a party from contracting or soliciting customers or partners of the counterparty, whether during the contract or after the contract ends (or both)?
+
+Clause: Notwithstanding the foregoing, during the term and for a period of one (1) year thereafter, Theismann shall not use, permit the use of, or license to others the Property in connection with the advertisement, promotion, and sale of any network or Internet service, including but limited to all computer/video games, CD-ROMs, and/or interactive video of any form, except for a pre-existing license by Theismann.
+Label: No
+
+Clause: Notwithstanding the foregoing, solely for the period from the Effective Date of this<omitted>Agreement to the Launch Date for the Co-Branded Application, as hereinafter defined, Application Provider may use Payment Eligible User Data to solicit User traffic to the co-branded area currently in place at http://coupons.excite.com pursuant to the Sponsorship Agreement effective March 5, 1999 in force between the parties.
+Label: No
+
+Clause: Application Provider will not solicit any Excite@Home Member on behalf of any Excite@Home Named Competitor during the Term of this Agreement or thereafter.
+Label: Yes
+
+Clause: conduct which could reasonably be expected to degrade the Professional, devalue the services of the Professional or to bring the Professional into public hatred, contempt, scorn or ridicule, or that could reasonably be expected to shock, insult or offend the community or to offend public morals or decency.
+Label: No
+
+Clause: Except as otherwise expressly provided in the Business Plan, the Agent will at its sole expense<omitted>(e) not solicit or accept orders for the Products other than from Customers within the Territory after the Agent Launch Date; and not knowingly, or knowingly permit others to, distribute or resell Products outside the Territory or for end use by other than duly licensed veterinarians;
+Label: Yes
+
+Clause: The Company shall not contact any of Distributor's Customer's for any reason, without the prior written approval of Distributor.
+Label: Yes
+
+Clause: {{text}}
+Label:

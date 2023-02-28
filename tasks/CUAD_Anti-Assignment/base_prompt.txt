@@ -1,0 +1,22 @@
+Does the clause require consent or notice of a party if the contract is assigned to a third party?
+
+Clause: This Agreement may not be waived, amended or assigned without an agreed written and signed document, signed by both Parties.
+Label: Yes
+
+Clause: Within thirty (30) days after the end of each Calendar Quarter, GSK shall calculate the actual amount of Net Sales for the previous Calendar Quarter and either credit or debit the difference between such actual and projected amount on the succeeding Calendar Quarter's royalty payment to Theravance.
+Label: No
+
+Clause: Each Party's rights under this Agreement are ---------------- personal to that Party and that Party shall not assign, sublet or otherwise transfer any right or interest under this Agreement to anyone, without the prior written consent of the other Party, which shall not be unreasonably withheld.
+Label: Yes
+
+Clause: This Agreement and any rights or authority granted hereunder shall not be assigned or transferred by either Party, including by operation of law, merger or otherwise, without the express written consent of the other Party, provided that Licensor may assign this Agreement without consent to any of its Affiliates and Licensee may assign this Agreement without consent to SINA Leju or an Affiliate of Licensee that is controlled by SINA Leju.
+Label: Yes
+
+Clause: Consistent with the NASCAR rules and regulations, and excluding any patches required by NASCAR, Logan's shall have the exclusive right to promote its Logan's logo on uniforms and Driver's suit on the areas depicted on Exhibit A to this Agreement.
+Label: No
+
+Clause: SERVICERS may terminate this Agreement prior to its expiration for cause upon prior written notice to ISO as follows:<omitted>(l) Upon a Change of Control of ISO with one hundred eighty (180) days prior written notice to ISO, unless the SERVICERS had previously consented to such change in control.
+Label: No
+
+Clause: {{text}}
+Label:

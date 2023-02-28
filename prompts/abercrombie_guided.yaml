@@ -1,6 +1,0 @@
-introduction: A mark is generic if it is the common name for the product. A mark is descriptive if it describes a purpose, nature, or attribute of the product. A mark is suggestive if it suggests or implies a quality or characteristic of the product. A mark is arbitrary if it is a real English word that has no relation to the product. A mark is fanciful if it is an invented word.
-label_prefix: 'A: '
-labels: train_explanations.txt
-sample_prefix: 'Q: '
-sample_suffix: ' What is the type of mark?'
-task: abercrombie

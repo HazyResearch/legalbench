@@ -1,0 +1,22 @@
+Does the clause specify a notice period required to terminate renewal?
+
+Clause: This Agreement shall automatically be renewed for one (1) or more one (1) month periods unless either the Customer or i-on gives notice to the other party of its intention not to renew the<omitted>Agreement, which notice must be given not less than fifteen (15) days before the end of the respective initial or renewal term.
+Label: Yes
+
+Clause: COMPANY will pay JHU a fee equal one percent (1%) of the Aggregate Consideration received by the COMPANY, or the total amount received by stockholders of COMPANY, upon the occurrence of a Liquidity Event.
+Label: No
+
+Clause: In consideration of the Approval Payments to be made under this Agreement (if and to the extent applicable), and in further consideration of the payment by PB to SFJ of [***], SFJ shall sell and transfer to PB, and PB shall acquire from SFJ, the sole and exclusive ownership, even as to SFJ, of the Trial Data Package including all Research Results as set forth below in this Section 11.1.1.4.
+Label: No
+
+Clause: This Agreement may be renewed for additional periods of one (1) year (each such additional period, a "Renewal Term") unless either Party provides notice of nonrenewal upon not less than [***] prior written notice to the other Party.
+Label: Yes
+
+Clause: If such error or discrepancy is not resolved within thirty (30) days after Licensee's<omitted>written notice to Licensor, then Licensee as its sole remedy may (a) extend the correction period to a date which is agreeable to Licensor and Licensee or (b) return all copies of the Licensed Products to Licensor with a certification by an authorized representative of Licensee that all copies have been returned to Licensor or have been destroyed and that Licensee has not retained any copies thereof and Licensor shall refund to Licensee the amount paid by Licensee to Licensor for such Licensed Products.
+Label: No
+
+Clause: This Agreement shall be automatically renewed for successive one year periods unless either party gives written notice of termination to the other party at least thirty (30) days prior to the date of expiration.
+Label: Yes
+
+Clause: {{text}}
+Label:

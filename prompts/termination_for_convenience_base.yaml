@@ -1,7 +1,0 @@
-introduction: Does the clause specify that one party can terminate this contract without
-  cause (solely by giving a notice and allowing a waiting period to expire)?
-label_prefix: 'A: '
-labels: default
-sample_prefix: 'Clause: '
-sample_suffix: null
-task: termination_for_convenience

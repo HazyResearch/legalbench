@@ -1,0 +1,22 @@
+Does the clause specify a cap on liability upon the breach of a party’s obligation? This includes time limitation for the counterparty to bring claims or maximum amount for recovery.
+
+Clause: IN NO EVENT SHALL TRUELINK'S LIABILITY FOR ANY MATTER ARISING UNDER OR RELATED TO SECTION 3, 4, 7 AND 11 THIS AGREEMENT (OTHER THAN DUE TO A BREACH RESULTING FROM TRUELINK'S GROSS NEGLIGENCE OR WILLFUL MISCONDUCT) EXCEED THE TOTAL COMPENSATION PAID FOR HOSTING AND SUPPORT SERVICES OVER THE IMMEDIATELY PRECEDING 12 MONTHS PERIOD.
+Label: Yes
+
+Clause: Service Provider shall provide and maintain excess liability insurance covering employer's liability, commercial general liability, and business automobile liability, in the amount of Five Million Dollars ($5,000,000) combined single limit policy limit per occurrence and in the aggregate for bodily injury and property damage.
+Label: No
+
+Clause: Such a consumer wil l be entitled to visit a custom interactive landing page at the CharityTunes.com website to enter the unique code and consumer's valid email address to receive downloads up to a maximum of either three (3), five (5), or seven (7) free MP3 song downloads having a retail value of $1.29 per song or less.
+Label: No
+
+Clause: NO PARTY SHALL BE LIABLE FOR CONSEQUENTIAL, INCIDENTAL, PUNITIVE, EXEMPLARY OR INDIRECT DAMAGES, LOST PROFITS OR OTHER BUSINESS INTERRUPTION DAMAGES, BY STATUTE, IN TORT OR CONTRACT, OR OTHERWISE; PROVIDED, HOWEVER, THAT THIS LIMITATION SHALL NOT LIMIT A PARTY'S RIGHT TO RECOVERY HEREUNDER FOR ANY SUCH DAMAGES TO THE EXTENT SUCH PARTY IS REQUIRED TO PAY SUCH DAMAGES TO A THIRD PARTY IN CONNECTION WITH A MATTER FOR WHICH SUCH PARTY IS OTHERWISE ENTITLED TO INDEMNIFICATION HEREUNDER.
+Label: Yes
+
+Clause: In the event any warranty claim is due to or arises from an Epidemic Defect, ENERGOUS will be responsible for all costs and expenses directly incurred by DIALOG or its Affiliates or their respective customers as a result of reasonable inspection, servicing, repairs, replacements, recall notices, recalls and responses with respect thereto, provided that ENERGOUS' aggregate liability to DIALOG and its Affiliates and their respective customers under this paragraph (d) will not exceed [***] per occurrence of an Epidemic Defect.
+Label: Yes
+
+Clause: "JOINT INTELLECTUAL PROPERTY" shall mean (a) all patentable inventions conceived, discovered, developed and/or reduced to practice (i) jointly by one or more employees, agents, or students of CERES and by one or more employees, agents, or students of IGER in the performance of any RESEARCH PROJECT(S) or (ii) by one or more employees, agents or students of IGER in the performance of any RESEARCH PROJECT(S) to the extent CERES provides a financial contribution for such RESEARCH PROJECT, which is not less than twenty-five percent (25%) of either the overall cost of such RESEARCH PROJECT or of the activity during which the invention was made, unless expressly provided otherwise in a SCHEDULE; (b) patents, patent applications, plant variety rights, plant variety right applications, reissues, continuations, continuations-in-part and divisionals claiming such patentable inventions in any country of the world; (c) all trade secrets and copyrighted works created jointly by one or more employees, agents, or students of CERES and by one or more employees, agents, or students of IGER in the performance of any RESEARCH PROJECT(S); and (d) all germplasm and plant varieties created in the performance of plant breeding activities in the performance of any RESEARCH PROJECT(S).
+Label: No
+
+Clause: {{text}}
+Label:

@@ -1,0 +1,22 @@
+Does the clause contain a license granted by one party to its counterparty?
+
+Clause: IN NO ONE EVENT SHALL EITHER PARTY'S AGGREGATE LIABILITY FOR DAMAGES OR LOSSES UNDER THIS AGREEMENT EXCEED THE AGGREGATE AMOUNT OF THE PRODUCT PRICES PAID BY BELLICUM FOR THE MILTENYI PRODUCT(S) DURING THE TWELVE (12) MONTH PERIOD IMMEDIATELY PRECEDING THE EVENT GIVING RISE TO SUCH LIABILITY; AND FURTHER PROVIDED THAT SUCH AGGREGATE LIABILITY DURING SUCH PERIOD ALSO SHALL NOT EXCEED THE AMOUNT OF SUCH PARTY'S INSURANCE COVERAGE FOR SUCH AGGREGATE LIABILITY.
+Label: No
+
+Clause: This Agreement shall be governed by and construed in accordance with the laws of the State of Connecticut.
+Label: No
+
+Clause: non-exclusive, and we therefore have the right, among other things: 9.3.6.1 To use the Proprietary Marks ourselves in connection with selling Services and products; 9.3.6.2 To grant other licenses for the Proprietary Marks, in addition to licenses we may have already granted to existing franchisees; and Page 22 of 80 9.3.6.3 To develop and establish other systems using the same or similar Proprietary Marks, or any other proprietary marks, and to grant licenses or franchises for those other marks without giving you any rights to those other marks. 9.4 Change to Marks
+Label: Yes
+
+Clause: Notwithstanding the provisions of this Section 13.9(e), a SMBC Unit-Holder shall not be required to contribute, in the aggregate, any amount in excess of the amount by which the net proceeds received by such SMBC Unit-Holder from the sale of the Registrable Securities exceeds the amount of any damages which such SMBC Unit-Holder has otherwise been required to pay by reason of such untrue or alleged untrue statement or omission or alleged omission.
+Label: No
+
+Clause: Upon and subject to the terms and conditions stated in this Agreement, on the Effective Date, for the consideration described in this Agreement and Eutectix's performance of its other obligations under this Agreement, Liquidmetal grants to Eutectix the right and license to use the following equipment owned by Liquidmetal (the "Licensed Equipment") (i) solely for use on Liquidmetal's behalf, (ii) for Eutectix's own limited use in the production of Liquidmetal Products (as defined below) or Licensed Products (as defined below), (iii) for the continued development of applications utilizing bulk metallic glasses in cooperation between Liquidmetal and Eutectix, and (iv) independently by Eutectix pursuant to the terms of this Agreement: (a) Two (2) Engel e-motion 310/120 injection molding machines, and associated equipment; (b) Two (2) Eontec 300-C Die Casting Machines, and associated equipment; (c) One (1) Flow M21313B Waterjet Machine; (d) Two (2) DMG Mori Milltap 700 CNC machines, and associated consumables and fixtures; (e) Equipment for cut, mount, and polish analysis operations, including: i. One (1) Struers Accutom-10 cut-off machine ii. One (1) Struers Secotom-50 precision cutting machine iii. One (1) Struers Tegramin-30 tabletop grinding machine iv. One (1) Keyence VH X-S550E microscope (f) Equipment required for vibratory deburring operations, including: i. One (1) Rosler R 125 EC-KF rotary vibrator ii. One (1) Rosler R 125 EC rotary vibrator 2<omitted>(g) Equipment required for passivation operations, including: i. One (1) ESMA, Inc. E782C ultrasonic cleaning system (h) One (1) Dry Cooler D455 chill water system; (i) One (1) MTS 810 MTS mechanical testing frame; and (j) Molds and fixtures needed for production of sample parts.
+Label: Yes
+
+Clause: The Association grants Company a non-exclusive, limited, revocable and conditional license during the term to use the Association Marks, solely to identify Company as a supporter of the Association.
+Label: Yes
+
+Clause: {{text}}
+Label:

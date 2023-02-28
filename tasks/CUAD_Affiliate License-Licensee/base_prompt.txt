@@ -1,0 +1,22 @@
+Does the clause describe a license grant to a licensee (incl. sublicensor) and the affiliates of such licensee/sublicensor?
+
+Clause: Sanofi shall have the right, in its sole discretion, to appoint its Affiliates, and Sanofi and its Affiliates shall have the right, in its sole discretion, to appoint any other Persons, in the Licensed Territory to distribute, market, and sell the Products (with or without packaging rights), in circumstances where the Person purchases its requirements of Products from Sanofi or its Affiliates but does not otherwise make any royalty or other payment to Sanofi or its Affiliates with respect to its intellectual property or other proprietary rights.
+Label: Yes
+
+Clause: Subject to the terms and conditions of this Agreement, Sponsor hereby grants to Excite a royalty-free, non-exclusive, worldwide license to use, reproduce, distribute, transmit and publicly display the Content in accordance with this Agreement and to sub-license the Content to Excite's wholly-owned subsidiaries or to joint ventures in which Excite participates for the sole purpose of using, reproducing, distributing, transmitting and publicly displaying the Content in accordance with this Agreement
+Label: Yes
+
+Clause: The "Term" of this Agreement shall commence on the Effective Date and shall continue in full force and effect until the expiration or earlier termination of the last Addendum to expire or be terminated, at which time this Agreement will expire, unless this Agreement is sooner terminated in accordance with the terms and provisions of this Agreement.
+Label: No
+
+Clause: Certegy hereby grants, and will cause each member of the Certegy Group to grant, to Equifax and each member of the Equifax Group a fully paid, non- exclusive, worldwide, non-<omitted>transferable right to continue to use the Marks that were owned immediately prior to the Distribution Date by a member of the Certegy Group and employed in the Equifax Business, but only to the extent such Marks were displayed by the Equifax Group prior to the Distribution Date (i) on assets owned by Equifax or any member of the Equifax Group (other than the Transferred Assets), (ii) on premises jointly occupied with one or more members of the Certegy Group, and (iii) on letterhead, product and services documentation, invoices, software programs, packaging and similar materials used by the members of the Equifax Group, and such Marks are used in accordance with the same guidelines for usage as the Equifax Marks as described in subsection (a) above.
+Label: Yes
+
+Clause: The validity, construction and interpretation of this Agreement and the rights and duties of the parties hereto shall be governed by the internal laws of the State of Wisconsin, excluding its principles of conflict of laws.
+Label: No
+
+Clause: Notwithstanding anything contained in this Agreement or the Transition Services and Inventory Agreement or the Supply Agreement in no circumstance shall either Party be liable to the other in contract, tort (including negligence or breach of statutory duty) or otherwise howsoever, and whatever the cause thereof, for any special, indirect or consequential loss or damage of any nature whatsoever except in the cases of fraud or intentional misconduct or in the case of PPI as a result of PPI's breach of Section 7.2.12 of the Supply Agreement.
+Label: No
+
+Clause: {{text}}
+Label:

@@ -1,0 +1,22 @@
+Does the clause grant one party a right of first refusal, right of first offer or right of first negotiation to purchase, license, market, or distribute equity interest, technology, assets, products or services?
+
+Clause: If any of the Transferees intends to purchase all or any portion of the said shares so offered, such Party shall dispatch a written notice of acceptance to the transferor describing the number of the shares it intends to purchase within three (3) weeks after the date of receipt of the offer. The sale price of the shares shall be determined in terms of Article 6.3(c) hereof.
+Label: Yes
+
+Clause: During the Exclusivity Period, on a Product SKU-by-Product SKU and country-by-country basis within the applicable Territory, Customer shall purchase from Manufacturer, in accordance with the terms and conditions of this Agreement, at least the Exclusive Purchase Requirement of its requirements for such Product SKU in such country; provided, however, that In-Flight or Shared Volume Products shall be excluded from the exclusivity requirements set forth in this Section 2.1(e)(i).
+Label: No
+
+Clause: The construction, interpretation and performance of this Agreement shall be governed by the laws of Switzerland, except for its conflicts of law principles.
+Label: No
+
+Clause: If during the term of this Agreement for any renewal of this Agreement (the "Right of First Refusal Period"), Affiliate shall receive (i) any Bona Fide Offer to purchase the revenue due Affiliate under this Agreement or Affiliate's company through an asset purchase or merger (in which case Network 1 shall be subordinate to the Checkfree first refusal right), or (ii) a Bona Fide Offer to acquire or merge with or into Affiliate (in which case Network 1 shall be subordinate to the Checkfree first refusal right), Affiliate shall immediately give written notice (the "Offer Notice") to Network 1 of the terms and conditions of the Bona Fide Offer, including without limitation the price.
+Label: Yes
+
+Clause: The rights set forth in Section 5.2.2.a and b shall automatically terminate if BII does not produce a viable Process for manufacture of Product as evidenced by failure to produce cGMP Product within a timeframe reasonably and customary in the biopharmaceutical industry for companies of comparable size and the respective activities.
+Label: Yes
+
+Clause: Following the expiration of 90 days from the termination or expiration of this Agreement, the Company shall cease usage of all publicity, promotion and advertising materials which contain the Professional's Image, it being the understanding of the parties that during such 90-day period the Company shall have the right to use such remaining publicity, promotion or advertising materials as shall then be available to the Company.
+Label: No
+
+Clause: {{text}}
+Label:

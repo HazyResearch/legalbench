@@ -1,6 +1,0 @@
-introduction: null
-label_prefix: 'A: '
-labels: default
-sample_prefix: 'Q: '
-sample_suffix: null
-task: rule_recall

@@ -1,8 +1,0 @@
-introduction: Does the clause require one party to deposit its source code into escrow
-  with a third party, which can be released to the counterparty upon the occurrence
-  of certain events (bankruptcy, insolvency, etc.)?
-label_prefix: 'A: '
-labels: default
-sample_prefix: 'Clause: '
-sample_suffix: null
-task: source_code_escrow

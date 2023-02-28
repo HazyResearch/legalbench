@@ -1,6 +1,0 @@
-introduction: Does the clause contain a license granted by one party to its counterparty?
-label_prefix: 'A: '
-labels: default
-sample_prefix: 'Clause: '
-sample_suffix: null
-task: license_grant

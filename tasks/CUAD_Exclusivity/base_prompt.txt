@@ -1,0 +1,22 @@
+Does the clause specify exclusive dealing commitment with the counterparty? This includes a commitment to procure all “requirements” from one party of certain technology, goods, or services or a prohibition on licensing or selling technology, goods or services to third parties, or a prohibition on collaborating or working with other parties), whether during the contract or after the contract ends (or both).
+
+Clause: You receive a Designated Area within which we and our affiliates shall not operate or grant to anyone else a franchise to operate a Buffalo Wild Wings or bw-3 Restaurant so long as this Agreement is in force and effect.
+Label: Yes
+
+Clause: The Minimum Payment consists of the Access Fee of US$300,000 per annum and the Second Component that increases from year to year.
+Label: No
+
+Clause: The Joint Venture shall commence on the 1st of March, 2003,
+Label: No
+
+Clause: Subject to Licensee's on­going compliance with Section 3.2 and all other terms and conditions of this Agreement, Licensor grants to Licensee an exclusive (save for rights reserved to Licensor hereunder), non-transferable (except as provided in Section 11.7) and non- sublicensable license, during the License Term, to reproduce, perform, display, transmit and distribute the Licensed Content on the Licensee Siteand Related Media intended solely for use by End Usersin the Territory within the scope set forth in Schedule 1 (License Scope), which is attached hereto and incorporated herein by this reference.
+Label: Yes
+
+Clause: TouchStar shall have no liability to Reseller or any Other Reseller by reason of the termination or expiration of this Agreement for compensation, reimbursement, or damages of any kind, including any loss of prospective profits on anticipated sales, loss of goodwill, or investments made in reliance on this Agreement.
+Label: No
+
+Clause: NCB appoints NPC, and NPC agrees to serve, as NCB's sole agent (i) to provide authorization, processing and settlement services with respect to Visa and MasterCard transactions ("Merchant Processing Services") to merchants who desire to receive Merchant Processing Services from NCB or NPC ("Merchants") and (ii) to enter into contracts with merchants ("Merchant Contracts") for the provision of Merchant Processing Services as agent of NCB; provided, however, that nothing herein shall limit NPC's right to provide, as agent for other members of Visa and MasterCard, Merchant Processing Services to merchants who desire to receive such services from NCB or others.
+Label: Yes
+
+Clause: {{text}}
+Label:

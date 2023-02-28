@@ -1,7 +1,0 @@
-introduction: Does the clause specify a minimum order size or minimum amount or units
-  pertime period that one party must buy from the counterparty?
-label_prefix: 'A: '
-labels: default
-sample_prefix: 'Clause: '
-sample_suffix: null
-task: minimum_commitment
