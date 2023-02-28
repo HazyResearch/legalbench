@@ -1,9 +1,15 @@
 # LegalBench
 
-LegalBench is a **collaborative** benchmark intended to evaluate English large language models on legal reasoning and legal text-based tasks. LegalBench currently consists of more than 40 tasks, which are described in detail [here](https://github.com/HazyResearch/legalbench/tree/main/tasks). A paper describing the organization of an initial seed set of tasks is available as a preprint [here](https://arxiv.org/abs/2209.06120). 
+LegalBench is a **collaborative** benchmark intended to evaluate English large language models on legal reasoning and legal text-based tasks. LegalBench currently consists of more than 40 tasks, which are described in detail [here](https://github.com/HazyResearch/legalbench/tree/main/tasks). A draft proposal describing the organization of an initial seed set of tasks is available as a preprint [here](https://arxiv.org/abs/2209.06120).
 
-This paper will be updated with the most recent task submissions by June 2023, with task submitters included as authors. If you are interested in joining this version of the paper as an author, please submit your task by **April 30th, 2023**.
+**In May 2023, we will be writing a paper describing the organization of LegalBench. Anyone who submits a task to LegalBench will be invited to join the paper as a co-author provided that:**
 
+1. **The task consists of at least 50 samples.**
+2. **The task is submitted before April 30th (2023).**
+
+The remainder of this README provides more information on potential tasks that can be added, how tasks should be submitted, and how LegalBench can be used.
+
+<hr>
 
 - [About us](#about-us)
 - [Contributing a task](#contributing-a-task)
@@ -14,6 +20,7 @@ This paper will be updated with the most recent task submissions by June 2023, w
   - [Submission via Github](#submission-via-github)
   - [Submission via Google Forms](#submission-via-google-forms)
   - [Misc](#misc)
+- [Evaluating on LegalBench tasks](#evaluating-on-legalbench-tasks)
 - [Contributors](#contributors)
 - [Licenses](#licenses)
 - [Citing this work](#citing-this-work)
@@ -61,20 +68,19 @@ We accept new tasks via Github or via Google Forms. Instructions on both methods
 
 **Note: smaller and manually crafted data sets are accepted! We ask only that the data set be at least 50 samples.**
 
-
 ### Task data (one file)
 
-Task data may be submitted as a single TSV (tab-separated value) file. The first row of the TSV file should contain a header for each column of data. Most tasks will have only two columns, corresponding to the task input and the correct task output (e.g., [Unfair TOS](/tasks/unfair_tos/)). However, a task may have more than one column (e.g., [Statutory Reasoning Assessment](https://github.com/HazyResearch/legalbench/tree/main/tasks/statutory_reasoning_assessment). Each remaining row in the file should correspond to a sample. Task training data should consist of between 5-7 samples. The file should be named `data.tsv`.
+Task data may be submitted as a single TSV (tab-separated value) file. The first row of the TSV file should contain a header for each column of data. Most tasks will have only two columns, corresponding to the task input and the correct task output (e.g., [Unfair TOS](/tasks/unfair_tos/)). However, a task may have more than one column (e.g., [Statutory Reasoning Assessment](https://github.com/HazyResearch/legalbench/tree/main/tasks/statutory_reasoning_assessment). Each remaining row in the file should correspond to a sample. The file should be named `data.tsv`.
 
 If you wish to add metadata for each sample---to categorize subgroups in the dataset which implicate similar challenges---then add that as a column. For instance, [Hearsay](https://github.com/HazyResearch/legalbench/tree/main/tasks/hearsay) consists of a `slice` column, which describes the element of the hearsay rule being tested for each sample.
 
-If you submit as one file, we will go through the process of splitting the file into a train and test set. 
+If you submit as one file, we will go through the process of splitting the file into a train and test set.
 
 If you write your data in Excel or Google Sheets, then there is an option to export as a tsv file.
 
 ### Task data (two files)
 
-Alternatively, if you wish to split train and test yourself, then please submit two files. The first file should correspond to the train data, and should be named as `train.tsv`. The second file should correspond to test data, and be named `test.tsv`. Both shou
+Alternatively, if you wish to split train and test yourself, then please submit two files. The first file should correspond to the train data, and should be named as `train.tsv`. The second file should correspond to test data, and be named `test.tsv`. Train files should consist of between 4-8 samples. Both files should have the same column names/schema.
 
 ### Task description
 
@@ -113,7 +119,6 @@ A:
 
 Text enclosed in brackets should correspond to column names in the task data files.
 
-
 ### Submission via Github
 
 See [this pull request](https://github.com/HazyResearch/legalbench/pull/6) for an illustration of how to add a task via PR.
@@ -128,7 +133,7 @@ Tasks may be submitted via Google Forms at [this link](https://forms.gle/6wRB4et
 - Task datasets should consist of at least 50 samples. However, if this is a barrier, please contact us and we can work with you to scale the dataset.
 - Due to the length limitations of most large language models, we prefer tasks which operate on sequences of text that are less than 2000 words. For tasks involving longer documents---like contract clause extraction---we encourage you to reframe the task as a classification task, by chunking the long document into subparts.
 
-# Evaluating on LegalBench tasks
+## Evaluating on LegalBench tasks
 
 We encourage you to use LegalBench. See this [notebook](https://github.com/HazyResearch/legalbench/blob/main/UsingLegalBench.ipynb) for a guide on how to load task data and prompts.
 
@@ -147,13 +152,14 @@ The following individuals have contributed to LegalBench:
 - Christopher Ré
 
 ## Licenses
+
 LegalBench is a mix of created and transformed datasets. We ask that you follow the license of the dataset creator. Please see the [task page](https://github.com/HazyResearch/legalbench/tree/main/tasks) for a list of tasks and licenses.
 
 ## Citing this work
 
-For now, please cite to the ArXiv paper. This will be updated in May 2023 when a paper with task contributors is released. 
+For now, please cite to the ArXiv paper. This will be updated in May 2023 when a paper with task contributors is released.
 
-```
+```text
 @misc{https://doi.org/10.48550/arxiv.2209.06120, 
   doi = {10.48550/ARXIV.2209.06120}, 
   url = {https://arxiv.org/abs/2209.06120}, 
