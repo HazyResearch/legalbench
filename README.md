@@ -13,10 +13,10 @@ The remainder of this README provides more information on potential tasks that c
 
 - [About us](#about-us)
 - [Contributing a task](#contributing-a-task)
-  - [Task data (one file)](#task-data-one-file)
-  - [Task data (two files)](#task-data-two-files)
+  - [Task data (as one file)](#task-data-as-one-file)
+  - [Task data (as two files)](#task-data-as-two-files)
   - [Task description](#task-description)
-  - [Base prompt](#base-prompt)
+  - [Base prompt \[Optional\]](#base-prompt-optional)
   - [Submission via Github](#submission-via-github)
   - [Submission via Google Forms](#submission-via-google-forms)
   - [Misc](#misc)
@@ -60,7 +60,7 @@ We are currently in the process of adding more tasks to LegalBench. If you are i
 
 Task submissions consist of a:
 
-1. A task data file. This may be submitted as one file, or optionally, as a pre-split train and test file.
+1. Task data. This may be submitted as one file, or optionally, as a train and test file.
 2. A description of the task.
 3. [Optional] A prompt to use for the task. If no prompt is submitted, then we will craft one for you.
 
@@ -68,7 +68,8 @@ We accept new tasks via Github or via Google Forms. Instructions on both methods
 
 **Note: smaller and manually crafted data sets are accepted! We ask only that the data set be at least 50 samples.**
 
-### Task data (one file)
+
+### Task data (as one file)
 
 Task data may be submitted as a single TSV (tab-separated value) file. The first row of the TSV file should contain a header for each column of data. Most tasks will have only two columns, corresponding to the task input and the correct task output (e.g., [Unfair TOS](/tasks/unfair_tos/)). However, a task may have more than one column (e.g., [Statutory Reasoning Assessment](https://github.com/HazyResearch/legalbench/tree/main/tasks/statutory_reasoning_assessment). Each remaining row in the file should correspond to a sample. The file should be named `data.tsv`.
 
@@ -78,7 +79,7 @@ If you submit as one file, we will go through the process of splitting the file 
 
 If you write your data in Excel or Google Sheets, then there is an option to export as a tsv file.
 
-### Task data (two files)
+### Task data (as two files)
 
 Alternatively, if you wish to split train and test yourself, then please submit two files. The first file should correspond to the train data, and should be named as `train.tsv`. The second file should correspond to test data, and be named `test.tsv`. Train files should consist of between 4-8 samples. Both files should have the same column names/schema.
 
@@ -90,7 +91,7 @@ Lastly, tasks should be accompanied by a description, which includes the followi
 - What types of legal reasoning the task evaluates.
 - How the data was collected or created. If the task was adapted from an existing benchmark, then a reference to that paper should be included.
 
-### Base prompt
+### Base prompt [Optional]
 
 The base prompt file contains a prompt that can be used to solve the task. Below is an example of a prompt for the [Hearsay](https://github.com/HazyResearch/legalbench/tree/main/tasks/hearsay) task.
 
@@ -113,7 +114,7 @@ A: No
 Q: On the issue of whether Martin punched James, the fact that Martin smiled and nodded when asked if he did so by an officer on the scene. Is there hearsay?
 A: Yes
 
-Q: {text} Is there hearsay?
+Q: {{text}} Is there hearsay?
 A:
 ```
 
@@ -121,11 +122,11 @@ Text enclosed in brackets should correspond to column names in the task data fil
 
 ### Submission via Github
 
-See [this pull request](https://github.com/HazyResearch/legalbench/pull/6) for an illustration of how to add a task via PR.
+See [this pull request](https://github.com/HazyResearch/legalbench/pull/6) for an illustration of how to add a task via Github.
 
 ### Submission via Google Forms
 
-Tasks may be submitted via Google Forms at [this link](https://forms.gle/6wRB4ety1a7D1GQF8). Task data can be uploaded as TSV files.
+Tasks may be submitted via Google Forms at [this link](https://forms.gle/6wRB4ety1a7D1GQF8). 
 
 ### Misc
 
@@ -135,7 +136,7 @@ Tasks may be submitted via Google Forms at [this link](https://forms.gle/6wRB4et
 
 ## Evaluating on LegalBench tasks
 
-We encourage you to use LegalBench. See this [notebook](https://github.com/HazyResearch/legalbench/blob/main/UsingLegalBench.ipynb) for a guide on how to load task data and prompts.
+We encourage you to evaluate on LegalBench. See this [notebook](https://github.com/HazyResearch/legalbench/blob/main/UsingLegalBench.ipynb) for a guide on how to load task data and prompts.
 
 LegalBench tasks will be made available via Huggingface in June 2023.
 
