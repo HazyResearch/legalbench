@@ -6,6 +6,10 @@
 
 **License**: [CC By 4.0](https://creativecommons.org/licenses/by/4.0/)
 
+**Task summary**: Does the clause give a party the right to audit the books, records, or physical locations of the counterparty to ensure compliance with the contract?
+
+**Size (samples)**: 1224
+
 ## Task Description
 
 This is a binary classification task in which the model must determine if a contractual clause falls under the category of "Audit Rights".

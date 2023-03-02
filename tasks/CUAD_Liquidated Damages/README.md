@@ -6,6 +6,10 @@
 
 **License**: [CC By 4.0](https://creativecommons.org/licenses/by/4.0/)
 
+**Task summary**: Does the clause award either party liquidated damages for breach or a fee upon the termination of a contract (termination fee)?
+
+**Size (samples)**: 226
+
 ## Task Description
 
 This is a binary classification task in which the model must determine if a contractual clause falls under the category of "Liquidated Damages".

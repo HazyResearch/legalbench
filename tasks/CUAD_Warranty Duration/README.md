@@ -6,6 +6,10 @@
 
 **License**: [CC By 4.0](https://creativecommons.org/licenses/by/4.0/)
 
+**Task summary**: Does the clause specify a duration of any warranty against defects or errors in technology, products, or services provided under the contract?
+
+**Size (samples)**: 326
+
 ## Task Description
 
 This is a binary classification task in which the model must determine if a contractual clause falls under the category of "Warranty Duration".

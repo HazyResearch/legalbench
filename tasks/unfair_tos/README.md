@@ -6,6 +6,10 @@
 
 **License**: [CC by 4.0](https://creativecommons.org/licenses/by/4.0/)
 
+**Task summary**: Classify if a terms-of-service clause is unfair.
+
+**Size (samples)**:
+
 ## Task Description
 
 The purpose of this task is classifying Terms of Service Clauses by *type* of unfairness.

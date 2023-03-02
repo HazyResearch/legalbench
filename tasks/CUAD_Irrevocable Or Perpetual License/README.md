@@ -6,6 +6,10 @@
 
 **License**: [CC By 4.0](https://creativecommons.org/licenses/by/4.0/)
 
+**Task summary**: Does the clause specify a license grant that is irrevocable or perpetual?
+
+**Size (samples)**: 300
+
 ## Task Description
 
 This is a binary classification task in which the model must determine if a contractual clause falls under the category of "Irrevocable Or Perpetual License".

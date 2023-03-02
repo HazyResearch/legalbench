@@ -6,6 +6,10 @@
 
 **License**: [CC By 4.0](https://creativecommons.org/licenses/by/4.0/)
 
+**Task summary**: Does the clause require consent or notice of a party if the contract is assigned to a third party?
+
+**Size (samples)**: 1212
+
 ## Task Description
 
 This is a binary classification task in which the model must determine if a contractual clause falls under the category of "Anti-Assignment".

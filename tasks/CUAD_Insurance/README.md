@@ -6,6 +6,10 @@
 
 **License**: [CC By 4.0](https://creativecommons.org/licenses/by/4.0/)
 
+**Task summary**: Is there a requirement for insurance that must be maintained by one party for the benefit of the counterparty?
+
+**Size (samples)**: 1040
+
 ## Task Description
 
 This is a binary classification task in which the model must determine if a contractual clause falls under the category of "Insurance".

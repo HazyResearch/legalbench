@@ -6,6 +6,10 @@
 
 **License**: [CC By 4.0](https://creativecommons.org/licenses/by/4.0/)
 
+**Task summary**: Does the clause provide for joint or shared ownership of intellectual property between the parties to the contract?
+
+**Size (samples)**: 198
+
 ## Task Description
 
 This is a binary classification task in which the model must determine if a contractual clause falls under the category of "Joint Ip Ownership".

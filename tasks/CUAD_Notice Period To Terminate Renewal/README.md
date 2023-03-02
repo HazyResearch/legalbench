@@ -6,6 +6,10 @@
 
 **License**: [CC By 4.0](https://creativecommons.org/licenses/by/4.0/)
 
+**Task summary**: Does the clause specify a notice period required to terminate renewal?
+
+**Size (samples)**: 234
+
 ## Task Description
 
 This is a binary classification task in which the model must determine if a contractual clause falls under the category of "Notice Period To Terminate Renewal".

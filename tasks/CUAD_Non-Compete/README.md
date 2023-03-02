@@ -6,6 +6,10 @@
 
 **License**: [CC By 4.0](https://creativecommons.org/licenses/by/4.0/)
 
+**Task summary**: Does the clause restrict the ability of a party to compete with the counterparty or operate in a certain geography or business or technology sector?
+
+**Size (samples)**: 450
+
 ## Task Description
 
 This is a binary classification task in which the model must determine if a contractual clause falls under the category of "Non-Compete".

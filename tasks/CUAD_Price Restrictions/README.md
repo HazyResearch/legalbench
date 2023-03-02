@@ -6,6 +6,10 @@
 
 **License**: [CC By 4.0](https://creativecommons.org/licenses/by/4.0/)
 
+**Task summary**: Does the clause place a restriction on the ability of a party to raise or reduce prices of technology, goods, or services provided?
+
+**Size (samples)**: 52
+
 ## Task Description
 
 This is a binary classification task in which the model must determine if a contractual clause falls under the category of "Price Restrictions".

@@ -6,6 +6,10 @@
 
 **License**: [CC By 4.0](https://creativecommons.org/licenses/by/4.0/)
 
+**Task summary**: Does intellectual property created by one party become the property of the counterparty, either per the terms of the contract or upon the occurrence of certain events?
+
+**Size (samples)**: 590
+
 ## Task Description
 
 This is a binary classification task in which the model must determine if a contractual clause falls under the category of "Ip Ownership Assignment".

@@ -6,6 +6,10 @@
 
 **License**: [CC By 4.0](https://creativecommons.org/licenses/by/4.0/)
 
+**Task summary**: Classify if a particular piece of evidence would be barred as hearsay.
+
+**Size (samples)**: 100
+
 ## Task description
 The Federal Rules of Evidence dictate that hearsay evidence is inadmissible at trial. Hearsay is defined as an "out-of-court statement introduced to prove the truth of the matter asserted." In determining whether a piece of evidence meets the definition of hearsay, lawyers ask three questions: 
 

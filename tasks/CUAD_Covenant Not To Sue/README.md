@@ -6,6 +6,10 @@
 
 **License**: [CC By 4.0](https://creativecommons.org/licenses/by/4.0/)
 
+**Task summary**: Is a party restricted from contesting the validity of the counterparty’s ownership of intellectual property or otherwise bringing a claim against the counterparty for matters unrelated to the contract?
+
+**Size (samples)**: 318
+
 ## Task Description
 
 This is a binary classification task in which the model must determine if a contractual clause falls under the category of "Covenant Not To Sue".
