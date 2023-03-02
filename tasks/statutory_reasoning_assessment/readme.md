@@ -16,9 +16,17 @@ For information on task construction, see the [original paper](https://ceur-ws.o
 
 ## Description of Headers
 
+### {train, test}.csv
 - **case id**: A unique string identifier for the case.
 - **statute**: The snippet from the statutes that is the most relevant to the question. For numerical cases, that's the entirety of the statutes.
 - **description**:  The summary of facts from the case description.
 - **question**: The question or entailment prompt.
 - **text**:  The concatenation of statute, description and question. This is meant as the input to the LM, as per the LegalBench format. In some cases, this might exceed the context window of the LM, in which case I would recommend truncating from the left.
 - **label**: The answer to the question or entailment problem. Answers to questions are dollar amounts, answers to entailment problems are either "Entailment" or "Contradiction".
+
+### few-shot-choices.csv
+
+This file contains, for each test case, the 4 closest cases from the training set. The distance is measured in terms of the part of the statutes they test for.
+
+- **test case**: The **case id** of the test case.
+- **train case {1,2,3,4}** The **case id** of the n-th training case closest to the **test case**.
