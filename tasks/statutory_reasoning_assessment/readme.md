@@ -29,4 +29,4 @@ For information on task construction, see the [original paper](https://ceur-ws.o
 This file contains, for each test case, the 4 closest cases from the training set. The distance is measured in terms of the part of the statutes they test for.
 
 - **test case**: The **case id** of the test case.
-- **train case {1,2,3,4}** The **case id** of the n-th training case closest to the **test case**.
+- **train case {1,2,3,4}**: The **case id** of the n-th training case closest to the **test case**.
