@@ -1,7 +1,0 @@
-introduction: "Does the clause specify a fee increase or consent requirement, etc.\
-  \ if one party\u2019s use of the product/services exceeds certain threshold?"
-label_prefix: 'A: '
-labels: default
-sample_prefix: 'Clause: '
-sample_suffix: null
-task: volume_restriction

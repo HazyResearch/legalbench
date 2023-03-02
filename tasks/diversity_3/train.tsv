@@ -1,5 +1,7 @@
-label	text	slice
-Yes	Jenica (from South Dakota) sues Shelia (from Pennsylvania) for intentional infliction of emotional distress for $73,000 and for breach of contract for $22,000.	Yes diverse parties, yes aic
-No	Dee (from Minnesota) sues Dinero (from Wisconsin) for discrimination for $6,000 and for intentional infliction of emotional distress for $44,000.	Yes diverse parties, no aic
-No	Reve (from Indiana) sues Amberly (from Indiana) for fraud for $41,000 and for discrimination for $21,000.	No diverse parties, no aic
-No	Jaquelynn (from Massachusetts) sues Gwyneth (from Massachusetts) for legal malpractice for $51,000 and for breach of contract for $31,000.	No diverse parties, yes aic
+text	label	parties_are_diverse	aic_is_met
+Lucas is from Florida. Olivia is from Nevada. Lucas sues Olivia for copyright infringement for $3,000 and wrongful eviction for $87,000.	Yes	True	True
+William is from Colorado. Mia is from Colorado. William sues Mia for securities fraud for $29,000 and trademark infringement for $52,000.	No	False	True
+Mia is from Kentucky. Liam is from Oregon. Mia sues Liam for legal malpractice for $28,000 and trademark infringement for $53,000.	Yes	True	True
+Amelia is from Nebraska. Oliver is from Nebraska. Amelia sues Oliver for trespass for $7,000 and breach of contract for $89,000.	No	False	True
+Mia is from Hawaii. Liam is from Texas. Mia sues Liam for patent infringement for $68,000 and wrongful eviction for $65,000.	Yes	True	True
+Isabella is from Idaho. Harper is from New Hampshire. Isabella sues Harper for patent infringement for $47,000 and wrongful eviction for $73,000.	Yes	True	True

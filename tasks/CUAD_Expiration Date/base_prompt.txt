@@ -1,0 +1,22 @@
+Does the clause specify the date upon which the initial term expires?
+
+Clause: Distributor hereby grants Zogenix an irrevocable, perpetual, royalty-free, fully paid-up, exclusive license with the right to grant sublicenses to use such Data solely generated and co-owned by Distributor outside of the Territory and a co-exclusive license in the Territory upon expiration or termination of the Agreement.
+Label: No
+
+Clause: In relation to each Fund, this Agreement shall terminate on the earlier of (a) the expiration of the term of such Fund or (b) the date, if any, on which Oaktree US (or any affiliate it has substituted in its stead in accordance with such Fund's Fund Agreement) is removed as general partner of such Fund or (c) the Sub-Advisor ceasing to be authorised and regulated by the FCA.
+Label: Yes
+
+Clause: Unless terminated in accordance with the provisions of Section 10.2 below, the term of this Agreement shall commence on the Effective Date and shall continue in effect for a FIVE (5) year period.
+Label: Yes
+
+Clause: This Agreement shall commence on the Commencement Date and shall continue for an initial period of five years until terminated in the manner described in Clause 16 below.
+Label: Yes
+
+Clause: Any and all liability of PPI to EKR howsoever arising in respect of this Agreement, the Transition Services and Inventory Agreement or the Supply Agreement and their performance, in contract tort or otherwise, shall be limited (except for death or personal injury caused by the negligence of PPI or its employees while acting in the course of their employment) to [**] US Dollars ($[**]); provided<omitted>however that such limitation shall not apply to the extent that EKR or any EKR Indemnified Party is required to pay in excess of such amount to a third party in respect of a final judgment or order obtained by the third party or as a result of PPI's breach of Section 7.2.12 of the Supply Agreement.
+Label: No
+
+Clause: Any and all liability of EKR to PPI howsoever arising in respect of this Agreement, the Transition Services and Inventory Agreement or the Supply Agreement and their performance in contract tort or otherwise shall be limited (except for death or personal injury caused by the negligence of EKR or its employees while acting in the course of their employment, and except in relation to any specified payment, lump sum, milestone or royalty payment unpaid) to [**] US Dollars ($[**]); provided however that such limitation shall not apply to the extent that PPI or any PPI Indemnified Party is required to pay in excess of such amount to a third party in respect of a final judgment or order obtained by the third party.
+Label: No
+
+Clause: {{text}}
+Label:

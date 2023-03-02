@@ -1,76 +1,166 @@
 # LegalBench
 
-## About
+LegalBench is a **collaborative** benchmark intended to evaluate English large language models on legal reasoning and legal text-based tasks. LegalBench currently consists of more than 40 tasks, which are described in detail [here](https://github.com/HazyResearch/legalbench/tree/main/tasks). A draft proposal describing the organization of an initial seed set of tasks is available as a preprint [here](https://arxiv.org/abs/2209.06120).
 
-LegalBench is an open science effort to benchmark legal reasoning in [foundation models](https://arxiv.org/abs/2108.07258). For more information, please see our [call for submissions on ArXiv](https://arxiv.org/abs/2209.06120), which outlines our vision for this project.
+**In May 2023, we will be writing a paper describing the organization of LegalBench. Anyone who submits a task to LegalBench will be invited to join the paper as a co-author provided that:**
 
-The goals for this project are twofold:
+1. **The task consists of at least 50 samples.**
+2. **The task is submitted before April 30th (2023).**
 
-1. First, we'd like to develop a diverse collection of tasks which can test different aspects of legal reasoning in foundation models. We ground our approach in the IRAC framework, which is a common approach to "legal reasoning" in American law.
+The remainder of this README provides more information on potential tasks that can be added, how tasks should be submitted, and how LegalBench can be used.
 
-2. Second, we'd like to understand how different foundation models perform on these tasks, and what types of methods (e.g. prompt types) improve performance.
+<hr>
 
-We've seeded LegalBench with an initial collection of 43 tasks, which can be found in this Github. However, we're excited to expand beyond these tasks. To that end, we welcome any individuals/groups with relevant domain expertise to submit their own tasks and prompts. Our ultimate goal is to collaboratively write a paper with all contributors detailing our findings (we're inspired by the [Deep Review effort](https://github.com/cgreene/deep-review) and [BigBench](https://github.com/google/BIG-bench/)). This repository contains more information on how to submit tasks and get involved!
+- [About us](#about-us)
+- [Contributing a task](#contributing-a-task)
+  - [Task data (as one file)](#task-data-as-one-file)
+  - [Task data (as two files)](#task-data-as-two-files)
+  - [Task description](#task-description)
+  - [Base prompt \[Optional\]](#base-prompt-optional)
+  - [Submission via Github](#submission-via-github)
+  - [Submission via Google Forms](#submission-via-google-forms)
+  - [Misc](#misc)
+- [Evaluating on LegalBench tasks](#evaluating-on-legalbench-tasks)
+- [Contributors](#contributors)
+- [Licenses](#licenses)
+- [Citing this work](#citing-this-work)
+- [Contact](#contact)
+
+## About us
+
+We're an [interdisciplinary team](#contributors) of computer scientists and lawyers spanning academia and industry, interested in understanding the types of legal tasks that modern language models are capable of solving. To do so, we've been accumulating and constructing a diverse collection of legal NLP tasks---all of which are [available](/legalbench/tasks/) in this repository. We have two goals for this project:
+
+1. First, we'd like to use these datasets to continually evaluate large language models for tasks involving legal reasoning and legal text. In particular, we're excited by the idea that the unique challenges posed by legal text may inspire new algorithmic innovations.
+2. Second, we'd like to use these datasets to guide legal practitioners and academics as they seek to understand to the safety and reliability implications of these models in their daily workflows.
+
+Our approach to building LegalBench is inspired by contemporaneous open-science efforts for democratizing participation in machine learning development (e.g [HELM](https://crfm.stanford.edu/helm/latest/), [BigBench](https://github.com/google/BIG-bench)).
 
 If you have any questions, please don't hesitate to reach out to Neel Guha (nguha@stanford.edu).
 
-## Collaboration approach
+## Contributing a task
 
-As we've discussed above, LegalBench is inspired by Open Science initiatives, and we hope it can be a community wide effort in which relevant stakeholders participate in. We envision the following model of collaboration:
+We are currently in the process of adding more tasks to LegalBench. If you are interested in developing a task, know of an existing legal reasoning/legal text analysis dataset, or possess data that is relevant to legal reasoning, then we would be delighted to add your task/dataset to LegalBench. Our view of what constitutes "legal reasoning" is very broad---any task involving legal text, laws of any jurisdiction, or reasoning skill relevant to the law can be added. Examples of tasks that could be added to LegalBench include:
 
-1. Any individual or group with relevant domain expertise may contribute one more tasks to LegalBench via our website. Tasks should ideally fall into the IRAC framework, and consist of at least 50 samples for inference. More information on task requirements is detailed below.
-2. When new FMs are released, we will run them on LegalBench tasks and release results.
-3. After LegalBench has grown to encompass a sufficient number of tasks, we hope to---together with all task contributors to LegalBench---collaboratively write a paper detailing the different tasks and discussing our findings.
+- Tasks which require a model to apply specific legal rule(s) to a hypothetical pattern of facts. For instance:
+  - Asking the model to determine if a particular set of contacts give rise to personal jurisdiction?
+  - Asking the model to determine from a set of facts describing a contractual relationship which party would be liable for breaching the contract.
+  - Asking the model to determine whether a proposed federal statute would be a permissible exercise of power under the Commerce Clause.
+- Tasks which require a model to answer questions about the law in different jurisdiction.
+  - Asking the model to provide the holding statements for different cases.
+  - Asking the model to explain different common law tests.
+  - Asking the model to explain differences in law between two jurisdictions.
+  - Asking the model to identify the legal authority for different laws.
+- Tasks which require a model to classify legal texts.
+  - Asking the model to classify whether or not a contractual provision creates some type of right between the parties.
+  - Asking the model to classify whether a provision in a legal agreement would be oppressive and unenforceable under the laws of a jurisdiction.
+  - Asking the model to classify if a piece of statutory text performs a certain function (e.g., creates a private right, discusses notice requirements, allows for fee-shifting, etc.)
+- Tasks which require the model to perform types of reasoning common or unique to legal practice.
+  - Asking the model to determine the Bluebook signal that should preface a particular parenthetical.
+  - Asking the model to evaluate which premise most strongly supports a legal argument.
 
-## What are foundation models?
+Task submissions consist of a:
 
-Foundation models are extremely large pretrained models that have been trained on vast amounts of corpora. These models are typically *autoregressive*-given the beginning of a text fragment, they're usually capable of generating a cogent and fluent completion for the fragment. Prior research has shown that, by carefully designing [prompts](https://thegradient.pub/prompting/), these models can be used to perform more general purpose language classification tasks. 
+1. Task data. This may be submitted as one file, or optionally, as a train and test file.
+2. A description of the task.
+3. [Optional] A prompt to use for the task. If no prompt is submitted, then we will craft one for you.
 
-At a high level, designing prompts entails constructing an ``input'' text that consists of a description of the task, several demonstrations of the task, and the sample to predict. We provide more information on how to design prompts for legal tasks [here](./prompts/README.md).
+We accept new tasks via Github or via Google Forms. Instructions on both methods of submission are provided below. A step-by-step walkthrough is provided [here](https://github.com/HazyResearch/legalbench/blob/main/example_submission.md).
 
-## Contributing task data
-
-### Task requirements
-
-For examples of submitted tasks, please see the tasks submitted under `tasks/`. Tasks should contain at least 50 test samples, and between 2-5 train samples. Tasks should fall into one of following categories:
-
-**Issue tasks**: For these tasks, the model must identify a relevant legal issue in an input text.
-
-**Rule tasks**: For these tasks, the model is asked to restate a particular legal rule, or identify a quality of a legal rule.
-
-**Application and conclusion tasks**: For these tasks, the model is provided with a rule and a set of facts, and must determine what the outcome of the rule applied to those facts is. Examples: hearsay, diversity jurisdiction, etc.
-
-**Classification tasks**: These correspond to other legally relevant applications that require a model to classify a piece of text into a category. Examples: contract clause classification, citation prediction, etc.
-
-### Submitting tasks
-
-There are three ways to contribute tasks.
-
-**Contributing via Github**. Please submit a merge request with the following changes.
-
-1. Create a directory under `tasks/` with the name of the task.
-2. Create `test.tsv` in this directory with the test data. Make sure the file has the columns "label" and "text."
-3. [OPTIONAL] If you have created training data as well, put that in a file called `train.tsv`.
-4. [OPTIONAL] If you would like to contribute a chain-of-thought style prompt, then write chain-of-thought style explanations for the provided train samples in a file called `train_explanations.txt`. See the hearsay task for an explanation.
+**Note: smaller and manually crafted data sets are accepted! We ask only that the data set be at least 50 samples.**
 
 
-**Contributing via Google forms**. Please submit the task using this [form](https://forms.gle/HjgH8Vd3b2143cu29).
+### Task data (as one file)
+
+Task data may be submitted as a single TSV (tab-separated value) file. The first row of the TSV file should contain a header for each column of data. Most tasks will have only two columns, corresponding to the task input and the correct task output (e.g., [Unfair TOS](/tasks/unfair_tos/)). However, a task may have more than one column (e.g., [Statutory Reasoning Assessment](https://github.com/HazyResearch/legalbench/tree/main/tasks/statutory_reasoning_assessment). Each remaining row in the file should correspond to a sample. The file should be named `data.tsv`.
+
+If you wish to add metadata for each sample---to categorize subgroups in the dataset which implicate similar challenges---then add that as a column. For instance, [Hearsay](https://github.com/HazyResearch/legalbench/tree/main/tasks/hearsay) consists of a `slice` column, which describes the element of the hearsay rule being tested for each sample.
+
+If you submit as one file, we will go through the process of splitting the file into a train and test set.
+
+If you write your data in Excel or Google Sheets, then there is an option to export as a tsv file.
+
+### Task data (as two files)
+
+Alternatively, if you wish to split train and test yourself, then please submit two files. The first file should correspond to the train data, and should be named as `train.tsv`. The second file should correspond to test data, and be named `test.tsv`. Train files should consist of between 4-8 samples. Both files should have the same column names/schema.
+
+### Task description
+
+Lastly, tasks should be accompanied by a description, which includes the following:
+
+- What the task is.
+- What types of legal reasoning the task evaluates.
+- How the data was collected or created. If the task was adapted from an existing benchmark, then a reference to that paper should be included.
+
+### Base prompt [Optional]
+
+The base prompt file contains a prompt that can be used to solve the task. Below is an example of a prompt for the [Hearsay](https://github.com/HazyResearch/legalbench/tree/main/tasks/hearsay) task.
+
+```text
+Hearsay is an out-of-court statement introduced to prove the truth of the matter asserted.
 
 
-**Contributing via email**. Please create the above files and email Neel Guha (nguha@stanford.edu)! He will manually add them to this repository.
+Q: On the issue of whether David is fast, the fact that David set a high school track record. Is there hearsay?
+A: No
 
-## Prompts
+Q: On the issue of whether Rebecca was ill, the fact that Rebecca told Ronald that she was unwell. Is there hearsay?
+A: Yes
 
-To submit prompt, see [here](./prompts/README.md) for more information about our prompt schema, and how to submit prompts.
+Q: To prove that Tim was a soccer fan, the fact that Tim told Jimmy that "Real Madrid was the best soccer team in the world." Is there hearsay?
+A: No
 
-## Current tasks
-See [here](https://docs.google.com/spreadsheets/d/1DiY4ktP5zYi-uC6OgGUf8E05WX9Ea8IiZsuZicL8kHg/edit?usp=sharing) for a description of current tasks. We shall update this as more tasks are added.
+Q: When asked by the attorney on cross-examination, Alice testified that she had "never seen the plaintiff before, and had no idea who she was. Is there hearsay?
+A: No
+
+Q: On the issue of whether Martin punched James, the fact that Martin smiled and nodded when asked if he did so by an officer on the scene. Is there hearsay?
+A: Yes
+
+Q: {{text}} Is there hearsay?
+A:
+```
+
+Text enclosed in brackets should correspond to column names in the task data files.
+
+### Submission via Github
+
+See [this pull request](https://github.com/HazyResearch/legalbench/pull/6) for an illustration of how to add a task via Github.
+
+### Submission via Google Forms
+
+Tasks may be submitted via Google Forms at [this link](https://forms.gle/6wRB4ety1a7D1GQF8). 
+
+### Misc
+
+- Tasks that have been previously published as parts of other works or benchmarks may be added to LegalBench. If you are doing so, please be sure to follow the licensing requirements imposed by the original publishers, and to include a citation to the original work (see more below).
+- Task datasets should consist of at least 50 samples. However, if this is a barrier, please contact us and we can work with you to scale the dataset.
+- Due to the length limitations of most large language models, we prefer tasks which operate on sequences of text that are less than 2000 words. For tasks involving longer documents---like contract clause extraction---we encourage you to reframe the task as a classification task, by chunking the long document into subparts.
+
+## Evaluating on LegalBench tasks
+
+We encourage you to evaluate on LegalBench. See this [notebook](https://github.com/HazyResearch/legalbench/blob/main/UsingLegalBench.ipynb) for a guide on how to load task data and prompts.
+
+LegalBench tasks will be made available via Huggingface in June 2023.
+
+## Contributors
+
+The following individuals have contributed to LegalBench:
+
+- Neel Guha
+- Joel Niklaus
+- Nils Holzenberger
+- John Nay
+- Julian Nyarko
+- Daniel E. Ho
+- Christopher Ré
+
+## Licenses
+
+LegalBench is a mix of created and transformed datasets. We ask that you follow the license of the dataset creator. Please see the [task page](https://github.com/HazyResearch/legalbench/tree/main/tasks) for a list of tasks and licenses.
 
 ## Citing this work
 
-Please cite to our ArXiv paper!
+For now, please cite to the ArXiv paper. This will be updated in May 2023 when a paper with task contributors is released.
 
-```
+```text
 @misc{https://doi.org/10.48550/arxiv.2209.06120, 
   doi = {10.48550/ARXIV.2209.06120}, 
   url = {https://arxiv.org/abs/2209.06120}, 
@@ -83,3 +173,6 @@ Please cite to our ArXiv paper!
 }
 ```
 
+## Contact
+
+For questions, concerns, or comments, please reach out to Neel (nguha@stanford.edu).

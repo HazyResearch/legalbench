@@ -1,0 +1,22 @@
+Does the clause place a restriction on the ability of a party to raise or reduce prices of technology, goods, or services provided?
+
+Clause: This Agreement shall be binding upon Turpin and the heirs and legal representatives of Turpin, and shall be binding upon and ensure to the benefit of the Company and its successors and assigns, including any corporation with which or into which the Company or its successors may be merged or which may succeed, to its assets or business.
+Label: No
+
+Clause: Unless earlier terminated in accordance with this paragraph 7, this Agreement shall continue indefinitely.
+Label: No
+
+Clause: The Agreement shall have an initial term of ten (10) years commencing from the Effective Date and ending on the tenth (10th) anniversary thereof (the "Initial Term"), unless earlier terminated by either Party in accordance with the provisions of Section 15.2 or Section 15.3.
+Label: No
+
+Clause: Customer may not change the price of Buy-Sell<omitted>materials during any Fiscal Year.
+Label: Yes
+
+Clause: The prices payable by Ultragenyx to Cremer for the Product (the "Price") shall be agreed [***] every contract year; provided, that the Price may not increase more than the [***] for such period or [***]%, whichever is higher.
+Label: Yes
+
+Clause: No later than 30 days after the end of each contract year the Base Fee must be increased or decreased in accordance with the increase or decrease in the CPI and such increases or decreases will be calculated by using the following formula:
+Label: Yes
+
+Clause: {{text}}
+Label:

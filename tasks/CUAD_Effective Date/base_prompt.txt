@@ -1,0 +1,22 @@
+Does the clause specify the date upon which the agreement becomes effective?
+
+Clause: The commencement date for this contract will be 16th June 2004.
+Label: Yes
+
+Clause: Reports on all material Subcontractors for the Manufacturer's Products will be made available to Manufacturer upon request.
+Label: No
+
+Clause: The Joint Venture shall commence on the 1st of March, 2003,
+Label: Yes
+
+Clause: The effective term is 12 months beginning March 1, 2005 and ending February 28, 2006.
+Label: Yes
+
+Clause: Each of us grants only the licenses expressly specified herein.
+Label: No
+
+Clause: Unless this Agreement is terminated by Zogenix under Section 12.2(c), Distributor shall use Commercially Reasonable Efforts to cooperate with Zogenix and/or its designee to effect a smooth and orderly transition in the registration and Commercialization of the Product in the Field in the Territory during the applicable notice period under Section 12.2 and following the effective date of termination.
+Label: No
+
+Clause: {{text}}
+Label:

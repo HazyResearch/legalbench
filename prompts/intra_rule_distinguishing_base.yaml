@@ -1,6 +1,0 @@
-introduction: "Which issue does the following fact pattern implicate: trademarks, hearsay, or personal jurisdiction?"
-label_prefix: 'Answer: '
-labels: default
-sample_prefix: 'Facts: '
-sample_suffix: null
-task: issue

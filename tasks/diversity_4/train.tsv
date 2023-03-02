@@ -1,5 +1,7 @@
-label	text	slice
-Yes	Jenica (from Maine) sues Shelia (from Arkansas) for $8,800,000 for intentional infliction of emotional distress and Lauro (from Texas) for breach of contract for $9,300,000. Is there diversity jurisdiction over both claims?	Yes diverse parties, yes aic
-No	Niklaus (from Florida) sues Linda (from Florida) for $8,400,000 for wrongful eviction and Hattie (from Florida) for fraud for $9,400,000. Is there diversity jurisdiction over both claims?	No diverse parties, yes aic
-No	Kiele (from Hawaii) sues Elisse (from Virginia) for $58,000 for intentional infliction of emotional distress and Valena (from Virginia) for negligence for $47,000. Is there diversity jurisdiction over both claims?	Yes diverse parties, no aic
-No	Annalissa (from Connecticut) sues Jamian (from Connecticut) for $65,000 for negligence and Maurica (from Connecticut) for medical malpractice for $1,000,000. Is there diversity jurisdiction over both claims?	No diverse parties, no aic
+text	label	parties_are_diverse	aic_is_met
+Olivia is from Wyoming. Charlotte is from Oklahoma. Liam is from Massachusetts. Olivia and Charlotte both sue Liam for patent infringement for $2,991,000.	Yes	True	True
+Ava is from Louisiana. Elijah is from Connecticut. Sophia is from Hawaii. Ava and Elijah both sue Sophia for trademark infringement for $8,371,000.	Yes	True	True
+Amelia is from Connecticut. Mia is from Colorado. Benjamin is from North Carolina. Amelia and Mia both sue Benjamin for breach of contract for $19,000.	No	True	False
+Sophia is from Wisconsin. Evelyn is from Oklahoma. Harper is from New York. Sophia and Evelyn both sue Harper for legal malpractice for $9,847,000.	Yes	True	True
+Lucas is from Michigan. James is from Alabama. Benjamin is from Michigan. Lucas and James both sue Benjamin for defamation for $5,122,000.	No	False	True
+Harper is from Oklahoma. Emma is from Louisiana. Henry is from Maryland. Harper and Emma both sue Henry for wrongful eviction for $4,469,000.	Yes	True	True

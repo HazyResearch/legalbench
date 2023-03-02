@@ -1,5 +1,7 @@
-label	text	slice
-Yes	Jenica (from Maine) and Shelia (from Arkansas) each sue Lauro (from Texas) for intentional infliction of emotional distress for $8,800,000.	Yes diverse parties, yes aic
-No	Caitlen (from Minnesota) and Stephens (from Minnesota) each sue Dyron (from North Carolina) for discrimination for $56,000.	Yes diverse parties, no aic
-No	Poua (from New York) and Manny (from South Carolina) each sue Patsy (from South Carolina) for negligence for $1,900,000.	No diverse parties, yes aic
-No	Cosmo (from Michigan) and Herminia (from Michigan) each sue Jacole (from Michigan) for fraud for $31,000.	No diverse parties, no aic
+text	label	parties_are_diverse	aic_is_met
+William is from Oregon. Harper is from Alaska. Liam is from Alaska. William and Harper both sue Liam for medical malpractice for $17,000 and defamation for $69,000.	No	False	True
+Emma is from Rhode Island. Harper is from Mississippi. Elijah is from Maine. Emma and Harper both sue Elijah for trespass for $10,000 and defamation for $84,000.	Yes	True	True
+Harper is from Minnesota. Sophia is from Iowa. Lucas is from South Dakota. Harper and Sophia both sue Lucas for medical malpractice for $2,000 and copyright infringement for $78,000.	Yes	True	True
+Evelyn is from Kansas. Harper is from Arkansas. Benjamin is from South Carolina. Evelyn and Harper both sue Benjamin for trespass for $19,000 and copyright infringement for $54,000.	No	True	False
+Oliver is from Minnesota. Isabella is from North Dakota. Noah is from Connecticut. Oliver and Isabella both sue Noah for negligence for $26,000 and defamation for $99,000.	Yes	True	True
+Isabella is from Wisconsin. Elijah is from Montana. Noah is from Texas. Isabella and Elijah both sue Noah for medical malpractice for $66,000 and copyright infringement for $21,000.	Yes	True	True

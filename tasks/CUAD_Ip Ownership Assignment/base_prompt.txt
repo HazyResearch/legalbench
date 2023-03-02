@@ -1,0 +1,22 @@
+Does intellectual property created by one party become the property of the counterparty, either per the terms of the contract or upon the occurrence of certain events?
+
+Clause: Anixa will own, and OntoChem hereby assigns to Anixa, all right, title and interest in and to all Inventions other than OntoChem Inventions, including, for clarity, Inventions directed to the Lead Scaffold(s) (including the composition, use or manufacture thereof) (collectively, "Anixa Inventions").
+Label: Yes
+
+Clause: Upon the occurrence of any Change of Control (as defined below) this Agreement and all Licensee's rights and licenses hereunder shall automatically terminate unless, prior to the occurrence of such Change of Control, Licensor has consented to such Change of Control in a writing executed by an officer of Licensor; provided that Licensor will not unreasonably withhold its consent to the consummation of a Change of Control.
+Label: No
+
+Clause: However, to the extent that any Work may not, by operation of any Laws, be a work made for hire, MD Anderson hereby assigns, transfers and conveys to LBIO all of MD Anderson's worldwide right, title and interest in and to such Work, including all Intellectual Property Rights therein and relating thereto, subject to MD Anderson's right to use such Work for internal research, academic, and non-commercial patient care purposes prior to publication or public disclosure.
+Label: Yes
+
+Clause: CytoDyn will be the sole owner of all trade dress, logos, slogans, designs and copyrights specifically created by or on behalf of Vyera or used by Vyera on or in connection with the Licensed Products in the Territory.
+Label: Yes
+
+Clause: Subject to the remaining provisions of this Section, the term of this Agreement shall begin on the effective date first above written and shall continue until terminated by mutual agreement of the parties hereto or by either party on not less than 60 days' written notice to the other party hereto.
+Label: No
+
+Clause: The term "Specified Minimum Percentage" shall be equal to the percentage set forth on Schedule 1 attached hereto, which shall be agreed to by AIG and the Company at least once every year beginning upon the date of the filing of the Company's 2014 Annual Statement with the Domiciliary State's insurance department and following review against the capital adequacy standards and criteria ("Agency Criteria") of each of Standard & Poor's Corp. ("S&P"), Moody's Investors Service ("Moody's") and A.M. Best Company ("A.M. Best").<omitted>The Specified Minimum Percentage shall equal 385% of the Company's Company Action Level RBC.
+Label: No
+
+Clause: {{text}}
+Label:

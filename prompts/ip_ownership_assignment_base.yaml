@@ -1,8 +1,0 @@
-introduction: Does intellectual property created by one party become the property
-  of the counterparty, either per the terms of the contract or upon the occurrence
-  of certain events?
-label_prefix: 'A: '
-labels: default
-sample_prefix: 'Clause: '
-sample_suffix: null
-task: ip_ownership_assignment
