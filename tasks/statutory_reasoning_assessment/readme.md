@@ -1,10 +1,10 @@
 # StAtutory Reasoning Assessment (SARA) dataset
 
-**Contributor**: Nilz Holzenberg
+**Contributor**: Nils Holzenberger
 
 **Source**: <https://nlp.jhu.edu/law/>
 
-**License**:
+**License**: MIT
 
 ## Task Description
 
@@ -12,7 +12,7 @@ The StAtutory Reasoning Assessment (SARA) dataset tests the ability to reason ab
 
 ## Task Construction
 
-For information on task construction, see the [original paper](https://ceur-ws.org/Vol-2645/paper5.pdf).
+For information on task construction, see the [original paper](https://ceur-ws.org/Vol-2645/paper5.pdf). This task is built off of the [second version of the dataset](https://nlp.jhu.edu/law/#SARA_v2).
 
 ## Description of Headers
 
