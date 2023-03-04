@@ -9,6 +9,7 @@ fdir = Path(".")
 fpaths = list(fdir.glob("*/README.md"))
 
 table = []
+total = 0
 for fpath in sorted(fpaths): 
     task = str(fpath).split("/")[0]
     github_url = f"https://github.com/HazyResearch/legalbench/tree/main/tasks/{task}".replace(" ", "%20")
@@ -24,11 +25,15 @@ for fpath in sorted(fpaths):
                 license_name = line.replace("**License**: ", "").strip()
     
     url = f"[{task}]({github_url})"
+    if len(size) > 0:
+        total += eval(size)
     table.append([url, summary, size, license_name])
 
-README = """# Task overview 
+README = f"""# Task overview 
 
 The table below provides an overview of the different tasks.
+
+There are a total of {len(table)} tasks, encompassing {int(total)} samples.
 
 Task | Description | Size | License 
 ---- | ----------- | -----| -------

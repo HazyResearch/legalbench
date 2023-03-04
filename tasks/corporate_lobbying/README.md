@@ -4,11 +4,11 @@
 
 **Source**: John Nay
 
-**License**: 
+**License**: [CC By 4.0](https://creativecommons.org/licenses/by/4.0/)
 
 **Task summary**: Predict if a proposed bill is relevant to a company.
 
-**Size (samples)**: 
+**Size (samples)**: 500
 
 ## Task Description
 

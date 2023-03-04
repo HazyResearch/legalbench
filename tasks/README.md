@@ -2,6 +2,8 @@
 
 The table below provides an overview of the different tasks.
 
+There are a total of 53 tasks, encompassing 25060 samples.
+
 Task | Description | Size | License 
 ---- | ----------- | -----| -------
 [CUAD_Affiliate License-Licensee](https://github.com/HazyResearch/legalbench/tree/main/tasks/CUAD_Affiliate%20License-Licensee)|Does the clause describe a license grant to a licensee (incl. sublicensor) and the affiliates of such licensee/sublicensor?|208|[CC By 4.0](https://creativecommons.org/licenses/by/4.0/)
@@ -43,7 +45,7 @@ Task | Description | Size | License
 [CUAD_Volume Restriction](https://github.com/HazyResearch/legalbench/tree/main/tasks/CUAD_Volume%20Restriction)|Does the clause specify a fee increase or consent requirement, etc. if one party’s use of the product/services exceeds certain threshold?|328|[CC By 4.0](https://creativecommons.org/licenses/by/4.0/)
 [CUAD_Warranty Duration](https://github.com/HazyResearch/legalbench/tree/main/tasks/CUAD_Warranty%20Duration)|Does the clause specify a duration of any warranty against defects or errors in technology, products, or services provided under the contract?|326|[CC By 4.0](https://creativecommons.org/licenses/by/4.0/)
 [abercrombie](https://github.com/HazyResearch/legalbench/tree/main/tasks/abercrombie)|Classify if the mark for a product on the Abercrombie spectrum.|100|[CC by 4.0](https://creativecommons.org/licenses/by/4.0/)
-[corporate_lobbying](https://github.com/HazyResearch/legalbench/tree/main/tasks/corporate_lobbying)|Predict if a proposed bill is relevant to a company.||
+[corporate_lobbying](https://github.com/HazyResearch/legalbench/tree/main/tasks/corporate_lobbying)|Predict if a proposed bill is relevant to a company.|500|[CC By 4.0](https://creativecommons.org/licenses/by/4.0/)
 [diversity_1](https://github.com/HazyResearch/legalbench/tree/main/tasks/diversity_1)|Classify if a particular set of claims qualify for diversity jurisdiction based on amount-in-controversy and party citizenships.|306|[CC By 4.0](https://creativecommons.org/licenses/by/4.0/)
 [diversity_2](https://github.com/HazyResearch/legalbench/tree/main/tasks/diversity_2)|Classify if a particular set of claims qualify for diversity jurisdiction based on amount-in-controversy and party citizenships.|306|[CC By 4.0](https://creativecommons.org/licenses/by/4.0/)
 [diversity_3](https://github.com/HazyResearch/legalbench/tree/main/tasks/diversity_3)|Classify if a particular set of claims qualify for diversity jurisdiction based on amount-in-controversy and party citizenships.|306|[CC By 4.0](https://creativecommons.org/licenses/by/4.0/)
@@ -56,4 +58,4 @@ Task | Description | Size | License
 [proa](https://github.com/HazyResearch/legalbench/tree/main/tasks/proa)|Classify if a statute contains a private right of action.|100|[CC by 4.0](https://creativecommons.org/licenses/by/4.0/)
 [rule_qa](https://github.com/HazyResearch/legalbench/tree/main/tasks/rule_qa)|Answer questions about federal and state law.|50|[CC by 4.0](https://creativecommons.org/licenses/by/4.0/)
 [statutory_reasoning_assessment](https://github.com/HazyResearch/legalbench/tree/main/tasks/statutory_reasoning_assessment)|||
-[unfair_tos](https://github.com/HazyResearch/legalbench/tree/main/tasks/unfair_tos)|Classify if a terms-of-service clause is unfair.||[CC by 4.0](https://creativecommons.org/licenses/by/4.0/)
+[unfair_tos](https://github.com/HazyResearch/legalbench/tree/main/tasks/unfair_tos)|Classify if a terms-of-service clause is unfair.|3850.|[CC by 4.0](https://creativecommons.org/licenses/by/4.0/)
