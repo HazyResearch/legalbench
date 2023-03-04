@@ -2,7 +2,7 @@
 
 The table below provides an overview of the different tasks.
 
-There are a total of 53 tasks, encompassing 25060 samples.
+There are a total of 54 tasks, encompassing 27460 samples.
 
 Task | Description | Size | License 
 ---- | ----------- | -----| -------
@@ -54,8 +54,9 @@ Task | Description | Size | License
 [diversity_6](https://github.com/HazyResearch/legalbench/tree/main/tasks/diversity_6)|Classify if a particular set of claims qualify for diversity jurisdiction based on amount-in-controversy and party citizenships.|306|[CC By 4.0](https://creativecommons.org/licenses/by/4.0/)
 [hearsay](https://github.com/HazyResearch/legalbench/tree/main/tasks/hearsay)|Classify if a particular piece of evidence would be barred as hearsay.|100|[CC By 4.0](https://creativecommons.org/licenses/by/4.0/)
 [intra_rule_distinguishing](https://github.com/HazyResearch/legalbench/tree/main/tasks/intra_rule_distinguishing)|Determine which LegalBench issue is implicated in a certain fact pattern (meta-task).|60|[CC by 4.0](https://creativecommons.org/licenses/by/4.0/)
+[overruling](https://github.com/HazyResearch/legalbench/tree/main/tasks/overruling)|Classify whether a sentence overrules a previous case.|2400|[CC By 4.0](https://creativecommons.org/licenses/by/4.0/)
 [personal_jurisdiction](https://github.com/HazyResearch/legalbench/tree/main/tasks/personal_jurisdiction)|Classify if a set of facts give rise to personal jurisdiction.|50|[CC by 4.0](https://creativecommons.org/licenses/by/4.0/)
 [proa](https://github.com/HazyResearch/legalbench/tree/main/tasks/proa)|Classify if a statute contains a private right of action.|100|[CC by 4.0](https://creativecommons.org/licenses/by/4.0/)
 [rule_qa](https://github.com/HazyResearch/legalbench/tree/main/tasks/rule_qa)|Answer questions about federal and state law.|50|[CC by 4.0](https://creativecommons.org/licenses/by/4.0/)
-[statutory_reasoning_assessment](https://github.com/HazyResearch/legalbench/tree/main/tasks/statutory_reasoning_assessment)|||
+[statutory_reasoning_assessment](https://github.com/HazyResearch/legalbench/tree/main/tasks/statutory_reasoning_assessment)|||MIT
 [unfair_tos](https://github.com/HazyResearch/legalbench/tree/main/tasks/unfair_tos)|Classify if a terms-of-service clause is unfair.|3850.|[CC by 4.0](https://creativecommons.org/licenses/by/4.0/)
