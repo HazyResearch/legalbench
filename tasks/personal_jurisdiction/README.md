@@ -6,6 +6,10 @@
 
 **License**: [CC by 4.0](https://creativecommons.org/licenses/by/4.0/)
 
+**Task summary**: Classify if a set of facts give rise to personal jurisdiction.
+
+**Size (samples)**: 50
+
 ## Task Description
 
 Personal jurisdiction refers to the ability of a particular court (e.g. a court in the Northern District of California) to preside over a dispute between a specific plaintiff and defendant~\todocite. A court (sitting in a particular forum) has personal jurisdiction over a defendant only when that defendant has a relationship with the forum. We focus on a simplified version of the rule for federal personal jurisdiction, using the rule:

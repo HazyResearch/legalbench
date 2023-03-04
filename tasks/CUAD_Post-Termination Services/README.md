@@ -6,6 +6,10 @@
 
 **License**: [CC By 4.0](https://creativecommons.org/licenses/by/4.0/)
 
+**Task summary**: Does the clause subject a party to obligations after the termination or expiration of a contract, including any post-termination transition, payment, transfer of IP, wind-down, last-buy, or similar commitments?
+
+**Size (samples)**: 816
+
 ## Task Description
 
 This is a binary classification task in which the model must determine if a contractual clause falls under the category of "Post-Termination Services".

@@ -6,6 +6,10 @@
 
 **License**: [CC By 4.0](https://creativecommons.org/licenses/by/4.0/)
 
+**Task summary**: Does the clause specify that a party’s liability is uncapped upon the breach of its obligation in the contract? This also includes uncap liability for a particular type of breach such as IP infringement or breach of confidentiality obligation
+
+**Size (samples)**: 302
+
 ## Task Description
 
 This is a binary classification task in which the model must determine if a contractual clause falls under the category of "Uncapped Liability".

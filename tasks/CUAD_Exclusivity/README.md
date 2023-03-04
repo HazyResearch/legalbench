@@ -6,6 +6,10 @@
 
 **License**: [CC By 4.0](https://creativecommons.org/licenses/by/4.0/)
 
+**Task summary**: Does the clause specify exclusive dealing commitment with the counterparty? This includes a commitment to procure all “requirements” from one party of certain technology, goods, or services or a prohibition on licensing or selling technology, goods or services to third parties, or a prohibition on collaborating or working with other parties), whether during the contract or after the contract ends (or both).
+
+**Size (samples)**: 770
+
 ## Task Description
 
 This is a binary classification task in which the model must determine if a contractual clause falls under the category of "Exclusivity".

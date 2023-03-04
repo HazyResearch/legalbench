@@ -6,6 +6,10 @@
 
 **License**: [CC By 4.0](https://creativecommons.org/licenses/by/4.0/)
 
+**Task summary**: Does the clause grant one party a right of first refusal, right of first offer or right of first negotiation to purchase, license, market, or distribute equity interest, technology, assets, products or services?
+
+**Size (samples)**: 698
+
 ## Task Description
 
 This is a binary classification task in which the model must determine if a contractual clause falls under the category of "Rofr/Rofo/Rofn".

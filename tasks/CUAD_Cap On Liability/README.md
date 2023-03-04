@@ -6,6 +6,10 @@
 
 **License**: [CC By 4.0](https://creativecommons.org/licenses/by/4.0/)
 
+**Task summary**: Does the clause specify a cap on liability upon the breach of a party’s obligation? This includes time limitation for the counterparty to bring claims or maximum amount for recovery.
+
+**Size (samples)**: 1262
+
 ## Task Description
 
 This is a binary classification task in which the model must determine if a contractual clause falls under the category of "Cap On Liability".

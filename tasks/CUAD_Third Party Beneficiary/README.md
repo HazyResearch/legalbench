@@ -6,6 +6,10 @@
 
 **License**: [CC By 4.0](https://creativecommons.org/licenses/by/4.0/)
 
+**Task summary**: Does the clause specify that that there a non-contracting party who is a beneficiary to some or all of the clauses in the contract and therefore can enforce its rights against a contracting party?
+
+**Size (samples)**: 76
+
 ## Task Description
 
 This is a binary classification task in which the model must determine if a contractual clause falls under the category of "Third Party Beneficiary".

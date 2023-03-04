@@ -6,6 +6,10 @@
 
 **License**: [CC by 4.0](https://creativecommons.org/licenses/by/4.0/)
 
+**Task summary**: Answer questions about federal and state law.
+
+**Size (samples)**: 50
+
 ## Task Description
 
 Rule QA is a question-answer task in which the model is asked about laws. Questions span asking the model to state the formulations for different legal rules (e.g., the rule for hearsay), identify where laws are codified, and general questions about doctrine.

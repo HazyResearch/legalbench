@@ -6,6 +6,10 @@
 
 **License**: [CC By 4.0](https://creativecommons.org/licenses/by/4.0/)
 
+**Task summary**: Does the clause mention exceptions or carveouts to Non-Compete, Exclusivity and No-Solicit of Customers?
+
+**Size (samples)**: 226
+
 ## Task Description
 
 This is a binary classification task in which the model must determine if a contractual clause falls under the category of "Competitive Restriction Exception".

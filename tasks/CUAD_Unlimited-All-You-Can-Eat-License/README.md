@@ -6,6 +6,10 @@
 
 **License**: [CC By 4.0](https://creativecommons.org/licenses/by/4.0/)
 
+**Task summary**: Does the clause grant one party an “enterprise,” “all you can eat” or unlimited usage license?
+
+**Size (samples)**: 54
+
 ## Task Description
 
 This is a binary classification task in which the model must determine if a contractual clause falls under the category of "Unlimited/All-You-Can-Eat-License".
