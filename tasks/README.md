@@ -60,3 +60,4 @@ Task | Description | Size | License
 [rule_qa](https://github.com/HazyResearch/legalbench/tree/main/tasks/rule_qa)|Answer questions about federal and state law.|50|[CC by 4.0](https://creativecommons.org/licenses/by/4.0/)
 [statutory_reasoning_assessment](https://github.com/HazyResearch/legalbench/tree/main/tasks/statutory_reasoning_assessment)|||MIT
 [unfair_tos](https://github.com/HazyResearch/legalbench/tree/main/tasks/unfair_tos)|Classify if a terms-of-service clause is unfair.|3850.|[CC by 4.0](https://creativecommons.org/licenses/by/4.0/)
+[first_amendment](https://github.com/HazyResearch/legalbench/tree/main/tasks/first_amendment)|Classify if a scenario is protected by the First Amendment|55|[CC by 4.0](https://creativecommons.org/licenses/by/4.0/)

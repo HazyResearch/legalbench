@@ -1,0 +1,4 @@
+Given a scenario that involves a speech act or an expression, determine if the speech would be classified as protected by the First Amendment of the United States Constitution.
+
+Scenario: {{text}}
+Answer:
