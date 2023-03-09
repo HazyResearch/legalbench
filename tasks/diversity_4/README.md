@@ -18,3 +18,10 @@ Diversity jurisdiction is one way in which a federal court may have jurisdiction
 ## Dataset Construction
 
 We constructed a dataset to evaluate diversity jurisdiction by creating synthetic fact patterns describing individual(s), their citizenships, and the amounts being sued for. Each diversity task corresponds to a different type of fact pattern. In this version, we test fact patterns consisting of two plaintiffs asserting one claim each against one defendant. Fact patterns are generated with random amounts, citizenships, claim types, and party names. For each sample, we additionally provide whether or not the AiC is met (`aic_is_met`) and whether or not the parties are diverse (`parties_are_diverse`).
+
+## Column names
+
+- `text`: the text of the fact pattern
+- `label`: whether the parties are diverse ("Yes") or not ("No")
+- `aic_is_met`: whether the AiC requirement is met
+- `parties_are_diverse`: whether the parties are diverse

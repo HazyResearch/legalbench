@@ -17,3 +17,9 @@ Intra-rule distinguishing evaluates whether a LLM can identify the legal rule im
 ## Task Construction
 
 We selected fact patterns from the personal jurisdiction, hearsay, and abercrombie tasks. For each sample, the name of the original task is treated as the label to predict.
+
+
+## Column names
+
+- `label`: the type of legal question implicated
+- `text`: a fact pattern from a LegalBench task

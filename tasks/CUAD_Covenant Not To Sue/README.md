@@ -23,3 +23,8 @@ Is a party restricted from contesting the validity of the counterparty’s owner
 ```
 
 Negative samples are randomly selected from other clauses.
+
+## Column names
+
+- `label`: whether the clause is an instance of the type ("Yes") or not ("No")
+- `text`: text of contractual clause

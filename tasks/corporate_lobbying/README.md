@@ -14,6 +14,16 @@
 
 This task measures LLM ability to predict whether a proposed bill is relevant to a company.
 
+## Column names
+
+- `bill_title`: title of bill
+- `bill_summary`: summary of bill
+- `company_name`: name of company
+- `company_description`: description of company
+- `label`: whether the bill is relevant ("Yes") or not ("No")
+
+## Prompting
+
 You can prompt the model like this:
 
 ```text

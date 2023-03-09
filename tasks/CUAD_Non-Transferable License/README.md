@@ -23,3 +23,8 @@ Does the clause limit the ability of a party to transfer the license being grant
 ```
 
 Negative samples are randomly selected from other clauses.
+
+## Column names
+
+- `label`: whether the clause is an instance of the type ("Yes") or not ("No")
+- `text`: text of contractual clause

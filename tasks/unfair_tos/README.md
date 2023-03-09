@@ -17,3 +17,8 @@ The purpose of this task is classifying clauses in Terms of Service agreements. 
 ## Task Construction
 
 Our data is composed of clauses from the validation and test split of [LexGlue](https://arxiv.org/abs/2110.00976) version of this task. We removed all clauses for which multiple annotations were available.
+
+## Column names
+
+- `text`: a contractual clause
+- `label`: clause category
