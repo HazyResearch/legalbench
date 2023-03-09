@@ -35,3 +35,10 @@ We create the hearsay dataset by hand, drawing inspiration from similar exercise
 - Standard hearsay : Fact patterns where there is an oral statement, it is said out of court, and it is introduced to prove the truth of the matter asserted. Thus, these fact patterns correspond to hearsay.
 - Non-verbal hearsay: Fact patterns where the statement is hearsay, but made in writing or through assertive conduct (e.g. pointing).
 - Not introduced to prove truth : Fact patterns where an out-of-court statement is introduced to prove something other than what it asserts.
+
+
+## Column names
+
+- `label`: whether the evidence in the fact pattern is hearsay ("Yes") or not ("No")
+- `text`: a fact pattern describing a piece of evidence and a particular issue
+- `slice`: denotes the slice of the fact pattern

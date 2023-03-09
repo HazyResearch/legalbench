@@ -17,3 +17,9 @@ This task consists of classifying whether or not a particular sentence of case l
 ## Dataset construction
 
 For information on construction, please refer to the original paper.
+
+
+## Column names
+
+- `label`: whether or not the sentence overrules a previous decision
+- `text`: a sentence from a judicial opinion

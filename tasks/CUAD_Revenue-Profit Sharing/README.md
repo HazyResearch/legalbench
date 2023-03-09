@@ -23,3 +23,8 @@ Does the clause require a party to share revenue or profit with the counterparty
 ```
 
 Negative samples are randomly selected from other clauses.
+
+## Column names
+
+- `label`: whether the clause is an instance of the type ("Yes") or not ("No")
+- `text`: text of contractual clause

@@ -23,3 +23,8 @@ Does the clause specify that a party’s liability is uncapped upon the breach o
 ```
 
 Negative samples are randomly selected from other clauses.
+
+## Column names
+
+- `label`: whether the clause is an instance of the type ("Yes") or not ("No")
+- `text`: text of contractual clause

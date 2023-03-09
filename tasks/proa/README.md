@@ -17,3 +17,8 @@ A private right of action (PROA) exists when a statute empowers an ordinary indi
 ## Dataset construction
 
 We construct a dataset of PROAs by hand, drawing inspiration from clauses found in different state codes. We construct 50 clauses which do contain a PROA, and 50 clauses which don't. 5 randomly sampled clauses constitute the training set, and the remaining 95 form the test set.
+
+## Column names
+
+- `text`: a statutory clause
+- `label`: whether the clause contains a private right ("Yes") or not ("No")

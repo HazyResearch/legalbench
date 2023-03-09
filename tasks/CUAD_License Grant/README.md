@@ -23,3 +23,8 @@ Does the clause contain a license granted by one party to its counterparty?
 ```
 
 Negative samples are randomly selected from other clauses.
+
+## Column names
+
+- `label`: whether the clause is an instance of the type ("Yes") or not ("No")
+- `text`: text of contractual clause

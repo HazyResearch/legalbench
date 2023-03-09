@@ -33,3 +33,10 @@ We manually construct a dataset to test application of the personal jurisdiction
 - Yes contacts, yes nexus: Fact patterns where **B** has sufficient contacts with **A**, and the claims against **B** arise from those contacts. Hence, there is personal jurisdiction.
 
 **Caveat**. Personal jurisdiction is a rich and complex doctrine. Our dataset focuses on a narrow class of fact patterns, related to jurisdiction over individuals. We don't consider, for instance, more complex questions related to adjudicating citizenship (e.g. the *Hertz* test) or the classic stream-of-commerce problems. We leave this to future work.
+
+
+## Column names
+
+- `label`: whether personal jurisdiction over the defendant exists ("Yes") or doesn't ("No")
+- `text`: a fact pattern describing a plaintiff and defendant's relationship to each other and a particular set of forums
+- `slice`: the slice for the fact pattern

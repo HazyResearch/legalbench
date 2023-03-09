@@ -23,3 +23,8 @@ Does the clause specify a minimum order size or minimum amount or units pertime 
 ```
 
 Negative samples are randomly selected from other clauses.
+
+## Column names
+
+- `label`: whether the clause is an instance of the type ("Yes") or not ("No")
+- `text`: text of contractual clause

@@ -14,7 +14,8 @@ The StAtutory Reasoning Assessment (SARA) dataset tests the ability to reason ab
 
 For information on task construction, see the [original paper](https://ceur-ws.org/Vol-2645/paper5.pdf). This task is built off of the [second version of the dataset](https://nlp.jhu.edu/law/#SARA_v2).
 
-## Description of Headers
+
+## Column names
 
 ### {train, test}.csv
 - **case id**: A unique string identifier for the case.

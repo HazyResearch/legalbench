@@ -23,3 +23,8 @@ Does the clause restrict a party’s soliciting or hiring employees and/or contr
 ```
 
 Negative samples are randomly selected from other clauses.
+
+## Column names
+
+- `label`: whether the clause is an instance of the type ("Yes") or not ("No")
+- `text`: text of contractual clause

@@ -17,3 +17,10 @@ Rule QA is a question-answer task in which the model is asked about laws. Questi
 ## Dataset construction
 
 We constructed this dataset by hand. For each sample, we provide the area of law it relates to (e.g. Civil Procedure).
+
+
+## Column names
+
+- `text`: a question pertaining to a part of the law
+- `answer`: an acceptable answer to the question
+- `doctrine`: the area of law the question pertains to
