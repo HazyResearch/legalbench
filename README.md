@@ -136,7 +136,7 @@ Tasks may be submitted via Google Forms at [this link](https://forms.gle/6wRB4et
 
 ## Evaluating on LegalBench tasks
 
-We encourage you to evaluate on LegalBench. See this [notebook](https://github.com/HazyResearch/legalbench/blob/main/UsingLegalBench.ipynb) for a guide on how to load task data and prompts.
+Please note that LegalBench is still under development, and we're continuing to tweak aspects of the datasets. However, we encourage you to evaluate on LegalBench. See this [notebook](https://github.com/HazyResearch/legalbench/blob/main/UsingLegalBench.ipynb) for a guide on how to load task data and prompts.
 
 LegalBench tasks will be made available via Huggingface in June 2023.
 
