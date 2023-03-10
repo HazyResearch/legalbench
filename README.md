@@ -4,7 +4,7 @@ LegalBench is a **collaborative** benchmark intended to evaluate English large l
 
 **In May 2023, we will be writing a paper describing the organization of LegalBench. Anyone who submits a task to LegalBench will be invited to join the paper as a co-author provided that:**
 
-1. **The task consists of at least 50 samples.**
+1. **The task consists of at least 50 samples, and input samples should be fewer than 2000 words.**
 2. **The task is submitted before April 30th (2023).**
 
 The remainder of this README provides more information on potential tasks that can be added, how tasks should be submitted, and how LegalBench can be used.
@@ -39,7 +39,11 @@ If you have any questions, please don't hesitate to reach out to Neel Guha (nguh
 
 ## Contributing a task
 
-We are currently in the process of adding more tasks to LegalBench. If you are interested in developing a task, know of an existing legal reasoning/legal text analysis dataset, or possess data that is relevant to legal reasoning, then we would be delighted to add your task/dataset to LegalBench. Our view of what constitutes "legal reasoning" is very broad---any task involving legal text, laws of any jurisdiction, or reasoning skill relevant to the law can be added. Examples of tasks that could be added to LegalBench include:
+We are currently in the process of adding more tasks to LegalBench. If you are interested in developing a task, know of an existing legal reasoning/legal text analysis dataset, or possess data that is relevant to legal reasoning, then we would be delighted to add your task/dataset to LegalBench. Our view of what constitutes "legal reasoning" is very broad---any task involving legal text, laws of any jurisdiction, or reasoning skill relevant to the law can be added.
+
+Due to the length limitations of most large language models, we prefer tasks which operate on sequences of text that are less than 2000 words. For tasks involving longer documents---like contract clause extraction---we encourage you to reframe the task as a classification task, by chunking the long document into subparts.
+
+Examples of tasks that could be added to LegalBench include:
 
 - Tasks which require a model to apply specific legal rule(s) to a hypothetical pattern of facts. For instance:
   - Asking the model to determine if a particular set of contacts give rise to personal jurisdiction?
@@ -132,7 +136,7 @@ Tasks may be submitted via Google Forms at [this link](https://forms.gle/6wRB4et
 
 - Tasks that have been previously published as parts of other works or benchmarks may be added to LegalBench. If you are doing so, please be sure to follow the licensing requirements imposed by the original publishers, and to include a citation to the original work (see more below).
 - Task datasets should consist of at least 50 samples. However, if this is a barrier, please contact us and we can work with you to scale the dataset.
-- Due to the length limitations of most large language models, we prefer tasks which operate on sequences of text that are less than 2000 words. For tasks involving longer documents---like contract clause extraction---we encourage you to reframe the task as a classification task, by chunking the long document into subparts.
+
 
 ## Evaluating on LegalBench tasks
 
