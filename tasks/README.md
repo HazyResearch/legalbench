@@ -2,7 +2,7 @@
 
 The table below provides an overview of the different tasks.
 
-There are a total of 54 tasks, encompassing 27460 samples.
+There are a total of 57 tasks, encompassing 28469 samples.
 
 Task | Description | Size | License 
 ---- | ----------- | -----| -------
@@ -60,3 +60,6 @@ Task | Description | Size | License
 [rule_qa](https://github.com/HazyResearch/legalbench/tree/main/tasks/rule_qa)|Answer questions about federal and state law.|50|[CC by 4.0](https://creativecommons.org/licenses/by/4.0/)
 [statutory_reasoning_assessment](https://github.com/HazyResearch/legalbench/tree/main/tasks/statutory_reasoning_assessment)|||MIT
 [unfair_tos](https://github.com/HazyResearch/legalbench/tree/main/tasks/unfair_tos)|Classify if a terms-of-service clause is unfair.|3850.|[CC by 4.0](https://creativecommons.org/licenses/by/4.0/)
+[lsat_ar](https://github.com/HazyResearch/legalbench/tree/main/tasks/lsat_ar)|LSAT Analytical Reasoning Questions.|230|[MIT](https://github.com/HazyResearch/legalbench/tree/main/tasks/lsat_ar/LICENSE)
+[lsat_rc](https://github.com/HazyResearch/legalbench/tree/main/tasks/lsat_rc)|LSAT Analytical Reading Comprehension Questions.|269|[MIT](https://github.com/HazyResearch/legalbench/tree/main/tasks/lsat_rc/LICENSE)
+[lsat_lr](https://github.com/HazyResearch/legalbench/tree/main/tasks/lsat_lr)|LSAT Analytical Logical Questions.|510|[MIT](https://github.com/HazyResearch/legalbench/tree/main/tasks/lsat_lr/LICENSE)
