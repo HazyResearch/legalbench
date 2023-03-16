@@ -1,6 +1,6 @@
 # LegalBench
 
-LegalBench is a **collaborative** benchmark intended to evaluate English large language models on legal reasoning and legal text-based tasks. LegalBench currently consists of more than 40 tasks, which are described in detail [here](https://github.com/HazyResearch/legalbench/tree/main/tasks). A draft proposal describing the organization of an initial seed set of tasks is available as a preprint [here](https://arxiv.org/abs/2209.06120).
+LegalBench is a **collaborative** benchmark intended to evaluate English large language models on legal reasoning and legal text-based tasks. LegalBench currently consists of more than 40 tasks, which are described in detail [here](https://github.com/HazyResearch/legalbench/tree/main/tasks). A draft proposal describing the organization of an initial seed set of tasks is available as a preprint [here](https://arxiv.org/abs/2209.06120). This repository currently contains demonstrative samples for each submitted task. Due to concerns about train-test leakage with large language models trained on Github/web corpora, we're currently assessing how best to make the benchmark available to the community. If you'd like to evaluate on LegalBench, please reach out.
 
 **In May 2023, we will be writing a paper describing the organization of LegalBench. Anyone who submits a task to LegalBench will be invited to join the paper as a co-author provided that:**
 
@@ -39,7 +39,7 @@ If you have any questions, please don't hesitate to reach out to Neel Guha (nguh
 
 ## Contributing a task
 
-We are currently in the process of adding more tasks to LegalBench. If you are interested in developing a task, know of an existing legal reasoning/legal text analysis dataset, or possess data that is relevant to legal reasoning, then we would be delighted to add your task/dataset to LegalBench. Our view of what constitutes "legal reasoning" is very broad---any task involving legal text, laws of any jurisdiction, or reasoning skill relevant to the law can be added. Examples of tasks that could be added to LegalBench include:
+We are currently in the process of adding more tasks to LegalBench. If you are interested in developing a task, know of an existing legal reasoning/legal text analysis dataset, or possess data that is relevant to legal reasoning, then we would be delighted to add your task/dataset to LegalBench. Our view of what constitutes "legal reasoning" is broad---any task involving legal text, laws of any jurisdiction, or reasoning skill relevant to the law can be added. Examples of tasks that could be added to LegalBench include:
 
 - Tasks which require a model to apply specific legal rule(s) to a hypothetical pattern of facts. For instance:
   - Asking the model to determine if a particular set of contacts give rise to personal jurisdiction?
@@ -64,10 +64,9 @@ Task submissions consist of a:
 2. A description of the task.
 3. [Optional] A prompt to use for the task. If no prompt is submitted, then we will craft one for you.
 
-We accept new tasks via Github or via Google Forms. Instructions on both methods of submission are provided below. A step-by-step walkthrough is provided [here](https://github.com/HazyResearch/legalbench/blob/main/example_submission.md).
+We accept new tasks via Google Forms. A step-by-step walkthrough is provided [here](https://github.com/HazyResearch/legalbench/blob/main/example_submission.md).
 
 **Note: smaller and manually crafted data sets are accepted! We ask only that the data set be at least 50 samples.**
-
 
 ### Task data (as one file)
 
@@ -122,11 +121,11 @@ Text enclosed in brackets should correspond to column names in the task data fil
 
 ### Submission via Github
 
-See [this pull request](https://github.com/HazyResearch/legalbench/pull/6) for an illustration of how to add a task via Github.
+**Update 3/16/23**: Due to concerns about train-test leakage with large language models trained on Github and web corpora, we're disabling submission via pull-request. Please submit only via Google Forms.
 
 ### Submission via Google Forms
 
-Tasks may be submitted via Google Forms at [this link](https://forms.gle/6wRB4ety1a7D1GQF8). 
+Tasks may be submitted via Google Forms at [this link](https://forms.gle/6wRB4ety1a7D1GQF8).
 
 ### Misc
 
@@ -136,7 +135,9 @@ Tasks may be submitted via Google Forms at [this link](https://forms.gle/6wRB4et
 
 ## Evaluating on LegalBench tasks
 
-Please note that LegalBench is still under development, and we're continuing to tweak aspects of the datasets. However, we encourage you to evaluate on LegalBench. See this [notebook](https://github.com/HazyResearch/legalbench/blob/main/UsingLegalBench.ipynb) for a guide on how to load task data and prompts.
+Please note that LegalBench is still under development, and we're continuing to tweak aspects of the datasets.
+
+**Update 3/16/23**: Due to emerging concerns about train-test leakage with large language models trained on Github and large web corpora, we've decided to only make a small sample of points available for each task on this repository. If you wish to evaluate on LegalBench, please reach out to us and we'll share a copy of the datasets.
 
 LegalBench tasks will be made available via Huggingface in June 2023.
 
