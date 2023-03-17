@@ -1,8 +1,8 @@
 # learned_hands_torts
 
-**Contributor**: Margaret Hagan
+**Contributor**: Legal Design Lab
 
-**Source**: [The Legal Innovation & Technology Lab (Suffolk Law School)](https://suffolklitlab.org/)
+**Source**: [Learned Hands](https://spot.suffolklitlab.org/data/#learnedhands)
 
 **License**: [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/)
 
