@@ -2,7 +2,7 @@
 
 The table below provides an overview of the different tasks.
 
-There are a total of 54 tasks, encompassing 27460 samples.
+There are a total of 70 tasks, encompassing 39104 samples.
 
 Task | Description | Size | License 
 ---- | ----------- | -----| -------
@@ -54,6 +54,22 @@ Task | Description | Size | License
 [diversity_6](https://github.com/HazyResearch/legalbench/tree/main/tasks/diversity_6)|Classify if a particular set of claims qualify for diversity jurisdiction based on amount-in-controversy and party citizenships.|306|[CC By 4.0](https://creativecommons.org/licenses/by/4.0/)
 [hearsay](https://github.com/HazyResearch/legalbench/tree/main/tasks/hearsay)|Classify if a particular piece of evidence would be barred as hearsay.|100|[CC By 4.0](https://creativecommons.org/licenses/by/4.0/)
 [intra_rule_distinguishing](https://github.com/HazyResearch/legalbench/tree/main/tasks/intra_rule_distinguishing)|Determine which LegalBench issue is implicated in a certain fact pattern (meta-task).|60|[CC by 4.0](https://creativecommons.org/licenses/by/4.0/)
+[learned_hands_benefits](https://github.com/HazyResearch/legalbench/tree/main/tasks/learned_hands_benefits)|Classify if a user post implicates legal isssues related to benefits.|76|[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/)
+[learned_hands_business](https://github.com/HazyResearch/legalbench/tree/main/tasks/learned_hands_business)|Classify if a user post implicates legal isssues related to business.|202|[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/)
+[learned_hands_consumer](https://github.com/HazyResearch/legalbench/tree/main/tasks/learned_hands_consumer)|Classify if a user post implicates legal isssues related to consumer.|628|[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/)
+[learned_hands_courts](https://github.com/HazyResearch/legalbench/tree/main/tasks/learned_hands_courts)|Classify if a user post implicates legal isssues related to courts.|222|[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/)
+[learned_hands_crime](https://github.com/HazyResearch/legalbench/tree/main/tasks/learned_hands_crime)|Classify if a user post implicates legal isssues related to crime.|744|[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/)
+[learned_hands_divorce](https://github.com/HazyResearch/legalbench/tree/main/tasks/learned_hands_divorce)|Classify if a user post implicates legal isssues related to divorce.|164|[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/)
+[learned_hands_domestic_violence](https://github.com/HazyResearch/legalbench/tree/main/tasks/learned_hands_domestic_violence)|Classify if a user post implicates legal isssues related to domestic_violence.|188|[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/)
+[learned_hands_education](https://github.com/HazyResearch/legalbench/tree/main/tasks/learned_hands_education)|Classify if a user post implicates legal isssues related to education.|64|[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/)
+[learned_hands_employment](https://github.com/HazyResearch/legalbench/tree/main/tasks/learned_hands_employment)|Classify if a user post implicates legal isssues related to employment.|748|[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/)
+[learned_hands_estates](https://github.com/HazyResearch/legalbench/tree/main/tasks/learned_hands_estates)|Classify if a user post implicates legal isssues related to estates.|196|[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/)
+[learned_hands_family](https://github.com/HazyResearch/legalbench/tree/main/tasks/learned_hands_family)|Classify if a user post implicates legal isssues related to family.|2368|[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/)
+[learned_hands_health](https://github.com/HazyResearch/legalbench/tree/main/tasks/learned_hands_health)|Classify if a user post implicates legal isssues related to health.|240|[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/)
+[learned_hands_housing](https://github.com/HazyResearch/legalbench/tree/main/tasks/learned_hands_housing)|Classify if a user post implicates legal isssues related to housing.|4614|[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/)
+[learned_hands_immigration](https://github.com/HazyResearch/legalbench/tree/main/tasks/learned_hands_immigration)|Classify if a user post implicates legal isssues related to immigration.|150|[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/)
+[learned_hands_torts](https://github.com/HazyResearch/legalbench/tree/main/tasks/learned_hands_torts)|Classify if a user post implicates legal isssues related to torts.|450|[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/)
+[learned_hands_traffic](https://github.com/HazyResearch/legalbench/tree/main/tasks/learned_hands_traffic)|Classify if a user post implicates legal isssues related to traffic.|590|[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/)
 [overruling](https://github.com/HazyResearch/legalbench/tree/main/tasks/overruling)|Classify whether a sentence overrules a previous case.|2400|[CC By 4.0](https://creativecommons.org/licenses/by/4.0/)
 [personal_jurisdiction](https://github.com/HazyResearch/legalbench/tree/main/tasks/personal_jurisdiction)|Classify if a set of facts give rise to personal jurisdiction.|50|[CC by 4.0](https://creativecommons.org/licenses/by/4.0/)
 [proa](https://github.com/HazyResearch/legalbench/tree/main/tasks/proa)|Classify if a statute contains a private right of action.|100|[CC by 4.0](https://creativecommons.org/licenses/by/4.0/)
