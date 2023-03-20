@@ -156,6 +156,7 @@ The following individuals have contributed to LegalBench:
 - Julian Nyarko
 - Daniel E. Ho
 - Christopher Ré
+- Sunny Gandhi
 
 ## Licenses
 
