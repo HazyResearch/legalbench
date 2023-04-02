@@ -1,0 +1,28 @@
+Identify if the clause provides that the Receiving Party shall not use any Confidential Information for any purpose other than the purposes stated in Agreement.
+
+Clause: The Parties agree to use the Confidential Information solely in connection with the Transaction and not for any purpose other than as authorized by this Agreement without the prior written consent of an authorized representative of the Parties.  The Parties agree to ensure that all copyright products, such as source codes, system design data/architecture, and other proprietary information, disclosed during the engagement is protected from any misuse, alteration, modification, sharing, or transfer to any party without express permission of the Discloser.  Such data is provided for the sole use of the Parties, and limited for the use under this agreement. The Receiving Party agrees not to use the Confidential Information in any way, or to manufacture or test any product embodying Confidential Information, except for the purpose set forth above. 
+Label: Yes
+
+Clause: 2. The Recipient undertakes not to use the Confidential Information for any purpose except the Purpose, without first obtaining the written agreement of the Discloser. 
+Label: Yes
+
+Clause: 3. The Receiving Party agrees that Confidential Information shall be used only for the purposes of facilitating the business relationship between the Parties.  
+Label: Yes
+
+Clause: 2.1  No Use: Recipient agrees not to use the Confidential Information in any way or under any circumstances share the same, in writing or through any other means, with any Third Party. 
+Label: Yes
+
+Clause: 4. Recipient may use the Confidential Information solely for evaluation purposes in connection with Recipient business discussions with Discloser.  6. Freedom of Use. Notwithstanding anything to the contrary, Recipient shall be free to use for any purposes the Residuals resulting from access to or work with Discloser's Confidential Information.  However, the foregoing does not give Recipient the right to disclose (except as set forth in Section 3) the financial, statistical, or personnel information or the business plans of Discloser, and the foregoing shall not be deemed to grant to either party a license under the other party's copyright or patents.  The term "Residuals" means information which may be retained in non-tangible form by person who have had access to the Confidential Information, including without limitation general ideas, concepts, know-how or techniques contained therein.  Recipient certifies that the Confidential Information will only be used for the purposes expressly stated herein and will not be rented, leased, sold, sublicensed, assigned, or otherwise transferred.  
+Label: No
+
+Clause: Further, the Receiving Party shall be free to use for any purpose the residuals resulting from access to or work with the Confidential Information of the Disclosing Party, provided that the Receiving Party shall not disclose the Confidential Information except as expressly permitted pursuant to the terms of this Agreement.  The term "residuals" means information in intangible form, which is retained in memory by persons who have had access to the Confidential Information, including ideas, concepts, know-how or techniques contained therein.  Furthermore, except as otherwise provided herein or in a separate subsequent written agreement between the parties, the receiver of the Feedback shall be free to use, disclose, reproduce, license or otherwise distribute, and exploit the Feedback provided to it as it sees fit, entirely without obligation or restriction of any kind on account of intellectual property rights or otherwise. 
+Label: No
+
+Clause: (iii) either Party will be free to use for any purpose the residuals resulting from access to or work with Confidential Information disclosed hereunder.  
+Label: No
+
+Clause: Nothing in this Agreement shall be construed to limit either party’s ability to use “residuals” relating to the Evaluation Material of the other party.  The term “residuals” shall mean information included in the Evaluation Material in nontangible form (i.e., not written or other documentary form, including tape or disk), which is incidentally retained in the memories of employees of either party who have had access to the Evaluation Material, including ideas, know-how, or techniques contained therein, and where the source of the Evaluation Material has become remote (e.g., as a result of the passage of time or the employee’s subsequent exposure to information of a similar nature from other sources) that the employee in good faith believes that it is not Evaluation Material.  
+Label: No
+
+Clause: {{text}}
+Label:
