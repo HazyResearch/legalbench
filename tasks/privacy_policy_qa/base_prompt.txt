@@ -1,0 +1,37 @@
+Classify if the clause is relevant to answering the question.
+
+Clause: If you choose not to complete a Consent Document or any additional agreement with 23andMe, your Personal Information will not be used for 23andMe Research.
+Question: do you ever sell my personal information to other companies for marketing purposes?
+Label: Relevant
+
+Clause: Individual-level Information: information about a single individual's genotypes, diseases or other traits/characteristics, but which is not necessarily tied to Registration Information.
+Question: will anyone have digital access to my test results?
+Label: Relevant
+
+Clause: We need your age, height and weight to calculate your consumption of calorie when you complete each training class.
+Question: will biological data like heart rate, blood pressure, etc. be collected via the app?
+Label: Relevant
+
+Clause: Your unique advertising identifier is created by your mobile devices operating system and you can change it or choose not to share it at any time.
+Question: if it's free, does viber profit off its users in some way?
+Label: Relevant
+
+Clause: Information we collect may be stored or processed on computers located in any country where we do business.
+Question: can the app access my camera?
+Label: Irrelevant
+
+Clause: 23andMe requires service providers to implement and maintain accepted industry standard administrative, physical and technical safeguards to protect Personal Information.
+Question: do you keep my data forever
+Label: Irrelevant
+
+Clause: 23andMe may use individual-level Genetic Information and Self-Reported Information internally at 23andMe for research purposes.
+Question: are you accessing and information about me from my phone?
+Label: Irrelevant
+
+Clause:   Under applicable EU regulation, as of May 25, 2018 you may have some or all of the following rights in respect of your personal information:
+Question: who can contact me through the app?
+Label: Irrelevant
+
+Clause: {{text}}
+Question: {{question}}
+Label:
