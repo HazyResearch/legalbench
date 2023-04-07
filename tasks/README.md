@@ -2,7 +2,7 @@
 
 The table below provides an overview of the different tasks.
 
-There are a total of 87 tasks, encompassing 97395 samples.
+There are a total of 88 tasks, encompassing 97695 samples.
 
 Task | Description | Size | License 
 ---- | ----------- | -----| -------
@@ -84,6 +84,7 @@ Task | Description | Size | License
 [learned_hands_immigration](https://github.com/HazyResearch/legalbench/tree/main/tasks/learned_hands_immigration)|Classify if a user post implicates legal isssues related to immigration.|150|[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/)
 [learned_hands_torts](https://github.com/HazyResearch/legalbench/tree/main/tasks/learned_hands_torts)|Classify if a user post implicates legal isssues related to torts.|450|[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/)
 [learned_hands_traffic](https://github.com/HazyResearch/legalbench/tree/main/tasks/learned_hands_traffic)|Classify if a user post implicates legal isssues related to traffic.|590|[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/)
+[nys_judicial_ethics](https://github.com/HazyResearch/legalbench/tree/main/tasks/nys_judicial_ethics)|Answer questions on judicial ethics from the New York State Unified Court System Advisory Committee.|300|MIT
 [overruling](https://github.com/HazyResearch/legalbench/tree/main/tasks/overruling)|Classify whether a sentence overrules a previous case.|2400|[CC By 4.0](https://creativecommons.org/licenses/by/4.0/)
 [personal_jurisdiction](https://github.com/HazyResearch/legalbench/tree/main/tasks/personal_jurisdiction)|Classify if a set of facts give rise to personal jurisdiction.|50|[CC by 4.0](https://creativecommons.org/licenses/by/4.0/)
 [privacy_policy_entailment](https://github.com/HazyResearch/legalbench/tree/main/tasks/privacy_policy_entailment)|Determine if a description of a privacy policy clause is correct given that clause.|4385|[CC BY-NC 3.0](https://creativecommons.org/licenses/by-nc/3.0/)

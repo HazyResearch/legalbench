@@ -158,6 +158,7 @@ The following individuals/groups have contributed to LegalBench:
 - Christopher Ré
 - Legal Design Lab
 - Frank Fagan
+- Peter Henderson
 
 ## Licenses
 

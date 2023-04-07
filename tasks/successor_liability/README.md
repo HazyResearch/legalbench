@@ -37,9 +37,3 @@ Mere continuation requires a showing that after the asset sale, only one corpora
 A dataset was constructed in order to test a model's ability to spot a successor liability issue. The dataset was constructed by hand, inspired by standard law school examination questions that require students to identify successor liability as a potential legal issue arising in an asset purchase.
 
 The dataset consists of four types of fact patterns. Each represent the standard exceptions to the general rule that purchasers of assets are not responsible for the debts and liabilities of the seller. These include: express agreement, fraudulent conveyance, de facto merger, and mere continuation.
-
-## Column names
-
-- `text`: a question pertaining to a part of the law
-- `answer`: an acceptable answer to the question
-- `doctrine`: the area of law the question pertains to
