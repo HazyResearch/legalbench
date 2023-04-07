@@ -157,6 +157,7 @@ The following individuals/groups have contributed to LegalBench:
 - Daniel E. Ho
 - Christopher Ré
 - Legal Design Lab
+- Frank Fagan
 
 ## Licenses
 

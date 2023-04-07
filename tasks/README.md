@@ -2,7 +2,7 @@
 
 The table below provides an overview of the different tasks.
 
-There are a total of 86 tasks, encompassing 97345 samples.
+There are a total of 87 tasks, encompassing 97395 samples.
 
 Task | Description | Size | License 
 ---- | ----------- | -----| -------
@@ -91,4 +91,5 @@ Task | Description | Size | License
 [proa](https://github.com/HazyResearch/legalbench/tree/main/tasks/proa)|Classify if a statute contains a private right of action.|100|[CC by 4.0](https://creativecommons.org/licenses/by/4.0/)
 [rule_qa](https://github.com/HazyResearch/legalbench/tree/main/tasks/rule_qa)|Answer questions about federal and state law.|50|[CC by 4.0](https://creativecommons.org/licenses/by/4.0/)
 [statutory_reasoning_assessment](https://github.com/HazyResearch/legalbench/tree/main/tasks/statutory_reasoning_assessment)|||MIT
+[successor_liability](https://github.com/HazyResearch/legalbench/tree/main/tasks/successor_liability)|Identify the type of successor liability in a fact pattern|50|[CC by 4.0](https://creativecommons.org/licenses/by/4.0/)
 [unfair_tos](https://github.com/HazyResearch/legalbench/tree/main/tasks/unfair_tos)|Classify if a terms-of-service clause is unfair.|3850.|[CC by 4.0](https://creativecommons.org/licenses/by/4.0/)
