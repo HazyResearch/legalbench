@@ -2,7 +2,7 @@
 
 The table below provides an overview of the different tasks.
 
-There are a total of 85 tasks, encompassing 92960 samples.
+There are a total of 86 tasks, encompassing 97345 samples.
 
 Task | Description | Size | License 
 ---- | ----------- | -----| -------
@@ -86,6 +86,7 @@ Task | Description | Size | License
 [learned_hands_traffic](https://github.com/HazyResearch/legalbench/tree/main/tasks/learned_hands_traffic)|Classify if a user post implicates legal isssues related to traffic.|590|[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/)
 [overruling](https://github.com/HazyResearch/legalbench/tree/main/tasks/overruling)|Classify whether a sentence overrules a previous case.|2400|[CC By 4.0](https://creativecommons.org/licenses/by/4.0/)
 [personal_jurisdiction](https://github.com/HazyResearch/legalbench/tree/main/tasks/personal_jurisdiction)|Classify if a set of facts give rise to personal jurisdiction.|50|[CC by 4.0](https://creativecommons.org/licenses/by/4.0/)
+[privacy_policy_entailment](https://github.com/HazyResearch/legalbench/tree/main/tasks/privacy_policy_entailment)|Determine if a description of a privacy policy clause is correct given that clause.|4385|[CC BY-NC 3.0](https://creativecommons.org/licenses/by-nc/3.0/)
 [privacy_policy_qa](https://github.com/HazyResearch/legalbench/tree/main/tasks/privacy_policy_qa)|Determine if a clause in a privacy policy contains the answer to a given question.|51750|[MIT](https://github.com/AbhilashaRavichander/PrivacyQA_EMNLP/blob/master/LICENSE)
 [proa](https://github.com/HazyResearch/legalbench/tree/main/tasks/proa)|Classify if a statute contains a private right of action.|100|[CC by 4.0](https://creativecommons.org/licenses/by/4.0/)
 [rule_qa](https://github.com/HazyResearch/legalbench/tree/main/tasks/rule_qa)|Answer questions about federal and state law.|50|[CC by 4.0](https://creativecommons.org/licenses/by/4.0/)
