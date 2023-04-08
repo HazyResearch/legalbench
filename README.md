@@ -161,6 +161,7 @@ The following individuals/groups have contributed to LegalBench:
 - Peter Henderson
 - Faiz Surani
 - Varun Iyer
+- Kevin Tobia
 
 ## Licenses
 

@@ -2,7 +2,7 @@
 
 The table below provides an overview of the different tasks.
 
-There are a total of 90 tasks, encompassing 107566 samples.
+There are a total of 91 tasks, encompassing 108262 samples.
 
 Task | Description | Size | License 
 ---- | ----------- | -----| -------
@@ -60,6 +60,7 @@ Task | Description | Size | License
 [contract_nli_Sharing with third-parties](https://github.com/HazyResearch/legalbench/tree/main/tasks/contract_nli_Sharing%20with%20third-parties)|Identify if the clause provides that the Receiving Party may share some Confidential Information with some third-parties (including consultants, agents and professional advisors).|204|[CC BY 4.0](https://creativecommons.org/licenses/by/4.0/)
 [contract_nli_Survival of obligations](https://github.com/HazyResearch/legalbench/tree/main/tasks/contract_nli_Survival%20of%20obligations)|Identify if the clause provides that ome obligations of Agreement may survive termination of Agreement.|166|[CC BY 4.0](https://creativecommons.org/licenses/by/4.0/)
 [corporate_lobbying](https://github.com/HazyResearch/legalbench/tree/main/tasks/corporate_lobbying)|Predict if a proposed bill is relevant to a company.|500|[CC By 4.0](https://creativecommons.org/licenses/by/4.0/)
+[definition_extraction](https://github.com/HazyResearch/legalbench/tree/main/tasks/definition_extraction)|Extract the term being defined in sentences from Supreme Court opinions.|696|
 [diversity_1](https://github.com/HazyResearch/legalbench/tree/main/tasks/diversity_1)|Classify if a particular set of claims qualify for diversity jurisdiction based on amount-in-controversy and party citizenships.|306|[CC By 4.0](https://creativecommons.org/licenses/by/4.0/)
 [diversity_2](https://github.com/HazyResearch/legalbench/tree/main/tasks/diversity_2)|Classify if a particular set of claims qualify for diversity jurisdiction based on amount-in-controversy and party citizenships.|306|[CC By 4.0](https://creativecommons.org/licenses/by/4.0/)
 [diversity_3](https://github.com/HazyResearch/legalbench/tree/main/tasks/diversity_3)|Classify if a particular set of claims qualify for diversity jurisdiction based on amount-in-controversy and party citizenships.|306|[CC By 4.0](https://creativecommons.org/licenses/by/4.0/)
