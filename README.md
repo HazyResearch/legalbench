@@ -159,6 +159,8 @@ The following individuals/groups have contributed to LegalBench:
 - Legal Design Lab
 - Frank Fagan
 - Peter Henderson
+- Faiz Surani
+- Varun Iyer
 
 ## Licenses
 
