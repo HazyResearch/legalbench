@@ -1,0 +1,28 @@
+Identify if the sentence defines a term.
+
+Sentence: In my view, the term “threat” in § 875(c) can fairly *744 be defined as a statement that is reasonably interpreted as “an expression of an intention to inflict evil, injury, or damage on another.” Webster's Third New International Dictionary 2382 (1976).
+Label: Yes
+
+Sentence: An embargo is a “ [g]overnment order prohibiting commercial trade with individuals or businesses of other nations.” Black's Law Dictionary 468 (5th ed. 1979). It is “[a] policy which prevents goods from entering a nation” and which “may be imposed on a product or on an individual country.” J. Berenyi, The Modern American Business Dictionary 103 (1982). 
+Label: Yes
+
+Sentence: Bouvier defines ‘inspection’ as the examination of certain articles made by law subject to such examination, so that they may be declared fit for commerce.
+Label: Yes
+
+Sentence: To animadvert carried the broader implication of “turn[ing] the attention officially or judicially, tak[ing] legal cognizance of anything deserving of chastisement or censure; hence, to proceed by way of punishment or censure.” 1 Oxford English Dictionary 474 (2d ed.1989). 
+Label: Yes
+
+Sentence: See, e. g., Cal. Penal Code Ann. §1170 (West Supp. 2000).
+Label: No
+
+Sentence: Even if the Court’s broad reading of the phrase “at issue” were correct, the Court’s conclusion would still be wrong because the relinquishment provision is limited to property that is at issue “in claims against the United States.”
+Label: No
+
+Sentence: Pursuing this end, the Act set a minimum sales price for school trust lands of $3 per acre, 36 Stat. 574, the House committee report explaining:
+Label: No
+
+Sentence: As that paragraph plainly shows, we do not question and fully accept that insanity acquittees may be initially held without complying with the procedures applicable to civil committees.
+Label: No
+
+Sentence: {{text}}
+Label:
