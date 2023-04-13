@@ -147,7 +147,7 @@ LegalBench tasks will be made available via Huggingface in June 2023.
 
 ## Contributors
 
-The following individuals have contributed to LegalBench:
+The following individuals/groups have contributed to LegalBench:
 
 - Neel Guha
 - Joel Niklaus
@@ -156,6 +156,12 @@ The following individuals have contributed to LegalBench:
 - Julian Nyarko
 - Daniel E. Ho
 - Christopher Ré
+- Legal Design Lab
+- Frank Fagan
+- Peter Henderson
+- Faiz Surani
+- Varun Iyer
+- Kevin Tobia
 
 ## Licenses
 

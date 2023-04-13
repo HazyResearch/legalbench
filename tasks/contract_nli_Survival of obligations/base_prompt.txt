@@ -1,0 +1,28 @@
+Identify if the clause provides that ome obligations of Agreement may survive termination of Agreement.
+
+Clause: b. Notwithstanding the foregoing, the parties' duty to hold in confidence Confidential Information that was disclosed during term shall remain in effect indefinitely. 
+Label: Yes
+
+Clause: Confidentiality obligations shall survive termination of this Agreement for the Period of Confidentiality set forth above unless the Confidential Information is a trade secret, in which case the confidentiality obligations shall continue for as long as the information is a trade secret.  Sections 1, 2, 3, 4, 5, 6, 17, 18, 19 and any sections (or parts thereof) which, by their nature, are intended to survive termination shall survive termination of this Agreement. 
+Label: Yes
+
+Clause: 8. The undertakings in clauses 2 and 3 will continue in force indefinitely. 
+Label: Yes
+
+Clause: The obligations of the Receiving Party under this Agreement shall survive the termination of this Agreement or the return of the Confidential Information to the Disclosing Party. 
+Label: Yes
+
+Clause: This Agreement and Recipient’s obligation to keep Confidential Information confidential expires three (3) years after the Effective Date. 
+Label: No
+
+Clause: Without granting any right or license, the Disclosing Party agrees that the foregoing clauses  (i),  (ii),  (iii) and  (v) shall not apply with respect to all obligations after five (5) years following the disclosure thereof or any information that the Receiving Party can document  
+Label: No
+
+Clause: The terms of this section “Use of Evaluation Materials” shall remain in effect for 2 years from the effective date of this agreement. The terms of this section “Non-Disclosure” shall remain in effect for 2 years from the effective date of this agreement. 
+Label: No
+
+Clause: 9. This Agreement shall expire and cease to have any force or effect on the earlier of  (i) eighteen months from the date hereof or  (ii) the date of consummation of a transaction between the parties. 
+Label: No
+
+Clause: {{text}}
+Label:

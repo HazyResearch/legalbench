@@ -1,0 +1,28 @@
+Identify the term being defined in each sentence.
+
+Sentence: "Both before and after the time when the Dictionary Act and § 1983 were passed, the phrase 'bodies politic and corporate' was understood to include the States." 
+Term: bodies of politic and corporate
+
+Sentence: Although the age of consent for statutory rape purposes varies by jurisdiction, see infra, at 1571, reliable dictionaries provide evidence that the “generic” age—in 1996 and today—is 16. See B. Garner, A Dictionary of Modern Legal Usage 38 (2d ed. 1995) (“Age of consent, usu[ally] 16, denotes the age when one is legally capable of agreeing ... to sexual intercourse” and cross-referencing “statutory rape”); Black's Law Dictionary 73 (10th ed. 2014) (noting that the age of consent is “usu[ally] defined by statute as 16 years”).
+Term: "age of consent"
+
+Sentence: Although the word “authorize” sometimes means simply “to permit,” it ordinarily denotes affirmative enabling action. Black's Law Dictionary 122 (5th ed. 1979) defines “authorize” as “[t]o empower; to give a right or authority to act.”
+Term: Authorize; Authorized
+
+Sentence: That interpretive practice of applying the modifier to the whole list boasts a fancy name—the “series-qualifier canon,” see Black's Law Dictionary 1574 (10th ed. 2014)—but, as my opening examples show, it reflects the completely ordinary way that people speak and listen, write and read.
+Term: series-qualifier canon
+
+Sentence: With respect to subparagraph (E), the statutory context makes clear that the prepositional phrase—“under section 1311”—is most naturally read to mean that the effluent limitation or other limitation must be approved or promulgated “pursuant to” or “by reason of the authority of” § 1311. See St. Louis Fuel and Supply Co., Inc. v. FERC, 890 F.2d 446, 450 (C.A.D.C.1989) (R.B. Ginsburg, J.) (“ ‘under’ means ‘subject [or pursuant] to’ or ‘by reason of the authority of’ ”); cf. Black's Law Dictionary 1368 (5th ed. 1979) (defining “under” as “according to”). 
+Term: Under
+
+Sentence: "The 'low-water mark' of a river is defined as a 'the point to which the water recedes at its lowest stage.'" Virginia v. Maryland, 540 U.S. 56, 62 n.2, 124 S.Ct. 598, 603 n.2 (2003) (quoting Black's Law Dictionary 1586 (7th ed. 1999)). 
+Term: low-water mark
+
+Sentence: it is defined: ‘A relative term without technical meaning. It may be employed as meaning disqualification; inability; incapacity; lack of ability, legal qualifications, or fitness to discharge the required duty.’ In Black's Law Dictionary, 3rd edition, page 945, and in 1 Bouv.Law Dict., Rawle's Third Revision, p. 1528, it is defined as ‘Lack of ability or fitness to discharge the required duty.’ Cases construing the word to the same effect are found in 4 Words and Phrases, First Series, page 3510, and 2 Words and Phrases, Second Series, page 1013.* Webster's New International Dictionary defines it as ‘want of physical, intellectual, or moral ability; insufficiency; inadequacy; specif., want of legal qualifications or fitness.’ Funk & Wagnalls Standard Dictionary defines it as ‘General lack of capacity of fitness, or lack of the special qualities required for a particular purpose.‘‘
+Term: incompetency 
+
+Sentence: A supervised-release revocation proceeding is not part of the criminal prosecution that landed a defendant in prison in the first place because “[a] ‘criminal prosecution’ ... ends when sentence has been pronounced on the convicted or a verdict of ‘Not guilty’ has cleared the defendant of the charge.” F. Heller, Sixth Amendment to the Constitution of the United States 54 (1951). This follows from the early understanding that a “prosecution” concludes when a court enters final judgment. See, e.g., Webster, An American Dictionary of the English Language (defining a prosecution as the “process of exhibiting formal charges against an offender before a legal tribunal, and pursuing them to final judgment” (emphasis added)); The Universal English Dictionary 465 (J. Craig ed. 1869) (“[T]he institution of legal proceedings against a person; the process of exhibiting formal charges against an offender before a legal tribunal, and pursuing them to final judgment” (emphasis added)); H. Holthouse, New Law Dictionary 344 (1847) (defining prosecution as “the means adopted to bring a supposed offender to justice and punishment by due course of law”); Bouvier Law Dictionary 396 (“The means adopted to bring a supposed offender to justice and punishment by due course of law”).
+Term: prosecution
+
+Sentence: {{text}}
+Term:
