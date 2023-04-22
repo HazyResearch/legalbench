@@ -1,0 +1,10 @@
+Instruction: Read the segment of a merger agreement and answer the multiple-choice question by choosing the option that best characterizes the agreement.
+Question: What is the liability standard for no-shop breach by Target Non-D&O Representatives?
+Option A: Reasonable standard
+Option B: Strict liability
+
+Merger Agreement: “Knowledge” means <omitted> (b) with respect to the Company, the actual knowledge of the individuals listed on Schedule A-I(b) (Page 75)
+Answer: B
+
+Merger Agreement: {{text}}
+Answer:

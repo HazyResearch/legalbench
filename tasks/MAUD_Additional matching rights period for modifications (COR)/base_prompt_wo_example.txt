@@ -1,0 +1,12 @@
+Instruction: Read the segment of a merger agreement and answer the multiple-choice question by choosing the option that best characterizes the agreement.
+Question: How long is the additional matching rights period for modifications in case the board changes its recommendation?
+Option Option A: 2 business days or less
+Option Option B: 3 business days
+Option Option C: 3 days
+Option Option D: 4 business days
+Option Option E: 5 business days
+Option Option F: > 5 business days
+Option Option G: None
+
+Merger Agreement: {{text}}
+Answer:

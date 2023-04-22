@@ -1,0 +1,7 @@
+Instruction: Read the segment of a merger agreement and answer the multiple-choice question by choosing the option that best characterizes the agreement.
+Question: What type of offer could the Board take actions on notwithstanding the no-shop provision?
+Option Option A: Acquisition Proposal only
+Option Option B: Superior Offer, or Acquisition Proposal reasonably likely/expected to result in a Superior Offer
+
+Merger Agreement: {{text}}
+Answer:

@@ -1,0 +1,11 @@
+Instruction: Read the segment of a merger agreement and answer the multiple-choice question by choosing the option that best characterizes the agreement.
+Question: What is the General Antitrust Efforts Standard?
+Option A: Commercially reasonable efforts
+Option B: Flat standard
+Option C: Reasonable best efforts
+
+Merger Agreement: 8.1.2.      The parties hereto shall cooperate with each other and use their reasonable best efforts to promptly prepare and file all necessary documentation, to effect all applications, notices, petitions and filings and in the case of the applications, notices, petitions and filings in respect of the Regulatory Approvals, use their reasonable best efforts to make them within sixty (60) days of the date of this Agreement, to obtain as promptly as practicable all permits, consents, approvals and authorizations of all third parties and Governmental Entities which are necessary or advisable to consummate the transactions contemplated by this Agreement (including the Merger and the Bank Merger), and to comply with the terms and conditions of all such permits, consents, approvals and authorizations of all such Governmental Entities. (Page 76)
+Answer: C
+
+Merger Agreement: {{text}}
+Answer:

@@ -1,0 +1,12 @@
+Instruction: Read the segment of a merger agreement and answer the multiple-choice question by choosing the option that best characterizes the agreement.
+Question: How long is the initial matching rights period in case the board changes its recommendation?
+Option Option A: 2 business days or less
+Option Option B: 3 business days
+Option Option C: 3 calendar days
+Option Option D: 4 business days
+Option Option E: 4 calendar days
+Option Option F: 5 business days
+Option Option G: Greater than 5 business days
+
+Merger Agreement: {{text}}
+Answer:

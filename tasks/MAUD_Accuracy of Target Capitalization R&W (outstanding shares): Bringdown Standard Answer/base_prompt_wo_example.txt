@@ -1,0 +1,9 @@
+Instruction: Read the segment of a merger agreement and answer the multiple-choice question by choosing the option that best characterizes the agreement.
+Question: How accurate must the capitalization representations and warranties be according to the bring down provision?
+Option Option A: Accurate in all material respects
+Option Option B: Accurate in all respects
+Option Option C: Accurate in all respects with below-threshold carveout
+Option Option D: Accurate in all respects with de minimis exception
+
+Merger Agreement: {{text}}
+Answer:

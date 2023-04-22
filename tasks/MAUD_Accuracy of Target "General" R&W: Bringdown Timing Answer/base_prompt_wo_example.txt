@@ -1,0 +1,7 @@
+Instruction: Read the segment of a merger agreement and answer the multiple-choice question by choosing the option that best characterizes the agreement.
+Question: When are representations and warranties required to be made according to the bring down provision?
+Option Option A: At Closing Only
+Option Option B: At Signing & At Closing
+
+Merger Agreement: {{text}}
+Answer:

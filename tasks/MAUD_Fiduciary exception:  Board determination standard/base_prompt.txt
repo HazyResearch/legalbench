@@ -1,0 +1,17 @@
+Instruction: Read the segment of a merger agreement and answer the multiple-choice question by choosing the option that best characterizes the agreement.
+Question: Under what circumstances could the Board take actions on a different acquisition proposal notwithstanding the no-shop provision?
+Option A: If failure to take actions would lead to "breach" of fiduciary duties
+Option B: If failure to take actions would be "inconsistent" with fiduciary duties
+Option C: If failure to take actions would lead to "reasonably likely/expected breach" of fiduciary duties
+Option D: If failure to take actions would lead to "reasonably likely/expected to be inconsistent" with fiduciary duties
+Option E: If failure to take actions would lead to "reasonably likely/expected violation" of fiduciary duties
+Option F: If taking such actions is "required to comply" with fiduciary duties
+Option G: If failure to take actions would lead to "violation" of fiduciary duties
+Option H: Under no circumstances could the Board do so.
+Option I: Other circumstances
+
+Merger Agreement: Section 5.4 No Company Solicitation. <omitted> (b) Notwithstanding anything in Section 5.4(a) to the contrary, until the Company Stockholder Approval is obtained, if the Company receives a bona fide written Alternative Acquisition Proposal made after the date hereof that does not result from a material breach of this Section 5.4, and the Company Board determines in good faith (after consultation with outside legal counsel and a nationally recognized financial advisor) that such Alternative Acquisition Proposal is, or could reasonably be expected to lead to, a Superior Acquisition Proposal, (i) the Company may negotiate and enter into an Acceptable Confidentiality Agreement with the Person making such Alternative Acquisition Proposal; provided, that the Company shall promptly (and in no event later than twenty-four (24) hours after execution thereof) deliver a copy of such Acceptable Confidentiality Agreement to Parent, (ii) following entry into such Acceptable Confidentiality Agreement by the Company, the Company and its Representatives may provide information (including nonpublic information) subject to such executed Acceptable Confidentiality Agreement; provided, that any nonpublic information provided to such Person, including if posted to an electronic data room, shall be provided to Parent prior to or substantially concurrently with the time it is provided to such Person, and (iii) the Company and its Representatives may engage in discussion or negotiations for such Alternative Acquisition Proposal with such Person and its Representatives. (Page 59)
+Answer: H
+
+Merger Agreement: {{text}}
+Answer:

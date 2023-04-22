@@ -1,0 +1,12 @@
+Instruction: Read the segment of a merger agreement and answer the multiple-choice question by choosing the option that best characterizes the agreement.
+Question: What qualifies as a superior offer in terms of stock deals?
+Option A: "All or substantially all"
+Option B: 50%
+Option C: Greater than 50% but not "all or substantially all"
+Option D: Less than 50%
+
+Merger Agreement: 5.4 No Solicitation by the Company; Other Offers. <omitted> the Company shall not be entitled to: (i) make a Change in Company Board Recommendation <omitted> unless: <omitted> the Company shall have first provided prior <omitted> notice to Parent that it is prepared to <omitted> make a Change in Company Board Recommendation (a “Recommendation Change Notice”) <omitted> Any material changes with respect to the Intervening Event <omitted> or material changes to the financial terms of such Superior Proposal <omitted> shall require the Company to provide to Parent a new Recommendation Change Notice <omitted> and a new three (3) Business Day period. (Pages 45-46)
+Answer: C
+
+Merger Agreement: {{text}}
+Answer:

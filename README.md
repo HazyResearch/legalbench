@@ -165,6 +165,7 @@ The following individuals/groups have contributed to LegalBench:
 - Diego Zambrano
 - Spencer Williams
 - Gregory M. Dickinson
+- Zehua Li
 
 ## Licenses
 

@@ -1,0 +1,12 @@
+Instruction: Read the segment of a merger agreement and answer the multiple-choice question by choosing the option that best characterizes the agreement.
+Question: What qualifies as a superior offer in terms of asset deals?
+Option A: "All or substantially all"
+Option B: 50%
+Option C: Greater than 50% but not "all or substantially all"
+Option D: Less than 50%
+
+Merger Agreement: Section 5.4 Acquisition Proposals.   <omitted>   (d) <omitted> following receipt of a <omitted> Acquisition Proposal <omitted> that the Company Board determines <omitted> constitutes a Superior Proposal, the Company Board may <omitted> make an Adverse Recommendation Change <omitted> if <omitted> (i) (A) the Company shall have provided to Parent <omitted> notice, <omitted> (it being understood and agreed that any amendment to the financial terms or any other material term or condition of such Superior Proposal shall require a new notice and an additional three Business Day period) (Pages 44-45)
+Answer: B
+
+Merger Agreement: {{text}}
+Answer:

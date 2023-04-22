@@ -1,0 +1,7 @@
+Instruction: Read the segment of a merger agreement and answer the multiple-choice question by choosing the option that best characterizes the agreement.
+Question: Is Change of Recommendation permitted in response to an intervening event?
+Option Option A: No
+Option Option B: Yes
+
+Merger Agreement: {{text}}
+Answer:

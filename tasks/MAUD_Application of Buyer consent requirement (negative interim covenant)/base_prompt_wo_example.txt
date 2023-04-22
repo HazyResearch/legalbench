@@ -1,0 +1,7 @@
+Instruction: Read the segment of a merger agreement and answer the multiple-choice question by choosing the option that best characterizes the agreement.
+Question: What negative covenants does the requirement of Buyer consent apply to?
+Option Option A: Applies only to specified negative covenants
+Option Option B: Applies to all negative covenants
+
+Merger Agreement: {{text}}
+Answer:
