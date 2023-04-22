@@ -2,7 +2,7 @@
 
 The table below provides an overview of the different tasks.
 
-There are a total of 91 tasks, encompassing 108262 samples.
+There are a total of 94 tasks, encompassing 110082 samples.
 
 Task | Description | Size | License 
 ---- | ----------- | -----| -------
@@ -60,6 +60,7 @@ Task | Description | Size | License
 [contract_nli_Sharing with third-parties](https://github.com/HazyResearch/legalbench/tree/main/tasks/contract_nli_Sharing%20with%20third-parties)|Identify if the clause provides that the Receiving Party may share some Confidential Information with some third-parties (including consultants, agents and professional advisors).|204|[CC BY 4.0](https://creativecommons.org/licenses/by/4.0/)
 [contract_nli_Survival of obligations](https://github.com/HazyResearch/legalbench/tree/main/tasks/contract_nli_Survival%20of%20obligations)|Identify if the clause provides that ome obligations of Agreement may survive termination of Agreement.|166|[CC BY 4.0](https://creativecommons.org/licenses/by/4.0/)
 [corporate_lobbying](https://github.com/HazyResearch/legalbench/tree/main/tasks/corporate_lobbying)|Predict if a proposed bill is relevant to a company.|500|[CC By 4.0](https://creativecommons.org/licenses/by/4.0/)
+[definition_classification](https://github.com/HazyResearch/legalbench/tree/main/tasks/definition_classification)|Extract the term being defined in sentences from Supreme Court opinions.|1346|[CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/)
 [definition_extraction](https://github.com/HazyResearch/legalbench/tree/main/tasks/definition_extraction)|Extract the term being defined in sentences from Supreme Court opinions.|696|
 [diversity_1](https://github.com/HazyResearch/legalbench/tree/main/tasks/diversity_1)|Classify if a particular set of claims qualify for diversity jurisdiction based on amount-in-controversy and party citizenships.|306|[CC By 4.0](https://creativecommons.org/licenses/by/4.0/)
 [diversity_2](https://github.com/HazyResearch/legalbench/tree/main/tasks/diversity_2)|Classify if a particular set of claims qualify for diversity jurisdiction based on amount-in-controversy and party citizenships.|306|[CC By 4.0](https://creativecommons.org/licenses/by/4.0/)
@@ -67,6 +68,7 @@ Task | Description | Size | License
 [diversity_4](https://github.com/HazyResearch/legalbench/tree/main/tasks/diversity_4)|Classify if a particular set of claims qualify for diversity jurisdiction based on amount-in-controversy and party citizenships.|306|[CC By 4.0](https://creativecommons.org/licenses/by/4.0/)
 [diversity_5](https://github.com/HazyResearch/legalbench/tree/main/tasks/diversity_5)|Classify if a particular set of claims qualify for diversity jurisdiction based on amount-in-controversy and party citizenships.|306|[CC By 4.0](https://creativecommons.org/licenses/by/4.0/)
 [diversity_6](https://github.com/HazyResearch/legalbench/tree/main/tasks/diversity_6)|Classify if a particular set of claims qualify for diversity jurisdiction based on amount-in-controversy and party citizenships.|306|[CC By 4.0](https://creativecommons.org/licenses/by/4.0/)
+[function_of_decision_section](https://github.com/HazyResearch/legalbench/tree/main/tasks/function_of_decision_section)|Classify the function of different sections of legal written opinions.|374|[CC By 4.0](https://creativecommons.org/licenses/by/4.0/)
 [hearsay](https://github.com/HazyResearch/legalbench/tree/main/tasks/hearsay)|Classify if a particular piece of evidence would be barred as hearsay.|100|[CC By 4.0](https://creativecommons.org/licenses/by/4.0/)
 [international_citizenship_questions](https://github.com/HazyResearch/legalbench/tree/main/tasks/international_citizenship_questions)|Answer questions about citizenship law from across the world.|9300|[CC by 4.0](https://creativecommons.org/licenses/by/4.0/)
 [intra_rule_distinguishing](https://github.com/HazyResearch/legalbench/tree/main/tasks/intra_rule_distinguishing)|Determine which LegalBench issue is implicated in a certain fact pattern (meta-task).|60|[CC by 4.0](https://creativecommons.org/licenses/by/4.0/)
@@ -96,4 +98,5 @@ Task | Description | Size | License
 [scalr](https://github.com/HazyResearch/legalbench/tree/main/tasks/scalr)|Identify the holding statement that best answers a particular legal question.|571|[CC by 4.0](https://creativecommons.org/licenses/by/4.0/)
 [statutory_reasoning_assessment](https://github.com/HazyResearch/legalbench/tree/main/tasks/statutory_reasoning_assessment)|||MIT
 [successor_liability](https://github.com/HazyResearch/legalbench/tree/main/tasks/successor_liability)|Identify the type of successor liability in a fact pattern|50|[CC by 4.0](https://creativecommons.org/licenses/by/4.0/)
+[ucc_v_common_law](https://github.com/HazyResearch/legalbench/tree/main/tasks/ucc_v_common_law)|Determine if a contract is governed by the Uniform Commercial Code (UCC) or the common law of contracts.|100|[CC By 4.0](https://creativecommons.org/licenses/by/4.0/)
 [unfair_tos](https://github.com/HazyResearch/legalbench/tree/main/tasks/unfair_tos)|Classify if a terms-of-service clause is unfair.|3850.|[CC by 4.0](https://creativecommons.org/licenses/by/4.0/)

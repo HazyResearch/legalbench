@@ -162,6 +162,9 @@ The following individuals/groups have contributed to LegalBench:
 - Faiz Surani
 - Varun Iyer
 - Kevin Tobia
+- Diego Zambrano
+- Spencer Williams
+- Gregory M. Dickinson
 
 ## Licenses
 
