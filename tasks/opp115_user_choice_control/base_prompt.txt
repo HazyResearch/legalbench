@@ -1,0 +1,28 @@
+Does the clause describe the choices and control options available to users?
+
+Clause: If you prefer, you can cancel your registration altogether. E-mail us if you wish to take this action.
+Label: Yes
+
+Clause: Our website allows you to opt out of certain information gathering and sharing, or to opt out of certain products, services or features. You can change your preferences for follow-up contacts by Kraft. If you're registered with our website, you can change the information you've provided to us in the "Your Profile" section of the site.
+Label: Yes
+
+Clause: If you wish to limit how third parties use your email address to send you targeted advertising through social media on our behalf, contact us here
+Label: Yes
+
+Clause: You can set your Internet browser settings to stop accepting new cookies, to receive notice when you receive a new cookie, to disable existing cookies, and to omit images (which will disable pixel tags).
+Label: Yes
+
+Clause: Computer IP addresses identify computers and the networks or Internet service providers to which they are connected.
+Label: No
+
+Clause: If you have any questions or concerns about this privacy policy or our practices you can contact us or write to us at Internet Brands, Inc., Privacy Office, 909 N. Sepulveda Blvd., 11th Floor, El Segundo, California 90245 U.S.A. Please be sure to identify the specific website, software, or service about which you have a question or concern and how we can contact you.
+Label: No
+
+Clause: and to adequately secure or destroy its records of your information when the research is complete.
+Label: No
+
+Clause: If your children disclose information about themselves in publicly accessible areas of the Service, they may get unsolicited messages from other parties. Accordingly, you should tell them not to do so.
+Label: No
+
+Clause: {{text}}
+Label:

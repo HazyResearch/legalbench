@@ -17,13 +17,13 @@ for fpath in sorted(fpaths):
     summary, license_name, size = "", "", ""
     with open(fpath) as in_file:
         for line in in_file:
+            line = line.strip()
             if line.startswith("**Task summary**: "):
                 summary = line.replace("**Task summary**: ", "").strip()
             if line.startswith("**Size (samples)**: "):
                 size = line.replace("**Size (samples)**: ", "").strip()
             if line.startswith("**License**: "):
                 license_name = line.replace("**License**: ", "").strip()
-    
     url = f"[{task}]({github_url})"
     if len(size) > 0:
         total += eval(size)

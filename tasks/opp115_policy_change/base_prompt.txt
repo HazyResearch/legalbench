@@ -1,0 +1,28 @@
+Does the clause describe if and how users will be informed about changes to the privacy policy?
+
+Clause: We may change or update portions of this Privacy Notice
+Label: Yes
+
+Clause: We may change or update portions of this Privacy Notice at any time.
+Label: Yes
+
+Clause: notifications about major changes to the SIDEARM Services and/or to our Privacy Policy.
+Label: Yes
+
+Clause: Accordingly, guidelines are subject to change. In the unlikely event of such changes they will be posted on this page. If the changes represent a material departure from our current practice with respect to the use of children's personal information,
+Label: Yes
+
+Clause: External websites and companies with links to and from Valve's online sites
+Label: No
+
+Clause: Local Shared Objects, HTML5, cache cookies, web beacons, or clear gifs, all described further below)
+Label: No
+
+Clause: We reserve the right to use, transfer, assign, sell, share, and provide access to all personally identifiable information and other information about you and your computer, mobile or other device that we receive through third-party social networking services in the same ways described in this Agreement as all of your other information.
+Label: No
+
+Clause: Certain Continuing Rights Regardless of Opt-Outs. However, even if you exercise your opt-out rights above
+Label: No
+
+Clause: {{text}}
+Label:

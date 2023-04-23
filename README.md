@@ -166,6 +166,7 @@ The following individuals/groups have contributed to LegalBench:
 - Spencer Williams
 - Gregory M. Dickinson
 - Zehua Li
+- Sunny Gandhi
 
 ## Licenses
 

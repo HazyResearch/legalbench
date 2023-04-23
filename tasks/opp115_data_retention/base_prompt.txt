@@ -1,0 +1,28 @@
+Does the clause describe how long user information is stored?
+
+Clause: If you create an account through one of our Sites, this personal information
+Label: Yes
+
+Clause: requires that you disclose the name and e-mail address of the person to whom you are forwarding the article.
+Label: Yes
+
+Clause: lease note that when you delete your account, we may retain your account information for a reasonable period of time afterward for the purpose of internal account management and fraud prevention activities.
+Label: Yes
+
+Clause: lease note that when you delete your account, we may retain your account information for a reasonable period of time afterward for the purpose of internal account management and fraud prevention activities
+Label: Yes
+
+Clause: Information you share Many of our services let you share information with others. Remember that when you share information publicly, it may be indexable by search engines, including Google. Our services provide you with different options on sharing and removing your content.
+Label: No
+
+Clause: You always may choose not to provide information and most Internet browsers allow you to control the automatic collection of information from your computer.
+Label: No
+
+Clause: username, password, and other account access information in a safe place and not to divulge it to anyone
+Label: No
+
+Clause: We recognize the importance of protecting children's online privacy. Our websites and mobile services are intended for a general audience and are not directed to children. In order to protect the privacy of children, Walmart websites and mobile services knowingly collect personal information from children under the age of 13 only with prior parental consent or as permitted by law. Please Contact Us if you believe we may have collected information from your child through our websites or mobile services and we will work to delete it.
+Label: No
+
+Clause: {{text}}
+Label:

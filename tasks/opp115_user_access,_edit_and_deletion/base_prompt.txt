@@ -1,0 +1,28 @@
+Does the clause describe if and how users may access, edit, or delete their information?
+
+Clause: We are not responsible for the personally identifiable information you choose to submit in the course of your public activities and we have no responsibility to publish, take down, remove or edit any of your public activities or submissions.
+Label: Yes
+
+Clause: Upon your request, we will make reasonable efforts to delete your personal information from our database, however, it may be impossible to delete your entry without retaining some residual information for a period of time due to backups and records of deletion.
+Label: Yes
+
+Clause: Upon request, you may review all information that we maintain in your record,
+Label: Yes
+
+Clause: You may also request that inaccuracies be corrected in any information that we maintain in your record.
+Label: Yes
+
+Clause: k to collect the information about you as described above, or you don't want to a social network to share it with us and other third parties
+Label: No
+
+Clause: we dont sell or profit from the information you share with us
+Label: No
+
+Clause: We have provided a Source and Permissions Contact List for some motion pictures, sound and video which may assist you. If you have questions about this process, please contact us
+Label: No
+
+Clause: If you opt out, though, you may still receive generic advertising.
+Label: No
+
+Clause: {{text}}
+Label:

@@ -1,0 +1,28 @@
+Does the clause describe how user information may be shared with or collected by third parties?
+
+Clause: service providers we have retained to perform services on our behalf
+Label: Yes
+
+Clause: with our advertising and marketing partners, and third-party media platforms, including social media sites
+Label: Yes
+
+Clause: with service providers we have retained to perform services on our behalf
+Label: Yes
+
+Clause: with our advertising and marketing partners, and third-party media platforms, including social media sites,
+Label: Yes
+
+Clause: The ACC website consists of several web servers. Some servers hosted by ACC may adopt different privacy statements as their specific needs require. If another ACC web server has a privacy statement that is different from this statement, that policy will be posted on their site.
+Label: No
+
+Clause: If after receiving a phone call, you wish to no longer receive phone calls from us, you can inform the caller or follow the prompt instructions.
+Label: No
+
+Clause: We implement a variety of security measures enters, submits, or accesses their information to maintain the safety of your personal information.
+Label: No
+
+Clause: Although we use our best efforts to assure that your data remains secure when maintained by us, security during Internet transmissions or within any system cannot be assured.
+Label: No
+
+Clause: {{text}}
+Label:
