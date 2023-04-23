@@ -1,0 +1,28 @@
+Does the clause describe how user information is protected?
+
+Clause: they are not authorized by Kraft to use or disclose the information except as necessary to perform services on Kraft's behalf or to comply with legal requirements.
+Label: Yes
+
+Clause: How We Protect Your Information The security of personally-identifiable information is important to us. We maintain administrative, technical and physical safeguards to protect against unauthorized use, disclosure, alteration or destruction of the personally-identifiable information we collect on this website. While we make every effort to help ensure the integrity and security of our network and systems, we cannot guarantee our security measures.
+Label: Yes
+
+Clause: These service providers may have access to personally-identifiable information about our website visitors if it is needed to perform their functions for Kraft, but they are not authorized by Kraft to use or disclose the information except as necessary to perform services on Kraft's behalf or to comply with legal requirements.
+Label: Yes
+
+Clause: The security of personally-identifiable information is important to us. We maintain administrative, technical and physical safeguards to protect against unauthorized use, disclosure, alteration or destruction of the personally-identifiable information we collect on this website. While we make every effort to help ensure the integrity and security of our network and systems, we cannot guarantee our security measures.
+Label: Yes
+
+Clause: We may share your information within the BWW organization and with our franchisees, with current and future affiliated companies,
+Label: No
+
+Clause: If your children disclose information about themselves in publicly accessible areas of the Service, they may get unsolicited messages from other parties. Accordingly, you should tell them not to do so.
+Label: No
+
+Clause: If you are a California resident and have questions about our compliance with this law, please send an email to website@vikings.nfl.com or write to us at: CA Privacy Rights, Minnesota Vikings, 9520 Viking DriveEden Prairie MN 55344.
+Label: No
+
+Clause: no longer than is necessary for the purposes for which the data was collected
+Label: No
+
+Clause: {{text}}
+Label:

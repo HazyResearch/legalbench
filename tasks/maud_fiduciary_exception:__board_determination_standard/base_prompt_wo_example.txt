@@ -1,0 +1,14 @@
+Instruction: Read the segment of a merger agreement and answer the multiple-choice question by choosing the option that best characterizes the agreement.
+Question: Under what circumstances could the Board take actions on a different acquisition proposal notwithstanding the no-shop provision?
+Option Option A: If failure to take actions would lead to "breach" of fiduciary duties
+Option Option B: If failure to take actions would be "inconsistent" with fiduciary duties
+Option Option C: If failure to take actions would lead to "reasonably likely/expected breach" of fiduciary duties
+Option Option D: If failure to take actions would lead to "reasonably likely/expected to be inconsistent" with fiduciary duties
+Option Option E: If failure to take actions would lead to "reasonably likely/expected violation" of fiduciary duties
+Option Option F: If taking such actions is "required to comply" with fiduciary duties
+Option Option G: If failure to take actions would lead to "violation" of fiduciary duties
+Option Option H: Under no circumstances could the Board do so.
+Option Option I: Other circumstances
+
+Merger Agreement: {{text}}
+Answer:

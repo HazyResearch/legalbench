@@ -1,0 +1,10 @@
+Instruction: Read the segment of a merger agreement and answer the multiple-choice question by choosing the option that best characterizes the agreement.
+Question: Is the Breach of “No Shop” provision required to be willful, material and/or intentional?
+Option A: No
+Option B: Yes
+
+Merger Agreement: Section 6.02    No Solicitation. (a)    Except as expressly permitted by this Section 6.02, and subject to Section 6.03(b)  and Section 6.03(c), until the earlier to occur of the Effective Time or the termination of this Agreement pursuant to Section 8.01: (i)    the Company shall not, and shall cause its Subsidiaries not to, and instruct its and their respective Representatives not to, directly or indirectly (other than with respect to Parent and Merger Sub in accordance  with  this Section 6.02),  (A)  solicit,  initiate, knowingly facilitate or knowingly encourage (including by way of supplying non-public information) any Acquisition Proposal or any inquiries, proposals or offers that constitute, or that could reasonably be expected to lead to, an Acquisition Proposal   <omitted>  Section 8.01    Termination. This Agreement may be terminated and the Merger may be abandoned at any time prior to the Closing: <omitted> (g)    by Parent <omitted> if <omitted> (ii) the Company shall have committed a material breach of any of its obligations under Section 6.02 or Section 6.03;  <omitted>  Section 9.04    Fees and Expenses. <omitted> (b)    In the event that:   (i)    this Agreement is terminated pursuant to Section 8.01(g); (Page 89)
+Answer: B
+
+Merger Agreement: {{text}}
+Answer:

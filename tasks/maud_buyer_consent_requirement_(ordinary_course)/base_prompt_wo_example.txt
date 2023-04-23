@@ -1,0 +1,7 @@
+Instruction: Read the segment of a merger agreement and answer the multiple-choice question by choosing the option that best characterizes the agreement.
+Question: In case the Buyer’s consent for the acquired company’s ordinary business operations is required, are there any limitations on the Buyer’s right to condition, withhold, or delay their consent?
+Option Option A: Yes. Consent may not be unreasonably withheld, conditioned or delayed.
+Option Option B: No.
+
+Merger Agreement: {{text}}
+Answer:

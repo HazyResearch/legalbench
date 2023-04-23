@@ -1,0 +1,9 @@
+Instruction: Read the segment of a merger agreement and answer the multiple-choice question by choosing the option that best characterizes the agreement.
+Question: What is the knowledge requirement in the definition of “Intervening Event”?
+Option Option A: Known, but consequences unknown or not reasonably foreseeable, at signing
+Option Option B: Known, but consequences unknown, at signing
+Option Option C: Not known and not reasonably foreseeable at signing
+Option Option D: Not known at signing
+
+Merger Agreement: {{text}}
+Answer:

@@ -1,0 +1,9 @@
+Instruction: Read the segment of a merger agreement and answer the multiple-choice question by choosing the option that best characterizes the agreement.
+Question: How accurate must the representations and warranties be according to the bring down provision?
+Option Option A: All/The R&Ws accurate at MAE standard
+Option Option B: All/The R&Ws accurate in all respects (repeating R&Ws)
+Option Option C: Each R&W accurate at MAE standard
+Option Option D: R&Ws accurate at another materiality standard (e.g., hybrid standard)
+
+Merger Agreement: {{text}}
+Answer:

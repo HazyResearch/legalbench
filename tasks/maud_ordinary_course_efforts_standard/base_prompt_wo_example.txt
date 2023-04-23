@@ -1,0 +1,8 @@
+Instruction: Read the segment of a merger agreement and answer the multiple-choice question by choosing the option that best characterizes the agreement.
+Question: What is the efforts standard?
+Option Option A: Commercially reasonable efforts
+Option Option B: Flat covenant (no efforts standard)
+Option Option C: Reasonable best efforts
+
+Merger Agreement: {{text}}
+Answer:

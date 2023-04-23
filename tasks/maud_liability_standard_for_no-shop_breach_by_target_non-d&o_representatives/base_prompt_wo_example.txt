@@ -1,0 +1,7 @@
+Instruction: Read the segment of a merger agreement and answer the multiple-choice question by choosing the option that best characterizes the agreement.
+Question: What is the liability standard for no-shop breach by Target Non-D&O Representatives?
+Option Option A: Reasonable standard
+Option Option B: Strict liability
+
+Merger Agreement: {{text}}
+Answer:

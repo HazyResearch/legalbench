@@ -1,0 +1,10 @@
+Instruction: Read the segment of a merger agreement and answer the multiple-choice question by choosing the option that best characterizes the agreement.
+Question: How long is the Tail Period?
+Option Option A: 12 months or longer
+Option Option B: Other
+Option Option C: within 12 months
+Option Option D: within 6 months
+Option Option E: within 9 months
+
+Merger Agreement: {{text}}
+Answer:

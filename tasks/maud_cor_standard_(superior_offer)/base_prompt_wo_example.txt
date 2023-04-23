@@ -1,0 +1,15 @@
+Instruction: Read the segment of a merger agreement and answer the multiple-choice question by choosing the option that best characterizes the agreement.
+Question: What standard should the board follow when determining whether to change its recommendation in connection with a superior offer?
+Option Option A: "Breach" of fiduciary duties
+Option Option B: "Inconsistent" with fiduciary duties
+Option Option C: "Reasonably likely/expected breach" of fiduciary duties
+Option Option D: "Reasonably likely/expected to be inconsistent" with fiduciary duties
+Option Option E: "Reasonably likely/expected violation" of fiduciary duties
+Option Option F: "Required to comply" with fiduciary duties
+Option Option G: "Violation" of fiduciary duties
+Option Option H: More likely than not violate fiduciary duties
+Option Option I: None
+Option Option J: Other specified standard
+
+Merger Agreement: {{text}}
+Answer:

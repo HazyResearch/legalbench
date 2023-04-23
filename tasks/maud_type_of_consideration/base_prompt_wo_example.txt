@@ -1,0 +1,9 @@
+Instruction: Read the segment of a merger agreement and answer the multiple-choice question by choosing the option that best characterizes the agreement.
+Question: What type of consideration is specified in this agreement?
+Option Option A: All Cash
+Option Option B: All Stock
+Option Option C: Mixed Cash/Stock
+Option Option D: Mixed Cash/Stock: Election
+
+Merger Agreement: {{text}}
+Answer:

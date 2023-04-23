@@ -1,0 +1,7 @@
+Instruction: Read the segment of a merger agreement and answer the multiple-choice question by choosing the option that best characterizes the agreement.
+Question: Is there specific reference to pandemic-related governmental responses or measures in the clause that qualifies pandemics or other public health events for Material Adverse Effect (MAE)?
+Option Option A: No
+Option Option B: Yes
+
+Merger Agreement: {{text}}
+Answer:

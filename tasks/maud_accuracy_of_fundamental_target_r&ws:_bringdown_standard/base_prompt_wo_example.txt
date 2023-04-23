@@ -1,0 +1,8 @@
+Instruction: Read the segment of a merger agreement and answer the multiple-choice question by choosing the option that best characterizes the agreement.
+Question: How accurate must the fundamental representations and warranties be according to the bring down provision?
+Option Option A: Accurate at another materiality standard (e.g., hybrid standard)
+Option Option B: Accurate in all material respects
+Option Option C: Accurate in all respects
+
+Merger Agreement: {{text}}
+Answer:

@@ -1,0 +1,7 @@
+Instruction: Read the segment of a merger agreement and answer the multiple-choice question by choosing the option that best characterizes the agreement.
+Question: Is an “Intervening Event” required to occur after signing?
+Option Option A: No. It may occur or arise prior to signing.
+Option Option B: Yes. It must occur or arise after signing.
+
+Merger Agreement: {{text}}
+Answer:

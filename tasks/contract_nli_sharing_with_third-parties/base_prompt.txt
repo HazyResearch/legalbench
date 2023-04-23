@@ -1,0 +1,28 @@
+Identify if the clause provides that the Receiving Party may share some Confidential Information with some third-parties (including consultants, agents and professional advisors).
+
+Clause: The Parties will: a. limit disclosure of any Confidential Information to its directors, officers, employees, agents or representatives (collectively "Representatives") who have a need to know such Confidential Information in connection with the Transaction, and only for that purpose; 
+Label: Yes
+
+Clause: The Disclosee will procure that prior to the disclosure to any other person (including any professional advisor) of any Confidential Information, such other person is made aware of the provisions of this Agreement and the fact that the Disclosee will be liable. 
+Label: Yes
+
+Clause: Each Party shall be responsible for any breach of this Agreement by such Party, its employees, agents, officials, representatives or consultants acting within the scope of their engagement or employment. 
+Label: Yes
+
+Clause: An employee, director, officer, manager, member, partner, affiliate, associate, agent, attorney, accountant, consultant, banker, business adviser, financial adviser, scientific adviser or technical adviser of Receiver may become a party to this Agreement by signing a counterpart hereof, a copy of which shall be provided to VIDAR within five days of signature. 
+Label: Yes
+
+Clause: Recipient will not disclose or permit access to Confidential Information to contract workers, consultants or contractors of Recipient or its Affiliates unless authorized by Disclosing Party in writing and on condition that such persons are bound by obligations of confidentiality inuring to the benefit of Disclosing Party and its Affiliates at least as restrictive as these terms and conditions.  
+Label: No
+
+Clause: Subject to the terms of the NDA the Receiving Party hereby undertakes to the Disclosing Party: c) that it shall give access to the Confidential Information only,to those of its employees who need access to the Confidential Information for LOA purposes and will ensure that such employees adhere to the obligations and restrictions contained in the NDA; 
+Label: No
+
+Clause: WHEREAS, in order for the Contractor to perform the work required under the Contract, it will be necessary for the State at times to provide the Contractor and the Contractor’s employees, agents, and subcontractors (collectively the “Contractor’s Personnel”) with access to certain information the State deems confidential information (the “Confidential Information”). 3. If the Contractor intends to disseminate any portion of the Confidential Information to non-employee agents who are assisting in the Contractor’s performance of the Contract or will otherwise have a role in performing any aspect of the Contract, the Contractor shall first obtain the written consent of the State to any such dissemination.  
+Label: No
+
+Clause: In the absence of the Disclosing Party’s prior written consent, the Receiving Party shall not produce nor disclose the Confidential Information, or any part thereof, to any third party. 
+Label: No
+
+Clause: {{text}}
+Label:

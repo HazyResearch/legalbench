@@ -1,0 +1,8 @@
+Instruction: Read the segment of a merger agreement and answer the multiple-choice question by choosing the option that best characterizes the agreement.
+Question: What carveouts pertaining to Material Adverse Effect (MAE) does the relational language apply to?
+Option Option A: All MAE carveouts
+Option Option B: No
+Option Option C: Some MAE carveouts
+
+Merger Agreement: {{text}}
+Answer:
