@@ -167,6 +167,7 @@ The following individuals/groups have contributed to LegalBench:
 - Gregory M. Dickinson
 - Zehua Li
 - Sunny Gandhi
+- Michael Livermore
 
 
 ## Licenses
