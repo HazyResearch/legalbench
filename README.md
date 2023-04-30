@@ -173,6 +173,7 @@ The following individuals/groups have contributed to LegalBench:
 - Dmitry Talisman
 - Adam Chilton
 - Galit Sarfaty
+- Enam Hoque
 
 
 ## Licenses

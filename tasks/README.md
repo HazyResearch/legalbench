@@ -2,7 +2,7 @@
 
 The table below provides an overview of the different tasks.
 
-There are a total of 162 tasks, encompassing 129371 samples.
+There are a total of 163 tasks, encompassing 129431 samples.
 
 Task | Description | Size | License 
 ---- | ----------- | -----| -------
@@ -75,6 +75,7 @@ Task | Description | Size | License
 [hearsay](https://github.com/HazyResearch/legalbench/tree/main/tasks/hearsay)|Classify if a particular piece of evidence would be barred as hearsay.|100|[CC By 4.0](https://creativecommons.org/licenses/by/4.0/)
 [international_citizenship_questions](https://github.com/HazyResearch/legalbench/tree/main/tasks/international_citizenship_questions)|Answer questions about citizenship law from across the world.|9300|[CC by 4.0](https://creativecommons.org/licenses/by/4.0/)
 [intra_rule_distinguishing](https://github.com/HazyResearch/legalbench/tree/main/tasks/intra_rule_distinguishing)|Determine which LegalBench issue is implicated in a certain fact pattern (meta-task).|60|[CC by 4.0](https://creativecommons.org/licenses/by/4.0/)
+[jcrew_blocker](https://github.com/HazyResearch/legalbench/tree/main/tasks/jcrew_blocker)|Classify if a clause in a loan agreement is a JCrew blocker provision.|60|[CC BY 4.0](https://creativecommons.org/licenses/by/4.0/)
 [learned_hands_benefits](https://github.com/HazyResearch/legalbench/tree/main/tasks/learned_hands_benefits)|Classify if a user post implicates legal isssues related to benefits.|76|[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/)
 [learned_hands_business](https://github.com/HazyResearch/legalbench/tree/main/tasks/learned_hands_business)|Classify if a user post implicates legal isssues related to business.|202|[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/)
 [learned_hands_consumer](https://github.com/HazyResearch/legalbench/tree/main/tasks/learned_hands_consumer)|Classify if a user post implicates legal isssues related to consumer.|628|[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/)
