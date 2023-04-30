@@ -37,4 +37,9 @@ This is a binary classification task where the LLM must determine if language fr
 
 ## Task Construction
 
-This task was constructed by manual annotating a sample of contracts.
+The data was manually extracted from a set of sample agreements collected from public sources and represents a variety of contracts, primarily:
+
+- Vendor or Partner Data Protection Agreements (DPA)
+- Master Services Agreements (MSA)
+- Licensing Terms
+- BIPA consents
