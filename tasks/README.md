@@ -2,7 +2,7 @@
 
 The table below provides an overview of the different tasks.
 
-There are a total of 170 tasks, encompassing 133308 samples.
+There are a total of 171 tasks, encompassing 133627 samples.
 
 Task | Description | Size | License 
 ---- | ----------- | -----| -------
@@ -150,6 +150,7 @@ Task | Description | Size | License
 [opp115_third_party_sharing_collection](https://github.com/HazyResearch/legalbench/tree/main/tasks/opp115_third_party_sharing_collection)|Does the clause describe how user information may be shared with or collected by third parties?.|1610|Creative Commons Attribution-NonCommercial License
 [opp115_user_access,_edit_and_deletion](https://github.com/HazyResearch/legalbench/tree/main/tasks/opp115_user_access,_edit_and_deletion)|Does the clause describe if and how users may access, edit, or delete their information?.|472|Creative Commons Attribution-NonCommercial License
 [opp115_user_choice_control](https://github.com/HazyResearch/legalbench/tree/main/tasks/opp115_user_choice_control)|Does the clause describe the choices and control options available to users?.|1580|Creative Commons Attribution-NonCommercial License
+[oral_argument_question_purpose](https://github.com/HazyResearch/legalbench/tree/main/tasks/oral_argument_question_purpose)|Classify the purpose of a question asked during oral argument.|319|CC by 4.0
 [overruling](https://github.com/HazyResearch/legalbench/tree/main/tasks/overruling)|Classify whether a sentence overrules a previous case.|2400|[CC By 4.0](https://creativecommons.org/licenses/by/4.0/)
 [personal_jurisdiction](https://github.com/HazyResearch/legalbench/tree/main/tasks/personal_jurisdiction)|Classify if a set of facts give rise to personal jurisdiction.|50|[CC by 4.0](https://creativecommons.org/licenses/by/4.0/)
 [privacy_policy_entailment](https://github.com/HazyResearch/legalbench/tree/main/tasks/privacy_policy_entailment)|Determine if a description of a privacy policy clause is correct given that clause.|4385|[CC BY-NC 3.0](https://creativecommons.org/licenses/by-nc/3.0/)
