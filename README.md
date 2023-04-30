@@ -178,6 +178,8 @@ The following individuals/groups have contributed to LegalBench:
 - Jason Hegland
 - Austin Peters
 - Sean Rehaag
+- Haggai Porat
+- Tom Zur
 
 
 ## Licenses

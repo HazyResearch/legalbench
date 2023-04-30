@@ -2,7 +2,7 @@
 
 The table below provides an overview of the different tasks.
 
-There are a total of 169 tasks, encompassing 133249 samples.
+There are a total of 170 tasks, encompassing 133308 samples.
 
 Task | Description | Size | License 
 ---- | ----------- | -----| -------
@@ -93,6 +93,7 @@ Task | Description | Size | License
 [learned_hands_immigration](https://github.com/HazyResearch/legalbench/tree/main/tasks/learned_hands_immigration)|Classify if a user post implicates legal isssues related to immigration.|150|[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/)
 [learned_hands_torts](https://github.com/HazyResearch/legalbench/tree/main/tasks/learned_hands_torts)|Classify if a user post implicates legal isssues related to torts.|450|[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/)
 [learned_hands_traffic](https://github.com/HazyResearch/legalbench/tree/main/tasks/learned_hands_traffic)|Classify if a user post implicates legal isssues related to traffic.|590|[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/)
+[legal_reasoning_causality](https://github.com/HazyResearch/legalbench/tree/main/tasks/legal_reasoning_causality)|Classify whether a district court opinion relies on statistical evidence in its reasoning.|59|CC By 4.0
 [maud_"ability_to_consummate"_concept_is_subject_to_mae_carveouts](https://github.com/HazyResearch/legalbench/tree/main/tasks/maud_"ability_to_consummate"_concept_is_subject_to_mae_carveouts)|Read the following merger agreement and answer: is the “ability to consummate” concept subject to Material Adverse Effect (MAE) carveouts?|70|[CC By 4.0](https://creativecommons.org/licenses/by/4.0/)
 [maud_"financial_point_of_view"_is_the_sole_consideration](https://github.com/HazyResearch/legalbench/tree/main/tasks/maud_"financial_point_of_view"_is_the_sole_consideration)|Read the following merger agreement and answer: is “financial point of view” the sole consideration when determining whether an offer is superior?|113|[CC By 4.0](https://creativecommons.org/licenses/by/4.0/)
 [maud_accuracy_of_fundamental_target_r&ws:_bringdown_standard](https://github.com/HazyResearch/legalbench/tree/main/tasks/maud_accuracy_of_fundamental_target_r&ws:_bringdown_standard)|Read the following merger agreement and answer: how accurate must the fundamental representations and warranties be according to the bring down provision?|176|[CC By 4.0](https://creativecommons.org/licenses/by/4.0/)
