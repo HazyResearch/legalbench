@@ -2,7 +2,7 @@
 
 The table below provides an overview of the different tasks.
 
-There are a total of 166 tasks, encompassing 132719 samples.
+There are a total of 168 tasks, encompassing 132999 samples.
 
 Task | Description | Size | License 
 ---- | ----------- | -----| -------
@@ -170,5 +170,7 @@ Task | Description | Size | License
 [supply_chain_disclosure_disclosed_certification](https://github.com/HazyResearch/legalbench/tree/main/tasks/supply_chain_disclosure_disclosed_certification)|Determine if a supply chain disclosure mentions that the retail seller or manufacturer requires direct suppliers to certify that materials incorporated into the product comply with the laws regarding slavery and human trafficking of the country or countries in which they are doing business.|393|[CC by 4.0](https://creativecommons.org/licenses/by/4.0/)
 [supply_chain_disclosure_disclosed_training](https://github.com/HazyResearch/legalbench/tree/main/tasks/supply_chain_disclosure_disclosed_training)|Determine if a supply chain disclosure mentions if the retail seller or manufacturer provides company employees and management training on mitigating supply chain risks to human trafficking and slavery.|394|[CC by 4.0](https://creativecommons.org/licenses/by/4.0/)
 [supply_chain_disclosure_disclosed_verification](https://github.com/HazyResearch/legalbench/tree/main/tasks/supply_chain_disclosure_disclosed_verification)|Determine if a supply chain disclosure mentions that the retail seller or manufacturer engages in verification of product supply chains to evaluate and address risks of human trafficking and slavery.|394|[CC by 4.0](https://creativecommons.org/licenses/by/4.0/)
+[textualism_tool_dictionaries](https://github.com/HazyResearch/legalbench/tree/main/tasks/textualism_tool_dictionaries)|Determine if a paragraph from a judicial opinion is applying a form textualism that relies on the dictionary meaning of terms.|111|[CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/)
+[textualism_tool_plain](https://github.com/HazyResearch/legalbench/tree/main/tasks/textualism_tool_plain)|Determine if a paragraph from a judicial opinion is applying a form textualism that relies on the ordinary ("plain") meaning of terms.|169|[CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/)
 [ucc_v_common_law](https://github.com/HazyResearch/legalbench/tree/main/tasks/ucc_v_common_law)|Determine if a contract is governed by the Uniform Commercial Code (UCC) or the common law of contracts.|100|[CC By 4.0](https://creativecommons.org/licenses/by/4.0/)
 [unfair_tos](https://github.com/HazyResearch/legalbench/tree/main/tasks/unfair_tos)|Classify if a terms-of-service clause is unfair.|3850.|[CC by 4.0](https://creativecommons.org/licenses/by/4.0/)

@@ -176,6 +176,7 @@ The following individuals/groups have contributed to LegalBench:
 - Enam Hoque
 - Jessica Wu
 - Jason Hegland
+- Austin Peters
 
 
 ## Licenses
