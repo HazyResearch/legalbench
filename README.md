@@ -174,6 +174,8 @@ The following individuals/groups have contributed to LegalBench:
 - Adam Chilton
 - Galit Sarfaty
 - Enam Hoque
+- Jessica Wu
+- Jason Hegland
 
 
 ## Licenses

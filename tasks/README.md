@@ -2,7 +2,7 @@
 
 The table below provides an overview of the different tasks.
 
-There are a total of 163 tasks, encompassing 129431 samples.
+There are a total of 166 tasks, encompassing 132719 samples.
 
 Task | Description | Size | License 
 ---- | ----------- | -----| -------
@@ -155,6 +155,9 @@ Task | Description | Size | License
 [proa](https://github.com/HazyResearch/legalbench/tree/main/tasks/proa)|Classify if a statute contains a private right of action.|100|[CC by 4.0](https://creativecommons.org/licenses/by/4.0/)
 [rule_qa](https://github.com/HazyResearch/legalbench/tree/main/tasks/rule_qa)|Answer questions about federal and state law.|50|[CC by 4.0](https://creativecommons.org/licenses/by/4.0/)
 [scalr](https://github.com/HazyResearch/legalbench/tree/main/tasks/scalr)|Identify the holding statement that best answers a particular legal question.|571|[CC by 4.0](https://creativecommons.org/licenses/by/4.0/)
+[ssla_company_defendants](https://github.com/HazyResearch/legalbench/tree/main/tasks/ssla_company_defendants)|Extract the identities of the company defendants from excerpts of securities class action complaints.|1234|[CC by 4.0](https://creativecommons.org/licenses/by/4.0/)
+[ssla_individual_defendants](https://github.com/HazyResearch/legalbench/tree/main/tasks/ssla_individual_defendants)|Extract the identities of individual defendants from excerpts of securities class action complaints.|1016|[CC by 4.0](https://creativecommons.org/licenses/by/4.0/)
+[ssla_plaintiff](https://github.com/HazyResearch/legalbench/tree/main/tasks/ssla_plaintiff)|Extract the identities of the plaintiffs from excerpts of securities class action complaints.|1038|[CC by 4.0](https://creativecommons.org/licenses/by/4.0/)
 [statutory_reasoning_assessment](https://github.com/HazyResearch/legalbench/tree/main/tasks/statutory_reasoning_assessment)|||MIT
 [successor_liability](https://github.com/HazyResearch/legalbench/tree/main/tasks/successor_liability)|Identify the type of successor liability in a fact pattern|50|[CC by 4.0](https://creativecommons.org/licenses/by/4.0/)
 [supply_chain_disclosure_best_practice_accountability](https://github.com/HazyResearch/legalbench/tree/main/tasks/supply_chain_disclosure_best_practice_accountability)|Determine if a supply chain disclosure describes internal compliance procedures on company standards.|394|[CC by 4.0](https://creativecommons.org/licenses/by/4.0/)
