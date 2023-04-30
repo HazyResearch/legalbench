@@ -171,6 +171,8 @@ The following individuals/groups have contributed to LegalBench:
 - Nikon Rasumov-Rahe
 - Aditya Narayana
 - Dmitry Talisman
+- Adam Chilton
+- Galit Sarfaty
 
 
 ## Licenses

@@ -1,0 +1,4 @@
+{{text}}
+
+Question: Does the above disclosure meet the following criteria: Does the above statement disclose whether the retail seller or manufacturer engages in verification and auditing as one practice, expresses that it may conduct an audit, or expressess that it is assessing supplier risks through a review of the US Dept. of Labor's List? Answer yes or no.
+Answer:
