@@ -28,7 +28,7 @@ for fpath in sorted(fpaths):
     if len(size) > 0:
         total += eval(size)
     table.append([url, summary, size, license_name])
-
+    print("|".join([task, size, summary, license_name]))
 README = f"""# Task overview 
 
 The table below provides an overview of the different tasks.

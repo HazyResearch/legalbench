@@ -2,7 +2,7 @@
 
 The table below provides an overview of the different tasks.
 
-There are a total of 151 tasks, encompassing 125346 samples.
+There are a total of 152 tasks, encompassing 125434 samples.
 
 Task | Description | Size | License 
 ---- | ----------- | -----| -------
@@ -23,6 +23,7 @@ Task | Description | Size | License
 [contract_nli_sharing_with_employees](https://github.com/HazyResearch/legalbench/tree/main/tasks/contract_nli_sharing_with_employees)|Identify if the clause provides that the Receiving Party may share some Confidential Information with some of Receiving Party's employees.|188|[CC BY 4.0](https://creativecommons.org/licenses/by/4.0/)
 [contract_nli_sharing_with_third-parties](https://github.com/HazyResearch/legalbench/tree/main/tasks/contract_nli_sharing_with_third-parties)|Identify if the clause provides that the Receiving Party may share some Confidential Information with some third-parties (including consultants, agents and professional advisors).|204|[CC BY 4.0](https://creativecommons.org/licenses/by/4.0/)
 [contract_nli_survival_of_obligations](https://github.com/HazyResearch/legalbench/tree/main/tasks/contract_nli_survival_of_obligations)|Identify if the clause provides that ome obligations of Agreement may survive termination of Agreement.|166|[CC BY 4.0](https://creativecommons.org/licenses/by/4.0/)
+[contract_qa](https://github.com/HazyResearch/legalbench/tree/main/tasks/contract_qa)|Answer yes/no questions about whether contractual clauses discuss particular issues.|88|[CC BY 4.0](https://creativecommons.org/licenses/by/4.0/)
 [corporate_lobbying](https://github.com/HazyResearch/legalbench/tree/main/tasks/corporate_lobbying)|Predict if a proposed bill is relevant to a company.|500|[CC By 4.0](https://creativecommons.org/licenses/by/4.0/)
 [cuad_affiliate_license-licensee](https://github.com/HazyResearch/legalbench/tree/main/tasks/cuad_affiliate_license-licensee)|Does the clause describe a license grant to a licensee (incl. sublicensor) and the affiliates of such licensee/sublicensor?|208|[CC By 4.0](https://creativecommons.org/licenses/by/4.0/)
 [cuad_affiliate_license-licensor](https://github.com/HazyResearch/legalbench/tree/main/tasks/cuad_affiliate_license-licensor)|Does the clause describe a license grant by affiliates of the licensor or that includes intellectual property of affiliates of the licensor?|94|[CC By 4.0](https://creativecommons.org/licenses/by/4.0/)

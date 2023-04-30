@@ -168,6 +168,9 @@ The following individuals/groups have contributed to LegalBench:
 - Zehua Li
 - Sunny Gandhi
 - Michael Livermore
+- Nikon Rasumov-Rahe
+- Aditya Narayana
+- Dmitry Talisman
 
 
 ## Licenses
