@@ -177,6 +177,7 @@ The following individuals/groups have contributed to LegalBench:
 - Jessica Wu
 - Jason Hegland
 - Austin Peters
+- Sean Rehaag
 
 
 ## Licenses

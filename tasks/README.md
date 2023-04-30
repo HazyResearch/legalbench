@@ -2,11 +2,12 @@
 
 The table below provides an overview of the different tasks.
 
-There are a total of 168 tasks, encompassing 132999 samples.
+There are a total of 169 tasks, encompassing 133249 samples.
 
 Task | Description | Size | License 
 ---- | ----------- | -----| -------
 [abercrombie](https://github.com/HazyResearch/legalbench/tree/main/tasks/abercrombie)|Classify if the mark for a product on the Abercrombie spectrum.|100|[CC by 4.0](https://creativecommons.org/licenses/by/4.0/)
+[canada_tax_court_outcomes](https://github.com/HazyResearch/legalbench/tree/main/tasks/canada_tax_court_outcomes)|Classify whether an excerpt from a Canada Tax Court decision includes the outcome of the appeal, and if so, to specify whether the appeal was allowed or dismissed|250|CC BY-NC 4.0
 [citation_prediction_classification](https://github.com/HazyResearch/legalbench/tree/main/tasks/citation_prediction_classification)|Predict if a sentence is supported by a case.|110|[CC BY 4.0](https://creativecommons.org/licenses/by/4.0/)
 [citation_prediction_open](https://github.com/HazyResearch/legalbench/tree/main/tasks/citation_prediction_open)|Predict the case (by name) that best supports the provided sentence.|55|[CC BY 4.0](https://creativecommons.org/licenses/by/4.0/)
 [contract_nli_confidentiality_of_agreement](https://github.com/HazyResearch/legalbench/tree/main/tasks/contract_nli_confidentiality_of_agreement)|Identify if the clause provides that the Receiving Party shall not disclose the fact that Agreement was agreed or negotiated.|92|[CC BY 4.0](https://creativecommons.org/licenses/by/4.0/)
