@@ -1,4 +1,4 @@
-# consumer_contracts_qa
+# canada_tax_court_outcomes
 
 **Contributor**: Sean Rehaag
 
