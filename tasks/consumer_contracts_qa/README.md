@@ -4,7 +4,7 @@
 
 **Source**: Noam Kolt
 
-**License**: 
+**License**: CC BY-NC 4.0
 
 **Task summary**: Answer yes/no questions pertaining to the rights and obligations created by clauses in terms of services agreements.
 
