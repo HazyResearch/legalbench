@@ -182,6 +182,7 @@ The following individuals/groups have contributed to LegalBench:
 - Tom Zur
 
 
+
 ## Licenses
 
 LegalBench is a mix of created and transformed datasets. We ask that you follow the license of the dataset creator. Please see the [task page](https://github.com/HazyResearch/legalbench/tree/main/tasks) for a list of tasks and licenses.
