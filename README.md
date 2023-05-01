@@ -181,6 +181,9 @@ The following individuals/groups have contributed to LegalBench:
 - Haggai Porat
 - Tom Zur
 - Jonathan H. Choi
+- Brandon Waldon
+- Megan Ma
+- Noam Kolt
 
 
 

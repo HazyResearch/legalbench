@@ -2,7 +2,7 @@
 
 The table below provides an overview of the different tasks.
 
-There are a total of 172 tasks, encompassing 92921 samples.
+There are a total of 174 tasks, encompassing 93459 samples.
 
 Task | Description | Size | License 
 ---- | ----------- | -----| -------
@@ -10,6 +10,7 @@ Task | Description | Size | License
 [canada_tax_court_outcomes](https://github.com/HazyResearch/legalbench/tree/main/tasks/canada_tax_court_outcomes)|Classify whether an excerpt from a Canada Tax Court decision includes the outcome of the appeal, and if so, to specify whether the appeal was allowed or dismissed|250|CC BY-NC 4.0
 [citation_prediction_classification](https://github.com/HazyResearch/legalbench/tree/main/tasks/citation_prediction_classification)|Predict if a sentence is supported by a case.|110|[CC BY 4.0](https://creativecommons.org/licenses/by/4.0/)
 [citation_prediction_open](https://github.com/HazyResearch/legalbench/tree/main/tasks/citation_prediction_open)|Predict the case (by name) that best supports the provided sentence.|55|[CC BY 4.0](https://creativecommons.org/licenses/by/4.0/)
+[consumer_contracts_qa](https://github.com/HazyResearch/legalbench/tree/main/tasks/consumer_contracts_qa)|Answer yes/no questions pertaining to the rights and obligations created by clauses in terms of services agreements.|400|
 [contract_nli_confidentiality_of_agreement](https://github.com/HazyResearch/legalbench/tree/main/tasks/contract_nli_confidentiality_of_agreement)|Identify if the clause provides that the Receiving Party shall not disclose the fact that Agreement was agreed or negotiated.|92|[CC BY 4.0](https://creativecommons.org/licenses/by/4.0/)
 [contract_nli_explicit_identification](https://github.com/HazyResearch/legalbench/tree/main/tasks/contract_nli_explicit_identification)|Identify if the clause provides that all Confidential Information shall be expressly identified by the Disclosing Party.|120|[CC BY 4.0](https://creativecommons.org/licenses/by/4.0/)
 [contract_nli_inclusion_of_verbally_conveyed_information](https://github.com/HazyResearch/legalbench/tree/main/tasks/contract_nli_inclusion_of_verbally_conveyed_information)|Identify if the clause provides that Confidential Information may include verbally conveyed information.|152|[CC BY 4.0](https://creativecommons.org/licenses/by/4.0/)
@@ -74,6 +75,7 @@ Task | Description | Size | License
 [diversity_6](https://github.com/HazyResearch/legalbench/tree/main/tasks/diversity_6)|Classify if a particular set of claims qualify for diversity jurisdiction based on amount-in-controversy and party citizenships.|306|[CC By 4.0](https://creativecommons.org/licenses/by/4.0/)
 [function_of_decision_section](https://github.com/HazyResearch/legalbench/tree/main/tasks/function_of_decision_section)|Classify the function of different sections of legal written opinions.|374|[CC By 4.0](https://creativecommons.org/licenses/by/4.0/)
 [hearsay](https://github.com/HazyResearch/legalbench/tree/main/tasks/hearsay)|Classify if a particular piece of evidence would be barred as hearsay.|100|[CC By 4.0](https://creativecommons.org/licenses/by/4.0/)
+[insurance_policy_interpretation](https://github.com/HazyResearch/legalbench/tree/main/tasks/insurance_policy_interpretation)|Read the insurance policy and the insurance claim. Answer whether the claim is covered under the policy.|138|[CC By 4.0](https://creativecommons.org/licenses/by/4.0/)
 [international_citizenship_questions](https://github.com/HazyResearch/legalbench/tree/main/tasks/international_citizenship_questions)|Answer questions about citizenship law from across the world.|9300|[CC by 4.0](https://creativecommons.org/licenses/by/4.0/)
 [intra_rule_distinguishing](https://github.com/HazyResearch/legalbench/tree/main/tasks/intra_rule_distinguishing)|Determine which LegalBench issue is implicated in a certain fact pattern (meta-task).|60|[CC by 4.0](https://creativecommons.org/licenses/by/4.0/)
 [jcrew_blocker](https://github.com/HazyResearch/legalbench/tree/main/tasks/jcrew_blocker)|Classify if a clause in a loan agreement is a JCrew blocker provision.|60|[CC BY 4.0](https://creativecommons.org/licenses/by/4.0/)
