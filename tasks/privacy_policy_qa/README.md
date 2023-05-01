@@ -7,7 +7,7 @@
  
  **Task summary**: Determine if a clause in a privacy policy contains the answer to a given question.
  
- **Size (samples)**: 51750
+ **Size (samples)**: 10992
  
  ## Task Description
  
