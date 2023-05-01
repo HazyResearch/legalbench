@@ -167,6 +167,20 @@ The following individuals/groups have contributed to LegalBench:
 - Gregory M. Dickinson
 - Zehua Li
 - Sunny Gandhi
+- Michael Livermore
+- Nikon Rasumov-Rahe
+- Aditya Narayana
+- Dmitry Talisman
+- Adam Chilton
+- Galit Sarfaty
+- Enam Hoque
+- Jessica Wu
+- Jason Hegland
+- Austin Peters
+- Sean Rehaag
+- Haggai Porat
+- Tom Zur
+
 
 
 ## Licenses
