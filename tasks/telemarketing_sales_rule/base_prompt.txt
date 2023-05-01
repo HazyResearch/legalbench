@@ -1,0 +1,16 @@
+The Telemarketing Sales Rule is provided by 16 C.F.R. § 310.3(a)(1) and 16 C.F.R. § 310.3(a)(2).
+
+Question: Acme Toys is a telemarketer subject to the Telemarketing Sales Rule. Acme Toys told a customer that its frisbees cost $10 each, when in fact the frisbees cost $12 each. The customer agreed to the sale and was charged $12. Is this a violation of the Telemarketing Sales Rule?
+Answer: Yes
+
+Question: Acme Toys is a telemarketer subject to the Telemarketing Sales Rule. Acme Toys told a customer that its frisbees cost $10 each, when in fact the frisbees did cost $10, but Acme Toys did not disclose that shipping would cost an additional $5. The customer agreed to the sale. Is this a violation of the Telemarketing Sales Rule?
+Answer: Yes
+
+Question: Acme Industrial Products is a telemarketer subject to the Telemarketing Sales Rule. Acme Industrial Products told a customer that its brooms cost $12 each, and the brooms did in fact cost $12. The customer agreed to the sale. Is this a violation of the Telemarketing Sales Rule?
+Answer: No
+
+Question: Acme Industrial Products is a telemarketer subject to the Telemarketing Sales Rule. Acme Industrial Products told a customer that it would sell them 4 brooms for $10, and that shipping would be $5. Then, the customer agreed to the sale. Is this a violation of the Telemarketing Sales Rule?
+Answer: No
+
+Question: {{text}}
+Answer:
