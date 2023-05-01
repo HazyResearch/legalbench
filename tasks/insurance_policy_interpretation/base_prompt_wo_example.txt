@@ -1,0 +1,5 @@
+Read the insurance policy and the insurance claim. Answer whether the claim is covered under the policy with [A: Yes; B: No; C: It’s ambiguous]
+
+Policy: {{policy}}
+Claim: {{claim}}
+Label:
