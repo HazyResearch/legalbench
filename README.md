@@ -1,5 +1,7 @@
 # LegalBench
 
+**Update June 6, 2023**: Thank you to everyone who submitted tasks during our first round! We're currently in the process of setting these up and benchmarking several different models. We're planning to release all of these by July–please reach out if you have any questions! 
+
 LegalBench is a **collaborative** benchmark intended to evaluate English large language models on legal reasoning and legal text-based tasks. LegalBench currently consists of more than 90 tasks, which are described in detail [here](https://github.com/HazyResearch/legalbench/tree/main/tasks). A draft proposal describing the organization of an initial seed set of tasks is available as a preprint [here](https://arxiv.org/abs/2209.06120). This repository currently contains demonstrative samples for each submitted task. Due to concerns about train-test leakage with large language models trained on Github/web corpora, we're currently assessing how best to make the benchmark available to the community. If you'd like to evaluate on LegalBench, please reach out.
 
 **In May 2023, we will be writing a paper describing the organization of LegalBench. Anyone who submits a task to LegalBench will be invited to join the paper as a co-author provided that:**
