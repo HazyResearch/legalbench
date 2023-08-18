@@ -4,7 +4,7 @@
 
 The LegalBench project is an ongoing open science effort to collaboratively curate tasks for evaluating legal reasoning in English large language models (LLMs). The benchmark currently consists of 162 tasks gathered from 40 contributors.
 
-[**Website**]() [**Data**]()
+[**Website**](https://hazyresearch.stanford.edu/legalbench/)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[**Data**]()
 </div>
 
 
@@ -18,14 +18,14 @@ LegalBench is a benchmark consisting of different legal reasoning *tasks*. Each 
 
 Task datasets can be used to evaluate LLMs by providing the LLM with the input, and evaluating how frequently it generates the corresponding output. LegalBench tasks cover a wide range of textual types, task structures, legal domains, and difficulty levels. Descriptions of each task are available [here](./tasks/index.markdown).
 
-Notably, LegalBench tasks have been assembled through a unique crowd-sourcing effort within the legal community. [Individuals and organizations]() from a broad range of legal backgrounds---lawyers, computational legal practitioners, law professors, and legal impact labs---have contributed tasks they see as "interesting" or "useful." Interesting tasks are those that require a type of reasoning that the contributor deemed to be worth measuring. For instance, the task might correspond to one that law students are frequently expected to perform as part of assessments. Useful tasks correspond to processes that legal professionals currently engage in (either manually or through other means), and thus represent potential practical applications for LLMs.
+Notably, LegalBench tasks have been assembled through a unique crowd-sourcing effort within the legal community. [Individuals and organizations](https://hazyresearch.stanford.edu/legalbench/#contributors) from a broad range of legal backgrounds---lawyers, computational legal practitioners, law professors, and legal impact labs---have contributed tasks they see as "interesting" or "useful." Interesting tasks are those that require a type of reasoning that the contributor deemed to be worth measuring. For instance, the task might correspond to one that law students are frequently expected to perform as part of assessments. Useful tasks correspond to processes that legal professionals currently engage in (either manually or through other means), and thus represent potential practical applications for LLMs.
 
 **LegalBench is ongoing and we are always looking to incorporate more tasks. See [here](./contribute.markdown) for more information on how to get involved!**
 
 
 ## Who are we?
 
-We're an [interdisciplinary team](#contributors) of computer scientists and lawyers spanning academia and industry, interested in understanding the types of legal tasks that modern language models are capable of solving. To do so, we've been accumulating and constructing a diverse collection of legal NLP tasks---all of which are [available](/legalbench/tasks/) in this repository. We have two goals for this project:
+We're an [interdisciplinary team]([#contributors](https://hazyresearch.stanford.edu/legalbench/#contributors)) of computer scientists and lawyers spanning academia and industry, interested in understanding the types of legal tasks that modern language models are capable of solving. To do so, we've been accumulating and constructing a diverse collection of legal NLP tasks---all of which are [available]([/legalbench/tasks/](https://hazyresearch.stanford.edu/legalbench/tasks/)) in this repository. We have two goals for this project:
 
 1. First, we'd like to use these datasets to continually evaluate large language models for tasks involving legal reasoning and legal text. In particular, we're excited by the idea that the unique challenges posed by legal text may inspire new algorithmic innovations.
 2. Second, we'd like to use these datasets to guide legal practitioners and academics as they seek to understand to the safety and reliability implications of these models in their daily workflows.
@@ -35,12 +35,12 @@ Our approach to building LegalBench is inspired by contemporaneous open-science 
 
 ## Contributing a task
 
-Please see [here]() for more details.
+Please see [here](https://hazyresearch.stanford.edu/legalbench/contribute/) for more details.
 
 
 ## Evaluating on LegalBench tasks
 
-Please see [here]() for more details.
+Please see [here](https://hazyresearch.stanford.edu/legalbench/getting-started/) for more details.
 
 
 ## Licenses
