@@ -8,4 +8,4 @@ permalink: /getting-started/
 
 This page provides an overview of how to get started with LegalBench.
 
-*More information forthcoming*
+*More information forthcoming in the next few days*
