@@ -1,0 +1,16 @@
+Does the sentence contain language overruling a previous case?
+
+Sentence: in so holding, we overrule newsome v. state, 197 miss. 797, 20 so.2d 708 (1945), in which this court held the dangerous character of the victim could not be proven by his prior acts of violence, although the defendant had knowledge thereof.
+Label: Yes
+
+Sentence: to the extent that lee suggests a hard-and-fast rule that there can be no claim for negligent display of merchandise, the suggestion conflicts with the general rule of landowner liability that we have described, and we disavow it.
+Label: Yes
+
+Sentence: in re t.p., 12th dist. butler no. ca2015-08-164, 2016-ohio-72,  19.
+Label: No
+
+Sentence: (in re victor l. (2010) 182 cal.app.4th 902, 910 (victor l.).)
+Label: No
+
+Sentence: {{text}}
+Label:

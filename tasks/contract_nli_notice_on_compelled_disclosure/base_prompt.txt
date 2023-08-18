@@ -12,16 +12,16 @@ Label: Yes
 Clause: 4.1. Notwithstanding clause 3.1 of this Agreement, the Receiving Party may disclose the Confidential Information: b) as may be required by an order of any court of competent jurisdiction or governmental body in which case the Receiving Party shall, to the extent permitted by law, use reasonable endeavours to provide the Disclosing Party with prompt written notice of any such requirement prior to any disclosure so that the Disclosing Party may seek a protection order or other appropriate remedy.  
 Label: Yes
 
-Clause: In view thereof, the parties undertake that - 3.2 they will not, without the prior written consent of the disclosing party: 3.2.2 divulge, discuss with, disclose or reveal the confidential information of the disclosing party to any person, firm, corporation, association or any other entity for any reason or purpose whatsoever (other than its employees and agents and only to the extent that such employees and agents require such information in the implementation of any agreement concluded between the parties); 
+Clause: The Receiving Party shall provide attested certification from an authorized representative confirming such return and destruction "provided however, Receiving Party may retain one (1) copy of such documentation in its secure legal files for the sole purpose of administering its obligations under this agreement, as well as copies of electronically exchanged Confidential Information that are made as a matter of routine information technology back-up, which copies shall continue to be kept confidential in accordance with the terms and conditions of this Agreement." 
 Label: No
 
-Clause: Except as may be required by applicable law, without the prior written consent of the respective Disclosing Party, the Receiving Party shall not:  (b) disclose to any person the fact that Confidential Information and/or CEII/CII have been made available to it;  (c) confirm that any investigations, discussions or negotiations are taking place; or  (d) disclose any of the terms or conditions with respect to same.  
+Clause: 2.1. A Receiving Party agrees: 2.1.1. to keep the Confidential Information of the other strictly confidential and not copy, supply or make the same available to any person other than as permitted in Clauses 2.1.2 and 2.1.3 below; 
 Label: No
 
-Clause: The term “Evaluation Materials” does not include information which, you establish through written documentation,  (iii) is independently developed by you without violating your obligations hereunder.  
+Clause: 2. Neither party has any obligation with respect to any Conﬁdential Information which  (c) is disclosed to it by a third person who is not required to maintain its conﬁdentiality;  
 Label: No
 
-Clause: The receiving party shall not make any copies of Confidential Information received from the disclosing party except as necessary for its employees with a need to know.  
+Clause: "Confidential Information" of a disclosing party ("Discloser") means the following, regardless of its form and including copies made by the receiving party ("Recipient"), whether the Recipient becomes aware of it before or after the date of this Agreement:  disclosed by the Discloser to the Recipient or of which the Recipient becomes aware, including but not limited to, the information specified in Schedule 1; Neither party may make any public announcement or press release concerning the purpose or this agreement without the prior written consent of the other party.  the fact that the parties are discussing a Project or Opportunity;  the status of the Project or Opportunity; and  the fact that the parties have made information available to each other and are inspecting or evaluating that information; 
 Label: No
 
 Clause: {{text}}

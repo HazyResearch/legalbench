@@ -1,0 +1,4 @@
+Diversity jurisdiction exists when there is (1) complete diversity between plaintiffs and defendants, and (2) the amount-in-controversy (AiC) is greater than $75k.
+
+Q: {{text}} Is there diversity jurisdiction? Answer "Yes" or "No".
+A:

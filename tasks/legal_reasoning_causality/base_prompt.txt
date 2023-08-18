@@ -10,7 +10,6 @@ Excerpt: Ms. Hanna completed her undergraduate [**161]  degree in physics at the
 Answer: No
 
 Excerpt: The Court takes this opportunity to comment on one developing distinction regarding the pleading requirements for a discrimination claim under the ADEA—namely, whether a plaintiff in an ADEA case must plead "but-for" causation, or whether she may satisfy the pleading standard by merely providing minimal support for the [**43]  proposition that the defendant was motivated by discriminatory intent. Courts in this District have applied different standards in a number of recent cases. Compare, e.g., Tsismentzoglou v. Milos Estiatorio Inc., No. 18-CV-9664 (RA), 2019 U.S. Dist. LEXIS 90198, 2019 WL 2287902, at *3 (S.D.N.Y. May 29, 2019) (requiring plaintiff to plead "but-for" causation to assert discrimination claim under the ADEA); Downey v. Adloox Inc., 238 F. Supp. 3d 514, 519 (S.D.N.Y. 2017) (same); with Luka, 263 F. Supp. 3d at 484-85 (requiring plaintiff to plead minimal support for the proposition that defendant was motivated by discriminatory intent to assert discrimination claim under the ADEA); Ahmad v. White Plains City Sch. Dist., No. 18-CV-3416 (KMK), 2019 U.S. Dist. LEXIS 118032, 2019 WL 3202747, at *7 (S.D.N.Y. July 16, 2019) (same).
-
 Answer: No
 
 Excerpt: {{text}}

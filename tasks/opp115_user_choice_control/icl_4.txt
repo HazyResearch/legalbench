@@ -1,0 +1,16 @@
+Does the clause describe the choices and control options available to users?
+
+Clause: Another way is to simply to click the "unsubscribe" link
+Label: Yes
+
+Clause: you may contact the Privacy Office as described in the " Contact Us" section below.
+Label: Yes
+
+Clause: When you make a purchase, rent or place an order in our stores, place an order online or purchase, download, rent or stream books, periodicals, movies, television shows and other digital content ("Digital Content"), you may need to submit personal information to us.
+Label: No
+
+Clause: Secure Socket Layer (SSL) encryption, firewalls, system alerts and other information system security technologies
+Label: No
+
+Clause: {{text}}
+Label:

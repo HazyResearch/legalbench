@@ -1,0 +1,4 @@
+Judea is from Arkansas and Mischa is from Pennsylvania. These are different states, so the parties are diverse. The claim is for $5,500,000, which is greater than $75,000, so the amount is large enough. Since the parties are diverse and the amount is large enough, the answer is Yes.
+Abdulrahman is from Washington and Sallie is from Washington. These are the same state, so the parties are not diverse. Since the parties are not diverse, the answer is No.
+Vivienne is from Alabama and Talmadge is from Maine. These are different states, so the parties are diverse. The claim is for $43,000, which is not greater than $75,000, so the amount is not large enough. Since the amount is large enough, the answer is No.
+Chae is from Ohio and Donal is from Ohio. These are the same state, so the parties are not diverse. Since the parties are not diverse, the answer is No.

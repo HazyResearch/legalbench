@@ -1,7 +1,0 @@
-Instruction: Read the segment of a merger agreement and answer the multiple-choice question by choosing the option that best characterizes the agreement.
-Question: What counts as Constructive Knowledge?
-Option Option A: Knowledge based on investigation or inquiry
-Option Option B: Knowledge based on role
-
-Merger Agreement: {{text}}
-Answer:

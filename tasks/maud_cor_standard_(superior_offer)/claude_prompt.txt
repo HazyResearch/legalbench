@@ -1,0 +1,20 @@
+Instruction: Read the segment of a merger agreement and answer the multiple-choice question by choosing the option that best characterizes the agreement.
+Question: What standard should the board follow when determining whether to change its recommendation in connection with a superior offer?
+Option A: "Breach" of fiduciary duties
+Option B: "Inconsistent" with fiduciary duties
+Option C: "Reasonably likely/expected breach" of fiduciary duties
+Option D: "Reasonably likely/expected to be inconsistent" with fiduciary duties
+Option E: "Reasonably likely/expected violation" of fiduciary duties
+Option F: "Required to comply" with fiduciary duties
+Option G: "Violation" of fiduciary duties
+Option H: More likely than not violate fiduciary duties
+Option I: None
+Option J: Other specified standard
+
+<example>
+Merger Agreement: Section 5.2. No Solicitation. <omitted>  (c)    Notwithstanding anything to the contrary contained in this Agreement, at any time prior to obtaining the Company Stockholder Approval, the Company Board may make a Change in Recommendation in response to an unsolicited bona fide written Acquisition Proposal or cause the Company to enter into an Alternative Acquisition Agreement concerning an Acquisition Proposal, in each case only if:   (i)    such Acquisition Proposal or Superior Proposal did not result from a breach of Section 5.2(a);   (ii)the Company Board (or a committee thereof) determines in good faith (A) after consultation with the Company’s outside legal counsel and Independent Financial Advisor, that such Acquisition Proposal constitutes a Superior Proposal and (B) after consultation with the Company’s outside legal counsel, that in light of such Acquisition Proposal, a failure to make a Change in Recommendation or to cause the Company to enter into such Alternative Acquisition Agreement would be inconsistent with the Company Board’s fiduciary obligations to the Company’s stockholders under the DGCL; (Page 27)
+Answer: B
+</example>
+
+Merger Agreement: {{text}} Reply with either: Option A, Option B, Option C, Option D, Option E, Option F, Option G, Option H, Option I, Option J
+Answer:

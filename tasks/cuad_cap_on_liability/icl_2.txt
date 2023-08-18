@@ -1,0 +1,16 @@
+Does the clause specify a cap on liability upon the breach of a party’s obligation? This includes time limitation for the counterparty to bring claims or maximum amount for recovery.
+
+Clause: NOTWITHSTANDING ANY OTHER PROVISION CONTAINED HEREIN (OTHER THAN AS SET FORTH IN THE SECOND SENTENCE OF THIS SECTION 11.4), IN NO EVENT SHALL DOVA (OR ITS AFFILIATES) OR VALEANT (OR ITS AFFILIATES) BE LIABLE TO THE OTHER OR ANY OF THE OTHER PARTY'S AFFILIATES FOR ANY CONSEQUENTIAL, INCIDENTAL, INDIRECT, SPECIAL, PUNITIVE OR EXEMPLARY DAMAGES (INCLUDING LOST PROFITS) SUFFERED OR INCURRED BY SUCH OTHER PARTY OR ITS AFFILIATES THAT ARISE OUT OF OR RELATE TO THIS AGREEMENT OR IN CONNECTION WITH A BREACH OR ALLEGED BREACH OF THIS AGREEMENT, WHETHER IN CONTRACT, TORT, STRICT LIABILITY OR OTHERWISE, AND REGARDLESS OF ANY NOTICE OF THE POSSIBILITY OF SUCH DAMAGES.
+Label: Yes
+
+Clause: Party B's use of the Platform and the acquisition of any information by using the Platform are solely at Party B's independent judgment and is at Party B's own risk (including but not limited to the losses caused by damage to Party B's computer system or mobile phone system or loss of data.)
+Label: Yes
+
+Clause: This Agreement is effective as of August 1, 2004, (the "Effective Date") and shall terminate on July 31, 2009, (the "Termination Date") unless earlier terminated or extended as provided for herein.
+Label: No
+
+Clause: Subject to Section 14.1.1, title to all inventions and other intellectual property made related to (i) the Development Program, (ii) the Lead Compounds, (iii) FG Technology or FG Confidential Information, (iv) the Field, or (v) the Expanded Field (subsections 14.1(i)-(v), collectively, the "Protected Field") shall be owned by or is hereby assigned to FG; provided, however that Astellas shall own inventions of general applicability relating solely to drug delivery systems created exclusively by Astellas under subsection 14.1(i), excluding inventions related to or based on subsections 14.1(ii), (iii), (iv), or (v), and provided, further, that Astellas hereby grants to FG a worldwide, fully paid non-exclusive license with the right to sublicense to practice such inventions with respect to the FG Technology.
+Label: No
+
+Clause: {{text}}
+Label:

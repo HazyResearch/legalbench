@@ -1,0 +1,44 @@
+Does the clause describe how and why a service provider collects user information?
+
+<example>
+Clause: When you purchase products or services from Kraft, we request your
+Label: Yes
+</example>
+
+<example>
+Clause: We may give you the opportunity to tell your friends about features or information on our website.
+Label: Yes
+</example>
+
+<example>
+Clause: if you choose to register on our website or participate in our offers and programs.
+Label: Yes
+</example>
+
+<example>
+Clause: We may use cookies, web beacons/pixel tags, log files, and other technologies
+Label: Yes
+</example>
+
+<example>
+Clause: We encourage you to periodically review this page for the latest information on our privacy.
+Label: No
+</example>
+
+<example>
+Clause: Our Sites may contain content hosted or served by third parties or link to websites operated by affiliates of PRH or third parties. Please be advised that the practices described in this Privacy Policy for PRH do not apply to information gathered by these third parties. We are not responsible for the actions and privacy policies employed by any third party, and our hosting of third party content or linking to third party websites does not constitute an endorsement of the content or business practices of those third parties.
+Label: No
+</example>
+
+<example>
+Clause: Using other aggregation websites Other companies offer aggregation websites and services that allow you to consolidate your financial account information from different sources (such as your accounts with us or with other financial institutions) so that you can view all your account information at one online location. To do this, an aggregation provider may request access to Personal Information, such as financial information, usernames and passwords. You should use caution and ensure that the aggregator company has appropriate policies and practices to protect the privacy and security of any information you provide or to which they are gaining access. We are not responsible for the use or disclosure of any Personal Information accessed by any company or person to whom you provide your Site username and password.
+Label: No
+</example>
+
+<example>
+Clause: Material that is, really important changes to the way we use or disclose personally identifiable information will apply on a going-forward basis, unless we have your express consent to change the way we use or disclose the personally identifiable information we collected when the earlier version of this Privacy Policy was in effect.
+Label: No
+</example>
+
+Clause: {{text}} Reply with either: Yes, No
+Label:

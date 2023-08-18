@@ -1,0 +1,34 @@
+Does the clause specify that that there a non-contracting party who is a beneficiary to some or all of the clauses in the contract and therefore can enforce its rights against a contracting party?
+
+<example>
+Clause: Changepoint, Inc. ("Changepoint") shall be a direct and intended third-party beneficiary to this Agreement.
+Label: Yes
+</example>
+
+<example>
+Clause: Lessor and Lessee expressly agree that bw-3 is a third party beneficiary of this Addendum.
+Label: Yes
+</example>
+
+<example>
+Clause: It is expressly agreed by the Parties that the Lenders shall be third party beneficiaries of Section 4.09, Section 6.03, Section 8.02(b), Section 8.04, Section 8.05 and this Section 8.13
+Label: Yes
+</example>
+
+<example>
+Clause: Beginning in the second Contract Year, Wade will be available for a maximum of one (1) production day for creating marketing assets for Wade Products and Naked Products for unlimited use in advertisements and the media, for a maximum of three (3) consecutive hours, not including scheduled breaks, during such production day period.
+Label: No
+</example>
+
+<example>
+Clause: At the end of the sell-off period set forth in Section 12.3(c)(iii), Sanofi shall transfer to RevMed any and all inventory of SHP2 Inhibitors and Termination Products (including all research materials, final product, bulk drug substance, intermediates, work-in-process, formulation materials, reference standards, drug product clinical reserve samples, packaged retention samples, and the like) then in the possession of Sanofi, its Affiliates or Sublicensees, and continue or have continued any ongoing stability studies pertaining to any materials so transferred to RevMed for a reasonable period of time until RevMed can assume responsibility for such activities
+Label: No
+</example>
+
+<example>
+Clause: In the event Bellicum's aggregate purchases of Miltenyi Products from Miltenyi under this Agreement in any Calendar Year during the Term is less than [...***...]% of the Rolling Monthly Forecast subject to Sections 5.1 and 5.3, at the beginning of that Calendar Year or €[...***...] ([...***...] Euros), whatever is higher, (the "Minimum Purchase"), then Miltenyi shall provide written notice to Bellicum of such shortfall.
+Label: No
+</example>
+
+Clause: {{text}} Reply with either: Yes, No
+Label:

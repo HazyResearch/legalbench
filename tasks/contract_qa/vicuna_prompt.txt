@@ -1,0 +1,37 @@
+Answer the question.
+
+Clause: In the event of a data breach involving the unauthorized access, use, or disclosure of personally identifiable information (PII), the Company shall notify without undue delay affected individuals and relevant regulatory authorities in accordance with applicable laws and regulations. The Company shall also take reasonable steps to mitigate the harm caused by the breach and to prevent future breaches.
+Question: Does the clause discuss PII data breaches?
+Answer: Yes
+
+Clause: In the event of any dispute arising out of or relating to this agreement, the parties agree to submit to mediation before resorting to arbitration or litigation.
+Question: Does the clause discuss dispute resolution?
+Answer: Yes
+
+Clause: Each party agrees to keep confidential and not to disclose to any third party any confidential information of the other party, except as required by law or as necessary to perform its obligations under this Agreement. Each party shall take reasonable steps to protect the confidentiality of the other party's confidential information and to prevent its unauthorized use or disclosure.
+Question: Does the clause describe confidentiality requirements?
+Answer: Yes
+
+Clause: This Agreement shall be governed by and construed in accordance with the laws of the State of New York, without giving effect to any choice of law or conflict of law provisions. The parties hereby submit to the exclusive jurisdiction of the state and federal courts located in New York County, New York for any dispute arising out of or relating to this Agreement.
+Question: Does the clause discuss choice of law governing the contract?
+Answer: Yes
+
+Clause: This Agreement shall be governed by and construed in accordance with the laws of the State of California
+Question: Does the clause waive confidentiality?
+Answer: No
+
+Clause: This Agreement shall be binding upon and inure to the benefit of the parties hereto and their respective successors and assigns.
+Question: Does the clause discuss personal indemnification?
+Answer: No
+
+Clause: This Agreement shall be binding upon and inure to the benefit of the parties hereto and their respective successors and assigns
+Question: Does the clause waive confidentiality?
+Answer: No
+
+Clause: This Agreement contains the entire understanding between the parties hereto with respect to the subject matter hereof and supersedes all prior agreements and understandings between them relating thereto.
+Question: Does the clause describe confidentiality requirements?
+Answer: No
+
+Clause: {{text}}
+Question: {{question}} Output the answer only.
+Label:

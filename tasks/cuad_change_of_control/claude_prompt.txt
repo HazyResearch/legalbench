@@ -1,0 +1,34 @@
+Does the clause give one party the right to terminate or is consent or notice required of the counterparty if such party undergoes a change of control, such as a merger, stock sale, transfer of all or substantially all of its assets or business, or assignment by operation of law?
+
+<example>
+Clause: Columbia shall have the right to terminate this Agreement upon [***] notice to Fleet in the event:<omitted>(ii) a Change of Control Event with respect to Fleet occurs;
+Label: Yes
+</example>
+
+<example>
+Clause: In addition, notwithstanding the foregoing, Monsanto, or a subsequent successor, may assign the licenses for the Additional Roundup Products Trademarks upon a Change of Control with respect to Monsanto or a Roundup Sale, provided that Monsanto has provided the Agent with prior written notice of, and has obtained the Agent's prior written consent to, such assignment, which consent shall not be unreasonably withheld.
+Label: Yes
+</example>
+
+<example>
+Clause: Subject to requirements of applicable law, FCE will provide notice to ExxonMobil prior to, or promptly after, it becomes aware of any such Change in Control, and if prior notice is prohibited by applicable Law, as soon as practicable or after such notice is no longer prohibited, but in no event later than one (1) business day after any public announcement with respect to any such asset transfer or Change in Control.
+Label: Yes
+</example>
+
+<example>
+Clause: WEBMD'S AGGREGATE LIABILITY FOR ALL DAMAGES, LOSSES AND CAUSES OF ACTION IN ANY WAY RELATED TO THIS AGREEMENT OR THE CONTENT, WHETHER IN CONTRACT, TORT (INCLUDING NEGLIGENCE) OR OTHERWISE, EITHER JOINTLY OR SEVERALLY, SHALL NOT EXCEED FIFTY DOLLARS ($50).
+Label: No
+</example>
+
+<example>
+Clause: In addition, TPC agrees that Consolidated Artists shall be entitled to the Retainer Fee prorated to the effective date of termination as well any Tournament Bonuses, Money List Bonuses and any Royalty Compensation earned by Consolidated Artists prior to the effective date of termination.
+Label: No
+</example>
+
+<example>
+Clause: Effective Date shall be the date of the last signature on the last page of this Agreement.
+Label: No
+</example>
+
+Clause: {{text}} Reply with either: Yes, No
+Label:

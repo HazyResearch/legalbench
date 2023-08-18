@@ -1,0 +1,4 @@
+Post: {{text}}
+
+Does the post discuss the logistics of how a person can interact with a lawyer or the court system? This includes situations about procedure, rules, how to file lawsuits, how to hire lawyers, how to represent oneself, and other practical matters about dealing with these systems. Choices: "Yes" or "No"
+Answer:

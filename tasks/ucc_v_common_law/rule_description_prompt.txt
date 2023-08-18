@@ -1,0 +1,4 @@
+The UCC (through Article 2) governs the sale of goods, which are defined as moveable tangible things (cars, apples, books, etc.), whereas the common law governs contracts for real estate and services. For the following contracts, determine if they are governed by the UCC or by common law.
+
+Contract: {{contract}} Answer "common law" or "ucc".
+Governed by:

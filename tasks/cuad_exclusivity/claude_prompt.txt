@@ -1,0 +1,34 @@
+Does the clause specify exclusive dealing commitment with the counterparty? This includes a commitment to procure all “requirements” from one party of certain technology, goods, or services or a prohibition on licensing or selling technology, goods or services to third parties, or a prohibition on collaborating or working with other parties), whether during the contract or after the contract ends (or both).
+
+<example>
+Clause: Party A grants all-round exclusive rights to Party B to construct, maintain and operate the Cooperation channel.
+Label: Yes
+</example>
+
+<example>
+Clause: Subject to Section 2(e), the foregoing appointment is exclusive such that Ehave shall not appoint any other Person to, nor may Ehave itself, sell or resell the use of the Ehave Companion Solution within the Field of Use anywhere in the Territory.
+Label: Yes
+</example>
+
+<example>
+Clause: EHS and EHN shall have the exclusive rights in and to all ingredients, product specifications, goodwill, and all other intellectual property rights associated with any Product(s); provided, however, that EHS and EHN shall not have any rights in or to Dr. Murray's name or likeness except as expressly granted in writing herein or via electronic transmission by Dr. Murray.
+Label: Yes
+</example>
+
+<example>
+Clause: Except to Affiliates of Valeant, Valeant's rights and obligations under this Section 2.1 are non-transferable, non-assignable, and non-delegable.
+Label: No
+</example>
+
+<example>
+Clause: No Party may assign its rights or delegate its obligations under this Agreement, whether by operation of law or otherwise, without the prior written consent of the other Party, and any assignment in contravention hereof will be null and void.
+Label: No
+</example>
+
+<example>
+Clause: This Supply Agreement shall be governed by, and construed and enforced in accordance with, the laws of the State of California, without regard to any conflict of laws rules to the contrary.
+Label: No
+</example>
+
+Clause: {{text}} Reply with either: Yes, No
+Label:

@@ -1,22 +1,22 @@
 Does the clause specify that that there a non-contracting party who is a beneficiary to some or all of the clauses in the contract and therefore can enforce its rights against a contracting party?
 
-Clause: Any successor of any party or of any such controlling person, or any legal representative of such controlling person, as the case may be, shall be entitled to the benefit of the respective indemnity and contribution agreements.
+Clause: Changepoint, Inc. ("Changepoint") shall be a direct and intended third-party beneficiary to this Agreement.
 Label: Yes
-
-Clause: This Agreement can be terminated at any time prior to the expiry of the Term, as follows: (a) by the Consultant electing to give the Company not less than 3 months prior notice of such termination; (b) by the Company electing to give the Consultant 3 months prior notice of such termination along with a termination payment equal to the annual Consulting Fee;
-Label: No
-
-Clause: [***] of each Forecast shall constitute a firm order and be a binding commitment on AMAG to purchase the volume of Product, sample Product and Trainers set forth therein (the "Binding Forecast").
-Label: No
 
 Clause: Lessor and Lessee expressly agree that bw-3 is a third party beneficiary of this Addendum.
 Label: Yes
 
-Clause: As between the Parties, Adaptimmune will have the first right to prepare, file, prosecute, maintain, enforce and defend all U.S. and foreign patents, registrations and other forms of intellectual property in any jointly-owned Invention using patent counsel of its choice that is subject to the written approval of MD Anderson not to be unreasonably withheld and at the sole cost and expense of Adaptimmune, with accounting to MD Anderson.
+Clause: It is expressly agreed by the Parties that the Lenders shall be third party beneficiaries of Section 4.09, Section 6.03, Section 8.02(b), Section 8.04, Section 8.05 and this Section 8.13
+Label: Yes
+
+Clause: Beginning in the second Contract Year, Wade will be available for a maximum of one (1) production day for creating marketing assets for Wade Products and Naked Products for unlimited use in advertisements and the media, for a maximum of three (3) consecutive hours, not including scheduled breaks, during such production day period.
 Label: No
 
-Clause: Upon the death of the Employee while this Agreement is in force, the Employee's beneficiary as named in the Beneficiary Designation Form on page 6 (or as it may be amended according to the terms set forth on page 6) for this Agreement will be entitled to receive from the Policy proceeds an amount equal to the lesser of: (a) (two (2) times the Employee's annualized base salary at the time of death as provided by the Employer's payroll department) plus $100,000, reduced by any amount payable under the Employer's group term life insurance plan, or (b) the Net Amount At Risk.
-Label: Yes
+Clause: At the end of the sell-off period set forth in Section 12.3(c)(iii), Sanofi shall transfer to RevMed any and all inventory of SHP2 Inhibitors and Termination Products (including all research materials, final product, bulk drug substance, intermediates, work-in-process, formulation materials, reference standards, drug product clinical reserve samples, packaged retention samples, and the like) then in the possession of Sanofi, its Affiliates or Sublicensees, and continue or have continued any ongoing stability studies pertaining to any materials so transferred to RevMed for a reasonable period of time until RevMed can assume responsibility for such activities
+Label: No
+
+Clause: In the event Bellicum's aggregate purchases of Miltenyi Products from Miltenyi under this Agreement in any Calendar Year during the Term is less than [...***...]% of the Rolling Monthly Forecast subject to Sections 5.1 and 5.3, at the beginning of that Calendar Year or €[...***...] ([...***...] Euros), whatever is higher, (the "Minimum Purchase"), then Miltenyi shall provide written notice to Bellicum of such shortfall.
+Label: No
 
 Clause: {{text}}
 Label:

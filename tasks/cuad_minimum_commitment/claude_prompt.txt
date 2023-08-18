@@ -1,0 +1,34 @@
+Does the clause specify a minimum order size or minimum amount or units pertime period that one party must buy from the counterparty?
+
+<example>
+Clause: Miltenyi shall ensure that, at the time of Delivery the remaining shelf life of each shipped Miltenyi Product shall be no less than the minimum shelf life set forth in Exhibit B as such Exhibit B Module may be amended from time to time by written notification of Miltenyi to Bellicum. As of the Effective Date the Minimum Guaranteed Shelf Life of certain Miltenyi Products is relatively short and thus requires Bellicum to perform a tight materials management (i.e. short-termed<omitted>ordering of such Miltenyi Products) regarding production planning of Bellicum Product.
+Label: Yes
+</example>
+
+<example>
+Clause: Company shall pay to JHU minimum annual royalties as set forth in Exhibit A.
+Label: Yes
+</example>
+
+<example>
+Clause: If Excite does not make good the difference within [*] days, NetGrocer may suspend (but not eliminate) its payments of the sponsorship and advertising fees described in Section 5(b) and 5(c) until the make-good is delivered, at which time NetGrocer will resume its payments of the sponsorship and advertising fees.
+Label: Yes
+</example>
+
+<example>
+Clause: This Agreement shall be governed by, and construed and enforced in accordance with, the substantive laws of the State of Delaware, without regard to any conflicts of law provisions thereof that would result in the application of the laws of any other jurisdiction.
+Label: No
+</example>
+
+<example>
+Clause: In connection with such reviews, Manufacturer shall reasonably assist in the completion of an environmental health and safety survey of Manufacturer or the scheduling of an environmental health and safety audit of the Facility, as applicable, in each case with respect to the Products.
+Label: No
+</example>
+
+<example>
+Clause: If at the time of such termination, Sanofi or its Affiliates are Commercializing a particular Termination Product, then, at RevMed's request, the Parties shall negotiate in good faith a transition services agreement to cover detailing and promotion of such Termination Product (in the same manner and no more extensive than the then-current detailing and promotional efforts of Sanofi) by Sanofi or its Affiliate or contract sales force pursuant to a transition plan agreed by the Parties for a period not to exceed [***], and RevMed shall pay Sanofi a commercially reasonable amount to conduct such activities (which amount would include a commercially reasonable per-detail rate).
+Label: No
+</example>
+
+Clause: {{text}} Reply with either: Yes, No
+Label:

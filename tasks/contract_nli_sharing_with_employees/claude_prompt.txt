@@ -1,0 +1,44 @@
+Identify if the clause provides that the Receiving Party may share some Confidential Information with some of Receiving Party's employees.
+
+<example>
+Clause: The Parties will: a. limit disclosure of any Confidential Information to its directors, officers, employees, agents or representatives (collectively "Representatives") who have a need to know such Confidential Information in connection with the Transaction, and only for that purpose; The Receiving Party agrees to use the same degree of protection it uses for its own trade secret information, and in no event less than reasonable efforts, to prevent and protect the Confidential Information, or any part thereof, from disclosure to any person other than the Receiving Party's employees having a need for disclosure in connection with the Receiving Party's authorized use of the Confidential Information. 
+Label: Yes
+</example>
+
+<example>
+Clause: Recipient agrees to limit disclosure of Confidential Information to employees and employees of Affiliates having a specific need to know such Confidential Information for the Purpose and in the case of Affiliates only to the extent that such Affiliate is under obligation to hold such information in confidence and is made aware of these terms and conditions.  
+Label: Yes
+</example>
+
+<example>
+Clause: The Disclosee will procure that prior to the disclosure to any other person (including any professional advisor) of any Confidential Information, such other person is made aware of the provisions of this Agreement and the fact that the Disclosee will be liable. 
+Label: Yes
+</example>
+
+<example>
+Clause: Each Party shall be responsible for any breach of this Agreement by such Party, its employees, agents, officials, representatives or consultants acting within the scope of their engagement or employment. 
+Label: Yes
+</example>
+
+<example>
+Clause: ____________________ , agrees that, in consideration for being shown or told about certain trade secrets or property belonging to Navidec, Incorporated, ____________________, shall not disclose or cause to be disclosed, disseminated or distributed any information concerning said trade secret or property to any person, entity, business or other individual or company without the prior written permission of Navidec, Incorporated. 
+Label: No
+</example>
+
+<example>
+Clause: "Confidential Information" includes, without limitation, information in tangible or intangible form relating to and/or including released or unreleased Disclosing Party software or hardware products, the marketing or promotion of any Disclosing Party product, Disclosing Party's business policies or practices, and information received from others that Disclosing Party is obligated to treat as confidential.  
+Label: No
+</example>
+
+<example>
+Clause: Proprietary Information does not include, however, information that  (iv) was independently developed by the Receiving Party or any of its Representatives without reference to the 
+Label: No
+</example>
+
+<example>
+Clause: 7. Confidential Information shall not include information which is: f. Independently developed by or for the Receiving Party. 
+Label: No
+</example>
+
+Clause: {{text}} Reply with either: Yes, No
+Label:

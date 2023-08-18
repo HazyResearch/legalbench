@@ -1,0 +1,22 @@
+The UCC (through Article 2) governs the sale of goods, which are defined as moveable tangible things (cars, apples, books, etc.), whereas the common law governs contracts for real estate and services. For the following contracts, determine if they are governed by the UCC or by common law.
+
+Contract: Alice and Bob enter into a contract for Alice to sell her bike to Bob for $50. Is this contract governed by the UCC or the common law?
+Governed by: UCC
+
+Contract: "Irina says to John, ""Hey John. I will give you ten apples for $2 per apple."" John replies, ""That sounds good to me."" Is this contract governed by the UCC or the common law?"
+Governed by: UCC
+
+Contract: William rents a tractor for his farm for $500 a month from Sophia. Is this contract governed by the UCC or the common law?
+Governed by: UCC
+
+Contract: Ava buys James' farm for $50,000. Is this contract governed by the UCC or the common law?
+Governed by: Common Law
+
+Contract: Carl and Dana form an agreement for Carl to repair Dana's bike for $100. Is this contract governed by the UCC or the common law?
+Governed by: Common Law
+
+Contract: Gary and Helga form a contract for Helga to find Gary's lost bike in exchange for $10. Is this contract governed by the UCC or the common law?
+Governed by: Common Law
+
+Contract: {{contract}} Explain your reasoning step-by-step.
+Governed by:

@@ -1,0 +1,22 @@
+Does the sentence contain language overruling a previous case?
+
+Sentence: "for h0031 ha claims, notwithstanding that """"tcc did not bill these claims to medicaid."
+Label: No
+
+Sentence: "davis v. davis, 360 n.c. 518, 523, 631 s.e.2d 114, 118 (2006) (citing sink v. easter, 288 n.c. 183, 198, 217 s.e.2d 532, 541 (1975))."
+Label: No
+
+Sentence: "schuler v. schuler, 382 mass. 366, 370-371 (1981)."
+Label: No
+
+Sentence: "we do so, and now hold spears is incorrect insofar as it precludes the possibility of harmless error under any circumstances; and to that extent, it must be overruled."
+Label: Yes
+
+Sentence: "whether or not the court intended to convey this meaning in clark v. barney, and because the ruling in that case has lost much of its applicability under later modifications, our previous holding in clark v. barney is hereby expressly overruled insofar as it conflicts with the following rule, which we deem to be controlling in this case:"
+Label: Yes
+
+Sentence: "we disapprove of this language in l.c."
+Label: Yes
+
+Sentence: {{text}}
+Label:

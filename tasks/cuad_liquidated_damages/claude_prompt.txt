@@ -1,0 +1,34 @@
+Does the clause award either party liquidated damages for breach or a fee upon the termination of a contract (termination fee)?
+
+<example>
+Clause: In the event the closing does not occur, the Conversion is terminated or otherwise abandoned, or the terms of the Conversion are substantially amended so as to materially and adversely change the role of Capital Resources, Capital Resources shall be reimbursed for all reasonable legal fees and out-of-pocket expenses for rendering financial advice to the Association concerning the structure of the Conversion, preparing a market and financial analysis, performing due diligence and assisting in the preparation of the Application for Conversion and the Registration Statement, which shall be paid upon such termination, abandonment or amendment or within five days of such event.
+Label: Yes
+</example>
+
+<example>
+Clause: The payment of such amount is intended to constitute liquidated damages to the Agent and the Lenders and shall not be deemed to constitute a forfeiture or penalty.
+Label: Yes
+</example>
+
+<example>
+Clause: In addition to the foregoing, upon termination of this Agreement by us for cause as described in Section 10, you agree to pay to us within fifteen (15) days after the effective date of this Agreement's termination, in addition to the amounts owed hereunder, liquidated damages equal to the average monthly Unit Franchise Performance Royalty Fee and Franchise Sales Royalty Fee you paid during the twelve (12) months of operation preceding the effective date of termination multiplied by (a) twenty-four (24) (being the number of months in two (2) full years), or (b) the number of months remaining in the Agreement had it not been terminated, whichever is lower.
+Label: Yes
+</example>
+
+<example>
+Clause: Notwithstanding the foregoing, ExxonMobil may assign this Agreement to its Affiliates and FCE may assign this Agreement to any of its wholly-owned and wholly-controlled Affiliates, with prior written notice to the other Party, provided that (i) such assignment by FCE shall be void if at any point such Affiliate ceases to be both wholly-owned and wholly- controlled by FCE, (ii) Article 12, including but not limited to Paragraphs 12.03, 12.04 and 12.05, shall be applicable to both FCE and any Affiliate assignee of FCE, and (iii) no assignment pursuant to this sentence will relieve the Parties of their obligations under this Agreement.
+Label: No
+</example>
+
+<example>
+Clause: Aucta, for itself and its Affiliates, hereby grants to ETON in accordance with the terms and conditions of this Agreement, an exclusive (even as to and against Aucta in the Territory) right and license, including the right to sublicense, to the Products (or any components thereof), Dossiers, and all current and future Aucta Background Intellectual Property that is owned or controlled by Aucta or its Affiliates for ETON to develop, manufacture, import, use, promote, distribute, market, advertise, offer for sale or sell (collectively, "Market") the Products in and for the Territory.
+Label: No
+</example>
+
+<example>
+Clause: In addition, in the event of a material breach by WYZZ of its obligations hereunder, Nexstar shall be entitled to terminate this Agreement and exercise its rights pursuant to Section 25(b) hereof (except that Nexstar may not assert consequential, special or punitive damages or any claim for lost profits).
+Label: No
+</example>
+
+Clause: {{text}} Reply with either: Yes, No
+Label:

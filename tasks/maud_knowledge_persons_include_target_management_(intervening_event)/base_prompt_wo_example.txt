@@ -1,7 +1,0 @@
-Instruction: Read the segment of a merger agreement and answer the multiple-choice question by choosing the option that best characterizes the agreement.
-Question: In the definition of “Intervening Event,” do knowledge persons include Target management?
-Option Option A: No
-Option Option B: Yes
-
-Merger Agreement: {{text}}
-Answer:

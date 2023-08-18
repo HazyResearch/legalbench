@@ -1,0 +1,16 @@
+Does the clause give a party the right to audit the books, records, or physical locations of the counterparty to ensure compliance with the contract?
+
+Clause: The Servicer shall maintain appropriate books of account and records relating to services performed hereunder, which books of account and records shall be accessible for inspection by the Owner at any time during normal business hours.
+Label: Yes
+
+Clause: Subject to the terms and conditions set forth herein, Customer may conduct, at its own expense, periodic quality audits, to ensure Manufacturer's compliance with the terms of this Agreement.
+Label: Yes
+
+Clause: You agree that, at our option, you will sell to us any or all your assets used to operate the Franchised Business (including equipment, fixtures, furnishings, Delivery Vehicles, supplies, and inventory) that we ask in writing to purchase.
+Label: No
+
+Clause: PPI hereby grants EKR the exclusive right and license (with the right to sublicense) to use, market, promote, sell, distribute and warehouse the Products (the "Distribution Rights") in the Field in the Territory during the Term, as well as to make or have made the Products anywhere in the world for import or sale in the Field in the Territory in each case, under the PPI IP provided that PPI retains all rights necessary to manufacture and supply the Products to EKR in accordance with this Agreement and the Supply Agreement.
+Label: No
+
+Clause: {{text}}
+Label:

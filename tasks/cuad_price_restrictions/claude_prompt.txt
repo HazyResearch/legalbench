@@ -1,0 +1,34 @@
+Does the clause place a restriction on the ability of a party to raise or reduce prices of technology, goods, or services provided?
+
+<example>
+Clause: If such Standard Cost methodology change results in an increase of Facility Conversion Cost for Products manufactured for Customer of more than two percent (2%), then Manufacturer shall revert to the former methodology for purposes of the calculation of Price during such Fiscal Year.
+Label: Yes
+</example>
+
+<example>
+Clause: Such Prices and Volume Discount Prices shall only be subject to increase once per year on each anniversary date of this Agreement, provided (i) Company provides Distributor with at least Ninety (90) days prior written notice of any such increase, and (ii) such increase does not exceed 5% of the preceding year's Prices, except for reasons of force majeure, (Chapter 10), and Volume Discount Prices nor the lowest price charged to others for the same Product.
+Label: Yes
+</example>
+
+<example>
+Clause: Furthermore, for a thirty (30) day period, beginning thirty (30) days prior to the first anniversary of this Agreement, Tickets shall have the right to renew the Agreement for another year with Sponsor Fees that do not exceed a [***] percent increase over the existing Sponsor Fees.
+Label: Yes
+</example>
+
+<example>
+Clause: No right or interest in this Agreement shall be assigned by Schoolpop without prior written permission of AEIS, which shall not be unreasonably withheld.
+Label: No
+</example>
+
+<example>
+Clause: This Agreement will remain in effect for Thirty-six (36)<omitted>months following the Hosting Service Ready Date ("Term"), unless terminated earlier in accordance with the terms herein.
+Label: No
+</example>
+
+<example>
+Clause: By the dates specified below, an approved insurance company must issue a certificate of insurance showing compliance with the insurance requirements in this Section 6.19 [Insurance] and you must furnish us with a paid receipt showing the certificate number: (a) 30 days before beginning construction of the Premises; (b) if the Premises are constructed and presently owned or leased by you, 10 days from the Agreement Date; or (c) if the Premises are not presently owned or leased, 10 days after ownership of the Premises is conveyed to you or you sign a lease for the Premises. The certificate of insurance must include a statement by the insurer that the policy or policies may not be canceled, subject to nonrenewal, or materially altered without at least 30 days' prior written notice to us. Upon our request, you must supply us with copies of all insurance policies and proof of payment. Every year, you must send us current certificates of insurance and copies of all insurance policies.
+Label: No
+</example>
+
+Clause: {{text}} Reply with either: Yes, No
+Label:

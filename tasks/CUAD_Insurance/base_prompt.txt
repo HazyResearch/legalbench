@@ -1,21 +1,21 @@
 Is there a requirement for insurance that must be maintained by one party for the benefit of the counterparty?
 
-Clause: Customer specifically agrees to maintain insurance coverage for any finished Products or materials which passes to Customer pursuant to this Agreement and which is stored on the premises of Contractor.
+Clause: The Venture may acquire insurance on behalf of any Member, employee, agent or other person engaged in the business interest of the Venture against any liability asserted against them or incurred by them while acting in good faith on behalf of the Venture.
 Label: Yes
 
-Clause: WYZZ shall maintain replacement cost casualty and liability insurance and property insurance on all of its assets and properties used and useful in the operation of WYZZ-TV, general liability insurance and workers compensation insurance in such amounts and on such terms and conditions that are ordinary and customary in the broadcast industry and that are reasonably acceptable to Nexstar.
+Clause: Motor Vehicle Insurance covering bodily injury, death of a person or property damage arising out of the ownership, maintenance or use of any motor vehicles in an amount not less than $1,000,000 combined single limit for personal and bodily injury and death.
 Label: Yes
 
-Clause: Constellation shall provide the HOF Entities with certificates of insurance, naming each HOF Entity as an additional insured, evidencing the existence of such insurance policies within ten (10) days after execution of this Agreement.
+Clause: EFS shall deliver to Client, upon execution of the Agreement, certificates of insurance as evidence of the required coverages.
 Label: Yes
 
-Clause: We or our designated agents have the right at all reasonable times to examine and copy, at our expense, your books, records, and tax returns.
+Clause: Neither NETTAXI or SpinRecords.com shall assign its ---------- respective rights or delegate its obligations hereunder, either in whole or in part, whether by operation of law or otherwise, without the prior written consent of the other party. Any attempted assignment or delegation without the other party's written consent will be void.
 Label: No
 
-Clause: Notwithstanding any provision to the contrary in the Agreement, Licensor shall not subcontract or assign any of the Services that may require access to or the downloading or other use of Personal Information except with the prior written consent of Licensee or as required to be disclosed by a governmental agency or third party as expressly required by operation of law, regulation or court order.
+Clause: Purchase orders issued by MediWound to CBC during a certain year for quantities exceeding [***]% of the applicable Annual Forecast shall be binding upon CBC, except that with respect to any amounts exceeding [***]% of the applicable Annual Forecast, CBC's obligation to provide such exceeding quantities shall be based on best efforts and CBC shall have an extended lead time for delivery as shall be agreed upon by the parties on a case by case basi
 Label: No
 
-Clause: In the event Moelis Holdings has not sold the Additional Units or entered into an agreement to sell the Additional Units within such one hundred and eighty- (180-) day period, Moelis Holdings shall not thereafter issue or sell any Additional Units without first complying again with this Section 12.2.
+Clause: Notwithstanding the limits set forth in the<omitted>foregoing sentence, Customer may more frequently conduct "for cause" physical inspections or audits of a Facility with five (5) days' advance written notice to Manufacturer if Customer has reasonable cause to believe that an inspection or audit of such Facility is warranted because Manufacturer's activities with respect to such Facility are in breach of this Agreement, applicable Laws, the Quality Agreement or the applicable Facility Addendum.
 Label: No
 
 Clause: {{text}}

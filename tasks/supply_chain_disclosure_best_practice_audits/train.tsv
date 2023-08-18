@@ -1,5 +1,5 @@
-text	label
-"California Transparency in Supply Chains Act
+index	text	answer
+0	"California Transparency in Supply Chains Act
 
  
 
@@ -12,7 +12,7 @@ Abbott’s Supplier Guidelines state our expectations to suppliers conducting bu
  
 
 Employees and contractors assigned to Abbott who fail to abide by Abbott’s Code of Business Conduct may be subject to reprimand or other adverse consequences, up to and including termination of employment or assignment. Abbott provides training to its employees and management who have direct responsibility for supply chain management, regarding human trafficking and slavery, particularly with respect to mitigating risks within the supply chains of products."	Yes
-"California Transparency in Supply Chains Act 
+1	"California Transparency in Supply Chains Act 
 
 Human trafficking and forced labor is a global issue that requires the combined efforts of countries and companies to raise awareness and combat all forms of trafficking. The United Nations defines it as an act of recruiting, transporting, transferring, harboring or receiving a person through a use of force, coercion or other means, for the purpose of exploiting them. Every country is affected by human trafficking, and men, women, and children can fall victim. Abercrombie & Fitch has taken proactive steps to mitigate the risk of human trafficking and forced labor in our supply chain. 
 
@@ -39,7 +39,7 @@ Training and Awareness
 All internal team members and managers directly involved in Supply Chain Management were required to take a training course on human trafficking and slavery that discusses the risks of human trafficking for business, and actions that can be taken to mitigate the risks. We are happy to report that all participants passed the course, and found it to be very informative. 
 
 All of our major vendors were trained on human trafficking in mid-2011, during which they reviewed the clause in our Code of Conduct regarding involuntary (forced) labor and human trafficking. They also discussed how human trafficking is defined so that they understand the different acts, means, and purposes of human trafficking."	Yes
-"In 2010 the California Transparency in Supply Chains Act of 2010 (SB 657) was passed and will go into effect on January 1, 2012. This law requires large retailers and manufacturers who do business in the state of California, and have annual gross worldwide sales of over $100 million U.S. dollars, to be transparent about the efforts they have undergone to eradicate slavery and human trafficking in their supply chain. 
+2	"In 2010 the California Transparency in Supply Chains Act of 2010 (SB 657) was passed and will go into effect on January 1, 2012. This law requires large retailers and manufacturers who do business in the state of California, and have annual gross worldwide sales of over $100 million U.S. dollars, to be transparent about the efforts they have undergone to eradicate slavery and human trafficking in their supply chain. 
 
 Acer is a member of the Electronic Industry Citizenship Coalition (EICC), an alliance of the world’s leading information and communications technology (ICT) companies. The EICC has published the Electronic Industry Code of Conduct (EICC Code) which establishes conduct standards for global ICT companies to improve working and environmental conditions. Acer actively works as part of the EICC to provide safeguards which prohibit supply chain use of slavery and human trafficking. 
 
@@ -64,7 +64,7 @@ Acer requires all direct manufacturing suppliers to sign a Declaration of Compli
 Supply Chain Management Employee Training 
 
 Acer has launched a training program for its employees with manufacturing supply chain responsibility. This training ensures that Acer employees in procurement roles are fully aware of the standards Acer has established for its suppliers to eradicate slavery and human trafficking in the Acer supply chain. The training also provides supply chain management employees with strategies to identify and respond to inappropriate supply chain labor practices. Acer’s supply chain personnel are also made fully aware of the responsibilities imposed on Acer’s suppliers via the EICC Code and the audit program Acer has instituted to ensure supplier compliance with this Code."	Yes
-"Corporate Responsibility and the Siemens Supply Chain*
+3	"Corporate Responsibility and the Siemens Supply Chain*
 
 Supplier Code of Conduct
 
@@ -105,7 +105,7 @@ All Procurement professionals within the Siemens Supply Chain organization are t
 Web Based Trainings in Sustainability are available for suppliers as well as internal Siemens personnel and can be accessed through the following link. https://w9.siemens.com/cms/supply-chain- management/en/sustainability/expectations/principles/Pages/code-of-conduct.aspx
 
 * This information explains Siemens activities in support of and commitment to the principles found in the California Transparency in Supply Chains Act of 2010, to eradicate human trafficking and slavery from supply chains."	Yes
-"SUPPLY CHAIN TRANSPARENCY
+4	"SUPPLY CHAIN TRANSPARENCY
 
 For many years, 99 Cents Only Stores has had in place a policy against purchasing any merchandise manufactured as a result of human trafficking or slavery and, in fact, as a result of any coercive, abusive, or unlawful practice.
 
@@ -118,7 +118,7 @@ Given the largely closeout nature of much of the Company’s merchandise, its pr
 “It is Purchaser’s policy not to purchase products manufactured using exploitive or unfair labor practices, such as forced labor, abusive labor practices, or child labor. Neither will Purchaser buy merchandise made as a result of any practices that are illegal in the place at which the products being offered are manufactured. By signing or shipping under 99 Cents’ PO, Seller attests to the fact that after a diligent inquiry, Seller has ascertained that no product that is the subject of this Purchase Order has been manufactured using any such forced, involuntary, exploitive, or unfair labor practices.”
 
  Any supplier found to have falsely certified its compliance with the Company’s policy will no longer be used by the Company as one of its vendors. The Company’s buyers are also expected to comply with this policy, although it is not feasible for the Company to maintain a formal accountability program or to provide regular training on these topics to employees and managers operating in these areas, for the same reasons explained above."	No
-"California Transparency in Supply Chains Act of 2010 - Corporate Disclosure
+5	"California Transparency in Supply Chains Act of 2010 - Corporate Disclosure
 
 Policy on Slavery and Human Trafficking
 
@@ -137,12 +137,12 @@ Any Employee who violates this policy, or who willfully, knowingly or negligentl
 All Aethercomm employees, vendors, and direct suppliers are notified of this policy and the consequences of violating it. Aethercomm requires all vendors and direct suppliers to certify that materials incorporated into their products comply with applicable laws regarding slavery and human trafficking in the countries where they are doing business. Aethercomm further requires all vendors and direct suppliers to comply with FAR Section 52.222-50 “Combating Trafficking in Persons.” Aethercomm does not conduct independent audits of supply chains as enforcement of the Federal Acquisition Regulation falls under the jurisdiction of the U.S. Government. 
 
 Aethercomm does not have a training program in human trafficking mitigation at this time. However, Aethercomm is currently looking into creating and implementing a training program by 2013."	No
-"Company Disclosure Statement Pursuant to the California Transparency in Supply Chains Act of 2010
+6	"Company Disclosure Statement Pursuant to the California Transparency in Supply Chains Act of 2010
 
 The California Transparency in Supply Chains Act of 2010 requires retailers and manufacturers that do business in California to publicly disclose their efforts to eradicate slavery and human trafficking from their supply chains.
 
 Alere supports the rights of all individuals to be free from slavery in the workplace. Alere abhors the practice of human trafficking and slavery and applauds efforts being made globally to eliminate this practice. When entering into written contracts with its suppliers, Alere policy is to include in those contracts a requirement that they comply with laws applicable to the business being transacted, which include laws prohibiting slavery and human trafficking. By signing our contracts our suppliers certify that they conduct their business in compliance with all applicable laws, including but not limited to laws that prohibit slavery and human trafficking. A supplier's failure to honor its legal and contractual obligations to Alere would be a violation of law and a breach of contract. Alere endeavors to do business with reputable suppliers with proper business standards. Alere does not believe that additional verifications or independent audits are necessary to ensure that its suppliers comply with laws regarding slavery and human trafficking of the country or countries in which they are doing business."	No
-"Altera develops long-term relationships with our key suppliers to ensure a robust supply chain that is financially solvent, provides broad technology access aligned with our technology road maps, delivers competitive pricing, and fosters innovation.
+7	"Altera develops long-term relationships with our key suppliers to ensure a robust supply chain that is financially solvent, provides broad technology access aligned with our technology road maps, delivers competitive pricing, and fosters innovation.
 
 As a supply chain partner, we meet quarterly with our suppliers to measure business performance on technology, quality, pricing, cycle times, and yield improvements. We work with our suppliers to assure that expectations and plans are achieved through interactive business and technology reviews.
 

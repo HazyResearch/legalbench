@@ -1,0 +1,34 @@
+Does the clause restrict a party from contracting or soliciting customers or partners of the counterparty, whether during the contract or after the contract ends (or both)?
+
+<example>
+Clause: The Company shall not contact any of Distributor's Customer's for any reason, without the prior written approval of Distributor.
+Label: Yes
+</example>
+
+<example>
+Clause: You further covenant and agree that, for a continuous period of two (2) years after (1) the expiration of this Agreement, (2) the non-renewal of this Agreement, (3) the termination of this Agreement, and/or (4) a transfer as contemplated in Section 16 above: 19.5.1 you will not directly or indirectly, for yourself, or through, on behalf of, or in conjunction with any person, firm, partnership, corporation, or other entity, sell, assign, lease, and/or transfer the Approved Location to any person, firm, partnership, corporation, or other entity that you know, or have reason to know, intends to operate a Competitive Business at the Approved Location; and 19.5.2 you will not solicit, divert, or attempt to solicit or divert any actual or potential business or customer of the Franchised Business to any Competitive Business.
+Label: Yes
+</example>
+
+<example>
+Clause: Distributor further agrees that it will not interfere with or otherwise disrupt the business relations between the Company or nay of its affiliates and any of their current or prospective customers, suppliers or distributors, during the<omitted>Term of the Agreement and for a period of eighteen (18) months thereafter, nor will Distributor solicit any customer or potential customer of Company to purchase a competitive product during that period.
+Label: Yes
+</example>
+
+<example>
+Clause: Upon termination of this Agreement for reasons other than a default by Shipper, pursuant to any provisions of this Agreement or any other termination of this Agreement initiated by Shipper pursuant to Section 5, Shipper shall have the right to require MPL to enter into a new transportation service agreement with Shipper that (a) is consistent with the terms and objectives set forth in this Agreement and (b) has commercial terms that are, in the aggregate, equal to or more favorable to Shipper than fair market value terms as would be agreed by similarly-situated parties negotiating at arm's length provided.
+Label: No
+</example>
+
+<example>
+Clause: Such audits shall be at the auditing Party's cost, except that, subject to Section 5.5, if an audit by an independent accounting firm establishes a deficiency of more than three percent (3%) between the amount shown to be due to the auditing Party and the amount actually paid for the period being audited, all actual and reasonable costs and expenses incurred by the auditing Party in connection with such audit shall be paid by the audited Party, along with the amount of any deficiency, within five (5) business days.
+Label: No
+</example>
+
+<example>
+Clause: The Escrow Agent shall require Commerce One to place in an<omitted>escrow account in California a copy of the source code of the Software including all Updates and Upgrades thereto, documentation and similar materials (the SOURCE CODE).
+Label: No
+</example>
+
+Clause: {{text}} Reply with either: Yes, No
+Label:

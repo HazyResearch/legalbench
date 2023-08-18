@@ -1,0 +1,34 @@
+Does the clause specify a fee increase or consent requirement, etc. if one party’s use of the product/services exceeds certain threshold?
+
+<example>
+Clause: This Support Plan covers a 12 Month period, with a Maximum Cap of hours for that period.
+Label: Yes
+</example>
+
+<example>
+Clause: The foregoing obligations of Wildform, shall be limited to a maximum of forty (40) hours, or up to a maximum of two hundred twenty (220) emails, whichever accumulates first.
+Label: Yes
+</example>
+
+<example>
+Clause: TPC agrees that such photograph shoots shall not exceed five (5) hours each in duration.
+Label: Yes
+</example>
+
+<example>
+Clause: The Annual Maintenance Fee is 18% of the undiscounted License Fees due to Changepoint hereunder and is payable annually in advance.
+Label: No
+</example>
+
+<example>
+Clause: However, any Party may terminate its participation in this Agreement at the end of the Initial Period or at any time thereafter by giving at least one year's prior notice, in writing, to the other remaining Parties.
+Label: No
+</example>
+
+<example>
+Clause: In no event shall DGT be liable for consequential or incidental damages arising from any breach or breaches of this Agreement.
+Label: No
+</example>
+
+Clause: {{text}} Reply with either: Yes, No
+Label:

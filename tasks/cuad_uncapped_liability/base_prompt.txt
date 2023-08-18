@@ -1,22 +1,22 @@
 Does the clause specify that a party’s liability is uncapped upon the breach of its obligation in the contract? This also includes uncap liability for a particular type of breach such as IP infringement or breach of confidentiality obligation
 
-Clause: The Material shall be supplied with details of the following: 1 Details of the deposit: full name and version details, number of media items, media type and density, file or archive format, list or retrieval commands, archive hardware and operating system details. 2 Name and functionality of each module/application of the Material. 3 Names and versions of development tools etc. 4 Documentation describing the procedures for building / compiling / executing / using the software (technical notes, user guides). 5 Hardcopy directory listings of the contents of the media. 6 Name and contact details of employee(s) with knowledge of how to maintain and support the Material.
-Label: No
-
-Clause: You and all Owners must execute a general release, in a form satisfactory to us, of all claims against us and our past, present and future affiliates, officers, directors, shareholders, agents and employees.
-Label: No
-
-Clause: EXCEPT IN THE EVENT OF A VIOLATION OF SECTION 3 (OWNERSHIP; GRANT OF RIGHTS: TRADEMARKS USAGE), OR FOR EACH PARTY'S OBLIGATIONS UNDER SECTION 11 (INDEMNITY), OR BREACH OF SECTION 12 (CONFIDENTIALITY), IN NO EVENT SHALL EITHER PARTY'S TOTAL LIABILITY ARISING OUT OF OR RELATED TO THIS AGREEMENT EXCEED THE AMOUNTS PAID BY SONOS FOR THE PRODUCTS IN THE [*] PERIOD IMMEDIATELY PRECEDING THE EVENT GIVING RISE TO THE LIABILITY. THIS SECTION DOES NOT LIMIT EITHER PARTY'S LIABILITY FOR PERSONAL INJURY, DEATH, OR DAMAGE TO TANGIBLE PROPERTY.
+Clause: Subject to Clauses 9.1 and 9.2, neither party shall be liable under this Agreement (whether in contract, tort or otherwise) for any: (a) loss of anticipated savings; (b) loss of business opportunity (which for the avoidance of doubt shall not include loss of advertising revenue); (c) loss of or corruption of data; (d) loss or damage resulting from third party claims; or (e) indirect or consequential losses; suffered or incurred by the other party (whether or not such losses were within the contemplation of the parties at the date of this Agreement).
 Label: Yes
 
-Clause: EXCEPT FOR LIABILITY ARISING FROM SECTION 9.3 [Intellectual Property Infringement], IN NO EVENT SHALL EITHER PARTY BE LIABLE UNDER THIS AGREEMENT FOR AN AMOUNT GREATER THAN THE AMOUNT THAT SUCH PARTY HAS EARNED PURSUANT TO THE REVENUE SHARING PROVISIONS OF SECTION 5.4 [Share of Net Revenue] IN THE TWELVE MONTH PERIOD PRECEDING THE CLAIM.
+Clause: Accordingly, LBIO shall have available, in addition to any other right or remedy available to it, the right to seek an injunction from a court of competent jurisdiction restraining such a breach (or threatened breach) and to specific performance of any such Section.
 Label: Yes
 
-Clause: The license under this Agreement is a non-exclusive, non-assignable and non-transferable license.
+Clause: EXCEPT WITH RESPECT TO THE INDEMNIFICATION OBLIGATIONS SET FORTH IN SECTION 9 WITH REGARD TO CLAIMS BY THIRD PARTIES, IN NO EVENT SHALL EITHER PARTY BE LIABLE FOR CONSEQUENTIAL, INDIRECT, INCIDENTAL, SPECIAL, EXEMPLARY, PUNITIVE OR ENHANCED DAMAGES, LOST PROFITS OR REVENUES OR DIMINUTION IN VALUE ARISING OUT OF, RELATING TO, OR IN CONNECTION WITH ANY BREACH OF THIS AGREEMENT OR CLAIM HEREUNDER, REGARDLESS OF (A) WHETHER SUCH DAMAGES WERE FORESEEABLE, (B) WHETHER OR NOT IT WAS ADVISED OF THE POSSIBLITY OF SUCH DAMAGES, AND (C) THE LEGAL OR EQUITABLE THEORY (CONTRACT, TORT OR OTHERWISE) UPON WHICH THE CLAIM IS BASED.
+Label: Yes
+
+Clause: CytoDyn shall have the right to terminate this Agreement in its entirety upon written notice to Vyera on the occurrence of any of the following:<omitted>(c) Vyera breaches its obligations or covenants under Section 2.6 (Competitive Products);
 Label: No
 
-Clause: THE LIMITATIONS ON LIABILITY FOR DAMAGES SET FORTH IN THIS AGREEMENT SHALL BE INAPPLICABLE TO EACH PARTY'S CONTRACTUAL OBLIGATION TO INDEMNIFY THE OTHER PARTY AS SET FORTH IN SECTIONS 2.6 AND 13.
-Label: Yes
+Clause: Each party agrees that the sole and exclusive remedy for a breach of the warranties set forth in this Section 12 shall be the indemnification set forth in Section 13 below.
+Label: No
+
+Clause: VerticalNet hereby grants to LeadersOnline a non- exclusive, non-transferable, royalty-free right and license to link to the VerticalNet Site.
+Label: No
 
 Clause: {{text}}
 Label:

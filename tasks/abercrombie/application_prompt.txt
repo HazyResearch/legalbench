@@ -1,0 +1,19 @@
+A mark is generic if it is the common name for the product. A mark is descriptive if it describes a purpose, nature, or attribute of the product. A mark is suggestive if it suggests or implies a quality or characteristic of the product. A mark is arbitrary if it is a real English word that has no relation to the product. A mark is fanciful if it is an invented word.
+
+Q: The mark "Ivory" for a product made of elephant tusks. What is the type of mark?
+A: generic
+
+Q: The mark "Tasty" for bread. What is the type of mark?
+A: descriptive
+
+Q: The mark "Caress" for body soap. What is the type of mark?
+A: suggestive
+
+Q: The mark "Virgin" for wireless communications. What is the type of mark?
+A: arbitrary
+
+Q: The mark "Aswelly" for a taxi service. What is the type of mark?
+A: fanciful
+
+Q: {{text}} What is the type of mark? Explain your reasoning step-by-step.
+A:

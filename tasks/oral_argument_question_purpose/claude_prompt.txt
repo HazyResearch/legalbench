@@ -1,0 +1,39 @@
+Classify the function that the question serves. Options: Background, Clarification, Communicate, Criticism, Humor, Implications, Support
+
+<example>
+Question: So, counsel, we've spoken a little bit about how Colorado has handled this compelled speech question differently with respect to different messages, some that it prefers, others that it dislikes. I'm curious how other states have dealt with this conundrum besides Colorado and how you -- which ones of those you think we should take account of.
+Answer: Background
+</example>
+
+<example>
+Question: Is that -- do you understand that to be part of the stipulations or not?
+Answer: Clarification
+</example>
+
+<example>
+Question: Last question. This might be what Justice Kagan was asking, but it might be something different. The -- if you have to intervene before you move to dismiss -- and so, if this is repetitive, I apologize -- the D.C. Circuit said that would be largely academic, that requirement, if you had to intervene before moving to dismiss. Do you agree with that? I mean, in other words, it doesn't matter one way or the other.
+Answer: Communicate
+</example>
+
+<example>
+Question: Even though the site doesn't say anything about that? It doesn't say, wow, gay marriage is a wonderful thing. It *41 doesn't say -- it doesn't even say, you know, we're here to celebrate this wonderful marriage in my hypothetical. It doesn't even say that.
+Answer: Criticism
+</example>
+
+<example>
+Question: I mean, it does seem a little bit like due process Lochnerism for corporations here, doesn't it?
+Answer: Humor
+</example>
+
+<example>
+Question: Do they have to -- can you compel that speech? Do they have to publish it?
+Answer: Implications
+</example>
+
+<example>
+Question: Ms. Hansford, I think everyone might be underselling Steele here. I mean, it's true what Justice Alito says about this first sentence sets up the question in an odd way. But the actual holding and heart of the opinion is on page 286, and that's where the Court says -- it says, okay, we deem the Lanham Act's scope to encompass Petitioners' activities here, and then it says why.n Why do we deem it that way? His operations and their effects weren't confined within the territorial limits of a foreign nation. He brought component parts of his wares in the U.S. and Bulovas filtered through the Mexican border into this country. His competing goods reflected adversely on Bulova's trade reputation in markets cultivated here as well as abroad. So, in some ways, I mean, what Steele says here on page 286, it doesn't use the two-step terminology that we've developed, but this is basically the second step as we've understood it.
+Answer: Support
+</example>
+
+Question: {{question}} Reply with either: Background, Clarification, Communicate, Criticism, Humor, Implications
+Answer:

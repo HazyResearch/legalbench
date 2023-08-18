@@ -1,0 +1,6 @@
+Answer the following questions.
+
+Statute: {{statute}}
+Description: {{description}}
+Question: {{question}}. State the amount first.
+Answer:

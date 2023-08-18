@@ -1,0 +1,13 @@
+Instruction: Read the segment of a merger agreement and answer the multiple-choice question by choosing the option that best characterizes the agreement.
+Question: What is the efforts standard?
+Option A: Commercially reasonable efforts
+Option B: Flat covenant (no efforts standard)
+Option C: Reasonable best efforts
+
+<example>
+Merger Agreement: “Ordinary Course of Business” means, with respect to any Person, the conduct of such Person’s business that is consistent with the past practices of such Person prior to the date of this Agreement and taken in the ordinary course of normal, day-to-day operations of such Person, but excluding any conduct that would reasonably be expected to violate applicable Law in any material respect. <omitted> 7.1. Interim Operations. (a) The Company shall, and shall cause each of its Subsidiaries to, from and after the date of this Agreement until the earlier of the Effective Time and the termination of this Agreement pursuant to Article IX (unless Parent shall otherwise approve in writing (such approval not to be unreasonably withheld, conditioned or delayed), and except as otherwise expressly required by this Agreement or as required by a Governmental Entity or applicable Law and any Material Contract in effect prior to the date of this Agreement), conduct its business in the Ordinary Course of Business (Page 66)
+Answer: B
+</example>
+
+Merger Agreement: {{text}} Reply with either: Option A, Option B, Option C
+Answer:

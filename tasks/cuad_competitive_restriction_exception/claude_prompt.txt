@@ -1,0 +1,34 @@
+Does the clause mention exceptions or carveouts to Non-Compete, Exclusivity and No-Solicit of Customers?
+
+<example>
+Clause: if IGER would enter into any agreement (or amendment of an existing agreement including without limitation EXISTING AGREEMENTS) after the Effective Date with a not-for-profit third party with respect to research in the field of environmental impact, carbon sequestration, climate change mitigation, agronomy, or compositional or conversion analysis relating to COLLABORATION CROPS, such agreement must provide that (i) IGER will receive the exclusive right (subject to Articles 5.1.2(a) and 5.2) to use and exploit commercially the results obtained pursuant to such agreement for GERMPLASM IMPROVEMENT of COLLABORATION CROPS and (ii) CERES will have access to the results of such research programs to the extent allowed by the relevant agreement between IGER and the third party and IGER will use reasonable efforts to obtain such right for CERES.
+Label: Yes
+</example>
+
+<example>
+Clause: EHS and EHN shall have the exclusive rights in and to all ingredients, product specifications, goodwill, and all other intellectual property rights associated with any Product(s); provided, however, that EHS and EHN shall not have any rights in or to Dr. Murray's name or likeness except as expressly granted in writing herein or via electronic transmission by Dr. Murray.
+Label: Yes
+</example>
+
+<example>
+Clause: The license hereby granted shall be exclusive as to the products described in subparagraphs 2.(a)(1) and (2) of this Agreement, but nonexclusive as to all other products covered by this Agreement.
+Label: Yes
+</example>
+
+<example>
+Clause: Licensed Users shall not challenge the validity of the Licensed Mark, nor shall Licensed Users challenge Licensor's ownership of the Licensed Mark or the enforceability of Licensor's rights therein.
+Label: No
+</example>
+
+<example>
+Clause: SERVICERS may terminate this Agreement prior to its expiration for cause upon prior written notice to ISO as follows:<omitted>(l) Upon a Change of Control of ISO with one hundred eighty (180) days prior written notice to ISO, unless the SERVICERS had previously consented to such change in control.
+Label: No
+</example>
+
+<example>
+Clause: Customer shall have the right to terminate any Scope of Work and corresponding Purchase Order for Services at any time on reasonable advance written notice to Supplier (without terminating this Agreement), in which case Customer shall be responsible for: [* * *]
+Label: No
+</example>
+
+Clause: {{text}} Reply with either: Yes, No
+Label:

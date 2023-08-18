@@ -1,0 +1,34 @@
+Does the clause grant one party an “enterprise,” “all you can eat” or unlimited usage license?
+
+<example>
+Clause: Except as the parties may otherwise agree in writing, Converge, to the extent it has the legal right to do so, hereby grants to Vert an irrevocable, perpetual, world-wide, non-exclusive right and license to use, load, store, transmit, execute, copy, market, distribute, in any medium or distribution technology whatsoever, known or unknown, display, perform and sublicense the Converge-Independent Materials and the Third-Party Materials, in both Source Code and Object Code formats, and to make unlimited instantiations thereof, for any and all purposes.
+Label: Yes
+</example>
+
+<example>
+Clause: Note 4 Unlimited calling FROM Virtual Calling Zone only. Long distance charges apply when calling to VCZ.
+Label: Yes
+</example>
+
+<example>
+Clause: Individual grants Lifeway together with its affiliates, subsidiaries, parent companies and their representatives and employees have an unlimited, perpetual, non-exclusive, worldwide and, except as set forth in Section 9, royalty-free, right to use, reuse, publish, reproduce, perform, copy, create derivative works, exhibit, broadcast, and display throughout the world the name, image and likeness of Individual in Marketing Materials (as defined below) in connection with marketing, advertising or otherwise promoting the Lifeway products and/or services and for historical reference and display purposes and other internal purposes, including without limitation, internal sales meetings.
+Label: Yes
+</example>
+
+<example>
+Clause: FG shall have access to and the right to use for any purpose, any Data developed by or on behalf of Astellas or its Affiliates or Sublicensees in the course of the Development Program with respect to indications within the Field for Lead Compounds.
+Label: No
+</example>
+
+<example>
+Clause: We shall have the right at all times to access the information system and to retrieve, analyze, download and use all software, data and files stored or used on the information system.
+Label: No
+</example>
+
+<example>
+Clause: For the avoidance of doubt, this restricted annual audit shall not apply to for-cause audits, which may be conducted at any time.
+Label: No
+</example>
+
+Clause: {{text}} Reply with either: Yes, No
+Label:

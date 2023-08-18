@@ -1,0 +1,16 @@
+Does the sentence contain language overruling a previous case?
+
+Sentence: the court improperly concluded that the viability of the presumption of [section 6381(d) ] is questionable and inherently self-rebutting, such that it would be arbitrary and capricious to apply the presumption in cases where the trial court finds that it cannot determine if the parent had responsibility for the child.
+Label: Yes
+
+Sentence: to the extent that it holds otherwise, delia s. v. torres (1982) 134 cal.app.3d 471, 483-484 [ 184 cal.rptr. 787], is disapproved.
+Label: Yes
+
+Sentence: child support calculations ""are ordinarily based upon recent past circumstances because past circumstances are typically a reliable indicator of future circumstances, particularly circumstances concerning income.""
+Label: No
+
+Sentence: see also figgins v. cochrane, 403 md. 392, 409 (2008) (""if any competent material evidence exists in support of the trial court's factual findings, those findings cannot be held to be clearly erroneous."")
+Label: No
+
+Sentence: {{text}}
+Label:

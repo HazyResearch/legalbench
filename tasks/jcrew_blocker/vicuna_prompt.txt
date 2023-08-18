@@ -1,0 +1,6 @@
+### Human: Classify whether the following clause is a JCrew Blocker provision. The JCrew Blocker is a provision that typically includes (1) a prohibition on the borrower from transferring IP to an unrestricted subsidiary, and (2) a requirement that the borrower obtains the consent of its agent/lenders before transferring IP to any subsidiary. 
+
+{{text}}
+
+Is this a JCrew Blocker? Output the answer only.
+### Assistant:

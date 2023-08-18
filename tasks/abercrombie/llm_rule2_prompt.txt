@@ -1,0 +1,27 @@
+Abercrombie Spectrum for Trademark Law:
+
+1. Descriptive Marks: This type of mark describes a product or service, typically the purpose/function of the product or service. Examples include "Fitness Clothing" and "Phone Repair Service."
+
+2. Suggestive Marks: This type of mark implies a connection between the product or service and its characteristics. Examples include "DoubleTree" and "RocketMiles."
+
+3. Arbitrary Marks: This type of mark has no direct connection to the product or service. Examples include "Apple" and "Nike."
+
+4. Fanciful Marks: This type of mark was invented for the purpose of serving as a trademark. Examples include "Kodak" and "Jolly Brite."
+
+Q: The mark "Ivory" for a product made of elephant tusks. What is the type of mark?
+A: generic
+
+Q: The mark "Tasty" for bread. What is the type of mark?
+A: descriptive
+
+Q: The mark "Caress" for body soap. What is the type of mark?
+A: suggestive
+
+Q: The mark "Virgin" for wireless communications. What is the type of mark?
+A: arbitrary
+
+Q: The mark "Aswelly" for a taxi service. What is the type of mark?
+A: fanciful
+
+Q: {{text}} What is the type of mark?
+A:

@@ -1,0 +1,34 @@
+Does the clause require one party to deposit its source code into escrow with a third party, which can be released to the counterparty upon the occurrence of certain events (bankruptcy, insolvency, etc.)?
+
+<example>
+Clause: In the event Customer obtains a copy of the source code pursuant to Section 23.4 above, Customer (or its designee) shall use the source code during the term of the license granted herein solely for Customer's own internal processing and computing needs and to process the Customer Data, but shall not (1) distribute, sell, transfer, assign or sublicense the source code or any parts thereof to any third party, (2) use the source code in any manner to provide service bureau, time sharing or other computer services to third parties, or (3) use any portion of the source code to process data under any application or functionality other than those applications or functionalities which were being provided by M&I to Customer at the time Customer became entitled to receive a copy of the source code.
+Label: Yes
+</example>
+
+<example>
+Clause: Supplier grants Bank of America the right to duplicate the Source Code only as necessary to preserve and safely store the Source Code and as expressly permitted in this Section.
+Label: Yes
+</example>
+
+<example>
+Clause: Upon the release of the Source Code to Corio pursuant to Section 12.2 of this Agreement, Corio shall have a royalty-free, nonexclusive, nontransferable, right and license in the Territory to use and modify the Source Code to support and maintain the Software until the expiration or termination of Corio's Customers' End User License Agreements.
+Label: Yes
+</example>
+
+<example>
+Clause: The first year limited warranty starts on the day of the activation of the Unit on a wireless network.
+Label: No
+</example>
+
+<example>
+Clause: SpinCo and RemainCo agree and acknowledge that, although RemainCo was responsible for publishing the current forty-second (42nd) edition of the Steam Book, as of the Distribution Date, all rights, responsibilities, duties and obligations related to the publication, distribution and sale of this edition shall be transferred to SpinCo.
+Label: No
+</example>
+
+<example>
+Clause: Bellicum acknowledges and agrees that Bellicum's rights to a refund or credit for, or to receive replacement of, properly rejected shipments of Miltenyi Products hereunder shall be Bellicum's sole and exclusive remedy, and Miltenyi's sole obligation, with respect to non-conforming Miltenyi Products delivered hereunder.
+Label: No
+</example>
+
+Clause: {{text}} Reply with either: Yes, No
+Label:

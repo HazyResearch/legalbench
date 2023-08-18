@@ -1,4 +1,5 @@
-INSTRUCTIONS: Indicate whether the following judgment excerpt from a Tax Court of Canada decision allows the appeal or dismisses the appeal. Where the result is mixed, indicate that the appeal was allowed. Ignore costs orders. Where the outcome is unclear indicate other.  Here is an example completion: allowed
+INSTRUCTIONS: Indicate whether the following judgment excerpt from a Tax Court of Canada decision allows the appeal or dismisses the appeal. Where the result is mixed, indicate that the appeal was allowed. Ignore costs orders. Where the outcome is unclear indicate other.  
+Options: allowed, dimissed, other
 
 JUDGMENT EXCERPT: {{text}}
 OUTCOME:

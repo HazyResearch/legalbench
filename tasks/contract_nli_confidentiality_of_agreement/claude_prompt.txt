@@ -1,0 +1,44 @@
+Identify if the clause provides that the Receiving Party shall not disclose the fact that Agreement was agreed or negotiated.
+
+<example>
+Clause: Confidential Information shall mean the following: c) the fact that the Disclosee (or any of their Representatives) are or have been involved in the analysis of, in meetings or negotiations related to the Sale, the contents, time and status of such negotiations, and generally any fact concerning the Sale. 
+Label: Yes
+</example>
+
+<example>
+Clause: 2.1. Confidential Information means all confidential information relating to the Purpose which the Disclosing Party or any of its Affiliates, discloses or makes available, to the Receiving Party or any of its Affiliates, before, on or after the Effective Date.  This includes: a) the fact that discussions and negotiations are taking place concerning the Purpose and the status of those discussions and negotiations; 
+Label: Yes
+</example>
+
+<example>
+Clause: 3.5. "Confidential information" means any information of whatever form relating to the Project or Discloser or any of its Affiliates or Clients, supplied or made available by Discloser or on its behalf to recipient or Recipient Representatives, copies of any such information regardless of whether such information is identified as confidential or not; and information regarding: 3.5.3. Any information including those parts of analyses, compilations, studies and other documents which contain, reflect or are derived from such information referred to in this Clause 3.4 or discussions and negotiations relating to the project. 
+Label: Yes
+</example>
+
+<example>
+Clause: 5.1  Save as otherwise permitted herein, a Receiving Party shall not, and shall procure that its  Personnel do not, at any time without the Disclosing Party’s prior written consent: (b) disclose to any person:  - (i) the fact that discussions or negotiations are taking place between the Parties; 
+Label: Yes
+</example>
+
+<example>
+Clause: This Agreement will come into force on the [date of its execution]6 and will continue in force [indefinitely, unless and until terminated in accordance with Clause [5] / until [date] [event], upon which it will terminate automatically, unless terminated in accordance with Clause [5]]. Upon termination: (b) all the provisions of this Agreement will cease to have effect, save that the following provisions of this Agreement will survive and continue to have effect (in accordance with their terms or otherwise indefinitely): Clauses [1, 3, 5.2 to 5.4, and 6]. 
+Label: No
+</example>
+
+<example>
+Clause: The Receiving Party agrees  (iii) not to make any use whatsoever at any time of such Proprietary Information except to evaluate internally whether to enter into a proposed business transaction with the Disclosing Party without the prior written permission of the disclosing party,  
+Label: No
+</example>
+
+<example>
+Clause: The Receiving Party shall immediately return to the Disclosing Party all written Confidential Information of the Disclosing Party and any and all records, notes and other written, printed or tangible materials pertaining to such Confidential Information upon receipt of a written request from the Disclosing Party.  
+Label: No
+</example>
+
+<example>
+Clause: You will treat confidentially any information (whether written or oral) that either we or our financial advisor, Mesirow Financial, Inc. (“Mesirow”), or our other representatives furnish to you in connection with a Possible Transaction, together with analyses, compilations, studies or other documents prepared by you, or by your representatives (as defined hereinafter) which contain or otherwise reflect such information or your review of, or interest in, the Company (collectively, the “Evaluation Materials”).  The term “Evaluation Materials” includes information furnished to you orally or in writing (whatever the form or storage medium) or gathered by inspection, and regardless of whether such information is specifically identified as “confidential”.  
+Label: No
+</example>
+
+Clause: {{text}} Reply with either: Yes, No
+Label:

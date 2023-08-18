@@ -1,0 +1,16 @@
+Does the clause describe how user information may be shared with or collected by third parties?
+
+Clause: For a list of 3rd party trackers and the information that may be shared with or collected by such 3rd parties, please click here: lynda.com 3rd parties
+Label: Yes
+
+Clause: We may transfer your personally identifiable information to other Time Inc. offices for internal management and administrative purposes on our behalf. Your personal data will be transferred to other Time Inc. offices where necessary for the performance or conclusion of our contractual obligations to you or for your benefit.
+Label: Yes
+
+Clause: contact us by phone or email, we may keep a record
+Label: No
+
+Clause: only providing access to designated Library staff members that require this access to perform their duties.
+Label: No
+
+Clause: {{text}}
+Label:

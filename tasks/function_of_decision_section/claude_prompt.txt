@@ -1,0 +1,46 @@
+Classify the following text using the following definitions. 
+- Facts: The paragraph describes the faction background that led up to the present lawsuit.
+- Procedural History: The paragraph describes the course of litigation that led to the current proceeding before the court.
+- Issue: The paragraph describes the legal or factual issue that must be resolved by the court.
+- Rule: The paragraph describes a rule of law relevant to resolving the issue.
+- Analysis: The paragraph analyzes the legal issue by applying the relevant legal principles to the facts of the present dispute.
+- Conclusion: The paragraph presents a conclusion of the court.
+- Decree: The paragraph constitutes a decree resolving the dispute.
+
+<example>
+Text: We need go no further. For aught that appears, the appellant was fairly tried before an able and thoughtful judge and an impartial jury, justly convicted, and lawfully sentenced. For the reasons elucidated above, the judgment of the district court is Affirmed.
+Label: Facts
+</example>
+
+<example>
+Text: Lassiter pled guilty to kidnapping, 18 U.S.C. § 1201(a), to assault with intent to kill while armed, D.C. Code §§ 22-401, -4502, and to using a firearm during a crime of violence, 18 U.S.C. § 924(c)(1)(A).	
+Label: Procedural History
+</example>
+
+<example>
+Text: In this venue, the appellant advances two claims of trial error and a cluster of claims of sentencing error.1 Since none possesses even a patina of plausibility, we make short shrift of them.	
+Label: Issue
+</example>
+
+<example>
+Text: On appeal from a dismissal in favor of a foreign sovereign on grounds of sovereign immunity, we assume the unchallenged factual allegations in the complaint to be true. Simon v. Republic of Hungary, 812 F.3d 127, 135 (D.C. Cir. 2016).	
+Label: Rule
+</example>
+
+<example>
+Text: But even if Khochinsky's relevant claims fit within that description, the exception excludes from its coverage “any claim arising out of malicious prosecution, abuse of process, libel, slander, misrepresentation, deceit, or interference with contract rights.” Id. § 1605(a)(5)(B).	
+Label: Analysis
+</example>
+
+<example>
+Text: We agree with the district court that none of those exceptions extends to Khochinsky's claims.	
+Label: Conclusion
+</example>
+
+<example>
+Text: For these reasons, we AFFIRM.	
+Label: Decree
+</example>
+
+Text: {{Paragraph}} Reply with either: Facts, Procedural History, Issue, Rule, Analysis, Conclusion, Decree
+Label:

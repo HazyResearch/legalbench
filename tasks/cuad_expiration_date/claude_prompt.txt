@@ -1,0 +1,34 @@
+Does the clause specify the date upon which the initial term expires?
+
+<example>
+Clause: The Term of this Agreement shall be for a period of [* ****] years and [*****] months commencing the 1st day of September 2004 and terminating the [*****] day of [*****].
+Label: Yes
+</example>
+
+<example>
+Clause: The term of this Agreement is twelve (12) months from the date hereof, and will be automatically renewed for one (1) additional twelve month period unless either party shall notify the other in writing of its intention not to renew.
+Label: Yes
+</example>
+
+<example>
+Clause: "Contract Period" shall mean that period of time commencing on January 1, 2000 and concluding December 31, 2003, unless terminated sooner as provided herein.
+Label: Yes
+</example>
+
+<example>
+Clause: This non-compete provision may not be enforceable under the laws of your state.
+Label: No
+</example>
+
+<example>
+Clause: Either party may terminate this Agreement without cause upon sixty (60) days prior written notice to the other party.
+Label: No
+</example>
+
+<example>
+Clause: For the acceptance period and for a period of one year from the Maintenance Commencement Date, and thereafter for as long as the Software is covered by Maintenance Services and is used by Sparkling in accordance with this Agreement, Garman warrants that the Software shall perform in conformance with the Specifications in all material respects.
+Label: No
+</example>
+
+Clause: {{text}} Reply with either: Yes, No
+Label:

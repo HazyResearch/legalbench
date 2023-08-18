@@ -1,0 +1,44 @@
+Identify if the clause provides that Confidential Information may include verbally conveyed information.
+
+<example>
+Clause: The term “Confidential Information” as used herein means all nonpublic information relating to the Subject Matter that is disclosed by either party, its Affiliates (as defined below), or their agents (where applicable, collectively referred to as the “Disclosing Party”), directly or indirectly, in writing, orally or by inspection of premises or tangible objects to the other party (the “Recipient”) that is:  
+Label: Yes
+</example>
+
+<example>
+Clause: 4. The undertakings in clauses 2 and 3 above apply to all of the information disclosed by the Discloser to the Recipient, regardless of the way or form in which it is disclosed or recorded but they do not apply to: 
+Label: Yes
+</example>
+
+<example>
+Clause: 1. The confidential, proprietary and trade secret information of the Disclosing Party (hereinafter "Confidential Information") provided hereunder is any and all information, in whatever form (including electronic data) that will be disclosed to facilitate the potential transaction of business (related to the provision of SAP Services to HRM) between the Parties, including, but not limited to, portions or parts of the November 1, 2012 Agreement (including any schedules or appendices) between the Province of Nova Scotia and IBM, each Party's disclosure of intellectual property, techniques, sketches, drawings, models, inventions, know-how, processes, apparatus, equipment, algorithms, software programs, software source documents, and formulae related to the current, future and proposed products, documents and services, research, experimental work, development, design details and specifications, engineering, financial information, procurement requirements, purchasing, manufacturing, licensing, sales or service customer lists, business forecasts, sales and merchandizing, and marketing plans and information.  
+Label: Yes
+</example>
+
+<example>
+Clause: 1. Disclosure: Recipient agrees not to disclose and the Discloser agrees to let the Recipient have the access to the Confidential Information as identified and reduced in writing or provided verbally or in any other way not reduced in writing at the time of such disclosure of the information. 
+Label: Yes
+</example>
+
+<example>
+Clause: Confidential Information shall mean the following: a) all such information, of any kind whatsoever (whether in oral, written or electronic form, and including, but not limited to, technical, commercial, financial, accounting, legal and administrative information) pertaining to the Sale of the Munt and the Sellers as may be provided to the Disclosee and their responsible managers, officers, employees, shareholders, members of the Board of Directors and advisors (including financial, legal and tax advisors and auditors) (“Representatives”), by the Sellers, their advisors or their representatives; 
+Label: No
+</example>
+
+<example>
+Clause: (a) “Confidential Information” means any proprietary information that is disclosed in writing by Disclosing Party (defined herein) to Receiving Party (defined herein) and is duly and recognizably marked “Confidential” on each document / sheet.  
+Label: No
+</example>
+
+<example>
+Clause: All Confidential Information received from the disclosing party shall be in tangible form.  
+Label: No
+</example>
+
+<example>
+Clause: 11. Nothing contained in the Agreement shall be construed as granting any rights under any patent, trademark or copyright, by license or otherwise, protecting any Information subject to this Agreement, and that this Agreement does not create a partnership, joint venture or other legal relationship between the Parties.  
+Label: No
+</example>
+
+Clause: {{text}} Reply with either: Yes, No
+Label:

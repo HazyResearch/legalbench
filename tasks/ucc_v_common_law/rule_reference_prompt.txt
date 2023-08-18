@@ -1,0 +1,4 @@
+For the following contracts, determine if they are governed by the UCC or by common law.
+
+Contract: {{contract}} Answer "common law" or "ucc".
+Governed by:

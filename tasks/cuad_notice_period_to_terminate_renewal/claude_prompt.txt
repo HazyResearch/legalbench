@@ -1,0 +1,34 @@
+Does the clause specify a notice period required to terminate renewal?
+
+<example>
+Clause: This Agreement shall commence on the Effective Date and shall continue until the four-year anniversary of the Effective Date (such period, as it may be extended, either by the mutual written agreement of the parties or automatically, or earlier terminated being referred to as the "Consultation Period"), unless sooner terminated in accordance with the provisions of Section 4, and shall automatically renew for successive one-year periods, unless the Company provides 90 days' notice of termination before any such successive period.
+Label: Yes
+</example>
+
+<example>
+Clause: AIG shall have the absolute right to terminate this Agreement upon thirty (30) days' prior written notice to the Company, which notice shall state the effective date of termination (the "Termination Date"); provided, however, that AIG agrees not to terminate this Agreement unless (a) AIG significantly modifies the<omitted>corporate structure or ownership of the Company, or (b) AIG sells the Company to an acquirer, in each case, (i) having a rating from at least one of S&P, Moody's, A.M. Best or a substitute agency, which is a nationally recognized statistical rating organization, that is at least equal to the lower of (x) AIG's then-current rating from such agency or (y) the Company's then-current rating as supported by this Agreement from such agency; or (ii) such that, immediately on the effective date of the modification of corporate structure or sale by AIG of the Company, the Company's capitalization is consistent with the minimum capital adequacy standards and criteria of at least one of S&P, Moody's, A.M. Best or a substitute agency, which is a nationally recognized statistical rating organization, for a rating that is equal to or better than the Company's then-current rating on the date immediately preceding such modification of corporate structure or sale.
+Label: Yes
+</example>
+
+<example>
+Clause: This Agreement will commence on the Effective Date and continue for an Initial Term of five (5) years, and will automatically renew for additional periods of five (5) years unless one Party notifies the other of its intention not to renew, no less than 12 months prior to the expiration of the then-current term, unless terminated as permitted under this Agreement.
+Label: Yes
+</example>
+
+<example>
+Clause: TO THE GREATEST EXTENT PERMITTED UNDER APPLICABLE LAW, IN NO EVENT WILL A PARTY'S AGGREGATE LIABILITY (ABOVE AMOUNTS ACTUALLY PAID OR REIMBURSED BY SUCH PARTY'S INSURER (TO THE EXTENT NOT SELF-INSURED)) FOR A CLAIM ARISING OUT OF OR RELATED TO THIS AGREEMENT UNDER ANY LEGAL OR EQUITABLE THEORY, INCLUDING BREACH OF CONTRACT, TORT (INCLUDING NEGLIGENCE), STRICT LIABILITY, AND OTHERWISE EXCEED [***], EXCEPT THAT (A) SUCH LIMITATION SHALL NOT APPLY TO (I) A PARTY'S BREACH OF ARTICLE 10 (CONFIDENTIALITY), [***], (V) A PARTY'S FRAUD, GROSS NEGLIGENCE OR WILLFUL MISCONDUCT OR (VI) A PARTY'S INDEMNIFICATION OBLIGATIONS UNDER ARTICLE 12 (INDEMNIFICATION; INSURANCE) AND (B) SUCH LIMITATION ON LIABILITY SHALL NOT INCLUDE ANY AMOUNTS ACCRUED AND ACTUALLY OWED PURSUANT TO THE TERMS OF THIS AGREEMENT.
+Label: No
+</example>
+
+<example>
+Clause: Distributor acknowledges Airspan's exclusive right, title, and interest in and to any trademarks, trade names, logos and designations which Airspan may at any time have adopted, used, or registered in the United States of America and in the Territory (the "Trademarks"), and will not at any time do or cause to be done any act or thing contesting or in any way impairing or tending to impair any part of said right, title, and interest.
+Label: No
+</example>
+
+<example>
+Clause: ISO may terminate this Agreement prior to its expiration for cause upon prior written notice to SERVICERS as follows:<omitted>(f) Upon an assignment of this Agreement by SERVICERS without ISO's prior written consent;
+Label: No
+</example>
+
+Clause: {{text}} Reply with either: Yes, No
+Label:

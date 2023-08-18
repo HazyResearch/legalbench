@@ -8,6 +8,6 @@ Text: [T]he law is settled that as a general matter the First Amendment prohibit
 Citation: Feist v. La., Dep't of Justice, Off. of the Att'y Gen.
 Supportive? No
 
-Text: {text}
-Citation: {citation}
+Text: {{text}}
+Citation: {{citation}}
 Supportive?

@@ -1,7 +1,7 @@
-text	label	parties_are_diverse	aic_is_met
-Lucas is from Florida. Olivia is from Nevada. Lucas sues Olivia for copyright infringement for $3,000 and wrongful eviction for $87,000.	Yes	True	True
-William is from Colorado. Mia is from Colorado. William sues Mia for securities fraud for $29,000 and trademark infringement for $52,000.	No	False	True
-Mia is from Kentucky. Liam is from Oregon. Mia sues Liam for legal malpractice for $28,000 and trademark infringement for $53,000.	Yes	True	True
-Amelia is from Nebraska. Oliver is from Nebraska. Amelia sues Oliver for trespass for $7,000 and breach of contract for $89,000.	No	False	True
-Mia is from Hawaii. Liam is from Texas. Mia sues Liam for patent infringement for $68,000 and wrongful eviction for $65,000.	Yes	True	True
-Isabella is from Idaho. Harper is from New Hampshire. Isabella sues Harper for patent infringement for $47,000 and wrongful eviction for $73,000.	Yes	True	True
+index	text	answer	parties_are_diverse	aic_is_met
+0	Lucas is from Florida. Olivia is from Nevada. Lucas sues Olivia for copyright infringement for $3,000 and wrongful eviction for $87,000.	Yes	True	True
+1	William is from Colorado. Mia is from Colorado. William sues Mia for securities fraud for $29,000 and trademark infringement for $52,000.	No	False	True
+2	Mia is from Kentucky. Liam is from Oregon. Mia sues Liam for legal malpractice for $28,000 and trademark infringement for $53,000.	Yes	True	True
+3	Amelia is from Nebraska. Oliver is from Nebraska. Amelia sues Oliver for trespass for $7,000 and breach of contract for $89,000.	No	False	True
+4	Mia is from Hawaii. Liam is from Texas. Mia sues Liam for patent infringement for $68,000 and wrongful eviction for $65,000.	Yes	True	True
+5	Isabella is from Idaho. Harper is from New Hampshire. Isabella sues Harper for patent infringement for $47,000 and wrongful eviction for $73,000.	Yes	True	True

@@ -1,7 +1,0 @@
-Instruction: Read the segment of a merger agreement and answer the multiple-choice question by choosing the option that best characterizes the agreement.
-Question: How many additional matching rights periods for modifications are allowed in connection with the Fiduciary Termination Right (FTR)?
-Option Option A: Continuous matching right
-Option Option B: None
-
-Merger Agreement: {{text}}
-Answer:

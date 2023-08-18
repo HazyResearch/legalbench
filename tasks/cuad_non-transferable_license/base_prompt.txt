@@ -1,22 +1,22 @@
 Does the clause limit the ability of a party to transfer the license being granted to a third party?
 
-Clause: Notwithstanding the foregoing, Women.com shall be entitled to (aa) provide mini and micro web sites and Women.com promotions and sponsorships to Jenny Craig; (bb) sell, display, or distribute advertisements, including banner advertisements, newsletter placements, internet radio, commerce placements and market research, or otherwise promote Competitive Companies on pages other than the Gateway Page of the Diet Center.
-Label: No
-
-Clause: Subject to the terms and conditions hereof, drkoop.com hereby represents that it has the power and authority to grant, and does hereby grant to Sponsor a non-exclusive, non-transferable, royalty-free, worldwide license to reproduce and display all logos, trademarks, trade names and similar identifying material relating to drkoop.com and, solely as allowed pursuant to this Agreement, to the Dr. C. Everett Koop name (collectively, the "drkoop.com Marks") solely in connection with the promotion, marketing and distribution of the parties and the Sites in accordance with the terms hereof, provided, however, that Sponsor shall, other than as specifically provided for in Section 4.4 of this Agreement, not make any specific use of any drkoop.com Marks without first submitting a sample of such use to drkoop.com and obtaining its prior consent, which consent shall not be unreasonably withheld.
+Clause: Subject to the terms and conditions set forth herein, DSS hereby grants to Developer, and Developer accepts from DSS, for the Term, a non-exclusive, limited, and non-transferable license to install and use the Technology for the sole purpose of developing the Improvements (as defined hereunder) thereto for the benefit of DSS (the "Technology Development Services License").
 Label: Yes
 
-Clause: Either party may terminate the Agreement on 60-days written notice during a renewed term.
-Label: No
-
-Clause: This Agreement shall be effective on the later of the dates that it is executed by Imprimis and Surgical (the "Effective Date") and shall terminate pursuant to the terms of the SOW (the "Term").
-Label: No
-
-Clause: The supply of the Miltenyi Products hereunder conveys to Bellicum the limited, non-exclusive, non-transferable (except as expressly provided herein, including as set forth in Article 17) right to use, and to permit its Subcontractors and Licensees to use the Miltenyi Products solely for Ex Vivo Cell Processing in the manufacture of Bellicum Products for use in the Field in the Territory (including for research, pre-clinical, clinical, regulatory and commercial purposes), in accordance with applicable Regulatory Authority requirements and approvals (including (to the extent applicable) any relevant clinical trial protocol, IND, and/or IRB approval pertaining to such Bellicum Products), in each case consistent with the terms and conditions of this Agreement and in accordance with Applicable Laws (the "Permitted Use"). Bellicum's Permitted Use of the Miltenyi Products shall be limited to the Designated Countries, subject to Section 2.3.
+Clause: Subject to the terms and conditions of this Agreement, the Company hereby grants to Allscripts and its Affiliates a non-exclusive, royalty- free, irrevocable [***] non-transferable (except in accordance with Section 28.4), sublicensable (through multiple levels of sublicensees), fully paid- up right and license under all of the Company's Intellectual Property to use the Company's brands, trademarks, product and service names, logos and slogans (the "Company Marks"), throughout the Territory, solely in connection with the marketing, selling, or provision of the Installed Software and the Subscription Software Services and Merchant Processing Services permitted hereunder or to otherwise fulfill the terms of this Agreement. [***].
 Label: Yes
 
-Clause: In the event ExxonMobil notifies FCE that it has formally decided not to pursue Generation 2 Technology for Carbon Capture Applications, then upon FCE's written request, ExxonMobil agrees to negotiate a grant to FCE, under commercially reasonable terms to be determined in good faith, a worldwide, non-exclusive, royalty-bearing (with the royalty to be negotiated), non-sub- licensable (except as set forth in this Paragraph 7.01(b)(2)), non-transferable (except pursuant to Article 14 (Assignment)), right and license to practice Program Results solely for Carbon Capture Applications.
+Clause: Upon the release of the Source Code to Corio pursuant to Section 12.2 of this Agreement, Corio shall have a royalty-free, nonexclusive, nontransferable, right and license in the Territory to use and modify the Source Code to support and maintain the Software until the expiration or termination of Corio's Customers' End User License Agreements.
 Label: Yes
+
+Clause: Commercial general liability insurance with the following limits and forms/endorsements: Each Occurrence: $2,000,000 (i) Occurrence form including premises and operations coverage, property damage, liability, personal injury coverage, products and completed operations coverage, and transit. (ii) To the extent of Manufacturer's indemnification obligations, Customer and its Affiliates shall be additional insureds via ISO form CG20101185 or its equivalent.
+Label: No
+
+Clause: Neither Party shall assign or transfer this Agreement or its rights hereunder without first obtaining the consent of the other, in writing, which consent shall not unreasonably be withheld or delayed.
+Label: No
+
+Clause: In the event that MusclePharm shall achieve Net Sales (as defined below) of $20 million (the "First Renewal Threshold") in the aggregate during the Third Contract Year, then this Agreement shall automatically be renewed for an additional term of three (3) years (the "First Additional Term") on the same terms and conditions for the Initial Term except that: (i) no additional Stock Compensation (as defined below) shall be issued in connection with the renewal Term, (ii) the Cash Compensation for the First Additional Term shall be as set forth in Section 7 and Exhibit "C" Section (2) attached hereto, (iii) Endorser shall only be obligated to make two (2) Appearances in each Contract Year during the First Additional Term pursuant to Section 4(a)(ii) below and (iv) the marketing budget to promote the Licensed Products shall be $5.0 million during each Contract Year of the First Additional Term (subject to Section 12(b) of this Agreement).
+Label: No
 
 Clause: {{text}}
 Label:

@@ -1,0 +1,34 @@
+Does the clause specify which state/country's law governs the contract?
+
+<example>
+Clause: This AGREEMENT shall be governed by and construed under the Laws of the Republic of South Africa.
+Label: Yes
+</example>
+
+<example>
+Clause: This Agreement shall be governed by and construed in accordance with the laws of the State of Nevada without giving effect to choice of law doctrine.
+Label: Yes
+</example>
+
+<example>
+Clause: All disputes or claims by Payment Data Systems hereunder shall be resolved by arbitration in McLean, Virginia, pursuant to the rules of the American Arbitration Association.
+Label: Yes
+</example>
+
+<example>
+Clause: Subject to the terms and conditions of this Agreement, the Company hereby grants to Seller a perpetual, non- exclusive, royalty-free license in, to and under the Company Licensed Know-How for use in the Arizona Field throughout the world.
+Label: No
+</example>
+
+<example>
+Clause: Neither this Agreement nor any of the rights, interests or obligations hereunder shall be assigned by any of the parties hereto without the prior written consent of the other party to this Agreement; provided, however, that Licensor may assign this Agreement to a subsidiary or entity controlling, controlled by or under common control with Licensor.
+Label: No
+</example>
+
+<example>
+Clause: Notwithstanding Section 2.4(e)(i), Customer acknowledges and agrees that (A) each Purchase Order Customer places hereunder for Product that is either API or Bulk Drug Product shall be equal to, or a whole multiple of, the Batch Size for such applicable Product as set forth in the applicable Facility Addendum and (B) each Purchase Order that Customer places hereunder for Product that is Finished Product shall be equal to or greater than the Minimum Order Quantity for such applicable Product as set forth in the applicable Facility Addendum; provided that, where Customer places Purchase Orders under (B) above that exceed the applicable Minimum Order Quantity, Customer shall<omitted>place such Purchase Orders for such excess quantities in Increments above the Minimum Order Quantity as specified in the applicable Facility Addendum.
+Label: No
+</example>
+
+Clause: {{text}} Reply with either: Yes, No
+Label:

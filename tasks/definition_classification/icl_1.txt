@@ -1,0 +1,16 @@
+Identify if the sentence defines a term.
+
+Sentence: That interpretive practice of applying the modifier to the whole list boasts a fancy name—the “series-qualifier canon,” see Black's Law Dictionary 1574 (10th ed. 2014)—but, as my opening examples show, it reflects the completely ordinary way that people speak and listen, write and read.
+Label: Yes
+
+Sentence: For one thing, we do not doubt that the setoff matter is “under dispute” or “in question” in Case No. B/61, and those words typically define the term “at issue.” Black's Law Dictionary 136 (8th ed.2004).
+Label: Yes
+
+Sentence: We granted Virginia leave to file a complaint, 530 U. S. 1201 (2000), and referred the action to a Special Master, 531 U. S. 922 (2001).
+Label: No
+
+Sentence: The dissent itself recognizes the relevance of formality to the testimonial inquiry when it notes the formality of the problematic unconfronted statements in Sir Walter Raleigh’s trial.
+Label: No
+
+Sentence: {{text}}
+Label:

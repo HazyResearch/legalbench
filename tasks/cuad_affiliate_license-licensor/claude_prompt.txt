@@ -1,0 +1,34 @@
+Does the clause describe a license grant by affiliates of the licensor or that includes intellectual property of affiliates of the licensor?
+
+<example>
+Clause: "Customer Property" means all Intellectual Property, together with all materials, data, writings and other property in any form whatsoever, which is (a) owned or controlled by Customer or its Affiliates as of and following the Effective Date and (b) provided to Manufacturer by or on behalf of Customer or its Personnel under this Agreement.
+Label: Yes
+</example>
+
+<example>
+Clause: Subject to the terms and conditions of this Agreement, Parent hereby grants to each individual member of the SpinCo Group, on behalf of itself and the other members of the Parent Group, and shall cause the other members of the Parent Group to grant to each individual member of the SpinCo Group, a non-exclusive, worldwide, perpetual, irrevocable, fully paid-up, royalty-free right and license, solely for use in the SpinCo Field, to (i)<omitted>use, reproduce, distribute, display, perform, make improvements and exploit Intellectual Property owned or controlled by Parent or a member of the Parent Group and currently used in the SpinCo Business, and (ii) make, have made, use, sell, offer to sell and import any goods and services incorporating, embodying or utilizing such Intellectual Property currently used in the SpinCo Business.
+Label: Yes
+</example>
+
+<example>
+Clause: SpinCo, for itself and as representative of all other members of the SpinCo Group, hereby grants to RemainCo (x) a perpetual, irrevocable, exclusive, royalty-free, worldwide right and license with the right to grant sublicenses (solely as set forth in Section 5.6) to use the SpinCo Know- How currently or previously used in connection with the RemainCo Business or otherwise in the possession of RemainCo or any member of the RemainCo Group as of Distribution Date (the "Licensed SpinCo Know-How"), for the continued operation of the RemainCo Business and any future extensions of the RemainCo Business in the RemainCo Core Field and (y) a perpetual, irrevocable, non-exclusive, royalty-free, worldwide right and license with the right to grant sublicenses (solely as set forth in Section 5.6) to use the Licensed SpinCo Know-How for the continued operation of the RemainCo Business and any future extensions of the RemainCo Business in any field other than the RemainCo Core Field or the SpinCo Core Field; provided, however, the foregoing licenses shall not extend to (i) SpinCo Know-How<omitted>licensed by SpinCo or any other member of the SpinCo Group if and to the extent the licensing of same to RemainCo would constitute a breach of an agreement with any Third Party executed prior to the Effective Date or result in any expense to SpinCo or any member of the SpinCo Group for payments to such Third Party or (ii) any intellectual property not owned by one or more members of the SpinCo Group, or as to which no member of the SpinCo Group has the right to grant sublicenses, as of the Effective Date.
+Label: Yes
+</example>
+
+<example>
+Clause: Effective as of the Agreement Date, PPI hereby sells, transfers, conveys and assigns to EKR all right, title and interest in and to [**] (the "Transferred NDA").
+Label: No
+</example>
+
+<example>
+Clause: The License grant includes a license under all current and future patents owned by or licensed to LMG that are applicable to the LMG Tools and Documentation or the provision or receipt of the LMG Services, to the extent necessary to exercise any of the foregoing rights.
+Label: No
+</example>
+
+<example>
+Clause: Monthly Revenue* Below Threshold Above Threshold Type Threshold Customer Kubient Customer Kubient Programmatic/Display $ 300,000.00 90% 10%** 50% 50% Video $ 30,000.00 100% 0 % 50% 50% Direct Deals*** Undertone 100% 0 % 50% 50% Native**** $ 100,000.00 100% 0 % 50% 50% Data/Newsletter $ - 0 % 0 % 50% 50% Podcasts $ - 0 % 0 % 50% 50% Other $ - 0 % 0 % 50% 50%
+Label: No
+</example>
+
+Clause: {{text}} Reply with either: Yes, No
+Label:

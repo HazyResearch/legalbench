@@ -1,0 +1,34 @@
+Determine whether the following statements are entailed under the statute.
+
+<example>
+Statute:     (v) $79,772, plus 39.6% of the excess over $250,000 if the taxable income is over $250,000.
+Description: Alice's taxable income for the year 2017 is $718791. Alice is not married, is not a surviving spouse, and is not a head of household in 2017.
+Statement: Alice has to pay $265413 in taxes for the year 2017 under section 1(c)(v).
+Answer: Entailment
+</example>
+
+<example>
+Statute:         (A) whose spouse died during either of the two years immediately preceding the taxable year, and
+Description: Alice and Bob got married on Feb 3rd, 1992. Alice died on July 9th, 2014.
+Statement: Section 2(a)(1)(A) applies to Bob in 2015.
+Answer: Entailment
+</example>
+
+<example>
+Statute:     (iv) $31,172, plus 36% of the excess over $115,000 if the taxable income is over $115,000 but not over $250,000;
+Description: Alice's taxable income for the year 2017 is $102268. In 2017, Alice is not married, is not a surviving spouse, and is not a head of household.
+Statement: Alice has to pay $27225 in taxes for the year 2017 under section 1(c)(iv).
+Answer: Contradiction
+</example>
+
+<example>
+Statute:         (A) $300,000 in the case of a joint return or a surviving spouse (as defined in section 2(a)),
+Description: In 2016, Alice's income was $567192. Alice is married for the year 2016 under section 7703. Alice does not file a joint return.
+Statement: Section 68(b)(1)(A) applies to Alice for 2016.
+Answer: Contradiction
+</example>
+
+Statute: {{statute}}
+Description: {{description}}
+Statement: {{question}} Reply with either: Entailment, Contradiction
+Answer:

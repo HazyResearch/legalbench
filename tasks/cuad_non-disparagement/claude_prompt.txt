@@ -1,0 +1,34 @@
+Does the clause require a party not to disparage the counterparty?
+
+<example>
+Clause: Franchisee agrees to refrain from any business or advertising practice which may be injurious to the business of Pretzel Time and the goodwill associated with the Marks and other Pretzel Time Units.
+Label: Yes
+</example>
+
+<example>
+Clause: The Client and Designer both agree not to post on defamatory websites or review websites any negative posts concerning each other, the names of our companies, and our employees.
+Label: Yes
+</example>
+
+<example>
+Clause: Each Party covenants that it shall not make, publish or communicate to any person or entity in any online or other public forum any defamatory, misleading or disparaging remarks, comments or statements concerning (a) the other Party or any of its affiliates, or any of such Party's or its affiliates' respective employees, officers, directors, agents, officials, equity holders, investors or sponsors, or (b) any software, products or services of the other Party or any affiliate.
+Label: Yes
+</example>
+
+<example>
+Clause: Notwithstanding anything to the contrary, in no event shall the restrictions set forth in this Section 2.3.2 apply to [***].
+Label: No
+</example>
+
+<example>
+Clause: This Agreement shall continue in effect for a period of one year from the date of its execution and from year to year thereafter provided such continuance is specifically approved by a majority of the trustees of the Trust who (i) are not "interested persons" of the Trust or any other party to this Agreement, as defined in the 1940 Act, and (ii) have no direct or indirect financial interest in the operation of this Agreement ("Non- Interested Trustees").
+Label: No
+</example>
+
+<example>
+Clause: This Agreement shall be governed by and be --------- ---- construed in accordance with the laws of the Province of Ontario, Canada.
+Label: No
+</example>
+
+Clause: {{text}} Reply with either: Yes, No
+Label:

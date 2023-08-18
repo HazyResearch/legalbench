@@ -9,11 +9,11 @@ Choices:
 4: "holding that "a defendant is obliged to show a reasonable probability that, but for the error, he would not have entered the [guilty] plea.""
 Answer: 1
 
-Question: {question}
+Question: {{question}}
 Choices:
-0: {choice_0}
-1: {choice_1}
-2: {choice_2}
-3: {choice_3}
-4: {choice_4}
-Answer: 
+0: {{choice_0}}
+1: {{choice_1}}
+2: {{choice_2}}
+3: {{choice_3}}
+4: {{choice_4}}
+Answer:

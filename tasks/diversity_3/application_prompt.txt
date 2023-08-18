@@ -1,0 +1,22 @@
+Diversity jurisdiction exists when there is (1) complete diversity between plaintiffs and defendants, and (2) the amount-in-controversy (AiC) is greater than $75k.
+
+Q: Lucas is from Florida. Olivia is from Nevada. Lucas sues Olivia for copyright infringement for $3,000 and wrongful eviction for $87,000. Is there diversity jurisdiction?
+A: Yes
+
+Q: William is from Colorado. Mia is from Colorado. William sues Mia for securities fraud for $29,000 and trademark infringement for $52,000. Is there diversity jurisdiction?
+A: No
+
+Q: Mia is from Kentucky. Liam is from Oregon. Mia sues Liam for legal malpractice for $28,000 and trademark infringement for $53,000. Is there diversity jurisdiction?
+A: Yes
+
+Q: Amelia is from Nebraska. Oliver is from Nebraska. Amelia sues Oliver for trespass for $7,000 and breach of contract for $89,000. Is there diversity jurisdiction?
+A: No
+
+Q: Mia is from Hawaii. Liam is from Texas. Mia sues Liam for patent infringement for $68,000 and wrongful eviction for $65,000. Is there diversity jurisdiction?
+A: Yes
+
+Q: Isabella is from Idaho. Harper is from New Hampshire. Isabella sues Harper for patent infringement for $47,000 and wrongful eviction for $73,000. Is there diversity jurisdiction?
+A: Yes
+
+Q: {{text}} Is there diversity jurisdiction? Explain your reasoning step-by-step.
+A:

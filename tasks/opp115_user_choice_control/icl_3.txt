@@ -1,0 +1,16 @@
+Does the clause describe the choices and control options available to users?
+
+Clause: To subscribe or unsubscribe from The New York Times Events email newsletter, please visit www.nytimes.com/events.
+Label: Yes
+
+Clause: may click on the displayed icon to receive more information and can opt out at that time
+Label: Yes
+
+Clause: You may also access, correct or change the personal information in your community profile(s) on SparkNotes.com at any time, except to change your username. To review or modify your profile information, log in to SparkNotes.com.
+Label: No
+
+Clause: he Sally Ride Science websites provide innovative and interactive online science, math and technology related activities for young girls and boys, while safeguarding their privacy.
+Label: No
+
+Clause: {{text}}
+Label:

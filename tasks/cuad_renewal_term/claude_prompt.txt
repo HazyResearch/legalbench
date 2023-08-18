@@ -1,0 +1,34 @@
+Does the clause specify a renewal term?
+
+<example>
+Clause: The term of this Agreement is twelve (12) months from the date hereof, and will be automatically renewed for one (1) additional twelve month period unless either party shall notify the other in writing of its intention not to renew.
+Label: Yes
+</example>
+
+<example>
+Clause: This Agreement shall be renewed automatically for another five (5) years upon the expiration unless the Parties confirm, in writing, the termination of this Agreement.
+Label: Yes
+</example>
+
+<example>
+Clause: If M&I and Customer are unable to agree upon the terms for renewal of this Agreement at least six (6) months prior to the expiration of the Term, then Customer may, at its option, renew this Agreement for one (1) twelve month period at the then-current terms and conditions of this Agreement.
+Label: Yes
+</example>
+
+<example>
+Clause: This Agreement shall be effective on the later of the dates that it is executed by Imprimis and Surgical (the "Effective Date") and shall terminate pursuant to the terms of the SOW (the "Term").<omitted>4/28/2017
+Label: No
+</example>
+
+<example>
+Clause: THIS AGREEMENT SHALL BE GOVERNED BY AND CONSTRUED IN ACCORDANCE WITH THE INTERNAL LAWS OF THE STATE OF NEW YORK APPLICABLE TO AGREEMENTS MADE AND TO BE PERFORMED ENTIRELY WITHIN SUCH STATE, WITHOUT REGARD TO THE CONFLICTS OF LAW PRINCIPLES OF SUCH STATE OTHER THAN SECTIONS 5-1401 OF THE NEW YORK GENERAL OBLIGATIONS LAW.
+Label: No
+</example>
+
+<example>
+Clause: "End Date" means the date on which this Agreement is terminated or expires, and shall be the earlier to occur of the following, as appropriate: (i) the end of the Initial Term as defined in Clause 3.1of this Agreement; or, (ii) the end of the term of each annual renewal of this Agreement as per Clause 3.2 of this Agreement; or, (iii) the date on which all or part of this Agreement is terminated as per Clause 16 ("Termination");
+Label: No
+</example>
+
+Clause: {{text}} Reply with either: Yes, No
+Label:

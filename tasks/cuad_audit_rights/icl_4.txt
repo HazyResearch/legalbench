@@ -1,0 +1,16 @@
+Does the clause give a party the right to audit the books, records, or physical locations of the counterparty to ensure compliance with the contract?
+
+Clause: Such inspections and audits by Sonos or a Sonos authorized audit firm will be limited to [*], except for any case of an identified quality issue whereby Sonos will have the right to inspect IAC's facility and to review applicable documentation and processes at any time, provided Sonos provides IAC with written notice [*] in advance of the Sonos inspection.
+Label: Yes
+
+Clause: In connection with such reviews, Manufacturer shall reasonably assist in the completion of an environmental health and safety survey of Manufacturer or the scheduling of an environmental health and safety audit of the Facility, as applicable, in each case with respect to the Products.
+Label: Yes
+
+Clause: "Contract Period" shall mean that period of time from February 21, 2011 through December 31, 2012.
+Label: No
+
+Clause: Paragraph 1(a) of the Agreement is amended to provide that Fox grants Licensee a worldwide, exclusive (except as otherwise may be provided in the Agreement), non-transferable right and license to distribute video clips for the property "KINGDOM OF HEAVEN" ("KOH Video Clips").
+Label: No
+
+Clause: {{text}}
+Label:

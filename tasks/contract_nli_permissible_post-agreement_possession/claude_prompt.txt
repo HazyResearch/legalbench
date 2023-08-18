@@ -1,0 +1,44 @@
+Identify if the clause provides that the Receiving Party may retain some Confidential Information even after the return or destruction of Confidential Information.
+
+<example>
+Clause: e. Return of Information. on a Party's request, the other Party shall return all Confidential Information of the requesting Party, except for that portion of such Confidential Information that may be found in analyses prepared by, or for, the returning Party (collectively, "Analyses"), and the returning Party and its Representatives shall not retain any copies of such Confidential Information except the returning Party may retain one copy of the Confidential Information as needed to comply with applicable law and/or returning Party's record retention policies.  
+Label: Yes
+</example>
+
+<example>
+Clause: Disclosing Party may serve written request on Recipient for return or destruction of its Confidential Information at any time up to six (6) months after the termination or expiry of this Agreement and Recipient shall, within thirty (30) days of such request or termination, return to the Disclosing Party (or its designees) or certify as destroyed all Confidential Information, in whatever form, including written or electronically recorded information and all copies thereof (other than copies retained in automatic back-up and archive systems), provided however that Recipient shall be entitled to retain one copy of the Confidential Information with its legal counsel or other appropriate corporate representative to evidence the exchange of information hereunder and in connection with legal or statutory requirements.  
+Label: Yes
+</example>
+
+<example>
+Clause: 5.1. Upon the Disclosing Party’s written request, the Receiving Party shall (as requested by the Disclosing Party) either return to the Disclosing Party or destroy (provided that any such destruction shall be confirmed in writing by the Receiving Party) all Confidential Information of the Disclosing Party including all copies, reproductions, notes, extracts and summaries which include, reflect, incorporate or otherwise contain the Disclosing Party’s Confidential Information whether in tangible form or otherwise, such as electronic mail or computer files. 5.2. Clause 5.1 of this Agreement shall not apply to: a) Confidential Information held electronically in archive or back-up systems which are not otherwise reasonably retrievable by the Representatives of the Receiving Party or its Affiliates; or b) Copies of Confidential Information which must be retained by the Receiving Party pursuant to applicable law. 5.3. The provisions of this Agreement shall continue to apply to any documents and materials retained by the Receiving Party pursuant to clause 5.2 of this Agreement. 
+Label: Yes
+</example>
+
+<example>
+Clause: 8.1.2. Clause 8.1 shall not apply to Confidential Information which  i) must be stored by Recipient according to provisions of mandatory law or  ii) was made as a matter of routine backup provided that such Confidential Information and copies thereof shall be subject to an indefinite confidential obligation according to the terms and conditions set forth herein until returned and/or destroyed, as the case may be. 9. OTHER PROVISIONS 
+Label: Yes
+</example>
+
+<example>
+Clause: 6. The Recipient will, on request from the Discloser, return all copies and records of the Confidential Information to the Discloser and will not retain any copies or records of the Confidential Information. 
+Label: No
+</example>
+
+<example>
+Clause: 6. Upon the request of Casino, Receiving Party shall immediately return all Confidential Information received in written or tangible form, including all notes, copies, or media containing such Confidential Information.  
+Label: No
+</example>
+
+<example>
+Clause: When the Receiving Party has finished reviewing the information provided by the Disclosing Party and has made a decision as to whether or not to work with the Disclosing Party, Receiving Party shall return all information to the Disclosing Party without retaining any copies. 
+Label: No
+</example>
+
+<example>
+Clause: In addition, upon the completion of the services provided by VENDOR to UNIVERSITY, VENDOR shall return or destroy, as UNIVERSITY may instruct, all Confidential Information in VENDOR’S possession or control, whether in printed, electronic or any other format, including all duplicates and copies thereof of any files, compilation, study, report, analysis, or data base containing, based on or derived from the Confidential Information. 
+Label: No
+</example>
+
+Clause: {{text}} Reply with either: Yes, No
+Label:

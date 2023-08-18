@@ -1,0 +1,16 @@
+Identify if the sentence defines a term.
+
+Sentence: The word “use” in the statute must be given its “ordinary or natural” meaning, a meaning variously defined as “[t]o convert to one's service,” “to employ,” “to avail oneself of,” and “to carry out a purpose or action by means of.” Smith, supra, at 228–229, 113 S.Ct., at 2054 (internal quotation marks omitted) (citing Webster's New International Dictionary of English Language 2806 (2d ed.1949) and Black's Law Dictionary 1541 (6th ed.1990)). These various definitions of “use” imply action and implementation. 
+Label: Yes
+
+Sentence: Although 'note' is often used generically to refer to any written promise to pay a specified sum on demand or at a specified time, it is also used more narrowly, to refer to any written promise to pay a specified sum on demand or at a specified time, it is also used, more narrowly, to refer to a particular kind of capital-raising debt instruement distributed under an indenture agreement, like bond or debentures but of shorter maturity.
+Label: Yes
+
+Sentence: And “[b]ecause forensic scientists often are driven in their work by a need to answer a particular question related to the issues of a particular case, they sometimes face pressure to sacrifice appropriate methodology for the sake of expediency.”
+Label: No
+
+Sentence: Indeed, at the time Walton was decided, the author of the Court’s opinion today understood well the issue at stake.
+Label: No
+
+Sentence: {{text}}
+Label:

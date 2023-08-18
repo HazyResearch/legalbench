@@ -1,0 +1,34 @@
+Does the clause restrict a party’s soliciting or hiring employees and/or contractors from the counterparty, whether during the contract or after the contract ends (or both)?
+
+<example>
+Clause: Notwithstanding the foregoing, nothing herein shall restrict or preclude the Parties' right to make generalized searches for employees by way of a general solicitation for employment placed in a trade journal, newspaper or website.
+Label: Yes
+</example>
+
+<example>
+Clause: The Consultant covenants, undertakes and agrees with the Company that during the Term and for a period of one year from the date of expiration or termination of this Agreement for any reason whatsoever, it shall not, on its own behalf or on behalf of any person, whether directly or indirectly, in any capacity whatsoever, offer employment to or solicit the employment of or otherwise entice away from the employment of the Company or any of the Affiliated Companies, any individual who is employed or engaged by the Company or any of the Affiliated Companies at the date of expiration or termination of this Agreement or who was employed or engaged by the Company or any of the Affiliated Companies, within the one year period immediately preceding the date of expiration or termination of this Agreement, as applicable.
+Label: Yes
+</example>
+
+<example>
+Clause: IBM agrees that, for a period of [*] years from the Effective Date of this Agreement, it will not in any way solicit for employment any Transferred Employees without the prior written consent of MSL; provided, however, that the foregoing will not restrict or prevent IBM from a) employing any such person who contacts IBM on his or her own initiative without any solicitation or encouragement from IBM or b) by using general employment advertising or communications or independent search firms, hiring any person who responds thereto, provided that IBM does not direct or encourage such independent search firms to solicit such Transferred Employees.
+Label: Yes
+</example>
+
+<example>
+Clause: To ensure that a backup facility will be available in<omitted>case of such a failure, VIP will maintain disaster and/or business interruption insurance adequate to establish alternate site processing, as provided for in paragraph 12(A) of this Agreement.
+Label: No
+</example>
+
+<example>
+Clause: This Agreement may not be assigned, sold or transferred without the prior written consent of the other party.
+Label: No
+</example>
+
+<example>
+Clause: TO THE MAXIMUM EXTENT PERMISSIBLE UNDER APPLICABLE LAW, EXCEPT FOR THE WILFUL MISAPPROPRIATION OR INFRINGEMENT OF THE INTELLECTUAL PROPERTY OF A PARTY TO THIS AGREEMENT, OR THE OBLIGATIONS OF THE PARTIES TO THIS AGREEMENT PURSUANT TO SECTION 13, (A) THE LIABILITY OF ANY PARTY TO THIS AGREEMENT, IF ANY, FOR DAMAGES FOR ANY CLAIM OF ANY KIND WHATSOEVER AND REGARDLESS OF THE LEGAL THEORY, WITH REGARD TO THE RIGHTS GRANTED HEREUNDER OR THE SERVICES PERFORMED HEREUNDER, SHALL NOT INCLUDE COMPENSATION, REIMBURSEMENT OR DAMAGES ON ACCOUNT OF THE LOSS OF PRESENT OR PROSPECTIVE PROFITS, EXPENDITURES, DATA, OPPORTUNITY, ANTICIPATED SAVINGS, INVESTMENTS OR COMMITMENTS, WHETHER MADE IN ESTABLISHMENT, DEVELOPMENT OR MAINTENANCE OF REPUTATION OR GOODWILL OR FOR ANY OTHER REASON WHATSOEVER; AND (B) IN NO EVENT SHALL ANY PARTY TO THIS AGREEMENT BE LIABLE TO THE OTHER PARTIES TO THIS AGREEMENT FOR SPECIAL, INDIRECT, CONSEQUENTIAL, INCIDENTAL, PUNITIVE OR CONSEQUENTIAL DAMAGES.
+Label: No
+</example>
+
+Clause: {{text}} Reply with either: Yes, No
+Label:

@@ -1,0 +1,16 @@
+Does the clause describe the choices and control options available to users?
+
+Clause: unsubscribe from a Zacks offer sent by another list vendor,
+Label: Yes
+
+Clause: If you no longer want to receive our newsletter, e-mails or other announcements, you may unsubscribe by selecting "unsubscribe" in your account, writing to us at contact@curse.com
+Label: Yes
+
+Clause: NOTMC also uses Cookies and other technologies such as pixel tags, web beacons and clear GIF files,
+Label: No
+
+Clause: To learn more about the Safe Harbor program, and to view the lynda.com certification, please visit http://www.export.gov/safeharbor.
+Label: No
+
+Clause: {{text}}
+Label:

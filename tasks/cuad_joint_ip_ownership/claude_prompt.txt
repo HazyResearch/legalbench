@@ -1,0 +1,34 @@
+Does the clause provide for joint or shared ownership of intellectual property between the parties to the contract?
+
+<example>
+Clause: CERES and IGER shall use reasonable efforts to avoid any action that might jeopardize the ability of the Parties, individually or jointly as the case may be, to obtain or retain valid/enforceable intellectual rights in JOINT INTELLECTUAL PROPERTY, IGER INTELLECTUAL PROPERTY or CERES INTELLECTUAL PROPERTY.
+Label: Yes
+</example>
+
+<example>
+Clause: Each Party hereby assigns to the other Party a joint equal and undivided interest in and to all Joint Inventions (including Joint Improvements) to effect such joint ownership of such Joint Inventions (including Joint Improvements).
+Label: Yes
+</example>
+
+<example>
+Clause: "Joint Work" means any content, data, URLs, domain names, technology, software, code, user interfaces, "look and feel" or other items which are invented, created, developed or first reduced to practice jointly by the Parties after the Effective Date, are protected or protectable by any Intellectual Property Rights and either: (a) include or incorporate both ACSI Existing Intellectual Property, ACSI Future Intellectual Property and/or ACSI<omitted>Derivative Works, on the one hand, and/or Company Existing Intellectual Property, Company Future Intellectual Property and/or Company Derivative Works, on the other hand; or (b) include or incorporate no ACSI Existing Intellectual Property or ACSI<omitted>Site Functionality or technology, software, code, user interfaces or "look and feel" related thereto or incorporated therein, such items shall be deemed ACSI Derivative Works in their entirety and not Joint Works or Company Intellectual Property.
+Label: Yes
+</example>
+
+<example>
+Clause: Upon and subject to the terms and conditions stated in this Agreement, on the Effective Date, for the consideration described in this Agreement and Eutectix's performance of its other obligations under this Agreement, Liquidmetal grants to Eutectix the right and license to use the following equipment owned by Liquidmetal (the "Licensed Equipment") (i) solely for use on Liquidmetal's behalf, (ii) for Eutectix's own limited use in the production of Liquidmetal Products (as defined below) or Licensed Products (as defined below), (iii) for the continued development of applications utilizing bulk metallic glasses in cooperation between Liquidmetal and Eutectix, and (iv) independently by Eutectix pursuant to the terms of this Agreement: (a) Two (2) Engel e-motion 310/120 injection molding machines, and associated equipment; (b) Two (2) Eontec 300-C Die Casting Machines, and associated equipment; (c) One (1) Flow M21313B Waterjet Machine; (d) Two (2) DMG Mori Milltap 700 CNC machines, and associated consumables and fixtures; (e) Equipment for cut, mount, and polish analysis operations, including: i. One (1) Struers Accutom-10 cut-off machine ii. One (1) Struers Secotom-50 precision cutting machine iii. One (1) Struers Tegramin-30 tabletop grinding machine iv. One (1) Keyence VH X-S550E microscope (f) Equipment required for vibratory deburring operations, including: i. One (1) Rosler R 125 EC-KF rotary vibrator ii. One (1) Rosler R 125 EC rotary vibrator 2<omitted>(g) Equipment required for passivation operations, including: i. One (1) ESMA, Inc. E782C ultrasonic cleaning system (h) One (1) Dry Cooler D455 chill water system; (i) One (1) MTS 810 MTS mechanical testing frame; and (j) Molds and fixtures needed for production of sample parts.
+Label: No
+</example>
+
+<example>
+Clause: Any assignment or agreement or other transaction by Company that fails to be in complete compliance with this Article 3.07 or any other provision of this IP Agreement shall be null and void.
+Label: No
+</example>
+
+<example>
+Clause: Pretzel Time or its designee shall have the right at any time during business hours and without prior notice to Franchisee, to inspect, audit and copy or the right to cause to be inspected, audited and copied, the business records, bookkeeping and accounting records, sales and income tax records and returns and other records of the Franchised Business, including but not limited to, daily cash reports, cash receipts journal and general ledger, cash disbursements journal and weekly payroll register, monthly bank statements and daily deposit slips and cancelled checks; tax returns, supplier invoices, dated cash register tapes, weekly inventories, sales reports, financial statements and tax returns and the books and records of any corporation or partnership which holds the Franchise including the personal financial records and tax returns of the Franchisee during and after the term of the Franchise Agreement.
+Label: No
+</example>
+
+Clause: {{text}} Reply with either: Yes, No
+Label:

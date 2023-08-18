@@ -1,0 +1,16 @@
+Does the clause give a party the right to audit the books, records, or physical locations of the counterparty to ensure compliance with the contract?
+
+Clause: Equidata may audit, at Equidata's expense, the Marketing Affiliate's marketing, practices and activities for the purpose of assuring compliance with this Agreement.
+Label: Yes
+
+Clause: Not more than one (1) audit will be required by any or all of the Participants for any fiscal year.
+Label: Yes
+
+Clause: Subcontractor shall obtain at its own cost and expense and maintain the insurance in full force and effect during the term of the Agreement as required herein.
+Label: No
+
+Clause: Green Cross may grant sublicensees solely for purposes of performing its Development obligations under this Agreement
+Label: No
+
+Clause: {{text}}
+Label:

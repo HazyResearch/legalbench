@@ -1,0 +1,16 @@
+Does the clause give a party the right to audit the books, records, or physical locations of the counterparty to ensure compliance with the contract?
+
+Clause: Any Party keeping and maintaining books, records, vouchers and accounts of costs pursuant to Subparagraphs 19.4, 19.5 and 19.6 of this Agreement shall afford the Parties the right to review at their own expense said books, records, vouchers and accounts of costs in accordance with the audit procedures established by the F&A Subcommittee.
+Label: Yes
+
+Clause: Subject to a written advance notice of thirty (30) calendar days, all relevant records supporting the preparation of the Reports shall be made available during normal business hours for inspection at the expense of Licensor by Licensor or by a selected representative of Licensor for the sole purpose of verifying the Reports and the accuracy of the payments made or due to Licensor under this Agreement.
+Label: Yes
+
+Clause: Except as otherwise provided in Subsection 3(b) below, within [*] calendar days after termination or expiration of the Agreement (or this Attachment 6, in the event of termination in part) for any reason, MSL shall return to IBM all MS Software Image(s) master media and all MS Software Image documentation which has not been placed in a Product package prior to such termination or expiration, and MSL shall provide written notice to IBM signed by a representative certifying that MSL has fulfilled such requirements.
+Label: No
+
+Clause: Products must be ordered in the minimum and/or standard lot size quantities specified in the Price Schedule.
+Label: No
+
+Clause: {{text}}
+Label:

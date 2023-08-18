@@ -15,13 +15,13 @@ Label: Yes
 Clause: Upon termination of the Agreement, Independent Contractor shall redeliver all tangible Confidential Information furnished by the Company.  Except to the extent Independent Contractor is advised in writing by counsel that such action is prohibited by law, Independent Contractor will also destroy all written material, memoranda, notes, and other writings or recordings whatsoever prepared by it based upon, containing, or otherwise reflecting any Confidential Information.  
 Label: No
 
-Clause: The Confidential Information is and shall be considered valuable trade secrets owned exclusively by the Disclosing Party.  The Disclosing Party retains all right, title and interest in the Confidential Information and any reasonably related information which may be subsequently developed, and the Receiving Party waives all rights to the intellectual property and copyright therein in favour of the Disclosing Party. No license is granted to the Receiving Party in relation to any intellectual property rights that attach to or may be embodied in any Confidential Information, or is implied by the conveying of such Confidential Information to the Receiving Party. 
+Clause: The parties will entrust confidential information solely to those employees, consultants and third party companies which are concerned with the processing of the order and which are legally or contractually obligated to secrecy. 
 Label: No
 
-Clause: 7. In the event that the Receiving Party or any of its Representatives are requested pursuant to, or required by, applicable law or regulation or by legal process to disclose any Confidential Information or any other information concerning the Disclosing Party or the Evaluation, unless prohibited by law, the Receiving Party shall provide the Disclosing Party with prompt notice of such request or requirement in order to enable the Disclosing Party  
+Clause: 9.4. This Agreement shall apply without limit of time to all Confidential Information disclosed in connection with the Purpose. 
 Label: No
 
-Clause: The Confidential Information remains at all times the property of the Discloser, and other than as provided in this agreement, no rights in respect of the Confidential Information are granted or conveyed to the Recipient. 
+Clause: Nothing in this agreement shall be construed as granting Recipient any rights of any kinds in the Confidential Information, by license or otherwise. 
 Label: No
 
 Clause: {{text}}

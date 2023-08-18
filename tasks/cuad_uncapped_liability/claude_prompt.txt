@@ -1,0 +1,34 @@
+Does the clause specify that a party’s liability is uncapped upon the breach of its obligation in the contract? This also includes uncap liability for a particular type of breach such as IP infringement or breach of confidentiality obligation
+
+<example>
+Clause: Subject to Clauses 9.1 and 9.2, neither party shall be liable under this Agreement (whether in contract, tort or otherwise) for any: (a) loss of anticipated savings; (b) loss of business opportunity (which for the avoidance of doubt shall not include loss of advertising revenue); (c) loss of or corruption of data; (d) loss or damage resulting from third party claims; or (e) indirect or consequential losses; suffered or incurred by the other party (whether or not such losses were within the contemplation of the parties at the date of this Agreement).
+Label: Yes
+</example>
+
+<example>
+Clause: Accordingly, LBIO shall have available, in addition to any other right or remedy available to it, the right to seek an injunction from a court of competent jurisdiction restraining such a breach (or threatened breach) and to specific performance of any such Section.
+Label: Yes
+</example>
+
+<example>
+Clause: EXCEPT WITH RESPECT TO THE INDEMNIFICATION OBLIGATIONS SET FORTH IN SECTION 9 WITH REGARD TO CLAIMS BY THIRD PARTIES, IN NO EVENT SHALL EITHER PARTY BE LIABLE FOR CONSEQUENTIAL, INDIRECT, INCIDENTAL, SPECIAL, EXEMPLARY, PUNITIVE OR ENHANCED DAMAGES, LOST PROFITS OR REVENUES OR DIMINUTION IN VALUE ARISING OUT OF, RELATING TO, OR IN CONNECTION WITH ANY BREACH OF THIS AGREEMENT OR CLAIM HEREUNDER, REGARDLESS OF (A) WHETHER SUCH DAMAGES WERE FORESEEABLE, (B) WHETHER OR NOT IT WAS ADVISED OF THE POSSIBLITY OF SUCH DAMAGES, AND (C) THE LEGAL OR EQUITABLE THEORY (CONTRACT, TORT OR OTHERWISE) UPON WHICH THE CLAIM IS BASED.
+Label: Yes
+</example>
+
+<example>
+Clause: CytoDyn shall have the right to terminate this Agreement in its entirety upon written notice to Vyera on the occurrence of any of the following:<omitted>(c) Vyera breaches its obligations or covenants under Section 2.6 (Competitive Products);
+Label: No
+</example>
+
+<example>
+Clause: Each party agrees that the sole and exclusive remedy for a breach of the warranties set forth in this Section 12 shall be the indemnification set forth in Section 13 below.
+Label: No
+</example>
+
+<example>
+Clause: VerticalNet hereby grants to LeadersOnline a non- exclusive, non-transferable, royalty-free right and license to link to the VerticalNet Site.
+Label: No
+</example>
+
+Clause: {{text}} Reply with either: Yes, No
+Label:

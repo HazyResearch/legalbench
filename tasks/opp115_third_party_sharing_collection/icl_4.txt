@@ -1,0 +1,16 @@
+Does the clause describe how user information may be shared with or collected by third parties?
+
+Clause: ediaNews may also use the information collected when, in its sole discretion, it believes necessary or appropriate in connection with a sale or transfer of some or all of MediaNews' assets in our Web site.
+Label: Yes
+
+Clause: When we cooperate with financial institutions to offer co-branded products or services to you, such as our co-branded Disney Rewards Visa Card;
+Label: Yes
+
+Clause: going to the settings of your mobile device and reviewing the permissions of each application. You may stop further use of your geo-location by visiting your device's settings for the relevant application.
+Label: No
+
+Clause: e. Exceptions. If you have opted-out as described above, and thereafter you elect to use a service or promotion that requires us to contact you or share your information with a third party (e.g.,you enter into a contest or sweepstakes or use an ecommerce service after opting-out), then your previous opt-out preferences will not apply to such service. Despite your indicated preferences, we may send you service related communications, including notices about your subscription, and we may continue disclosing your information to third parties under the Service Provider Exception, Legal Exceptions, and Acquisition Exception described above.
+Label: No
+
+Clause: {{text}}
+Label:

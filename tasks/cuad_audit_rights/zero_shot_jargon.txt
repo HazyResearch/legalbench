@@ -1,0 +1,4 @@
+Clause: {{text}}
+
+Does the clause give a party the right to audit the books, records, or physical locations of the counterparty to ensure compliance with the contract? Answer "Yes" or "No"
+Answer:

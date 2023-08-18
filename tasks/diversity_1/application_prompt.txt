@@ -1,0 +1,10 @@
+Diversity jurisdiction exists when there is (1) complete diversity between plaintiffs and defendants, and (2) the amount-in-controversy (AiC) is greater than $75k.
+
+Q: Evelyn is from Hawaii. Charlotte is from Hawaii. Evelyn sues Charlotte for negligence for $20,000. Is there diversity jurisdiction?
+A: No. The parties are not diverse because Evelyn and Charlotte are both from Hawaii. The AiC is too small because it is less than $75k. Because the AiC requirement is not met, there is no jurisdiction.
+
+Q: Isabella is from Alaska. Elijah is from Montana. Isabella sues Elijah for patent infringement for $1,522,000. Is there diversity jurisdiction?
+A: Yes. The parties are diverse because Isabella and Elijah are from different states. The AiC is large enough because it is greater than $75k. Because the diversity and AIC requirements are met, there is jurisdiction.
+
+Q: {{text}} Is there diversity jurisdiction? Explain your reasoning step-by-step.
+A:

@@ -1,0 +1,4 @@
+Hearsay is an out-of-court statement introduced to prove the truth of the matter asserted. Determine if the evidence in the following fact patterns is hearsay under the Federal Rules of Evidence.
+
+Q: {{text}} Is there hearsay? Answer "Yes" or "No".
+A:

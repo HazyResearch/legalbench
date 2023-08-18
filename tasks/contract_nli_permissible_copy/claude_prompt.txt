@@ -1,0 +1,44 @@
+Identify if the clause provides that the Receiving Party may create a copy of some Confidential Information in some circumstances.
+
+<example>
+Clause: e. Return of Information. on a Party's request, the other Party shall return all Confidential Information of the requesting Party, except for that portion of such Confidential Information that may be found in analyses prepared by, or for, the returning Party (collectively, "Analyses"), and the returning Party and its Representatives shall not retain any copies of such Confidential Information except the returning Party may retain one copy of the Confidential Information as needed to comply with applicable law and/or returning Party's record retention policies.  
+Label: Yes
+</example>
+
+<example>
+Clause: Disclosing Party may serve written request on Recipient for return or destruction of its Confidential Information at any time up to six (6) months after the termination or expiry of this Agreement and Recipient shall, within thirty (30) days of such request or termination, return to the Disclosing Party (or its designees) or certify as destroyed all Confidential Information, in whatever form, including written or electronically recorded information and all copies thereof (other than copies retained in automatic back-up and archive systems), provided however that Recipient shall be entitled to retain one copy of the Confidential Information with its legal counsel or other appropriate corporate representative to evidence the exchange of information hereunder and in connection with legal or statutory requirements.  
+Label: Yes
+</example>
+
+<example>
+Clause: The Receiving Party shall not make any copies of Confidential Information except as necessary to perform hereunder.  
+Label: Yes
+</example>
+
+<example>
+Clause: Subject to the terms of the NDA the Receiving Party hereby undertakes to the Disclosing Party: d) that it shall not copy or reproduce in any form any of the Confidential Information disclosed to it by the Disclosing Party, except to the extent necessary for the LOA purposes; and 
+Label: Yes
+</example>
+
+<example>
+Clause: I agree that in respect of the Confidential Information received from The Business Partnership I will: Treat it as confidential and make no copies thereof not disclose it to any third party without the prior written consent of The Business Partnership and use it solely for the purpose as agreed between parties 
+Label: No
+</example>
+
+<example>
+Clause: Tangible forms of the CONFIDENTIAL INFORMATION shall not be copied, in whole or in part, without the prior written consent of the DISCLOSING PARTY. 
+Label: No
+</example>
+
+<example>
+Clause: Confidential Information includes, by way of example only, information that the Contractor views, takes notes from, copies (if the State agrees in writing to permit copying), possesses or is otherwise provided access to and use of by the State in relation to the Contract. 2. The Contractor shall not, without the State’s prior written consent, copy, disclose, publish, release, transfer, disseminate, use, or allow access for any purpose or in any form, any Confidential Information except for the sole and exclusive purpose of performing under the Contract.  
+Label: No
+</example>
+
+<example>
+Clause: The Confidential Information must not be copied, reproduced, distributed, stored digitally or by other means, or passed to others at any time other than in accordance with this Confidentiality Agreement or with the prior written consent of Transnet. 
+Label: No
+</example>
+
+Clause: {{text}} Reply with either: Yes, No
+Label:

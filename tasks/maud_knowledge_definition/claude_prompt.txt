@@ -1,0 +1,12 @@
+Instruction: Read the segment of a merger agreement and answer the multiple-choice question by choosing the option that best characterizes the agreement.
+Question: What counts as Knowledge?
+Option A: Actual knowledge
+Option B: Constructive knowledge
+
+<example>
+Merger Agreement: provided, however, that with respect to clause (i) only, no Effect to the extent resulting or arising from any of the following, shall <omitted> be deemed to constitute <omitted> a Company Material Adverse Effect (Pages 87-88)
+Answer: B
+</example>
+
+Merger Agreement: {{text}} Reply with either: Option A, Option B
+Answer:

@@ -3,19 +3,19 @@ Does the clause specify that one party can terminate this contract without cause
 Clause: Microsoft may terminate this Agreement at any time without cause upon [*] ([*]) days prior written notice.
 Label: Yes
 
-Clause: Following the Initial Term, Vericel may, without penalty or prejudice to any other rights or remedies Vericel may have, in its sole discretion terminate or reduce the scope of any individual activities contemplated by this Agreement or any Additional Service or with respect to any Product or terminate this Agreement as a whole with or without cause, upon [***] prior written notice of such termination or reduction (which such written notice may be provided during the Initial Term).
+Clause: This Agreement may be terminated by ArTara upon thirty (30) days prior written notice to University.
 Label: Yes
 
-Clause: The developer will fix any bugs that may come up from the original contract after the 90 days warranty has passed.
-Label: No
-
-Clause: Either party may terminate this Agreement at any time with 30 days written notice.
+Clause: In addition, either you or Nationwide may terminate this Agreement<omitted>for any reason on at least ninety (90) days written notice to the other party.
 Label: Yes
 
-Clause: Endorser also grants to MusclePharm and consents to MusclePharm's editorial use world-wide of Endorser's Name and Appearance in MusclePharm published materials approved by Endorser. For purposes of this Agreement, MusclePharm's editorial use of Endorser's Name and Appearance shall mean a use that does not directly promote, advertise or endorse MusclePharm's business, its Products or Licensed Products. Nothing in this Section 6(c) shall entitle MusclePharm to reduce Endorser's compensation pursuant to Section 7 and Section 8 of this Agreement (including, without limitation, with respect to any renewal Term, if any).
+Clause: NEITHER PARTY SHALL HAVE ANY LIABILITY TO THE OTHER PARTY FOR ANY LOST PROFITS OR SPECIAL, INCIDENTAL, INDIRECT OR CONSEQUENTIAL DAMAGES, EVEN IF SUCH PARTY HAS BEEN ADVISED OF THE POSSIBILITY OF SUCH DAMAGES.
 Label: No
 
-Clause: This Agreement may not be assigned by the Professional under any circumstances.
+Clause: The term of this Agreement shall continue for one (1) year following the Launch Date, unless earlier terminated as provided herein.
+Label: No
+
+Clause: LEA shall not at any time do or cause to be done any act, omission, or thing contesting or in any way impairing or tending to impair any part of T&B's right, title and interest in the Licensed Intellectual Property.
 Label: No
 
 Clause: {{text}}

@@ -1,0 +1,12 @@
+Instruction: Read the segment of a merger agreement and answer the multiple-choice question by choosing the option that best characterizes the agreement.
+Question: What is the wording of the Specific Performance clause regarding the parties’ entitlement in the event of a contractual breach?
+Option A: "entitled to seek" specific performance
+Option B: "entitled to" specific performance
+
+<example>
+Merger Agreement: Section 9.10 Specific Performance. The parties hereto hereby agree that irreparable damage would occur in the event that any provision of this Agreement were not performed in accordance with its specific terms or were otherwise breached, and that money damages or other legal remedies would not be an adequate remedy for any such damages. Accordingly, the parties acknowledge and agree that each party shall be entitled to, in accordance with the provisions of this Agreement, an injunction or injunctions, specific performance or other equitable relief to prevent breaches of this Agreement and/or to enforce specifically the terms and provisions hereof in any court, in addition to any other remedy to which they are entitled at law or in equity (Page 73)
+Answer: B
+</example>
+
+Merger Agreement: {{text}} Reply with either: Option A, Option B
+Answer:

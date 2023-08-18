@@ -1,16 +1,21 @@
 # supply_chain_disclosure_best_practice_certification
 
+### Given a supply chain disclosure, determine if the statement discloses whether the retail seller or manufacturer requires direct suppliers to certify that they comply with labor and anti-trafficking laws.
+---
+
 **Contributor**: Adam Chilton & Galit Sarfaty
 
 **Source**: Adam Chilton & Galit Sarfaty
 
 **License**: [CC by 4.0](https://creativecommons.org/licenses/by/4.0/)
 
-**Task summary**: Determine if a supply chain disclosure mentions whether the retail seller or manufacturer requires direct suppliers to certify that they comply with labor and anti-trafficking laws.
+**Size (samples)**: 386
 
-**Size (samples)**: 393
+**Legal reasoning type**: Interpretation
 
-## Task Description
+**Task type**: Binary classification
+
+## Task description
 
 This is a binary classification task in which the LLM must determine if a supply chain disclosure meets the following coding criteria.
 
@@ -18,6 +23,11 @@ This is a binary classification task in which the LLM must determine if a supply
 Does the above statement disclose whether the retail seller or manufacturer requires direct suppliers to certify that they comply with labor and anti-trafficking laws?
 ```
 
-## Task Construction
+## Task construction
 
 This task was constructed by manually coding supply chain disclosures.
+
+## Data column names
+ 
+ - `answer`: answer to coding
+ - `text`: supply disclosure
