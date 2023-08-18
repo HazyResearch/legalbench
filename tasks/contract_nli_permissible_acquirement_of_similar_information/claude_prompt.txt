@@ -1,0 +1,44 @@
+Identify if the clause provides that the Receiving Party may acquire information similar to Confidential Information from a third party.
+
+<example>
+Clause: The obligations and restrictions imposed by this Agreement will not apply to any information that: c. was received by the Recipient without breach of this Agreement from a third party without restriction as to the use and disclosure of the Discloser's Confidential Information; or, 
+Label: Yes
+</example>
+
+<example>
+Clause: Recipient shall have no obligation of confidentiality with respect to any information which: 5.3. is rightfully acquired from others who did not obtain it under obligation of confidentiality; or Disclosing Party understands that Recipient may develop or have developed information internally, or receive or have received information from other parties that is similar to the Confidential Information.  
+Label: Yes
+</example>
+
+<example>
+Clause: 2. The term Confidential Information shall not include information, which is: (b) rightfully received from a third party with no duty of confidentiality; or 
+Label: Yes
+</example>
+
+<example>
+Clause: Receiver may disclose Confidential Information if the same: (d) becomes known to Receiver on a non-confidential basis from a source other than VIDAR without breach of this Agreement by Receiver; 
+Label: Yes
+</example>
+
+<example>
+Clause: Notwithstanding the return or destruction of the Evaluation Material, each party and its Representatives will continue to be bound by its obligations of confidentiality and other obligations hereunder for a period ending on the second anniversary of the Effective Date. 
+Label: No
+</example>
+
+<example>
+Clause: The obligations accruing prior to termination as set forth herein, shall, however, survive the termination of this Agreement for a period of two years. 
+Label: No
+</example>
+
+<example>
+Clause: 4. The receiving Party hereby covenants that, during the validity period of this Agreement and for a period of five (5) years after its end or its termination, the Proprietary Information received from the disclosing Party shall: (e) neither be copied, nor otherwise reproduced nor duplicated in whole or in part where such copying, reproduction or duplication have not been specifically authorized in writing by the disclosing Party. 
+Label: No
+</example>
+
+<example>
+Clause: Therefore, the parties agree that a) Recipient may disclose Confidential Information to its Subsidiaries without Discloser’s consent, if and to the extent such disclosure is required in order to fulfill the Purpose; and b) a disclosure to or by a party’s respective Subsidiaries shall be considered as disclosure to or by the respective party; and 
+Label: No
+</example>
+
+Clause: {{text}} Reply with either: Yes, No
+Label:

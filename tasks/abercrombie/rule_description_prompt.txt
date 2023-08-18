@@ -1,0 +1,4 @@
+A mark is generic if it is the common name for the product. A mark is descriptive if it describes a purpose, nature, or attribute of the product. A mark is suggestive if it suggests or implies a quality or characteristic of the product. A mark is arbitrary if it is a real English word that has no relation to the product. A mark is fanciful if it is an invented word. Determine the type of each mark (generic, descriptive, suggestive, arbitrary, fanciful) under the Abercrombie factors.
+
+Q: {{text}} What is the type of mark?
+A:

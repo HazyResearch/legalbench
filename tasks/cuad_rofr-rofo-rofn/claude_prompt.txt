@@ -1,0 +1,34 @@
+Does the clause grant one party a right of first refusal, right of first offer or right of first negotiation to purchase, license, market, or distribute equity interest, technology, assets, products or services?
+
+<example>
+Clause: In the event Moelis Holdings proposes to undertake an issuance of Additional Units to which clause (x) of Section 12.2(a) applies, it shall give SMBC written notice of its intention describing the price and terms upon which Moelis Holdings proposes to issue the same.
+Label: Yes
+</example>
+
+<example>
+Clause: Upon termination of this Agreement by Pretzel Time in accordance with its terms and conditions or by Franchisee without cause or upon expiration of this Agreement (unless the franchise has been renewed), Pretzel Time, its Affiliates or its assignee shall have the option (not the obligation), exercisable by giving written notice thereof within sixty (60) days from the date of such expiration or termination, to acquire from Franchisee all the assets in the Unit including the equipment, furnishings, signs, leasehold improvements, usable inventory of Products, materials, supplies and other tangible assets of the Unit and an assignment of the lease for the Unit.
+Label: Yes
+</example>
+
+<example>
+Clause: Any material change in the terms of an offer before closing will make it a new offer, revoking any previous approval or previously made election to purchase and giving us a new right of first refusal effective as of the day we receive formal notice of a material change in the terms.
+Label: Yes
+</example>
+
+<example>
+Clause: This Agreement shall be governed by and construed in accordance with the laws of the Province of British Columbia and the federal laws of Canada applicable therein, excluding its conflict-of-laws rules.
+Label: No
+</example>
+
+<example>
+Clause: In the event of a Supply Failure, Miltenyi shall grant Bellicum's Second-Source Supplier a limited, non-exclusive, non-transferable, one-site production license, without the right to sublicense, under Miltenyi's Intellectual Property Rights solely to the extent reasonably necessary to manufacture the Affected Miltenyi Product for the Permitted Use by Bellicum at Bellicum's cost.
+Label: No
+</example>
+
+<example>
+Clause: In addition, if Neoforma sells Advertising to a third party on the Neoforma Sites independently from VerticalNet and if Neoforma previously rejected Advertising by such party when proposed by VerticalNet pursuant to Section 7.1.3 [ADVERTISEMENTS ON THE NEOFORMA SITE], or terminated without cause a prior agreement with such third party that had resulted from such a proposal by VerticalNet, then Neoforma shall pay [*] of the Net Advertising Revenue resulting from such Advertising during the Term to VerticalNet.
+Label: No
+</example>
+
+Clause: {{text}} Reply with either: Yes, No
+Label:

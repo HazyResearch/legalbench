@@ -1,0 +1,34 @@
+Does the clause specify a  duration of any warranty against defects or errors in technology, products, or services provided under the contract?
+
+<example>
+Clause: Qualigen shall provide to Sekisui and for the benefit of Sekisui's customers of Products a standard commercial written warranty that the Products will be free of defects in materials or workmanship starting from the date the Product has been received by Sekisui's customer and ending after the length of time stated for the applicable Product on Exhibit D hereto (the "User Warranty").
+Label: Yes
+</example>
+
+<example>
+Clause: Supply of drugs/medications and spare parts during and after the warranty period.
+Label: Yes
+</example>
+
+<example>
+Clause: Vendor will provide an initial supply of spare Products and parts as Distributor may reasonably required in accordance with Sections 8 and 10.3 to permit Distributor to offer a six-month warranty on the Products to customers and to enable Distributor to provide a warranty service to customers
+Label: Yes
+</example>
+
+<example>
+Clause: Either Party may terminate this agreement for non-cause with a sixty (60) written notice.
+Label: No
+</example>
+
+<example>
+Clause: Licensor reserves the right to terminate this Agreement immediately upon written notice for any reason, including if the usage of the Brand is not in compliance with the standards and policies.
+Label: No
+</example>
+
+<example>
+Clause: Upon expiration of this Agreement or termination by either party, Power2Ship may sell off any remaining inventory of the Products or Licensed Software acquired prior to termination.
+Label: No
+</example>
+
+Clause: {{text}} Reply with either: Yes, No
+Label:

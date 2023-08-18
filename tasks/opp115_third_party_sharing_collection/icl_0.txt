@@ -1,0 +1,16 @@
+Does the clause describe how user information may be shared with or collected by third parties?
+
+Clause: Barnes & Noble and third party application providers may automatically collect real-time geographic location information or other location-based information about you and your Device or other mobile device on which the App is installed. This information may be used to provide certain device or application functionality or to offer, provide and improve products and services.
+Label: Yes
+
+Clause: In the event RedOrbit, Inc. goes through a business transition, such as a merger, being acquired by another company, or selling a portion of its assets, users' personal information will, in most instances, be part of the assets transferred.
+Label: Yes
+
+Clause: Privacy Policy Last Updated: January 3, 2013 We take seriously your interest in how your information is collected and used. Please read the following to understand about our privacy practices.
+Label: No
+
+Clause: However, we cannot guarantee that unauthorized third parties will never be able to defeat those measures or use your personal information for improper purposes.
+Label: No
+
+Clause: {{text}}
+Label:

@@ -1,5 +1,5 @@
-text	label
-"SUPPLY CHAIN TRANSPARENCY
+index	text	answer
+0	"SUPPLY CHAIN TRANSPARENCY
 
 For many years, 99 Cents Only Stores has had in place a policy against purchasing any merchandise manufactured as a result of human trafficking or slavery and, in fact, as a result of any coercive, abusive, or unlawful practice.
 
@@ -12,7 +12,7 @@ Given the largely closeout nature of much of the Company’s merchandise, its pr
 “It is Purchaser’s policy not to purchase products manufactured using exploitive or unfair labor practices, such as forced labor, abusive labor practices, or child labor. Neither will Purchaser buy merchandise made as a result of any practices that are illegal in the place at which the products being offered are manufactured. By signing or shipping under 99 Cents’ PO, Seller attests to the fact that after a diligent inquiry, Seller has ascertained that no product that is the subject of this Purchase Order has been manufactured using any such forced, involuntary, exploitive, or unfair labor practices.”
 
  Any supplier found to have falsely certified its compliance with the Company’s policy will no longer be used by the Company as one of its vendors. The Company’s buyers are also expected to comply with this policy, although it is not feasible for the Company to maintain a formal accountability program or to provide regular training on these topics to employees and managers operating in these areas, for the same reasons explained above."	Yes
-"California Transparency in Supply Chains Act
+1	"California Transparency in Supply Chains Act
 
  
 
@@ -25,7 +25,7 @@ Abbott’s Supplier Guidelines state our expectations to suppliers conducting bu
  
 
 Employees and contractors assigned to Abbott who fail to abide by Abbott’s Code of Business Conduct may be subject to reprimand or other adverse consequences, up to and including termination of employment or assignment. Abbott provides training to its employees and management who have direct responsibility for supply chain management, regarding human trafficking and slavery, particularly with respect to mitigating risks within the supply chains of products."	Yes
-"California Transparency in Supply Chains Act 
+2	"California Transparency in Supply Chains Act 
 
 Human trafficking and forced labor is a global issue that requires the combined efforts of countries and companies to raise awareness and combat all forms of trafficking. The United Nations defines it as an act of recruiting, transporting, transferring, harboring or receiving a person through a use of force, coercion or other means, for the purpose of exploiting them. Every country is affected by human trafficking, and men, women, and children can fall victim. Abercrombie & Fitch has taken proactive steps to mitigate the risk of human trafficking and forced labor in our supply chain. 
 
@@ -52,7 +52,7 @@ Training and Awareness
 All internal team members and managers directly involved in Supply Chain Management were required to take a training course on human trafficking and slavery that discusses the risks of human trafficking for business, and actions that can be taken to mitigate the risks. We are happy to report that all participants passed the course, and found it to be very informative. 
 
 All of our major vendors were trained on human trafficking in mid-2011, during which they reviewed the clause in our Code of Conduct regarding involuntary (forced) labor and human trafficking. They also discussed how human trafficking is defined so that they understand the different acts, means, and purposes of human trafficking."	Yes
-"In 2010 the California Transparency in Supply Chains Act of 2010 (SB 657) was passed and will go into effect on January 1, 2012. This law requires large retailers and manufacturers who do business in the state of California, and have annual gross worldwide sales of over $100 million U.S. dollars, to be transparent about the efforts they have undergone to eradicate slavery and human trafficking in their supply chain. 
+3	"In 2010 the California Transparency in Supply Chains Act of 2010 (SB 657) was passed and will go into effect on January 1, 2012. This law requires large retailers and manufacturers who do business in the state of California, and have annual gross worldwide sales of over $100 million U.S. dollars, to be transparent about the efforts they have undergone to eradicate slavery and human trafficking in their supply chain. 
 
 Acer is a member of the Electronic Industry Citizenship Coalition (EICC), an alliance of the world’s leading information and communications technology (ICT) companies. The EICC has published the Electronic Industry Code of Conduct (EICC Code) which establishes conduct standards for global ICT companies to improve working and environmental conditions. Acer actively works as part of the EICC to provide safeguards which prohibit supply chain use of slavery and human trafficking. 
 
@@ -77,10 +77,10 @@ Acer requires all direct manufacturing suppliers to sign a Declaration of Compli
 Supply Chain Management Employee Training 
 
 Acer has launched a training program for its employees with manufacturing supply chain responsibility. This training ensures that Acer employees in procurement roles are fully aware of the standards Acer has established for its suppliers to eradicate slavery and human trafficking in the Acer supply chain. The training also provides supply chain management employees with strategies to identify and respond to inappropriate supply chain labor practices. Acer’s supply chain personnel are also made fully aware of the responsibilities imposed on Acer’s suppliers via the EICC Code and the audit program Acer has instituted to ensure supplier compliance with this Code."	Yes
-"AUTODESK INC. STATEMENT ON HUMAN RIGHTS
+4	"AUTODESK INC. STATEMENT ON HUMAN RIGHTS
 
 On January 1, 2012, the California Transparency in Supply Chains Act of 2010 went into effect in California. This law requires retailers and manufacturers to disclose their efforts to eradicate slavery and human trafficking from their supply chains. The law was designed to increase transparency and allow consumers to make more informed decisions. Autodesk is committed to promoting and protecting human rights wherever it does business. Autodesk has adopted a Code of Business Conduct that conveys our values and business conduct expectations. We expect our suppliers and other business partners to comply with all applicable laws and regulations, including those pertaining to the eradication of human trafficking and slavery, and we will continue to work with our suppliers and refine our own requirements and processes to reinforce our commitment to human rights consistent with our culture of ethical behavior, integrity and respect."	No
-"December 21, 2011
+5	"December 21, 2011
 
 Re: California Transparency in Supply Chains Act of 2010, CA CIVIL §1714.43
 
@@ -95,10 +95,10 @@ Daniel D. Ehrlich Attorney
 Daniel D. Ehrlich Corporate Attorney
 
 One Neenah Center P.O. Box 669 Neenah, WI 54957 Direct Dial: (920) 527-7711 Facsimile: (920) 527-5120 E-mail: ddehrlich@bemis.com"	No
-"California Transparency in Supply Chains Act of 2010
+6	"California Transparency in Supply Chains Act of 2010
 
 It is the policy of the Bimbo Bakeries companies to conduct all of their business in an ethical and legal manner. We expect all of our direct suppliers to act consistent with this policy. We communicate this policy to suppliers through our standard terms and conditions applicable to every purchase we make. Each direct supplier represents that all goods supplied are manufactured in accordance with good manufacturing practices and that all goods are furnished in accordance with all applicable federal, state, local and foreign laws, rules, and regulations. Our suppliers also agree to allow us access to their plants and operations to conduct inspections."	No
-"BJ’s Wholesale Club Code of Business Conduct
+7	"BJ’s Wholesale Club Code of Business Conduct
 
 BJ’s Wholesale Club is dedicated to ensuring that its products are manufactured under conditions which reflect our commitment to human rights in the workplace. As a global corporation, we support internationally recognized norms for the safety and well being of the employees who are responsible for the manufacture of our products, and we believe that it is incumbent upon ourselves to ensure that the employees’ working environments around the globe meet or exceed these norms. This policy is intended to implement standards which are fair, reflect marketplace conditions, are appropriate to the variety of cultures and peoples which are an important part of our success as a brand, and encourage self-respect amongst our suppliers’ and vendors’ employees with a sense of pride and accomplishment.
 

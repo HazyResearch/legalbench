@@ -1,0 +1,4 @@
+{{contract}}
+
+Question: {{question}} Reply with either: Yes, No
+Answer:

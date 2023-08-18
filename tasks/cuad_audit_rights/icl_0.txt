@@ -1,0 +1,16 @@
+Does the clause give a party the right to audit the books, records, or physical locations of the counterparty to ensure compliance with the contract?
+
+Clause: AT&T Audits may be conducted once a year (or more frequently if requested by governmental authorities who regulate AT&T's business, if required by applicable Law or if auditors require follow-up access to complete audit inquiries or if an audit uncovers any problems or deficiencies), upon at least ten (10) business days advance notice (unless otherwise mandated by Law) and during business hours. Vendor will cooperate, and will ensure that its Subcontractors cooperate, in the AT&T Audits, and will make the information reasonably required to conduct the AT&T Audits available on a timely basis.
+Label: Yes
+
+Clause: Each party will have the right to engage an independent third party to audit the books and records of the other party relevant to the calculation of Retail Impressions or CNET Sales, upon reasonable notice and during normal business hours, and the other party will provide reasonable cooperation in connection with any such audit.
+Label: Yes
+
+Clause: This Agreement will be construed and interpreted and its performance governed by the laws of the State of New York, without giving effect to its conflict of laws principles.
+Label: No
+
+Clause: Upon termination or expiration of this Agreement, this Agreement and all rights granted hereunder to You shall immediately terminate, and:<omitted>C. You shall take such action as may be necessary to cancel any assumed name or equivalent registrations or listings in telephone or other directories which contain the names or Licensed Marks of AIRSOPURE, and You shall furnish AIRSOPURE with evidence satisfactory to AIRSOPURE of compliance with this obligation within 30 days after termination or expiration of this Agreement.
+Label: No
+
+Clause: {{text}}
+Label:

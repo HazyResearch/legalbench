@@ -1,22 +1,22 @@
 Does the clause require a party not to disparage the counterparty?
 
-Clause: All Parties agree not to disparage or make derogatory comments, verbal or written, regarding the other Party during the Term of the Agreement, and for one year thereafter.
+Clause: Franchisee agrees to refrain from any business or advertising practice which may be injurious to the business of Pretzel Time and the goodwill associated with the Marks and other Pretzel Time Units.
 Label: Yes
 
-Clause: Upon expiration of the Initial Term, this Agreement shall automatically renew for consecutive one (1) year periods, unless terminated by Reseller within sixty (60) days prior to the expiration of the Initial Term or any renewal term, as the case may be (the Initial Term and each renewal term, collectively, the "Term").
-Label: No
-
-Clause: The engagement letters will (unless otherwise agreed) provide that payments would be made to either SMBC/Nikko or Moelis Holdings and SMBC/Nikko and Moelis Holdings will split the fees pursuant to this Agreement.
-Label: No
-
-Clause: Network retains the right at all times during the Term to discontinue its distribution of the Service in its entirety and to terminate this Agreement and all other affiliates' agreements on at least ninety (90) days' prior notice without any liability therefor to Affiliate, other than amounts payable hereunder which accrued prior to such termination, including amounts payable pursuant to Section 6(b) and Exhibit D.
-Label: No
-
-Clause: Each party agrees that, during the Term of this Agreement and for a period of five (5) years thereafter, neither will make written or oral comments regarding the other that are negative, disparaging, tend to bring the other into disrepute or call into question the business acumen, character, honesty or integrity of the other.
+Clause: The Client and Designer both agree not to post on defamatory websites or review websites any negative posts concerning each other, the names of our companies, and our employees.
 Label: Yes
 
-Clause: However, conduct which Company, in its discretion, deems detrimental to Company's image or reputation, shall be grounds for termination of this Agreement, upon reasonable notice and the failure to cure such behavior by Distributor.
+Clause: Each Party covenants that it shall not make, publish or communicate to any person or entity in any online or other public forum any defamatory, misleading or disparaging remarks, comments or statements concerning (a) the other Party or any of its affiliates, or any of such Party's or its affiliates' respective employees, officers, directors, agents, officials, equity holders, investors or sponsors, or (b) any software, products or services of the other Party or any affiliate.
 Label: Yes
+
+Clause: Notwithstanding anything to the contrary, in no event shall the restrictions set forth in this Section 2.3.2 apply to [***].
+Label: No
+
+Clause: This Agreement shall continue in effect for a period of one year from the date of its execution and from year to year thereafter provided such continuance is specifically approved by a majority of the trustees of the Trust who (i) are not "interested persons" of the Trust or any other party to this Agreement, as defined in the 1940 Act, and (ii) have no direct or indirect financial interest in the operation of this Agreement ("Non- Interested Trustees").
+Label: No
+
+Clause: This Agreement shall be governed by and be --------- ---- construed in accordance with the laws of the Province of Ontario, Canada.
+Label: No
 
 Clause: {{text}}
 Label:

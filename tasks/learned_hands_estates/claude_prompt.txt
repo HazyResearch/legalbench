@@ -1,0 +1,34 @@
+Does the post discuss planning for end-of-life, possible incapacitation, and other special circumstances that would prevent a person from making decisions about their own well-being, finances, and property. This includes issues around wills, powers of attorney, advance directives, trusts, guardianships, conservatorships, and other estate issues that people and families deal with?
+
+<example>
+Post: I'm moving out of the US and from what I understand, should have a POA to act on my behalf if needed with regard to banking, taxes, etc. I have a sibling in MI and a friend in FL that I would like to give independent POA. Obviously they can't sign one form at the same time in front of witnesses and a notary. Is it okay if I create two separate forms as long as I reference the other POA on it? Thanks in advance.
+Label: Yes
+</example>
+
+<example>
+Post: My grandfather has dementia and my mom and him set up my mom to be his financial and medical POA. Located in Illinois.  It's been 4 years and my mom has slacked completely. She hasn't done his taxes, some bills have gone unpaid, and last but not least his debit card bounced because she didn't transfer money to it (really confused him and was a bad day).  I'm not sure my mom wants to give up this title but it's at a really bad point. It won't be an easy conversation but something needs to be done.  What are my best / worst case scenarios?  Thanks.
+Label: Yes
+</example>
+
+<example>
+Post: My Grandmother died recently and left her home to my Mother. my grandmother had outstanding Medicaid debts so the state filed a claim on here estate. She only had 900 dollars in her checking account at the time of death and her home is only worth 20 grand max. We tried to file an exemption through my mother's(awful) lawyer. And she was denied her hardship claim. So the state took the 900 dollars and put a 4000 dollar lien against the house.   Now here is the thing. My mom is disabled and on SSI. And simply doesn't have a lot of money. Her benefit payment is less than 1200 a month. And she lives by herself. It was my understanding if the child of any age is disabled of the deceased person they are exempt from that law.   We have tried to get another lawyer to look at things and either they don't want to deal with it now that it is already said and done or don't want to deal with it because of the proximity to my others lawyer(i don't understand this one either). It is a small town.   Is there anywe we can get my mother an exemption after the denial. Or can someone point me in the right direction or what to do?  Also the house is payed off, and the state AG hired a local attorney  to do the Estate recover.
+Label: Yes
+</example>
+
+<example>
+Post: First time renting a house and had a question about this portion:  *Except as provided by law or by a prior written consent of LANDLORD, TENANT shall make every repairs to the premises, including fixing nail holes in the walls or painting dirty walls caused by TENANT, at TENANT’s sole expense during the term of the tenancy. TENANTs are responsible for minor repair up to and including the cost of $60 and a deductible of 30 dollars for each repair when LANDLORD is called. TENANT agrees to pay for all repairs, replacements and maintenance required by TENANT’s misconduct or negligence or that of TENANT’s family, pets, licensees and guests, including but not limited to any damage done by wind or rain caused by leaving windows open and/pr by overflow of water, or stoppage of water pipes, or any other damage to appliances, carpeting or the building in general. At LANDLORD’s option, such charges shall be paid immediately or be regarded as additional rent to be paid no later than the next monthly payment date following such repairs. LANDLORD shall be responsible for replacement of major items, such as roof or water heater degraded through natural wear and tear.*  The first sentence makes it sound like I am on the hook for everything. But then subsequent sentences appear to clarify that I only take care of minor damages up to $60 and the landlord takes care of anything more than that (assuming I didn't cause the damage.)  Just making sure this isn't sneaky wording that means I will pay for everything.  I'm assuming this is a standard part of a rental contract, but my lack of experience wants to make sure.  Thank you!
+Label: No
+</example>
+
+<example>
+Post: Hi r/legaladvice,  I was helping my grandparents organize their finances and 1 item that stuck out was that my grandmother has a credit card exclusively in her name with a balance of about $5K. She has had Alzheimer's for 6 years and a lot of this balance is due to recurring payments/bills that never got cancelled along with the interest that goes to that. At the time she was diagnosed the balance was around $2K or so. We plan on paying this off in some way as this is a valid debt in the grand scheme of things.  I want to point out again that this credit car was only in my grandmother's name - not my grandfather's - until a month ago. A few months prior my grandfather pointed out to the bank that she has had Alzheimer's for 6 years and that the card was in her name exclusively. Shortly after this communication they put the debt on his credit report (it wasn't on there prior).  Is this legal for them to do that? If not, what should we do? I want to complain to the regulators (i.e. OCC, CFPB, and the State Attorney General)- if I say that I will complain about them to regulators if they don't fix this is it blackmail? I haven't had an issue like this before and want to do things the right way here.  Thanks!
+Label: No
+</example>
+
+<example>
+Post: Kind of strange situation. Girl friend and I lived in a small 1br apt. 555/month, cheap for the area for 3 years. Literally our last month the owner sold and changed management companies, giving our deposit to this new person who we would have otherwise no contact with.   Checked out with new manager 5/30 returned keys. Apt was very clean aside from the oven had some burnt stuff inside which was documented.   We've contacted new manager twice regarding our deposit and gotten no where so I looked up the owner using public records and mailed him [this letter via certified mail] (http://i.imgur.com/LgT1Mz7.png) basically asking for 1000 dollars citing **MN statute 504B.178.** It's been over twice the 21 days MN allows, I want to make sure my demands are reasonable.  What are next steps assuming he doesn't respond?
+Label: No
+</example>
+
+Post: {{text}} Reply with either: Yes, No
+Label:

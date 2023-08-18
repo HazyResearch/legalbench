@@ -1,0 +1,53 @@
+Classify if the clause is relevant to answering the question.
+
+<example>
+Clause: We have these third party experts perform regular penetration tests and periodically audit 23andMes security controls.
+Question: do you ever sell my personal information to other companies for marketing purposes?
+Label: Relevant
+</example>
+
+<example>
+Clause: Any research involving your data that has already been performed or published prior to your withdrawal from 23andMe Research will not be reversed, undone, or withdrawn.
+Question: will the information be shared with a 3rd party
+Label: Relevant
+</example>
+
+<example>
+Clause: You may withdraw your consent at any time, however, the withdrawal of your consent will not affect the lawfulness of processing based on consent before its withdrawal.
+Question: is my dna information used in any other way besides what is specified?
+Label: Relevant
+</example>
+
+<example>
+Clause: Sharing outside of the 23andMe Services You may decide to share your Personal Information with friends and/or family members, doctors or other health care professionals, and/or other individuals outside of our Services, including through third party services such as social networks and third party apps that connect to our website and mobile apps through our application programming interface ("API").
+Question: if my genetic data turns out to be unexpected, can my family see it?
+Label: Relevant
+</example>
+
+<example>
+Clause: Account deletion If you no longer wish to participate in our Services, or no longer wish to have your Personal Information be processed, you may delete your 23andMe account and Personal Information within your Account Settings.
+Question: how secure is your website from hackers?
+Label: Irrelevant
+</example>
+
+<example>
+Clause: Consistent with applicable legal requirements, we take commercially reasonable steps to require third parties to adequately safeguard your personal information and only process it in accordance with our instructions;
+Question: what information does the company store about me?
+Label: Irrelevant
+</example>
+
+<example>
+Clause:        the information we collect, how we collect such information and the purposes of our collection;
+Question: this app owner theft any personal details in my mobile (like photos, videos), possibilities are there?
+Label: Irrelevant
+</example>
+
+<example>
+Clause: The person you referred may contact us at privacy@23andme.com to request that we remove this information from our database.
+Question: do you use my data to do medical research
+Label: Irrelevant
+</example>
+
+Clause: {{text}}
+Question: {{question}} Reply with either: Relevant, Irrelevant
+Label:

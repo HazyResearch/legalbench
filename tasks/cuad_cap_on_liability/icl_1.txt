@@ -1,0 +1,16 @@
+Does the clause specify a cap on liability upon the breach of a party’s obligation? This includes time limitation for the counterparty to bring claims or maximum amount for recovery.
+
+Clause: Further, Chase's aggregate liability arising under or with respect to this Agreement or the Affiliate Program shall in no event exceed the total Commissions paid or payable by Chase to Affiliate under this Agreement.
+Label: Yes
+
+Clause: Notwithstanding the provisions of this Section 8(d), the Agent shall not be required to contribute any amount in excess of the amount by which the total price at which the Series A Preferred Stock sold pursuant to this Agreement exceeds the amount of any damages which the Agent has otherwise been required to pay by reason of such untrue or alleged untrue statement or omission or alleged omission.
+Label: Yes
+
+Clause: The Customer shall at all times during the term of this agreement maintain product liability insurance, covering all products sold by the Manufacturer to the Customer and which policy shall name the Manufacturer as Additional Insured.
+Label: No
+
+Clause: HEMISPHERX may perform audits for initial qualification of SCIEN as well as periodic audits and "for cause" audits.
+Label: No
+
+Clause: {{text}}
+Label:

@@ -1,22 +1,22 @@
 Does the clause give a party the right to audit the books, records, or physical locations of the counterparty to ensure compliance with the contract?
 
-Clause: At the request of Harpoon, AbbVie shall permit an independent public accounting firm of nationally recognized standing designated by Harpoon and reasonably acceptable to AbbVie, [***], to audit the books and records maintained pursuant to this Section 6.11 to ensure the accuracy of all reports and payments made hereunder, including any permitted deductions from Net Sales pursuant to Section 1.108.
+Clause: Each Party shall cause any Subsidiary or other Affiliate (including, without limitation, a Subsidiary or other Affiliate of the Online Group or Skype Group, as applicable) to grant to the other Party the audit rights granted hereunder with respect to such other Party.
 Label: Yes
 
-Clause: Upon termination or expiration of this Agreement, Calm (at its sole expense) may engage a third party to audit XSPA's inventory of any and all Product Collateral then on hand at each Store and XSPA shall promptly return or dispose of such inventory as instructed by Calm at Calm's sole expense.
+Clause: We shall have the right at all times to access the information system and to retrieve, analyze, download and use all software, data and files stored or used on the information system.
 Label: Yes
 
-Clause: Impresse agrees to purchase at least $[*] of such Banners and Newsletters in each calendar quarter after the Effective Date until a total of $[*] have been purchased, provided, the total dollar amount purchased by Impresse in any calendar quarter shall not consist of greater than 70% of either Banners or Newsletters.
-Label: No
-
-Clause: Provided that such referred customer is not already a Eutectix customer, Eutectix may accept such customer referral, and in that case hereby agrees to pay Liquidmetal a cash commission based on a percentage of the invoice price of Licensed Products sold by Eutectix or its permitted sublicensees and for which payment was actually received by Eutectix, in addition to the Liquidmetal Royalty.
-Label: No
-
-Clause: NCM shall maintain with financially sound and reputable insurance companies insurance for its business and Equipment in such amounts and against such perils as NCM deems adequate for its business, including the installation services set forth in Section 2.2 herein.
-Label: No
-
-Clause: During the Term of this Agreement, HealthGate shall accommodate one employee or representative of Publishers at HealthGate's office for the purpose of reviewing and understanding the operation of the Site.
+Clause: If an inspection discloses an underpayment to AIRSOPURE of 2% or more of the total amount that should have been paid to AIRSOPURE, You shall, in addition to repayment of such understated amount with interest, reimburse AIRSOPURE for any and all costs and expenses incurred in connection with the inspection or audit (including, without limitation, reasonable accounting and attorneys' fees).
 Label: Yes
+
+Clause: We grant to you, upon the terms and conditions contained in this Agreement, the exclusive right to establish and operate a Franchised Business and a license to use the methods, procedures and products developed by us in the business of selling and servicing Unit Franchises in the territory described on Attachment A attached to this Agreement and incorporated into this Agreement by reference (the "Master Territory").
+Label: No
+
+Clause: During the Term and for a period of [***] thereafter, neither Party shall solicit an employee of the other Party who is or has been involved in the performance or oversight of any of the development activities hereunder to terminate his or her employment and accept employment or work as a consultant with the soliciting Party.
+Label: No
+
+Clause: Notwithstanding the provisions of this Section 7(d), the Remarketing Agent shall not be required to contribute any amount in excess of the total price at which Remarketing Securities distributed in the Remarketing exceed the amount of any damages which the Remarketing Agent has otherwise paid or become liable to pay by reason of any untrue or alleged untrue statement or omission or alleged omission.
+Label: No
 
 Clause: {{text}}
 Label:

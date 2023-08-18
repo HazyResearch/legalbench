@@ -1,0 +1,24 @@
+Do the following opinion excerpts rely on statistical evidence? Answer Yes or No.
+
+<example>
+Excerpt: In her Opposition Brief, Carman points to statistics of the racial composition of Defendants' employees as evidence of discrimination (see Doc. 66 at 8, 29) (alleging that while Erie County is "made up of approximately 12.2% African American individuals," Defendants only employ 4.5% Africans Americans in their "top paid positions"). However, this statistic is not relevant in evaluating Carman's discrimination claims. For statistics to serve as evidence of discriminatory hiring practices, the Sixth Circuit requires a comparison of "the racial composition of the pool of qualified [assistant prosecutor / DJFS director] candidates in the [Erie County] market." Hopkins v. Canton City Bd. of Educ., 477 F. App'x 349, 358 (6th Cir. 2012). Carman's comparison falls short, failing to meaningfully identify the racial composition of the pool of qualified candidates.
+Answer: Yes
+</example>
+
+<example>
+Excerpt: To summarize, in the period covered by the complaint, Infosys employed 46,979 workers in 134,113 roles in the United States. Compared to the relevant labor market, the Infosys workforce was composed of a remarkably disproportionate share of South Asians, and similarly a remarkably disproportionate share of Indians (a slightly narrower group than South Asians). Across the different analyses this report covers, these percentages were approximately 89%, [*27]  versus about 11%-20% in the relevant labor market. Infosys hires were also disproportionately South Asian or Indian to a remarkable degree—approximately 75%, versus approximately 11%-20% of employees in the relevant labor market. The applicants to Infosys were also highly disproportionately South Asian or Indian. Despite an employment share of about 11%-20% South Asian or Indian in the relevant labor market, Infosys' applicants were around 45% South Asian or Indian. And even when it received applicants who were not South Asian or Indian, Infosys was more likely to offer jobs to applicants who were South Asian or Indian. The apparent favorable treatment of South Asians or Indians continued once employment commenced. Promotion rates for South Asian or Indian employees were about 58%, compared to around 21% for non-South Asian or non-Indian employees. Separation rates of non-South Asian or non-Indian employees were much higher—approximately 51% versus 8%—and in particular the rate of company-initiated separations was double for non-South Asians or non-Indians—about 23% versus 11% for South Asians or Indians. Along all of these dimensions I have examined, the statistical evidence is strongly [*28]  consistent with Infosys discriminating against non-South Asians and non-Indians in hiring, recruitment, promotions, and terminations.
+Answer: Yes
+</example>
+
+<example>
+Excerpt: Ms. Hanna completed her undergraduate [**161]  degree in physics at the California Institute of Technology, and her Masters in Physics at the University of Illinois Urbana Champaign. She is currently working towards her Ph.D. as a mechanical engineer at Georgia Institute of Technology, having transferred there from Drexel University. Ms. Hanna described her experience in image analysis and processing, which she explained serves as an important basis for her work analyzing redistricting maps. She described her experience further with data and statistical analysis in general, regression methodology, and multiple computer software languages. She described the purpose of data analytics as reviewing a possibly novel data set in order to discover what is interesting about it.
+Answer: No
+</example>
+
+<example>
+Excerpt: The Court takes this opportunity to comment on one developing distinction regarding the pleading requirements for a discrimination claim under the ADEA—namely, whether a plaintiff in an ADEA case must plead "but-for" causation, or whether she may satisfy the pleading standard by merely providing minimal support for the [**43]  proposition that the defendant was motivated by discriminatory intent. Courts in this District have applied different standards in a number of recent cases. Compare, e.g., Tsismentzoglou v. Milos Estiatorio Inc., No. 18-CV-9664 (RA), 2019 U.S. Dist. LEXIS 90198, 2019 WL 2287902, at *3 (S.D.N.Y. May 29, 2019) (requiring plaintiff to plead "but-for" causation to assert discrimination claim under the ADEA); Downey v. Adloox Inc., 238 F. Supp. 3d 514, 519 (S.D.N.Y. 2017) (same); with Luka, 263 F. Supp. 3d at 484-85 (requiring plaintiff to plead minimal support for the proposition that defendant was motivated by discriminatory intent to assert discrimination claim under the ADEA); Ahmad v. White Plains City Sch. Dist., No. 18-CV-3416 (KMK), 2019 U.S. Dist. LEXIS 118032, 2019 WL 3202747, at *7 (S.D.N.Y. July 16, 2019) (same).
+Answer: No
+</example>
+
+Excerpt: {{text}} Reply with either: Yes, No
+Answer:

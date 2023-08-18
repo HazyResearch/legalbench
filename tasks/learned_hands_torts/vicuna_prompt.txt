@@ -1,0 +1,5 @@
+### Instruction: Does the post discuss problems that one person has with another person (or animal), like when there is a car accident, a dog bite, bullying or possible harassment, or neighbors treating each other badly?
+
+{{text}}
+
+### Assistant:

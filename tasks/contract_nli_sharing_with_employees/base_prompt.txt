@@ -15,13 +15,13 @@ Label: Yes
 Clause: ____________________ , agrees that, in consideration for being shown or told about certain trade secrets or property belonging to Navidec, Incorporated, ____________________, shall not disclose or cause to be disclosed, disseminated or distributed any information concerning said trade secret or property to any person, entity, business or other individual or company without the prior written permission of Navidec, Incorporated. 
 Label: No
 
-Clause: Except  (i) for such public disclosure as may be necessary, in the good faith judgment of the disclosing Party consistent with advice of counsel, for the disclosing Party not to be in violation of any applicable law, regulation or order, or  (ii) with the prior written consent of the order Party, neither Part shall: (x) make any disclosure (and each Party shall direct its Representatives not to make any disclosure) to any person of  (A) the fact that discussions, negotiations or investigations are taking or have taken place concerning a Transaction,  (B) the existence or contents of this Agreement, or the fact that either Party has requested or received Evaluation Material from the other Party, or  (C) any of the terms, conditions or other facts with respect to any proposed Transaction, including the status of the discussions or negotiations related thereto, or (y) make any public statement concerning a proposed Transaction. 
+Clause: "Confidential Information" includes, without limitation, information in tangible or intangible form relating to and/or including released or unreleased Disclosing Party software or hardware products, the marketing or promotion of any Disclosing Party product, Disclosing Party's business policies or practices, and information received from others that Disclosing Party is obligated to treat as confidential.  
 Label: No
 
-Clause: All Confidential Information (including all copies thereof) shall remain the property of Discloser.  All copies shall bear all proprietary markings contained on or in the originals.  No rights or licenses to trademarks, inventions, copyrights, patents or any other intellectual property rights are implied or granted under this Agreement.  
+Clause: Proprietary Information does not include, however, information that  (iv) was independently developed by the Receiving Party or any of its Representatives without reference to the 
 Label: No
 
-Clause: 6. The confidentiality agreement does not apply to statements of the company Helukabel in its catalogues, datasheets and on the homepage and also not to information which a) the receiving party was already aware of or which was developed by the disclosing party itself independent of the disclosure, 
+Clause: 7. Confidential Information shall not include information which is: f. Independently developed by or for the Receiving Party. 
 Label: No
 
 Clause: {{text}}

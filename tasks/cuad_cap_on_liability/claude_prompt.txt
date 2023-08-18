@@ -1,0 +1,34 @@
+Does the clause specify a cap on liability upon the breach of a party’s obligation? This includes time limitation for the counterparty to bring claims or maximum amount for recovery.
+
+<example>
+Clause: i-on will not be liable under any circumstances for any lost profits or other consequential damages, even if i-on has been advised as to the possibility of such damages. i-on's liability for damages to the Customer for any cause whatsoever, regardless of the form of action, and whether in contract or in tort, including negligence, shall be limited to one (1) month's fees and the remaining portion of any prepaid fees.
+Label: Yes
+</example>
+
+<example>
+Clause: To the fullest extent permitted by law, the parties waive and relinquish any claims, demands, causes of action or recoveries for punitive damages, exemplary damages, or statutory damages.
+Label: Yes
+</example>
+
+<example>
+Clause: Except for a Party's gross negligence or intentional acts or omissions and its obligations of indemnity under this Agreement, under no circumstances will either Party be liable to the other Party for [***].
+Label: Yes
+</example>
+
+<example>
+Clause: In the event a Payee's audit shows that the Gross Proceeds or Production Costs of the Payor resulted in an under-payment to the Payee, then the Payor shall have the right, at the Payor's cost, to have its own auditor verify the Payee's audit.
+Label: No
+</example>
+
+<example>
+Clause: In the event DD retains the service of a third party to perform any of DD's obligations hereunder DD shall, prior to commencement of any work by such third party, obtain the third party's written acknowledgement that all work done by such third party shall be deemed "work made for hire" and that the copyright in such material shall rest and remain with MBRK, or secure from such third party written assignment of all right, title and interest in and to the copyright in any material created by such third party.
+Label: No
+</example>
+
+<example>
+Clause: Notwithstanding Section 3.01, Honeywell hereby grants, and agrees to cause the members of the Honeywell Group to hereby grant, to SpinCo and the members of the SpinCo Group, for a period of ten (10) years after the Distribution Date (unless earlier terminated in accordance with Section 3.03(c)), a non-exclusive, royalty-free, fully-paid, non-sublicenseable, non-transferable, worldwide license to use and reproduce the Honeywell Content solely for the SpinCo Group's internal business purposes.
+Label: No
+</example>
+
+Clause: {{text}} Reply with either: Yes, No
+Label:

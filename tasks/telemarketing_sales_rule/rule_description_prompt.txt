@@ -1,0 +1,70 @@
+The Telemarketing Sales Rule is provided as follows.
+
+(a) Prohibited deceptive telemarketing acts or practices. It is a deceptive telemarketing act or practice and a violation of this Rule for any seller or telemarketer to engage in the following conduct:
+
+(1) Before a customer consents to pay 659 for goods or services offered, failing to disclose truthfully, in a clear and conspicuous manner, the following material information:
+
+659 When a seller or telemarketer uses, or directs a customer to use, a courier to transport payment, the seller or telemarketer must make the disclosures required by § 310.3(a)(1) before sending a courier to pick up payment or authorization for payment, or directing a customer to have a courier pick up payment or authorization for payment. In the case of debt relief services, the seller or telemarketer must make the disclosures required by § 310.3(a)(1) before the consumer enrolls in an offered program.
+
+(i) The total costs to purchase, receive, or use, and the quantity of, any goods or services that are the subject of the sales offer; 660
+
+660 For offers of consumer credit products subject to the Truth in Lending Act, 15 U.S.C. 1601 et seq., and Regulation Z, 12 CFR 226, compliance with the disclosure requirements under the Truth in Lending Act and Regulation Z shall constitute compliance with § 310.3(a)(1)(i) of this Rule.
+
+(ii) All material restrictions, limitations, or conditions to purchase, receive, or use the goods or services that are the subject of the sales offer;
+
+(iii) If the seller has a policy of not making refunds, cancellations, exchanges, or repurchases, a statement informing the customer that this is the seller's policy; or, if the seller or telemarketer makes a representation about a refund, cancellation, exchange, or repurchase policy, a statement of all material terms and conditions of such policy;
+
+(iv) In any prize promotion, the odds of being able to receive the prize, and, if the odds are not calculable in advance, the factors used in calculating the odds; that no purchase or payment is required to win a prize or to participate in a prize promotion and that any purchase or payment will not increase the person's chances of winning; and the no-purchase/no-payment method of participating in the prize promotion with either instructions on how to participate or an address or local or toll-free telephone number to which customers may write or call for information on how to participate;
+
+(v) All material costs or conditions to receive or redeem a prize that is the subject of the prize promotion;
+
+(vi) In the sale of any goods or services represented to protect, insure, or otherwise limit a customer's liability in the event of unauthorized use of the customer's credit card, the limits on a cardholder's liability for unauthorized use of a credit card pursuant to 15 U.S.C. 1643;
+
+(vii) If the offer includes a negative option feature, all material terms and conditions of the negative option feature, including, but not limited to, the fact that the customer's account will be charged unless the customer takes an affirmative action to avoid the charge(s), the date(s) the charge(s) will be submitted for payment, and the specific steps the customer must take to avoid the charge(s); and
+
+(viii) In the sale of any debt relief service:
+
+(A) the amount of time necessary to achieve the represented results, and to the extent that the service may include a settlement offer to any of the customer's creditors or debt collectors, the time by which the debt relief service provider will make a bona fide settlement offer to each of them;
+
+(B) to the extent that the service may include a settlement offer to any of the customer's creditors or debt collectors, the amount of money or the percentage of each outstanding debt that the customer must accumulate before the debt relief service provider will make a bona fide settlement offer to each of them;
+
+(C) to the extent that any aspect of the debt relief service relies upon or results in the customer's failure to make timely payments to creditors or debt collectors, that the use of the debt relief service will likely adversely affect the customer's creditworthiness, may result in the customer being subject to collections or sued by creditors or debt collectors, and may increase the amount of money the customer owes due to the accrual of fees and interest; and
+
+(D) to the extent that the debt relief service requests or requires the customer to place funds in an account at an insured financial institution, that the customer owns the funds held in the account, the customer may withdraw from the debt relief service at any time without penalty, and, if the customer withdraws, the customer must receive all funds in the account, other than funds earned by the debt relief service in compliance with § 310.4(a)(5)(i)(A) through (C).
+
+(2) Misrepresenting, directly or by implication, in the sale of goods or services any of the following material information:
+
+(i) The total costs to purchase, receive, or use, and the quantity of, any goods or services that are the subject of a sales offer;
+
+(ii) Any material restriction, limitation, or condition to purchase, receive, or use goods or services that are the subject of a sales offer;
+
+(iii) Any material aspect of the performance, efficacy, nature, or central characteristics of goods or services that are the subject of a sales offer;
+
+(iv) Any material aspect of the nature or terms of the seller's refund, cancellation, exchange, or repurchase policies;
+
+(v) Any material aspect of a prize promotion including, but not limited to, the odds of being able to receive a prize, the nature or value of a prize, or that a purchase or payment is required to win a prize or to participate in a prize promotion;
+
+(vi) Any material aspect of an investment opportunity including, but not limited to, risk, liquidity, earnings potential, or profitability;
+
+(vii) A seller's or telemarketer's affiliation with, or endorsement or sponsorship by, any person or government entity;
+
+(viii) That any customer needs offered goods or services to provide protections a customer already has pursuant to 15 U.S.C. 1643;
+
+(ix) Any material aspect of a negative option feature including, but not limited to, the fact that the customer's account will be charged unless the customer takes an affirmative action to avoid the charge(s), the date(s) the charge(s) will be submitted for payment, and the specific steps the customer must take to avoid the charge(s); or
+
+(x) Any material aspect of any debt relief service, including, but not limited to, the amount of money or the percentage of the debt amount that a customer may save by using such service; the amount of time necessary to achieve the represented results; the amount of money or the percentage of each outstanding debt that the customer must accumulate before the provider of the debt relief service will initiate attempts with the customer's creditors or debt collectors or make a bona fide offer to negotiate, settle, or modify the terms of the customer's debt; the effect of the service on a customer's creditworthiness; the effect of the service on collection efforts of the customer's creditors or debt collectors; the percentage or number of customers who attain the represented results; and whether a debt relief service is offered or provided by a non-profit entity.
+
+Question: Acme Toys is a telemarketer subject to the Telemarketing Sales Rule. Acme Toys told a customer that its frisbees cost $10 each, when in fact the frisbees cost $12 each. The customer agreed to the sale and was charged $12. Is this a violation of the Telemarketing Sales Rule?
+Answer: Yes
+
+Question: Acme Toys is a telemarketer subject to the Telemarketing Sales Rule. Acme Toys told a customer that its frisbees cost $10 each, when in fact the frisbees did cost $10, but Acme Toys did not disclose that shipping would cost an additional $5. The customer agreed to the sale. Is this a violation of the Telemarketing Sales Rule?
+Answer: Yes
+
+Question: Acme Industrial Products is a telemarketer subject to the Telemarketing Sales Rule. Acme Industrial Products told a customer that its brooms cost $12 each, and the brooms did in fact cost $12. The customer agreed to the sale. Is this a violation of the Telemarketing Sales Rule?
+Answer: No
+
+Question: Acme Industrial Products is a telemarketer subject to the Telemarketing Sales Rule. Acme Industrial Products told a customer that it would sell them 4 brooms for $10, and that shipping would be $5. Then, the customer agreed to the sale. Is this a violation of the Telemarketing Sales Rule?
+Answer: No
+
+Question: {{text}}
+Answer:

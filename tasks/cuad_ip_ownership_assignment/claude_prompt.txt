@@ -1,0 +1,34 @@
+Does intellectual property created by one party become the property of the counterparty, either per the terms of the contract or upon the occurrence of certain events?
+
+<example>
+Clause: However, to the extent that any Work may not, by operation of any Laws, be a work made for hire, MD Anderson hereby assigns, transfers and conveys to LBIO all of MD Anderson's worldwide right, title and interest in and to such Work, including all Intellectual Property Rights therein and relating thereto, subject to MD Anderson's right to use such Work for internal research, academic, and non-commercial patient care purposes prior to publication or public disclosure.
+Label: Yes
+</example>
+
+<example>
+Clause: If Parent or SpinCo is unable to obtain, or to cause to be obtained, any such required consent, substitution, approval, amendment or release as set forth in Section 2.4(a) and the applicable member of the Parent Group continues to be bound by such agreement, lease, license or other obligation or Liability (each, an "Unreleased SpinCo IP Liability"), SpinCo shall, to the extent not prohibited by Law, as indemnitor, guarantor, agent or subcontractor for such member of the Parent Group, as the case may be, (i) pay, perform and discharge fully all the obligations or other Liabilities of such member of the Parent Group that constitute Unreleased SpinCo IP Liabilities from and after the Effective Time and (ii) use its commercially reasonable efforts to effect such payment, performance or discharge prior to any demand for such payment, performance or discharge is permitted to be made by the obligee thereunder on any member of the Parent Group.
+Label: Yes
+</example>
+
+<example>
+Clause: The right, title and interest in and to the Company-Skype Branded Content shall be owned by Skype to the extent made up of the Skype Rights which have been integrated into the Company-Skype Branded Content, and by the Online Group to the extent made up of the Group Rights which have been integrated into the Company-Skype Branded Content.
+Label: Yes
+</example>
+
+<example>
+Clause: All sales towards customers for bunker fuel will be carried out exclusively by Bunker One in accordance to the terms set forth herein. As such all communication with customers shall go via Bunker One unless otherwise is specific written agreed in advance.
+Label: No
+</example>
+
+<example>
+Clause: The parties acknowledge and agree that a "Release Condition" for purposes of the Escrow Agreement shall be deemed to mean any one or more of the following listed events (in addition to any other event specified as a release condition under the Escrow Agreement): (i) Ehave makes a general assignment for the benefit of creditors; (ii) Ehave voluntarily institutes any bankruptcy, insolvency, reorganization, moratorium, arrangement, readjustment or debt, dissolution, liquidation or similar proceeding relating to it under the laws of any jurisdiction, or any such proceeding is instituted against Ehave and is not dismissed within sixty (60) Business Days; or any judgment, writ, warrant or attachment or execution of similar process is issued or levied against a substantial part of Ehave's property and remains unsatisfied for sixty (60) Business Days; or Ehave applies for or consents to the appointment of any receiver, trustee or similar officer for it or for all or any substantial part of its property; or such receiver, trustee or similar officer is appointed without the consent of Ehave; (iii) Ehave consents to the filing of a petition of bankruptcy against it; (iv) a petition of bankruptcy is filed against Ehave which is not discharged within sixty (60) days; (v) Ehave becomes or is adjudicated by a court of competent jurisdiction as being bankrupt or insolvent or admits in writing its inability to pay its debts as they mature; Ehave ceases doing business as a going concern; (vi) Ehave undergoes a change of control or is a party to a merger or amalgamation; (vii) Ehave takes steps to dissolve, liquidate, wind up or otherwise terminate its existence; (viii) Ehave has terminated its provision of or ceased to provide the Ehave Companion Solution or support services for a continuing period of fifteen (15) Business Days or more, except pursuant to the termination of this Agreement by Ehave in accordance with its rights contained hrein.
+Label: No
+</example>
+
+<example>
+Clause: Either parties voting stock is transferred to any third party to such extent as to result in a change in effective control of the company or its ownership or active management is changed in any other manner.
+Label: No
+</example>
+
+Clause: {{text}} Reply with either: Yes, No
+Label:

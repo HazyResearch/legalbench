@@ -1,0 +1,16 @@
+Identify if the sentence defines a term.
+
+Sentence: Stare decisis (“to stand by things decided”) is the legal term for fidelity to precedent. Black's Law Dictionary 1696 (11th ed. 2019).
+Label: Yes
+
+Sentence: If the Rule applies only to sworn statements, it does so not because adversarial fairness implies a limitation, but simply because the word 'testimony' refers only to statements made under oath or affirmation. See Black's Law Dictionary 1476 (6th ed. 1990)." at 322.
+Label: Yes
+
+Sentence: Their joint report does not list the Cubic Judgment among the properties “at issue.”
+Label: No
+
+Sentence: Once an immunity waiver is signed, the signatory is unable to assert a Fifth Amendment objection to the subsequent use of his statements in a criminal case, even if his statements were in fact compelled.
+Label: No
+
+Sentence: {{text}}
+Label:

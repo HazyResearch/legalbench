@@ -1,0 +1,44 @@
+Identify if the clause provides that all Confidential Information shall be expressly identified by the Disclosing Party.
+
+<example>
+Clause: Confidential Information - information of whatever kind and in whatever form contained (and includes in particular but without prejudice to the generality of the foregoing, documents, drawings, computerized information, films, tapes, specifications, designs, models, equipment or data of any kind) which is clearly identified by the Disclosing Party as confidential by an appropriate legend or if orally disclosed then upon disclosure or within 30 days of such oral disclosure identified in writing by the Disclosing Party as confidential. 
+Label: Yes
+</example>
+
+<example>
+Clause: When used herein, Confidential Information shall mean any information and data (in electronic form, in hard copy or given verbally) of a confidential or proprietary nature which is disclosed by the Disclosing Party to the Receiving Party, including but not limited to, group corporate strategy and initiatives, customer information, Target information, proprietary technical, financial, personnel and/or commercial information with respect to the Proposed Transaction, Transnet or the Target and any information which is disclosed pursuant to this Agreement and marked “Confidential” by the Disclosing Party.  
+Label: Yes
+</example>
+
+<example>
+Clause: If Confidential Information is in written form, the Disclosing Party shall label or stamp the materials with the word "Confidential" or some similar warning.  If Confidential Information is transmitted orally, the Disclosing Party shall promptly provide writing indicating that such oral communication constituted Confidential Information. 
+Label: Yes
+</example>
+
+<example>
+Clause: (a) “Confidential Information” means any proprietary information that is disclosed in writing by Disclosing Party (defined herein) to Receiving Party (defined herein) and is duly and recognizably marked “Confidential” on each document / sheet.  
+Label: Yes
+</example>
+
+<example>
+Clause: For purposes of this Agreement, "Confidential Information" means any data or information that is proprietary to the Parties and not generally known to the public, whether in tangible or intangible form, whenever and however disclosed, including but not limited to: 
+Label: No
+</example>
+
+<example>
+Clause: The term “Confidential Information” as used herein means all nonpublic information relating to the Subject Matter that is disclosed by either party, its Affiliates (as defined below), or their agents (where applicable, collectively referred to as the “Disclosing Party”), directly or indirectly, in writing, orally or by inspection of premises or tangible objects to the other party (the “Recipient”) that is:  (i) marked confidential or proprietary, or  (ii) given the nature of the information or the circumstances surrounding its disclosure, reasonably should be deemed confidential.  
+Label: No
+</example>
+
+<example>
+Clause: 4. The undertakings in clauses 2 and 3 above apply to all of the information disclosed by the Discloser to the Recipient, regardless of the way or form in which it is disclosed or recorded but they do not apply to: 
+Label: No
+</example>
+
+<example>
+Clause: 1. Disclosure: Recipient agrees not to disclose and the Discloser agrees to let the Recipient have the access to the Confidential Information as identified and reduced in writing or provided verbally or in any other way not reduced in writing at the time of such disclosure of the information. 
+Label: No
+</example>
+
+Clause: {{text}} Reply with either: Yes, No
+Label:

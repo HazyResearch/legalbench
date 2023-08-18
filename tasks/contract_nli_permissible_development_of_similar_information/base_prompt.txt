@@ -12,16 +12,16 @@ Label: Yes
 Clause: Receiver may disclose Confidential Information if the same: (g) is hereafter independently developed by Receiver without the aid, application or use of any Confidential Information; 
 Label: Yes
 
-Clause: (a) "Confidential Information" means nonpublic information that a party to this Agreement ("Disclosing Party") designates as being confidential to the party that receives such information ("Receiving Party") or which, under the circumstances surrounding disclosure ought to be treated as confidential by the Receiving Party.  
+Clause: 5.3 Subject to section 5.4, within 10 days of a written request by the Disclosing Party, the Receiving Party shall, unless otherwise precluded by any legal obligation: (d) retain electronic Confidential Information described in subsection 5.3(c) only for the period it normally maintains such records, which electronic Confidential Information shall remain subject to the provisions of this Agreement until destroyed. 5.4 Notwithstanding anything in section 5.3, the Receiving Party shall not be obliged to return or destroy any derivative materials or reports prepared by the Receiving Party for the Permitted Purpose, which materials and reports shall nonetheless remain subject to the confidentiality obligations in this Agreement. 
 Label: No
 
-Clause: Notwithstanding the foregoing, the Receiving Party may retain data or electronic records containing Proprietary Information or Derivative Materials for the purposes of complying with its record retention policies or as required by applicable law so long as such data or records are not accessible in the ordinary course of business.  
+Clause: All written Confidential Information delivered by one party hereto to the other party pursuant to the Agreement shall be and remain the property of the delivering party, and upon the written request of the delivering party, the receiving party shall  
 Label: No
 
-Clause: Contemplate one or more meetings and various communications that will involve the disclosure by one of the parties [DISCLOSING PARTY] to the other party [RECEIVING PARTY] of technical, business, marketing, planning, pricing and other information and data, in written, oral, electronic, magnetic, photographic and/or other forms, including information and data regarding Internet-based transport solutions  (Collectively CONFIDENTIAL INFORMATION). 
+Clause: c. “Representatives” shall mean as to any Person, its directors, officers, employees, agents and advisors (including, without limitation, financial advisors, attorneys and accountants). a. The Receiving Party shall hold confidential and not disclose to any Person, without the prior written consent of the Disclosing Party, all Confidential Information and any information about the Proposed Transaction, or the terms or conditions or any other facts relating thereto, including, without limitation, the fact that discussions are taking place with respect thereto or the status thereof, or the fact that Confidential Information has been made available to the Receiving Party or its Representatives; provided, however, that the Receiving Party may disclose such Confidential Information to its Representatives who are actively and directly participating in its evaluation of the Proposed Transaction or who otherwise need to know the Confidential Information for the purpose of evaluating the Proposed Transaction; 
 Label: No
 
-Clause: All information learned or developed pursuant to this Agreement shall be "Confidential Information" as defined in this Agreement and shall be the property of State. 
+Clause: Personnel means any and all staﬀ, employees, directors, oﬃcers and professional advisors of a Party 4.1 A Receiving Party shall only disclose or reveal any Conﬁdential Information disclosed to it to those of its Personnel who are required in the course of their duties to receive and consider the same in so far as is necessary to fulﬁl the Purpose. 
 Label: No
 
 Clause: {{text}}

@@ -1,6 +1,6 @@
-label	text
-generic	The mark "Ivory" for a product made of elephant tusks.
-descriptive	The mark "Tasty" for bread.
-suggestive	The mark "Caress" for body soap.
-arbitrary	The mark "Virgin" for wireless communications.
-fanciful	The mark "Aswelly" for a taxi service.
+index	answer	text
+0	generic	"The mark ""Ivory"" for a product made of elephant tusks."
+1	descriptive	"The mark ""Tasty"" for bread."
+2	suggestive	"The mark ""Caress"" for body soap."
+3	arbitrary	"The mark ""Virgin"" for wireless communications."
+4	fanciful	"The mark ""Aswelly"" for a taxi service."

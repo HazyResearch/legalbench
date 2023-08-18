@@ -1,0 +1,16 @@
+Does the clause describe the choices and control options available to users?
+
+Clause: Kaleida Health can do all of these things if you have signed a general written consent form.
+Label: Yes
+
+Clause: doing so will restrict your ability to access some content and use some of the functionality of the sites.
+Label: Yes
+
+Clause: The opt-out will take effect upon your next visit using the same device to Bank of America Sites. Click on
+Label: No
+
+Clause: The Services may also utilize an electronic file called a web beacon to count users who have visited a web page or recognize users by accessing certain cookies.
+Label: No
+
+Clause: {{text}}
+Label:

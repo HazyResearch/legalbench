@@ -1,0 +1,16 @@
+Does the sentence contain language overruling a previous case?
+
+Sentence: accordingly, we now overrule hall v. state, supra, and its progeny, to the extent these cases hold that it is not error for a trial court to refuse to give a requested instruction on accomplice corroboration so long as the state relies in part on other evidence connecting the defendant to the crime.
+Label: Yes
+
+Sentence: the third and fifth district courts of appeal have concluded, consistent with the first district, that miller is not retroactive, while the second and fourth district courts of appeal have held, to the contrary, that it is.
+Label: Yes
+
+Sentence: another court even ruled ""that a man acquitted for stealing the horse hath yet been arraigned and convict for stealing the saddle, tho both were done at the same time."" 2 hale, supra, at 246.
+Label: No
+
+Sentence: on this record, the trial court had no reason to know defendants objected to the limitation imposed by its ruling, and the court had no opportunity to prevent or correct the purported misconduct that defendants assert now on appeal.
+Label: No
+
+Sentence: {{text}}
+Label:

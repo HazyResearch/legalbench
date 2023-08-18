@@ -1,0 +1,17 @@
+Can the case can be used as a citation for the provided text?
+
+<example>
+Text: For hostile-work-environment claims, an employee must show that: "(1) she belongs to a protected class; (2) she was subjected to harassment; (3) the harassment was based on sex; (4) the harassment affected a term, condition, or privilege of employment; and (5) the employer knew or should have known of the harassment and failed to take remedial action."
+Citation: Saketkoo v. Admins. of Tulane Educ. Fund
+Supportive? Yes
+</example>
+
+<example>
+Text: [T]he law is settled that as a general matter the First Amendment prohibits government officials from subjecting an individual to retaliatory actions . . . for speaking out.
+Citation: Feist v. La., Dep't of Justice, Off. of the Att'y Gen.
+Supportive? No
+</example>
+
+Text: {{text}}
+Citation: {{citation}}
+Supportive? Reply with either: Yes, No

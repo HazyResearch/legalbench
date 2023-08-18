@@ -1,0 +1,34 @@
+Does the clause require a party to share revenue or profit with the counterparty for any technology, goods, or services?
+
+<example>
+Clause: If the game package only includes multiple console games: Based on the amount of downloads of the console games, the sharing percentage among all CSPs in the package shall be calculated as follows: Total income of game package * (1 - bad debt rate) * (1 - sharing percentage for fee collection channel) *50% * (number of downloads of such CSP's online game/aggregate number of downloads of all console games contained in the game package)
+Label: Yes
+</example>
+
+<example>
+Clause: Company shall pay to JHU minimum annual royalties as set forth in Exhibit A.
+Label: Yes
+</example>
+
+<example>
+Clause: Within twenty (20) days after the end of each Calendar Quarter , GSK shall pay Theravance royalty payments based on Net Sales in such Calendar Quarter during the Term as follows: On total Annual Worldwide Net Sales up to and including U.S. $3 Billion: 15 % On total Annual Worldwide Net Sales greater than U.S. $3 Billion: 5 % it being understood that Net Sales of a single agent Collaboration Product will be combined with Net Sales of a LABA/ICS Combination Product for purposes of the foregoing royalty calculation.
+Label: Yes
+</example>
+
+<example>
+Clause: MusclePharm shall be responsible to provide for any appearances pursuant to this Agreement by Endorser appropriate certificates of insurance with coverage limits of at least Five Million Dollars (US$5,000,000) per occurrence endorsed to name the AS Parties as additional named insureds with respect to claims arising out of appearances by Endorser.
+Label: No
+</example>
+
+<example>
+Clause: Subject to the terms and conditions set forth herein, World Book hereby grants to HSWI, a perpetual, irrevocable limited license to use, copy, store, archive, distribute, transmit, modify (subject to Section 2.1(iv)), and Display the Content, Images and Affinities in whole or
+Label: No
+</example>
+
+<example>
+Clause: For the avoidance of doubt, if following [ * ] there is a transfer of shareholding or interests in Distributor to any existing or new shareholder(s) which results in any person or persons subsequently gaining Control of Distributor, then Google may exercise its right to terminate in accordance with this clause 5.4.
+Label: No
+</example>
+
+Clause: {{text}} Reply with either: Yes, No
+Label:

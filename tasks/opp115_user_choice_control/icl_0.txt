@@ -1,0 +1,16 @@
+Does the clause describe the choices and control options available to users?
+
+Clause: through the Network Advertising Initiative's Opt-Out Tool or other tools provided by the publishing platform.
+Label: Yes
+
+Clause: To opt-out of NaturalNews emails, simply click the "unsubscribe" link found at the bottom of any email from NaturalNews.
+Label: Yes
+
+Clause: Our security policies are reviewed periodically and revised as required.
+Label: No
+
+Clause: Below you will find answers to the following frequently asked questions about how we collect, use and share your personal information: What is the personal information that we collect? Why do we collect personal information? How do we collect your personal information? How do we use personal information? With whom do we share personal information? How do we secure personal information? How do we respect your choices about your personal information? Whom do I contact if I have questions or concerns? What other information about Barnes & Noble's Privacy Policy would I want to know?
+Label: No
+
+Clause: {{text}}
+Label:

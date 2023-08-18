@@ -21,7 +21,7 @@ Label: No
 Clause: All Confidential Information received from the disclosing party shall be in tangible form.  
 Label: No
 
-Clause: (a) Each of PictureTel and Polycom shall  (i) use the Confidential Information obtained from the other solely for the purpose of evaluating a possible Transaction and for no competitive or other purpose;  
+Clause: 11. Nothing contained in the Agreement shall be construed as granting any rights under any patent, trademark or copyright, by license or otherwise, protecting any Information subject to this Agreement, and that this Agreement does not create a partnership, joint venture or other legal relationship between the Parties.  
 Label: No
 
 Clause: {{text}}

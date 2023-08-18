@@ -1,0 +1,44 @@
+Identify if the clause provides that the Receiving Party may independently develop information similar to Confidential Information.
+
+<example>
+Clause: The obligations and restrictions imposed by this Agreement will not apply to any information that: d. was independently developed by the Recipient without use of the Discloser's Confidential Information; or 
+Label: Yes
+</example>
+
+<example>
+Clause: Recipient shall have no obligation of confidentiality with respect to any information which: 5.4. is independently developed by an employee, agent or consultant of Recipient without reference to the Confidential Information; or Disclosing Party understands that Recipient may develop or have developed information internally, or receive or have received information from other parties that is similar to the Confidential Information.  
+Label: Yes
+</example>
+
+<example>
+Clause: 2. The term Confidential Information shall not include information, which is: (d) independently developed by employees, agents or consultants of the Receiving Party; or 
+Label: Yes
+</example>
+
+<example>
+Clause: Receiver may disclose Confidential Information if the same: (g) is hereafter independently developed by Receiver without the aid, application or use of any Confidential Information; 
+Label: Yes
+</example>
+
+<example>
+Clause: 5.3 Subject to section 5.4, within 10 days of a written request by the Disclosing Party, the Receiving Party shall, unless otherwise precluded by any legal obligation: (d) retain electronic Confidential Information described in subsection 5.3(c) only for the period it normally maintains such records, which electronic Confidential Information shall remain subject to the provisions of this Agreement until destroyed. 5.4 Notwithstanding anything in section 5.3, the Receiving Party shall not be obliged to return or destroy any derivative materials or reports prepared by the Receiving Party for the Permitted Purpose, which materials and reports shall nonetheless remain subject to the confidentiality obligations in this Agreement. 
+Label: No
+</example>
+
+<example>
+Clause: All written Confidential Information delivered by one party hereto to the other party pursuant to the Agreement shall be and remain the property of the delivering party, and upon the written request of the delivering party, the receiving party shall  
+Label: No
+</example>
+
+<example>
+Clause: c. “Representatives” shall mean as to any Person, its directors, officers, employees, agents and advisors (including, without limitation, financial advisors, attorneys and accountants). a. The Receiving Party shall hold confidential and not disclose to any Person, without the prior written consent of the Disclosing Party, all Confidential Information and any information about the Proposed Transaction, or the terms or conditions or any other facts relating thereto, including, without limitation, the fact that discussions are taking place with respect thereto or the status thereof, or the fact that Confidential Information has been made available to the Receiving Party or its Representatives; provided, however, that the Receiving Party may disclose such Confidential Information to its Representatives who are actively and directly participating in its evaluation of the Proposed Transaction or who otherwise need to know the Confidential Information for the purpose of evaluating the Proposed Transaction; 
+Label: No
+</example>
+
+<example>
+Clause: Personnel means any and all staﬀ, employees, directors, oﬃcers and professional advisors of a Party 4.1 A Receiving Party shall only disclose or reveal any Conﬁdential Information disclosed to it to those of its Personnel who are required in the course of their duties to receive and consider the same in so far as is necessary to fulﬁl the Purpose. 
+Label: No
+</example>
+
+Clause: {{text}} Reply with either: Yes, No
+Label:

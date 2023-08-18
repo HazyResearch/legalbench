@@ -1,0 +1,34 @@
+Is a party restricted from contesting the validity of the counterparty’s ownership of intellectual property or otherwise bringing a claim against the counterparty for matters unrelated to the contract?
+
+<example>
+Clause: Company agrees that it will not file, during the Contract Period or afterward, any application for trademark registration or otherwise obtain or attempt to obtain ownership of any trademark or trade name within the Contract Territory or in any other country of the world which consists of the NFLA Identification or any mark, design or logo intended to obtain any rights to the name of the NFLA or to identify products as being endorsed b the NFLA.
+Label: Yes
+</example>
+
+<example>
+Clause: The Parties acknowledge and affirm their respective rights in and to the relevant trademark and related rights subject to this Agreement and neither Party shall directly or indirectly attack, challenge or impair the title and related rights of the other Party during the Interim Period or any time thereafter.
+Label: Yes
+</example>
+
+<example>
+Clause: Allied shall not at any time do, or cause to be done, directly or indirectly any act that may impair or tarnish any part of Newegg's goodwill and reputation in the Newegg Marks and the Newegg Products.
+Label: Yes
+</example>
+
+<example>
+Clause: MusclePharm agrees to preserve and keep accessible and available to the AS Parties all relevant books and records for a period of at least three (3) years following the expiration or termination of the Agreement.
+Label: No
+</example>
+
+<example>
+Clause: D2 may audit such records by engaging an independent public audit firm, approved in advance by Licensee, upon thirty days written notice, provided that (i) no more than one such audit may be made in any twelve month period, (ii) D2 may only audit LICENSEE's records for a particular time period once, and (iii) D2 shall be responsible for ensuring that the auditor executes and abides by LICENSEE's confidentiality agreement.
+Label: No
+</example>
+
+<example>
+Clause: The Auditing Party may cause the Auditor to perform such an audit not more than once in any 12-month period, unless a prior audit within the past two years revealed that the amount owed by the Audited Party to the Auditing Party was underpaid in excess of 8% of the amount owed, in which case an audit may be performed no more frequently than twice in any 12-month period.
+Label: No
+</example>
+
+Clause: {{text}} Reply with either: Yes, No
+Label:

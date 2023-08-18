@@ -1,7 +1,7 @@
-text	label	parties_are_diverse	aic_is_met
-Olivia is from Hawaii. Emma is from North Dakota. Oliver is from Hawaii. Olivia sues Emma and Oliver each for defamation for $2,116,000.	No	False	True
-Amelia is from Washington. Liam is from Washington. Mia is from Utah. Amelia sues Liam and Mia each for wrongful eviction for $8,701,000.	No	False	True
-Harper is from New Jersey. Amelia is from New Jersey. Elijah is from Hawaii. Harper sues Amelia and Elijah each for negligence for $2,026,000.	No	False	True
-Lucas is from Alabama. William is from Iowa. Amelia is from Vermont. Lucas sues William and Amelia each for patent infringement for $1,618,000.	Yes	True	True
-James is from Connecticut. Isabella is from Nevada. William is from Florida. James sues Isabella and William each for trespass for $59,000.	No	True	False
-Ava is from Nevada. Charlotte is from Rhode Island. Olivia is from Nevada. Ava sues Charlotte and Olivia each for copyright infringement for $7,068,000.	No	False	True
+index	text	answer	parties_are_diverse	aic_is_met
+0	Olivia is from Hawaii. Emma is from North Dakota. Oliver is from Hawaii. Olivia sues Emma and Oliver each for defamation for $2,116,000.	No	False	True
+1	Amelia is from Washington. Liam is from Washington. Mia is from Utah. Amelia sues Liam and Mia each for wrongful eviction for $8,701,000.	No	False	True
+2	Harper is from New Jersey. Amelia is from New Jersey. Elijah is from Hawaii. Harper sues Amelia and Elijah each for negligence for $2,026,000.	No	False	True
+3	Lucas is from Alabama. William is from Iowa. Amelia is from Vermont. Lucas sues William and Amelia each for patent infringement for $1,618,000.	Yes	True	True
+4	James is from Connecticut. Isabella is from Nevada. William is from Florida. James sues Isabella and William each for trespass for $59,000.	No	True	False
+5	Ava is from Nevada. Charlotte is from Rhode Island. Olivia is from Nevada. Ava sues Charlotte and Olivia each for copyright infringement for $7,068,000.	No	False	True

@@ -1,0 +1,34 @@
+Does the clause limit the ability of a party to transfer the license being granted to a third party?
+
+<example>
+Clause: Subject to the terms and conditions set forth herein, DSS hereby grants to Developer, and Developer accepts from DSS, for the Term, a non-exclusive, limited, and non-transferable license to install and use the Technology for the sole purpose of developing the Improvements (as defined hereunder) thereto for the benefit of DSS (the "Technology Development Services License").
+Label: Yes
+</example>
+
+<example>
+Clause: Subject to the terms and conditions of this Agreement, the Company hereby grants to Allscripts and its Affiliates a non-exclusive, royalty- free, irrevocable [***] non-transferable (except in accordance with Section 28.4), sublicensable (through multiple levels of sublicensees), fully paid- up right and license under all of the Company's Intellectual Property to use the Company's brands, trademarks, product and service names, logos and slogans (the "Company Marks"), throughout the Territory, solely in connection with the marketing, selling, or provision of the Installed Software and the Subscription Software Services and Merchant Processing Services permitted hereunder or to otherwise fulfill the terms of this Agreement. [***].
+Label: Yes
+</example>
+
+<example>
+Clause: Upon the release of the Source Code to Corio pursuant to Section 12.2 of this Agreement, Corio shall have a royalty-free, nonexclusive, nontransferable, right and license in the Territory to use and modify the Source Code to support and maintain the Software until the expiration or termination of Corio's Customers' End User License Agreements.
+Label: Yes
+</example>
+
+<example>
+Clause: Commercial general liability insurance with the following limits and forms/endorsements: Each Occurrence: $2,000,000 (i) Occurrence form including premises and operations coverage, property damage, liability, personal injury coverage, products and completed operations coverage, and transit. (ii) To the extent of Manufacturer's indemnification obligations, Customer and its Affiliates shall be additional insureds via ISO form CG20101185 or its equivalent.
+Label: No
+</example>
+
+<example>
+Clause: Neither Party shall assign or transfer this Agreement or its rights hereunder without first obtaining the consent of the other, in writing, which consent shall not unreasonably be withheld or delayed.
+Label: No
+</example>
+
+<example>
+Clause: In the event that MusclePharm shall achieve Net Sales (as defined below) of $20 million (the "First Renewal Threshold") in the aggregate during the Third Contract Year, then this Agreement shall automatically be renewed for an additional term of three (3) years (the "First Additional Term") on the same terms and conditions for the Initial Term except that: (i) no additional Stock Compensation (as defined below) shall be issued in connection with the renewal Term, (ii) the Cash Compensation for the First Additional Term shall be as set forth in Section 7 and Exhibit "C" Section (2) attached hereto, (iii) Endorser shall only be obligated to make two (2) Appearances in each Contract Year during the First Additional Term pursuant to Section 4(a)(ii) below and (iv) the marketing budget to promote the Licensed Products shall be $5.0 million during each Contract Year of the First Additional Term (subject to Section 12(b) of this Agreement).
+Label: No
+</example>
+
+Clause: {{text}} Reply with either: Yes, No
+Label:

@@ -1,0 +1,4 @@
+Determine whether there is diversity jurisdiction under US federal law. 
+
+Q: {{text}} Is there diversity jurisdiction? Answer "Yes" or "No".
+A:

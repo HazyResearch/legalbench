@@ -1,0 +1,34 @@
+Does the clause specify a license grant that is irrevocable or perpetual?
+
+<example>
+Clause: If FMI is unable or unwilling to develop and commercialize an Immuno Clinical Study assay or CDx assay resulting from the Immunotherapy Testing Platform Development Program in a given country within the Territory as specified in an R&D Plan for any reason other than a breach of this Agreement by Roche, and on the timeline agreed to in such R&D Plan, then, effective on the end of the timeline specified in such R&D Plan, FMI hereby grants to Roche a non-exclusive, royalty-free, perpetual, and sublicensable license under any intellectual property invented by FMI arising from the Immunotherapy Testing Platform Program or the Immunotherapy Testing Platform Development that is necessary for Roche to develop and commercialize such tests in such country in the Territory.
+Label: Yes
+</example>
+
+<example>
+Clause: Supplier hereby grants Bank of America a nonexclusive, worldwide, irrevocable, perpetual license to: (a) any patents related to or necessary or desirable to use the Software to the extent such patents are now held, licensed to or hereafter acquired by Supplier, for the purpose of allowing Bank of America and its Affiliates and permitted assigns to install, copy, use, execute, modify, distribute (as necessary or useful for Bank of America and its Affiliates and permitted assigns to enjoy their rights as set forth in the Agreement), make, have made, enhance, improve and alter the Software (both in Object Code and Source Code form) as necessary to conduct Bank of America business in accordance with the terms and restrictions or this Section; (b) any Copyrights now held, licensed to or hereafter acquired by Supplier in the Software for the purpose of allowing Bank of America and its Affiliates an permitted assigns to install, copy, use, execute, modify, distribute (as necessary or useful for Bank of America and its Affiliates and permitted assigns to enjoy their fights as set forth In the Agreement, produce derivative works from and<omitted>display such Software (both in Object Code and Source Code for ); any (c) other Intellectual Property Rights or Supplier in the Software as are necessary or useful for Bank of America, its Affiliates and permitted assigns to install, copy, use, execute, modify, distribute, enhance, improve and alter and copy the Software (both in Object Code and Source Code form) for the purpose of conducting Bank of America business in accordance with the terms and restrictions of this Section.
+Label: Yes
+</example>
+
+<example>
+Clause: RemainCo shall have, and SpinCo hereby grants to RemainCo, an unlimited, non-exclusive, perpetual, irrevocable, royalty free, worldwide right and license to use the content contained in the Steam Book, including the current edition and any past edition and any future edition to which RemainCo makes a contribution, for any purpose, including, without limitation, to reproduce, publicly display, modify, make derivative works, distribute, publicly perform and distribute for RemainCo's internal business purposes, including in connection with customer related activities, provided, however, that RemainCo shall (i) not use any non-nuclear content contained in the Steam Book in connection with publishing or distributing a publication which competes with the Steam Book and (ii) provide attribution and accreditation using a copyright notice having the format required by law in connection with the use of any protectable expression of the non-nuclear content contained in the Steam Book
+Label: Yes
+</example>
+
+<example>
+Clause: Said examination shall be at WLI's sole cost and expense during normal business hours and upon reasonable notice, and may not be conducted more than once annually; provided, however, -------- ------- that if such audit reveals an underpayment by Power2Ship of more than 10% for the period audited, Power2Ship shall pay WLI's actual costs and expenses for performing such audit.
+Label: No
+</example>
+
+<example>
+Clause: Airspan shall not be liable to Distributor on account of termination or expiration of this Agreement for reimbursement or damages for loss of goodwill, prospective profits, or anticipated orders, or on account of any expenditures, investments, leases, or commitments made by either party, or for any other reason whatsoever based upon or growing out of such termination or expiration.
+Label: No
+</example>
+
+<example>
+Clause: For the avoidance of doubt, it is recorded that SAP AFRICA will not be liable under this AGREEMENT for: 11. 3. 1 the MODIFICATION or improvement of the SOFTWARE by TELKOM to fit the particular requirements of TELKOM; or 11. 3. 2 the correction of any data errors resulting from MODIFICATIONS or EXTENSIONS by TELKOM or its agents; or 11. 3. 3 the correction of any data errors as a result of misuse of the SOFTWARE by TELKOM or its agents; or 11. 3. 4 preparation or conversion of data by TELKOM into the form required for use with the SOFTWARE.
+Label: No
+</example>
+
+Clause: {{text}} Reply with either: Yes, No
+Label:

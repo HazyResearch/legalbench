@@ -1,0 +1,44 @@
+Identify if the clause provides that the Receiving Party shall notify Disclosing Party in case Receiving Party is required by law, regulation or judicial process to disclose any Confidential Information.
+
+<example>
+Clause: a. The Recipient may disclose Confidential Information pursuant to any governmental, judicial, or administrative order, subpoena, discovery request, regulatory request or similar method, provided that the Recipient promptly notifies, to the extent practicable. 
+Label: Yes
+</example>
+
+<example>
+Clause: If Recipient is requested, ordered or required by a regulatory agency or any other government authority or a court to disclose any Confidential Information, Recipient shall promptly notify Disclosing Party of such request, order or requirement so that Disclosing Party may have the opportunity to contest the disclosure, including seeking a protective order, or waive Recipient’s compliance with this Agreement.  
+Label: Yes
+</example>
+
+<example>
+Clause: In the event that the Disclosee or any of its Representatives becomes legally compelled to disclose any of the Confidential Information to a regulatory authority or to any other entity or third party, the Disclosee shall immediately notify the Sellers before disclosing such Confidential Information, so that the Sellers may seek a protective order or other appropriate remedy, without prejudice to the Disclosee’s remedies under this Agreement. 
+Label: Yes
+</example>
+
+<example>
+Clause: 4.1. Notwithstanding clause 3.1 of this Agreement, the Receiving Party may disclose the Confidential Information: b) as may be required by an order of any court of competent jurisdiction or governmental body in which case the Receiving Party shall, to the extent permitted by law, use reasonable endeavours to provide the Disclosing Party with prompt written notice of any such requirement prior to any disclosure so that the Disclosing Party may seek a protection order or other appropriate remedy.  
+Label: Yes
+</example>
+
+<example>
+Clause: The Receiving Party shall provide attested certification from an authorized representative confirming such return and destruction "provided however, Receiving Party may retain one (1) copy of such documentation in its secure legal files for the sole purpose of administering its obligations under this agreement, as well as copies of electronically exchanged Confidential Information that are made as a matter of routine information technology back-up, which copies shall continue to be kept confidential in accordance with the terms and conditions of this Agreement." 
+Label: No
+</example>
+
+<example>
+Clause: 2.1. A Receiving Party agrees: 2.1.1. to keep the Confidential Information of the other strictly confidential and not copy, supply or make the same available to any person other than as permitted in Clauses 2.1.2 and 2.1.3 below; 
+Label: No
+</example>
+
+<example>
+Clause: 2. Neither party has any obligation with respect to any Conﬁdential Information which  (c) is disclosed to it by a third person who is not required to maintain its conﬁdentiality;  
+Label: No
+</example>
+
+<example>
+Clause: "Confidential Information" of a disclosing party ("Discloser") means the following, regardless of its form and including copies made by the receiving party ("Recipient"), whether the Recipient becomes aware of it before or after the date of this Agreement:  disclosed by the Discloser to the Recipient or of which the Recipient becomes aware, including but not limited to, the information specified in Schedule 1; Neither party may make any public announcement or press release concerning the purpose or this agreement without the prior written consent of the other party.  the fact that the parties are discussing a Project or Opportunity;  the status of the Project or Opportunity; and  the fact that the parties have made information available to each other and are inspecting or evaluating that information; 
+Label: No
+</example>
+
+Clause: {{text}} Reply with either: Yes, No
+Label:

@@ -1,7 +1,0 @@
-Instruction: Read the segment of a merger agreement and answer the multiple-choice question by choosing the option that best characterizes the agreement.
-Question: Does the Material Adverse Effect (MAE) clause apply to subsidiaries of the Target?
-Option Option A: Yes. Target and subsidiaries are "taken as a whole."
-Option Option B: No
-
-Merger Agreement: {{text}}
-Answer:

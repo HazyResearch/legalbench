@@ -1,0 +1,34 @@
+Does the clause contain a license granted by one party to its counterparty?
+
+<example>
+Clause: If FMI is unable or unwilling to develop and commercialize an Immuno Clinical Study assay or CDx assay resulting from the Immunotherapy Testing Platform Development Program in a given country within the Territory as specified in an R&D Plan for any reason other than a breach of this Agreement by Roche, and on the timeline agreed to in such R&D Plan, then, effective on the end of the timeline specified in such R&D Plan, FMI hereby grants to Roche a non-exclusive, royalty-free, perpetual, and sublicensable license under any intellectual property invented by FMI arising from the Immunotherapy Testing Platform Program or the Immunotherapy Testing Platform Development that is necessary for Roche to develop and commercialize such tests in such country in the Territory.
+Label: Yes
+</example>
+
+<example>
+Clause: Subject to the restrictions set out in Section 2.2, ENERGOUS hereby grants to DIALOG a non-exclusive (subject to Section 2.5), irrevocable, worldwide, sub-licensable (solely in accordance with Section 2.4), royalty-bearing license during the Term under all Product IP to: (a) repackage or have repackaged the Product Die into various package formats or layouts, and to integrate the Product Die into MCMs, which may incorporate DIALOG or third party intellectual property (such repackaged Product Die, MCMs and Products, are individually and/or collectively referred to as the "Licensed Products"); (b) have the Licensed Products manufactured, tested and packaged by Manufacturing Subcontractors; (c) Sell, offer for Sale, import, export and support the Licensed Products, including without limitation, providing system design, troubleshooting and failure analysis support for DIALOG's customers and their customers; (d) use and modify the Tooling and Documentation for the purposes of paragraphs (a) to (d) of this Section 2.1.
+Label: Yes
+</example>
+
+<example>
+Clause: Subject to this Section 4.8 and to applicable Legal Requirements, Depomed shall have the right to use Depomed Trademarks, and include the name "Depomed," "AcuForm," or any variation thereof on the Promotional Materials developed by Depomed in accordance with this Agreement.
+Label: Yes
+</example>
+
+<example>
+Clause: SFJ shall use commercially reasonable efforts to obtain from each Third Party contractor that SFJ or its Affiliate proposes to engage to conduct activities under or in connection with this Agreement on behalf of SFJ or its Affiliates (i) an assignment, (ii) an exclusive, worldwide, royalty-free, fully-paid, freely-assignable license, with the right to sublicense through multiple tiers, or (iii) a non‑exclusive, worldwide, royalty-free, fully-paid, freely-assignable license, with the right to sublicense through multiple tiers ((i) through (iii) in order of preference), to PB of any Trial Invention that such Third Party contractor conceives, discovers, develops or otherwise makes in connection with activities conducted relating to this Agreement.
+Label: No
+</example>
+
+<example>
+Clause: The independent certified public accounting firm will be provided access to the Books and Records of the Audited Party, and such examination will be conducted during the Audited Party's normal business hours.
+Label: No
+</example>
+
+<example>
+Clause: Either Party may terminate this Agreement hereunder for any reason at its convenience upon one hundred eighty (180) days prior written notice.
+Label: No
+</example>
+
+Clause: {{text}} Reply with either: Yes, No
+Label:

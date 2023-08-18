@@ -1,0 +1,4 @@
+{{text}}
+
+Question: Does the above disclosure meet the following criteria: Does the above statement disclose whether the retail seller or manufacturer  performs any type of audit, or reserves the right to audit? Reply with either: Yes, No
+Answer:

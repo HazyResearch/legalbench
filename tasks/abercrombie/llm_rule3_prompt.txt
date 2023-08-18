@@ -1,0 +1,27 @@
+1. Fanciful Marks: Fanciful marks are words or symbols that have been created specifically for use as trademarks. They do not have existing meaning or any association with the product or service they represent, but rather represent a totally made-up concept. 
+
+2. Arbitrary Marks: Arbitrary marks are distinct words or symbols that have existing, commonly-understood meanings, but are nonetheless used to represent a product or service to which they have no logical relationship. 
+
+3. Suggestive Marks: Suggestive marks are words or symbols that indirectly suggest features or qualities of a product or service, requiring the consumer to use imagination, thought, or perception to associate the mark with the underlying product or service. 
+
+4. Descriptive Marks: Descriptive marks are words or symbols defining or describing a specific feature, ingredient, or quality of a product or service. They serve a communicative function, usually with no imagination or thought required to connect the mark to the underlying product or service. 
+
+5. Generic Marks: Generic marks refer to a product or service not associated with any specific brand, but with the product or service itself. Generic marks are not capable of trademark protection.
+
+Q: The mark "Ivory" for a product made of elephant tusks. What is the type of mark?
+A: generic
+
+Q: The mark "Tasty" for bread. What is the type of mark?
+A: descriptive
+
+Q: The mark "Caress" for body soap. What is the type of mark?
+A: suggestive
+
+Q: The mark "Virgin" for wireless communications. What is the type of mark?
+A: arbitrary
+
+Q: The mark "Aswelly" for a taxi service. What is the type of mark?
+A: fanciful
+
+Q: {{text}} What is the type of mark?
+A:

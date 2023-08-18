@@ -1,0 +1,4 @@
+There is personal jurisdiction over a defendant in the state where the defendant is domiciled, or when (1) the defendant has sufficient contacts with the state, such that they have availed itself of the privileges of the state and (2) the claim arises out of the nexus of the defendant's contacts with the state. Determine whether a court may exercise personal jurisdiction over the defendant in the below fact patterns.
+
+Q: {{text}} Is there personal jurisdiction? Answer "Yes" or "No".
+A:

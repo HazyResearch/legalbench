@@ -1,0 +1,34 @@
+Does the post discuss problems that one person has with another person (or animal), like when there is a car accident, a dog bite, bullying or possible harassment, or neighbors treating each other badly?
+
+<example>
+Post: My roommate and I were feeling unwell in our basement apartment for a long time. We discovered a drier was exhausting directly into our unit. We asked the landlord to fix it, but he did, and ever since then it has gotten way worse. There's a chemical smell in the air and staying in the apt more than ~15 mins causes extreme fatigue, loss of focus, sinuses closing up, and chest tightness (Whatever it is isn't triggering the CO2 or natural gas alarm)    Landlord agreed to terminate our lease and let us keep our stuff in there unpaid for the first few weeks but now he wants us to set a move out date and pack up. But I feel really bad when I stay in here. The last time I went in to get my stuff I fell asleep suddenly and woke up 2 hours later with a nosebleed and difficulty breathing.    Landlord refuses to hire an indoor air quality inspector and says he plans on sealing off the whole basement and no longer renting it. I called the housing inspector but he said he only inspects whole houses, not just the basement... so I would need to go through my landlord... what do I do?
+Label: Yes
+</example>
+
+<example>
+Post: Had a bad interaction with an employee. Attempted to 1 star review the company saying that some staff are not very welcoming to new community members. It was replied to by the owner who explained I have been trying to contact most of his employees outside of work hours for things not related to work(turns out this part was true, but he left out the part that I had no idea they worked there, and they it was through either dating apps or fetlife). I replied to defend myself from the accusation and the review was deleted. I bough a bunch of dislikes because im petty and it was cheap, how much if any trouble can I get in
+Label: Yes
+</example>
+
+<example>
+Post: Hi everybody, I'm in need of some advice/guidance. I'm about to release an app, which is basically based on seeing people in your area (through an interactive map) and then being able to message them and ultimately meet up. Unfortunately, that can obviously lead to somebody getting hurt or robbed. My question is, would I be considered liable or get into any kind of trouble if that did happen (seeing as how they used my app)? And, if so, is there any way I can protect myself from that? Sorry if that sounds unethical or something  I'm in Houston, TX, btw
+Label: Yes
+</example>
+
+<example>
+Post: I've been honorably discharged from the military. Under the military clause in my lease it says that with proof of orders (in this case, it's "separation orders") and rent for 30 days I am able to break my lease. Because I have separation orders rather than transfer orders am I still obligated to pay the lease breaking penalty?
+Label: No
+</example>
+
+<example>
+Post: My mom rented out the 1st-floor apartment to my uncle. He moved his girlfriend in and now they have a rodent infestation. They have complained to my mom about it. She calls the exterminators and the girlfriend won't let them in. The girlfriend takes their traps from them at the door and sends them away. The rodent problem is still there. My uncle is upset but won't stand up to the girlfriend. My Aunt's family lives on the second floor and is completely frustrated. More recently we had an offer for free upgrades to the home and this same girlfriend won't allow anyone in to take measurements. What legal steps can we take to save this house from falling apart?
+Label: No
+</example>
+
+<example>
+Post: Hey guys. The title pretty much sums it up. Here's the situation:   Smoking of any sort is not allowed in my apartment, so I smoke in my car. I don't smoke much, so I'll have a single puff in my car for about 5-7 minutes, then go back inside. We have street parking on public roads. Anyway, I guess someone complained, because then my landlord shows up from out of nowhere, and approached me in my car.   Now, where I live, weed has basically been decriminalized. At least, when you get caught with it in small amounts (all I ever carry is maybe 1g) you get something like a $100 ticket.   Anyway, my landlord approaches me, and tells me to get out of the car like he's some sort of cop. I do, and greet him. He says, "I can have you evicted for this." I say, "for smoking weed?" and he says, "yes, the lease prohibits it." I say, "the lease prohibits smoking inside of the apartment." He says, "we'll see about that," and drives off.   He then sends me an email saying, "tomorrow I will be serving you with a notice to vacate for violating the lease."   My lease does not end until October. How is this going to play out for me?
+Label: No
+</example>
+
+Post: {{text}} Reply with either: Yes, No
+Label:

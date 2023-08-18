@@ -1,0 +1,44 @@
+Imagine your are the New York State Unified Court System Advisory Committee on Judicial Ethics. You've received the following question(s). Answer them as either "Yes" or "No".
+
+<example>
+Question: If a judge reports an attorney for a substantial violation of the Rules of Professional Conduct, can the judge continue to preside over matters involving that attorney during the disciplinary proceeding and within two years after it concludes?
+Answer: No
+</example>
+
+<example>
+Question: Does a village justice need to disqualify themselves when a law firm employing the court clerk's non-lawyer child as a paralegal appears in their court?
+Answer: No
+</example>
+
+<example>
+Question: Is a judge required to disclose their former employment relationship when appointing their former law clerk as a referee, assuming the law clerk is otherwise qualified?
+Answer: No
+</example>
+
+<example>
+Question: Is it prohibited for a part-time judge who practices law to apply for certificates of occupancy and building permits on behalf of clients in the village where they preside, even if the application is ministerial?
+Answer: No
+</example>
+
+<example>
+Question: Can a judge appear monthly on a local television news broadcast to answer questions about a predetermined topic relating to the criminal justice system, subject to certain limitations?
+Answer: Yes
+</example>
+
+<example>
+Question: Is a judge required to report an attorney to the appropriate Appellate Division of the Supreme Court for disciplinary action if the attorney is not in compliance with Judiciary Law §468-a?
+Answer: Yes
+</example>
+
+<example>
+Question: Is a judge required to take appropriate action when a nonresident attorney fails to maintain a physical law office or an actual mailing address in New York State as required by Judiciary Law §470?
+Answer: Yes
+</example>
+
+<example>
+Question: Can a judge appoint a qualified former law clerk to Part 36 positions, except where the case was pending before the judge during the law clerk's term of employment?
+Answer: Yes
+</example>
+
+Question: {{question}} Reply with either: Yes, No
+Answer:

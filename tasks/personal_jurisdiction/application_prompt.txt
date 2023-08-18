@@ -1,0 +1,16 @@
+There is personal jurisdiction over a defendant in the state where the defendant is domiciled, or when (1) the defendant has sufficient contacts with the state, such that they have availed itself of the privileges of the state and (2) the claim arises out of the nexus of the defendant's contacts with the state.
+
+Q: Dustin is a repairman who lives in Arizona and repairs computers in California, Oregon, and Washington. While traveling to repair a computer in Washington, Dustin is involved in a car crash in Oregon with Laura, a citizen of Oregon. After the accident, Dustin returns to Arizona. Laura sues him in Arizona. Is there personal jurisdiction?
+A: Yes
+
+Q: Tony (from Texas) is a regional manager for a cookbook company, Tasty Eats Books (incorporated and principal place of business in Delaware). Tony’s job requires him to travel from city to city to show new cookbooks to chefs. In January 2022, he was scheduled to visit restaurants in Illinois, Indiana, and Michigan (for the first time!). While in Michigan, Tony goes to Lake Erie to blow off some steam. He ends up getting into a fight with Arthur, a lawyer from Detroit, Michigan. Tony and Arthur each blame the other for starting the fight. Tony sues Arthur in Indiana. Is there personal jurisdiction?
+A: No
+
+Q: Martha makes special pinwheel hats in her home in Salem, Oregon. However, she maintains an extensive online presence, and markets her goods to citizens of all 50 states. Alex, a citizen of Maine, purchases one of the hats. The pinwheel comes off and seriously cuts Alex. Alex sues Martha for damages in Texas. Is there personal jurisdiction?
+A: No
+
+Q: Ana is a lawyer who resides in Texas. David, who runs a bike shop in Louisiana, emails Ana and tells her how great his bikes are. While visiting Louisiana, Ana buys a bike from David and rides it back home. Right after she crosses the border, the bike seat explodes, injuring Ana. Ana then sues David in Texas. Is there personal jurisdiction?
+A: Yes
+
+Q: {{text}} Is there personal jurisdiction? Explain your reasoning step-by-step.
+A:

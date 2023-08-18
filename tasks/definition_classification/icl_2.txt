@@ -1,0 +1,16 @@
+Identify if the sentence defines a term.
+
+Sentence: To “define” is “to decide upon,” 4 Oxford English Dictionary 383 (2d ed. 1989), or “to settle” or “to establish or prescribe authoritatively,” Black's Law Dictionary 380 (5th ed.1979). 
+Label: Yes
+
+Sentence: "The plain language of the statute supports this straightforward approach." . The word “describe” means to “express,” “portray,” or “represent.” See Black's Law Dictionary 445 (6th ed. 1990); Webster's Third New International Dictionary 610 (1986). A description may be “detailed” or it may be general, setting forth only the “recognizable features, or characteristic marks,” of the thing described while leaving the rest to the imagination. 4 Oxford English Dictionary 512 (2d ed. 1989).
+Label: Yes
+
+Sentence: Section 523(a)(8) renders student loan debt presumptively nondisehargeable “unless” a determination of undue hardship is made.
+Label: No
+
+Sentence: Like the earlier practice with regard to common-law copyright claims for damages, actions seeking damages under the Statute of Anne were tried in courts of law.
+Label: No
+
+Sentence: {{text}}
+Label:

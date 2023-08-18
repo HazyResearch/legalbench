@@ -1,0 +1,29 @@
+A private right of action is when a regular person, a private citizen, is legally entitled to enforce their rights under a given statute. Does the clause specify a private right of action?
+
+<example>
+Clause: Amendments to pleadings must be filed within 15 days of the filing of the initial pleading.
+A: No
+</example>
+
+<example>
+Clause: A person who discloses genetic information in violation of this section is liable for a civil penalty of not more than $10,000. The attorney general may bring an action in the name of the state to recover the penalty, plus reasonable attorney's fees and court costs.
+A: No
+</example>
+
+<example>
+Clause: A victim of human trafficking, as defined in Section 236.1 of the Penal Code, may bring a civil action for actual damages, compensatory damages, punitive damages, injunctive relief, any combination of those, or any other appropriate relief.
+A: Yes
+</example>
+
+<example>
+Clause: The lessees of any railroad or the company having possession of the railroad shall be liable to an action of any kind in the same court or jurisdiction as were the lessors or owners of the railroad before the lease.
+A: Yes
+</example>
+
+<example>
+Clause: The buyer may recover from the seller as damages the difference between the cost of cover and the contract price together with any incidental or consequential damages.
+A: Yes
+</example>
+
+Clause: {{text}} Reply with either: Yes, No
+A:

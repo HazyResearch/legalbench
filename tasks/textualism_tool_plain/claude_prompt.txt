@@ -1,0 +1,24 @@
+Label "Yes" if the paragraph interprets a statue using the plain or ordinary meaning of the terms in the statute. The paragraph must reference that it is using plain meaning, or discuss the logic behind using plain meaning. Otherwise label "No".
+
+<example>
+Text: the texas code does not define election laws, and we have found no case construing this phrase. thus, we first look to the ordinary, contemporary, common meaning of election laws. see perrin v. united states, 444 u.s. 37, 42, 100 s.ct. 311, 314, 62 l.ed.2d 199 (1979) (noting that it is a fundamental canon of statutory construction ... that, unless otherwise defined, words will be interpreted as taking their ordinary, contemporary, common meaning). we think that the common meaning of election laws is laws that specifically govern elections, rather than generally applicable laws that may affect elections. if the texas legislature wanted 31.003 to cover the latter, we doubt that it would have inserted the adjectival modifier election directly before the noun law. by forming an open compound phrase such as election law, the texas legislature meant a combination of separate words that are so closely related as to constitute a single concept. chicago manual of style 6.33 (14th rev. ed. 1993). an election district, for instance, is not a district devised for many functions, including elections; it is a district created for the purposes of elections. 5 oxford english dictionary 116 (2d ed. 1989). moreover, an election board is not an agency that carries out all the responsibilities of a municipality, including elections; it is an agency charged with the conduct of elections. blacks law dictionary 519 (6th ed.1990).
+Label: Yes
+</example>
+
+<example>
+Text: on the other hand, however, the plain language of rule 6(e)(2) does not support that part of jeters contention that this rule somehow forbids punishment of unjustified grand jury disclosures under any other statutory rule. rule 6(e)(2) states: no obligation of secrecy may be imposed on any person except in accordance with this rule. the surrounding language clearly supports the view that this limitation refers only to action against the aforementioned class of individuals who owe a formal and on-going obligation of secrecy due to their connection with the grand jury [a] grand juror, an interpreter, a stenographer, an operator of a recording device, a typist who transcribes recorded testimony, an attorney for the government, or any person to whom disclosure is made under paragraph (3)(a)(ii) of this subdivision [i.e., other necessary governmental personnel] [emphasis added]. it is simply illogical to attempt to construe rule 6(e)(2) as mandating that all other classes of individuals can act to destroy the secrecy of grand jury proceedings without criminal sanction.
+Label: Yes
+</example>
+
+<example>
+Text: a major difficulty undercutting the majoritys position is that, unlike the indian gaming regulatory act (igra) at issue in seminole tribe, the telecommunications act does not impose an elaborate remedial scheme upon a reviewing court; in fact, the statute fails to specify any particular relief. bell atlantic-pa., 107 f.supp.2d at 664 (citations omitted). as the delaware district court explained:
+Label: No
+</example>
+
+<example>
+Text: the government argues that mr. blacks interpretation of the speedy trial act would discourage governmental consent to transfers under rule 20, which would lead to more consecutive sentences, mr. black could still challenge the delay based on the constitution rather than the speedy trial act, and dismissal of the indictment would impede the efficient use of resources
+Label: No
+</example>
+
+Text: {{text}} Reply with either: Yes, No
+Label:

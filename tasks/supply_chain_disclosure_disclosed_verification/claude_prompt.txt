@@ -1,0 +1,4 @@
+{{text}}
+
+Question: Does the above disclosure meet the following criteria: Does the above statement disclose to what extent, if any, that the retail seller or manufacturer engages in verification of product supply chains to evaluate and address risks of human trafficking and slavery? If the company conducts verification], the disclosure shall specify if the verification was not conducted by a third party. Reply with either: Yes, No
+Answer:

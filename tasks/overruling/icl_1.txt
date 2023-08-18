@@ -1,0 +1,16 @@
+Does the sentence contain language overruling a previous case?
+
+Sentence: as the tenth circuit recognized, however, other courts of appeals have held that the limitations period for a constructive-discharge claim does not begin to run until the employee resigns.
+Label: Yes
+
+Sentence: the decision of the fourth district court of appeal holding section 550.081 unconstitutional is disapproved.
+Label: Yes
+
+Sentence: nevertheless, according to doe, wherever one draws the line between battlefield captive and long-term detainee, he falls on the latter side.
+Label: No
+
+Sentence: (id. at pp. 903-904.)
+Label: No
+
+Sentence: {{text}}
+Label:

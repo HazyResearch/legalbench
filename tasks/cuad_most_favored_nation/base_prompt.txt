@@ -1,22 +1,22 @@
 Does the clause state that if a third party gets better terms on the licensing or sale of technology/goods/services described in the contract, the buyer of such technology/goods/services under the contract shall be entitled to those better terms?
 
-Clause: The Driver shall not drive for any other sponsor which competes with Logan's.
-Label: No
-
-Clause: This Agreement be deemed effective as of the Effective Date, Agreement and shall terminate on December 31, 2020, unless terminated earlier in accordance with Section 3.2.
-Label: No
-
-Clause: NTC agrees that the Product Prices, benefits and allowances offered to ALFA AESAR shall not be less favorable than those offered on Products provided to agents, distributors or marketed directly by NTC to any customers, other than the Product Prices existing as of the date of this Agreement with NTC's commercial partners.
+Clause: The parties agree that Client will not be charged a higher fee than what is being made available by EFS to its other Clients for similar services.
 Label: Yes
 
-Clause: This Agreement shall become effective on the date and year first above written and shall continue in operation for at least an initial period of twenty-five (25) years following the RFS Date (hereinafter referred to as "initial Period") and shall be terminable thereafter by agreement of the Parties.
+Clause: Such Prices and Volume Discount Prices shall only be subject to increase once per year on each anniversary date of this Agreement, provided (i) Company provides Distributor with at least Ninety (90) days prior written notice of any such increase, and (ii) such increase does not exceed 5% of the preceding year's Prices, except for reasons of force majeure, (Chapter 10), and Volume Discount Prices nor the lowest price charged to others for the same Product.
+Label: Yes
+
+Clause: During the term of this Agreement, Zanotti agrees that Aura shall be allowed the full benefit of any and all lower prices and/or any more favorable terms and/or conditions ("MFN" Terms) contained in any other agreement entered into by Zanotti for the sale of any product substantially similar to the Product in the same or lesser quantities described in this Agreement to third parties
+Label: Yes
+
+Clause: Allscripts will be named as an additional insured under the foregoing policies, each of which will be primary and non-contributory.
 Label: No
 
-Clause: The Company acknowledges that Nantz Communications' and Nantz's obligations to CBS or any other television station or network with which Nantz Communications or Nantz has a contract or arrangement shall take precedence over any other commitments of Nantz Communications or Nantz under this Agreement.
-Label: Yes
+Clause: Except as otherwise indicated, in all other respects, the right and obligations of the Parties under this Agreement shall be governed by and construed in accordance with the laws of the ***.
+Label: No
 
-Clause: For so long as ETI remains a Subsidiary ----------------------- of NTL, it is the intention of ETI that the terms of the Source Code License be no less favourable to Nortel than the terms then in effect with any of Entrust's source code licensees that receives substantially similar rights taking into account the relative size of the licensee and Entrust's potential benefits.
-Label: Yes
+Clause: The sum of the Quarterly Grant Numbers in each calendar year of the Term shall not exceed fifteen thousand (15,000). The options will expire five (5) years after each grant date.
+Label: No
 
 Clause: {{text}}
 Label:

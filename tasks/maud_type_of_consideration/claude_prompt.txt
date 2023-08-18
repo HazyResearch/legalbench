@@ -1,0 +1,14 @@
+Instruction: Read the segment of a merger agreement and answer the multiple-choice question by choosing the option that best characterizes the agreement.
+Question: What type of consideration is specified in this agreement?
+Option A: All Cash
+Option B: All Stock
+Option C: Mixed Cash/Stock
+Option D: Mixed Cash/Stock: Election
+
+<example>
+Merger Agreement: each Share <omitted> shall be converted into the right to receive the Offer Price in cash, without interest (the “Merger Consideration”), minus any withholding of Taxes required by applicable Laws in accordance with Section 3.6(d) (Page 20)
+Answer: A
+</example>
+
+Merger Agreement: {{text}} Reply with either: Option A, Option B, Option C, Option D
+Answer:

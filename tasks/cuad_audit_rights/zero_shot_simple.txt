@@ -1,0 +1,4 @@
+Clause: {{text}}
+
+Does the clause discuss one party's right to audit the other? Answer "Yes" or "No"
+Answer:

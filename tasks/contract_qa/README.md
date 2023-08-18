@@ -1,16 +1,21 @@
 # contract_qa
 
+### Answer yes/no questions about whether contractual clauses discuss particular issues.
+---
+
 **Contributor**: Nikon Rasumov-Rahe, Aditya Narayana, and Dmitry Talisman
 
 **Source**: Nikon Rasumov-Rahe, Aditya Narayana, and Dmitry Talisman
 
 **License**: [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/)
 
-**Task summary**: Answer yes/no questions about whether contractual clauses discuss particular issues.
-
 **Size (samples)**: 88
 
-## Task Description
+**Legal reasoning type**: Interpretation
+
+**Task type**: Binary classification
+
+## Task description
 
 This is a binary classification task where the LLM must determine if language from a contract contains a particular type of content. Unlike other contractual clause classification tasks in LegalBench, this task covers multiple distinct types of contant. As the prompt only provides examples of some clauses, the LLM is required to identify clause types for which it in-context demonstrations have not been provided. This task encompasses the following questions:
 
@@ -35,11 +40,20 @@ This is a binary classification task where the LLM must determine if language fr
 - Is this a severability clause?
 - Is this a termination clause?
 
-## Task Construction
+## Task construction
 
-The data was manually extracted from a set of sample agreements collected from public sources and represents a variety of contracts, primarily:
+This task was constructed by manual annotating a sample of contracts.
 
-- Vendor or Partner Data Protection Agreements (DPA)
-- Master Services Agreements (MSA)
-- Licensing Terms
-- BIPA consents
+## Files
+
+- `train.tsv`: contains samples to be used as in-context demonstrations
+- `test.tsv`: contains the evaluation set
+- `base_prompt.txt`: a few-shot prompt that can be used to perform this task
+
+## Data column names
+
+In `train.tsv` and `test.tsv`, column names correspond to the following:
+- `index`: sample identifier
+- `text`: excerpt from a contract
+- `question`: a question about the content of the excerpt
+- `answer`: the answer to the question. The choices are `Yes` or `No`.

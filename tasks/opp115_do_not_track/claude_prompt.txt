@@ -1,0 +1,44 @@
+Does the clause describe if and how Do Not Track signals for online tracking and advertising are honored?
+
+<example>
+Clause: may not respond to Do Not Track requests or headers from some or all browsers
+Label: Yes
+</example>
+
+<example>
+Clause: Our system may not respond to Do Not Track requests or headers from some or all browsers. You can learn more about and opt out from receiving third party advertiser cookies by visiting the Digital Advertising Alliance's opt-out page here.
+Label: Yes
+</example>
+
+<example>
+Clause: Our system may not respond to Do Not Track requests or headers from some or all browsers.
+Label: Yes
+</example>
+
+<example>
+Clause: We do not respond to browser-based "do not track" signals.
+Label: Yes
+</example>
+
+<example>
+Clause: Information regarding Steam billing, a users Steam account, a users Internet connection and the Valve software installed on a users computer is uploaded to the server in connection with the users use of Steam and Valve software. Valve software automatically generates and submits to Valve bug reports upon a crash or other fault in the Valve software, services or Steam games. This automatically generated bug report information may include information about other software or hardware on a user's system. Valve does not associate and store the automatically generated bug report information with users personally identifiable information. Any bug reporting information manually submitted by users (e.g. through Valve's Bug Reporter form) is associated and stored with personally identifiable information sent voluntarily by the user through a bug report.
+Label: No
+</example>
+
+<example>
+Clause: Governing Law SCEA operates in parts of North and South America but this site is intended for consumers in the United States. When we process personal data and information and personally identifying information in the United States, we follow United States data protection and privacy regulations, which may not offer the same level of protection as in other parts of the world, such as the European Union. If we are made aware that a consumer's country of residence is outside the United States, that consumer will be directed to the appropriate Sony company.
+Label: No
+</example>
+
+<example>
+Clause: These parties are provided only with the personal information or other information they need to perform their functions and can only use and disclose that information as is necessary to perform the services on our behalf, or to comply with legal requirements.
+Label: No
+</example>
+
+<example>
+Clause: We reserve the right to change this Privacy Policy at any time. Please check this page periodically for changes. Your continued use of the Website following the posting of changes to this Privacy Policy will constitute acceptance of those changes.
+Label: No
+</example>
+
+Clause: {{text}} Reply with either: Yes, No
+Label:

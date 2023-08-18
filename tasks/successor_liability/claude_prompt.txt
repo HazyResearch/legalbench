@@ -1,0 +1,29 @@
+When one company sells its assets to another company, the purchaser is generally not liable for the seller’s debts and liabilities. There are four exceptions: 
+
+1. the purchaser expressly agrees to be held liable (express agreement)
+
+2. the assets are fraudulently conveyed to the purchaser in order to avoid liability (fraudulent conveyance)
+
+3. there is a de facto merger between the purchaser and seller (de facto merger)
+
+4. the purchaser is a mere continuation of the seller (mere continuation)
+
+For the following fact patterns, determine which exceptions apply.
+
+<example>
+Facts: Big Chemical Corp purchased substantially all of Small Chemical Corp's assets three years ago. The purchase agreement included a provision that Big Chemical would assume Small Chemical's liabilities only to the extent necessary to continue its operations. Following the asset purhcase, Small Chemical's directors assumed directorships on Big Chemical's board. Residents of a town where Small Chemical had a factory now bring suit against Big Chemical for harm that occured several years prior to the asset purchase.
+Exceptions: de facto merger, mere continuation
+</example>
+
+<example>
+Facts: Home Builders III purchased substantially all of Home Builders II's assets. The purchase agreement contained no provision for assumption of any liabilities. Home Builders II had built several thousand defective homes. Home Builders III was made aware of this fact during negotiations even though no claims had been brought against Home Builders II at the time. Following the asset sale, Home Builders III maintained the same offices, employees, and management.  Customers of Home Builders II bring suit against Home Builders III several years later after they discover defects in their homes.
+Exceptions: mere continuation,fraudulent conveyance
+</example>
+
+<example>
+Facts: Mediocre Corp purchased all of Special Corp's assets. The purchase agreement provides for assumption of all of Special Corp's liabilities. Following the asset purchase, Special Corp dissolved. However, Mediocre Corp now holds itself out as Special Corp. Purchasers of Special Corp's speical television remote controls have alleged a mass tort under a theory of products liability and have brough suit against Mediocre Corp.
+Exceptions: express agreement
+</example>
+
+Facts: {{text}} Reply with one or more of: express agreement, fraudulent conveyance, de facto merger, mere continuation
+Exception:

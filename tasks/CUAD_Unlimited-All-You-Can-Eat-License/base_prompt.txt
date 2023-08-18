@@ -1,22 +1,22 @@
 Does the clause grant one party an “enterprise,” “all you can eat” or unlimited usage license?
 
-Clause: This Agreement and all questions regarding its validity or interpretation, or the breach or performance of this Agreement, shall be governed by, and construed and enforced in accordance with, the laws of the State of New York, United States, without reference to conflict of law principles.
-Label: No
-
-Clause: Customer and M&I shall be liable to the other only for direct damages arising out of or relating to their respective performance or non-performance of obligations under this Agreement; provided, however, that the following shall be considered direct damages for the purposes of this Agreement: A. Costs of recreating or reloading any of Customer's information that is lost or damaged; B. Costs of implementing a work-around in respect of a failure to provide the Services; C. Costs of replacing lost or damaged equipment, software, and materials; D. Costs and expenses incurred by Customer to correct errors in software maintenance and enhancements provided as part of the Services; E. Costs and expenses incurred by Customer to procure the Services from an alternate source, to the extent in excess of M&I's charges under this Agreement; and F. Straight time, overtime, or related expenses incurred by Customer, including overhead allocations of Customer for Customer's employees, wages and salaries of additional employees, travel expenses, overtime expenses, telecommunication charges, and similar charges, due to failure of M&I to provide the Services or incurred in connection with subsections (A) through (E) above, to the extent that such straight time, overtime, or related expenses exceed what Customer would have paid to M&I if M&I were providing the Services, and limited to the amount that M&I would have paid to Customer under subsection (E) above if Customer chose to procure the Services from an alternate source.
-Label: No
-
-Clause: Subject to the terms and conditions of this Agreement, as part of the consideration of the full and timely payment of the Sponsor Fees, Club hereby grants to Sponsor, and Sponsor hereby accepts, solely in the Territory, and during the Term: (i) the right to use the Benefits set forth on Exhibit A and the license and right to use the Team Marks solely in connection with the advertisement and promotion of Sponsor's Dick's Wings and Grill branded restaurants (the "Sponsor Business") in accordance with this Agreement; and (ii) the right to use the designation "Official Wings of the Jacksonville Jaguars" and such other designations as Club and Sponsor may agree to in a writing from time to time (collectively, the "Official Designations"), solely in connection with the Sponsor Business.
-Label: No
-
-Clause: RemainCo shall have, and SpinCo hereby grants to RemainCo, an unlimited, non-exclusive, perpetual, irrevocable, royalty free, worldwide right and license to use the content contained in the Steam Book, including the current edition and any past edition and any future edition to which RemainCo makes a contribution, for any purpose, including, without limitation, to reproduce, publicly display, modify, make derivative works, distribute, publicly perform and distribute for RemainCo's internal business purposes, including in connection with customer related activities, provided, however, that RemainCo shall (i) not use any non-nuclear content contained in the Steam Book in connection with publishing or distributing a publication which competes with the Steam Book and (ii) provide attribution and accreditation using a copyright notice having the format required by law in connection with the use of any protectable expression of the non-nuclear content contained in the Steam Book.
+Clause: Except as the parties may otherwise agree in writing, Converge, to the extent it has the legal right to do so, hereby grants to Vert an irrevocable, perpetual, world-wide, non-exclusive right and license to use, load, store, transmit, execute, copy, market, distribute, in any medium or distribution technology whatsoever, known or unknown, display, perform and sublicense the Converge-Independent Materials and the Third-Party Materials, in both Source Code and Object Code formats, and to make unlimited instantiations thereof, for any and all purposes.
 Label: Yes
 
-Clause: Table 1 Business Partner Pricing VoIP Services One-Time Fee Monthly Service Fee VoIP Connectivity (per port charge) Includes: Unlimited VoIP calls, VoIP Caller ID, Call waiting, Basic voicemail $9.95 $5.95 VoIP Connectivity - Commpanion Galaxy Telecom Brand With i-box subscription Includes: Unlimited VoIP calls, VoIP Caller ID, Call waiting, Basic voicemail, 3-way Calling, Call forwarding, Do not disturb, Call hold, Auto answer, Call ignore, Call "go to voicemail", Redial, Mute $19.95 $1.95 VoIP Connectivity - i-box Commpanion Galaxy Telecom Brand Stand alone subscription Includes: Unlimited VoIP calls, VoIP Caller ID, Call waiting, Basic voicemail, 3-way Calling, Call forwarding, Do not disturb, Call hold, Auto answer, Call ignore, Call "go to voicemail", Redial, Mute $19.95 $5.95 VoIP
+Clause: Note 4 Unlimited calling FROM Virtual Calling Zone only. Long distance charges apply when calling to VCZ.
 Label: Yes
 
-Clause: License Term Perpetual, unlimited runs x Other: 2 years Commencing: November 15, 2012
+Clause: Individual grants Lifeway together with its affiliates, subsidiaries, parent companies and their representatives and employees have an unlimited, perpetual, non-exclusive, worldwide and, except as set forth in Section 9, royalty-free, right to use, reuse, publish, reproduce, perform, copy, create derivative works, exhibit, broadcast, and display throughout the world the name, image and likeness of Individual in Marketing Materials (as defined below) in connection with marketing, advertising or otherwise promoting the Lifeway products and/or services and for historical reference and display purposes and other internal purposes, including without limitation, internal sales meetings.
 Label: Yes
+
+Clause: FG shall have access to and the right to use for any purpose, any Data developed by or on behalf of Astellas or its Affiliates or Sublicensees in the course of the Development Program with respect to indications within the Field for Lead Compounds.
+Label: No
+
+Clause: We shall have the right at all times to access the information system and to retrieve, analyze, download and use all software, data and files stored or used on the information system.
+Label: No
+
+Clause: For the avoidance of doubt, this restricted annual audit shall not apply to for-cause audits, which may be conducted at any time.
+Label: No
 
 Clause: {{text}}
 Label:

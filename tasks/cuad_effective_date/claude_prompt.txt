@@ -1,0 +1,34 @@
+Does the clause specify the date upon which the agreement becomes effective?
+
+<example>
+Clause: The Term of this Agreement shall be for a period of [* ****] years and [*****] months commencing the 1st day of September 2004 and terminating the [*****] day of [*****].
+Label: Yes
+</example>
+
+<example>
+Clause: "Contract Period" shall mean that period of time commencing on January 1, 2000 and concluding December 31, 2003, unless terminated sooner as provided herein.
+Label: Yes
+</example>
+
+<example>
+Clause: The term "Effective Date" shall mean the latest of (a) the date of the last signature of this Agreement, or (b) if a HSR filing is made, the second Business Day immediately following the earlier of: (i) the date upon which the waiting period under HSR expires or terminates early or (ii) the date upon which all requests to the Parties by the Federal Trade Commission or the Justice Department, as the case may be, with regard to the transaction contemplated by this Agreement<omitted>have been satisfactorily met and no objection on the part of the Federal Trade Commission or the Justice Department remains, or (c) the occurrence of the Acceptance Time (as defined in the Transaction Agreement).
+Label: Yes
+</example>
+
+<example>
+Clause: The term of this Agreement is for a period of five (5) years (the "Term") commencing on the Effective Date and, unless terminated earlier in accordance with the termination provisions of this Agreement, ending on January 31, 2025.
+Label: No
+</example>
+
+<example>
+Clause: As it relates to the operation of your Franchised Business: automobile liability insurance coverage, including owned and non-owned vehicles, with limits of not less than One Million Dollars ($1,000,000) per occurrence;
+Label: No
+</example>
+
+<example>
+Clause: Unless terminated earlier as provided herein, this Agreement shall terminate on the date three (3) years from the Effective Date.
+Label: No
+</example>
+
+Clause: {{text}} Reply with either: Yes, No
+Label:

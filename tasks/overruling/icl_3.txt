@@ -1,0 +1,16 @@
+Does the sentence contain language overruling a previous case?
+
+Sentence: to the extent that wright suggests or holds to the contrary, it is hereby overruled.
+Label: Yes
+
+Sentence: the cases of in re brown, supra, and lee v. mckay, supra, are disapproved in so far as their holding is in conflict with this opinion.
+Label: Yes
+
+Sentence: c. defendants' claims for other fees.
+Label: No
+
+Sentence: this standard of review affords considerable deference to the trial court provided that the court acted in accordance with the governing rules of law.
+Label: No
+
+Sentence: {{text}}
+Label:

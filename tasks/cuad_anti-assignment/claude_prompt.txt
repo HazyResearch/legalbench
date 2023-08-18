@@ -1,0 +1,34 @@
+Does the clause require consent or notice of a party if the contract is assigned to a third party?
+
+<example>
+Clause: Neither ADAMS GOLF nor CONSULTANT shall have the right to grant sublicenses hereunder or to assign, alienate or otherwise transfer any of its rights or obligations hereunder.
+Label: Yes
+</example>
+
+<example>
+Clause: Likewise, Dynamic Hearing may not assign or transfer any of its rights or obligations under this Agreement without the prior written consent of IntriCon.
+Label: Yes
+</example>
+
+<example>
+Clause: Operator shall not make any assignment of all or any part of this Agreement or any of the rights or obligations hereunder unless there first shall have been obtained the written consent thereto of Owner, which consent shall not be unreasonably withheld, conditioned, or delayed.
+Label: Yes
+</example>
+
+<example>
+Clause: For clarity, if AbbVie does not exercise its License Option, Harpoon retains all rights under Harpoon's interests in the Joint Patents and the Joint Know-How, if any, to Exploit the Licensed Compounds and Licensed Products in its sole discretion without duty to account to AbbVie in connection with such use or Exploitation.
+Label: No
+</example>
+
+<example>
+Clause: The construction, interpretation and performance of this Agreement and all transactions under it shall be governed by the law of the State of Israel, without giving effect to choice of law rules, and both Parties consent to jurisdiction by the courts of the City of Haifa.
+Label: No
+</example>
+
+<example>
+Clause: CBC may terminate this Agreement by no less than 24 (twenty four) months notice given in writing by CBC to MediWound, or such greater period as may be reasonable for MediWound to establish an alternative source of manufacture of Bromelain SP and/or to acquire sufficient inventory of Bromelain SP for a 24 (twenty four) months period.
+Label: No
+</example>
+
+Clause: {{text}} Reply with either: Yes, No
+Label:

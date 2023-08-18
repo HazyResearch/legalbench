@@ -1,0 +1,17 @@
+Generate the best citation for the following texts, imagining you are in the following circuits.
+
+<example>
+Text: Claim construction requires determining how a skilled artisan would understand a claim term “in the context of the entire patent, including the specification.”
+Circuit: Federal Circuit
+Citation: Phillips v. AWH Corp.
+</example>
+
+<example>
+Text: If she has direct evidence of discrimination, the court does not wade into the McDonnell Douglas test,4 but instead the burden shifts to Performance to “prove by a preponderance of the evidence that the same decision would have been made regardless of the discriminatory animus.”
+Circuit: Fifth Circuit
+Citation: Jones v. Robinson Prop. Grp., L.P.	
+</example>
+
+Text: {{text}}
+Circuit: {{circuit}}
+Citation:

@@ -1,0 +1,19 @@
+Instruction: Read the segment of a merger agreement and answer the multiple-choice question by choosing the option that best characterizes the agreement.
+Question: What standard should the board follow when determining whether to change its recommendation in response to an intervening event?
+Option A: "Breach" of fiduciary duties
+Option B: "Inconsistent" with fiduciary duties
+Option C: "Reasonably likely/expected breach" of fiduciary duties
+Option D: "Reasonably likely/expected to be inconsistent" with fiduciary duties
+Option E: "Reasonably likely/expected violation" of fiduciary duties
+Option F: "Required to comply" with fiduciary duties
+Option G: "Violation" of fiduciary duties
+Option H: More likely than not violate fiduciary duties
+Option I: Other specified standard
+
+<example>
+Merger Agreement: 6.3 Shareholders’ Approval and Stockholder Approval. <omitted> (c) <omitted> if the Board of Directors of <omitted> the Company, after receiving the advice of its outside counsel and, with respect to financial matters, its outside financial advisors, determines in good faith that it would more likely than not result in a violation of its fiduciary duties under applicable law to make or continue to make the Parent Board Recommendation or the Company Board Recommendation, as applicable, such Board of Directors may <omitted> submit this Agreement to its shareholders or stockholders, respectively, without recommendation (which, for the avoidance of doubt, shall constitute a Recommendation Change) (Page 57)
+Answer: I
+</example>
+
+Merger Agreement: {{text}} Reply with either: Option A, Option B, Option C, Option D, Option E, Option F, Option G, Option H, Option I
+Answer:

@@ -1,0 +1,34 @@
+Does the clause give a party the right to audit the books, records, or physical locations of the counterparty to ensure compliance with the contract?
+
+<example>
+Clause: Each Party shall cause any Subsidiary or other Affiliate (including, without limitation, a Subsidiary or other Affiliate of the Online Group or Skype Group, as applicable) to grant to the other Party the audit rights granted hereunder with respect to such other Party.
+Label: Yes
+</example>
+
+<example>
+Clause: We shall have the right at all times to access the information system and to retrieve, analyze, download and use all software, data and files stored or used on the information system.
+Label: Yes
+</example>
+
+<example>
+Clause: If an inspection discloses an underpayment to AIRSOPURE of 2% or more of the total amount that should have been paid to AIRSOPURE, You shall, in addition to repayment of such understated amount with interest, reimburse AIRSOPURE for any and all costs and expenses incurred in connection with the inspection or audit (including, without limitation, reasonable accounting and attorneys' fees).
+Label: Yes
+</example>
+
+<example>
+Clause: We grant to you, upon the terms and conditions contained in this Agreement, the exclusive right to establish and operate a Franchised Business and a license to use the methods, procedures and products developed by us in the business of selling and servicing Unit Franchises in the territory described on Attachment A attached to this Agreement and incorporated into this Agreement by reference (the "Master Territory").
+Label: No
+</example>
+
+<example>
+Clause: During the Term and for a period of [***] thereafter, neither Party shall solicit an employee of the other Party who is or has been involved in the performance or oversight of any of the development activities hereunder to terminate his or her employment and accept employment or work as a consultant with the soliciting Party.
+Label: No
+</example>
+
+<example>
+Clause: Notwithstanding the provisions of this Section 7(d), the Remarketing Agent shall not be required to contribute any amount in excess of the total price at which Remarketing Securities distributed in the Remarketing exceed the amount of any damages which the Remarketing Agent has otherwise paid or become liable to pay by reason of any untrue or alleged untrue statement or omission or alleged omission.
+Label: No
+</example>
+
+Clause: {{text}} Reply with either: Yes, No
+Label:

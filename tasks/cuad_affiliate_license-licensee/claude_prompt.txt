@@ -1,0 +1,34 @@
+Does the clause describe a license grant to a licensee (incl. sublicensor) and the affiliates of such licensee/sublicensor?
+
+<example>
+Clause: Supplier hereby grants Bank of America a nonexclusive, worldwide, irrevocable, perpetual license to: (a) any patents related to or necessary or desirable to use the Software to the extent such patents are now held, licensed to or hereafter acquired by Supplier, for the purpose of allowing Bank of America and its Affiliates and permitted assigns to install, copy, use, execute, modify, distribute (as necessary or useful for Bank of America and its Affiliates and permitted assigns to enjoy their rights as set forth in the Agreement), make, have made, enhance, improve and alter the Software (both in Object Code and Source Code form) as necessary to conduct Bank of America business in accordance with the terms and restrictions or this Section; (b) any Copyrights now held, licensed to or hereafter acquired by Supplier in the Software for the purpose of allowing Bank of America and its Affiliates an permitted assigns to install, copy, use, execute, modify, distribute (as necessary or useful for Bank of America and its Affiliates and permitted assigns to enjoy their fights as set forth In the Agreement, produce derivative works from and<omitted>display such Software (both in Object Code and Source Code for ); any (c) other Intellectual Property Rights or Supplier in the Software as are necessary or useful for Bank of America, its Affiliates and permitted assigns to install, copy, use, execute, modify, distribute, enhance, improve and alter and copy the Software (both in Object Code and Source Code form) for the purpose of conducting Bank of America business in accordance with the terms and restrictions of this Section.
+Label: Yes
+</example>
+
+<example>
+Clause: Subject to the terms and conditions of this Agreement, Parent hereby grants to each individual member of the SpinCo Group, on behalf of itself and the other members of the Parent Group, and shall cause the other members of the Parent Group to grant to each individual member of the SpinCo Group, a non-exclusive, worldwide, perpetual, irrevocable, fully paid-up, royalty-free right and license, solely for use in the SpinCo Field, to (i)<omitted>use, reproduce, distribute, display, perform, make improvements and exploit Intellectual Property owned or controlled by Parent or a member of the Parent Group and currently used in the SpinCo Business, and (ii) make, have made, use, sell, offer to sell and import any goods and services incorporating, embodying or utilizing such Intellectual Property currently used in the SpinCo Business.
+Label: Yes
+</example>
+
+<example>
+Clause: For avoidance of doubt, to the extent that any of the licenses granted by the terms of this Agreement include any right to sublicense, such right to sublicense shall extend to Licensee's subsidiaries and joint venturers.
+Label: Yes
+</example>
+
+<example>
+Clause: Promptly upon receipt of notice from Pfizer, Exact and Pfizer shall engage in exclusive good faith negotiations to enter into a definitive written agreement for the Ex-US Commercial Rights.
+Label: No
+</example>
+
+<example>
+Clause: Achaogen retains all rights in and to the Achaogen Patents and Achaogen Know-How.
+Label: No
+</example>
+
+<example>
+Clause: Notwithstanding any other provision of this Agreement, each party's total liability in respect of damages under this Agreement, any regulation or common law shall be limited to the sum of all amounts received from Client in terms of this Agreement; provided, however, that this limitation shall not apply with respect to any claims arising out of or relating to clause 6 (Inventions and Proprietary Information), indemnification obligations or damages arising from a party's gross negligence or willful misconduct.
+Label: No
+</example>
+
+Clause: {{text}} Reply with either: Yes, No
+Label:

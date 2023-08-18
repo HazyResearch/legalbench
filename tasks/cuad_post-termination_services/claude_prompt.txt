@@ -1,0 +1,34 @@
+Does the clause subject a party to obligations after the termination or expiration of a contract, including any post-termination transition, payment, transfer of IP, wind-down, last-buy, or similar commitments?
+
+<example>
+Clause: For a period of six (6) months at the end of the Term (the "Sell-off Period"); provided that the Agreement was not terminated by Wade as permitted herein, Naked will have the right to continue to sell the Wade Products (defined below) for which orders have already been placed at the end of the Term on the terms and conditions herein.
+Label: Yes
+</example>
+
+<example>
+Clause: Upon termination of this Agreement by Pretzel Time in accordance with its terms and conditions or by Franchisee without cause or upon expiration of this Agreement (unless the franchise has been renewed), Pretzel Time, its Affiliates or its assignee shall have the option (not the obligation), exercisable by giving written notice thereof within sixty (60) days from the date of such expiration or termination, to acquire from Franchisee all the assets in the Unit including the equipment, furnishings, signs, leasehold improvements, usable inventory of Products, materials, supplies and other tangible assets of the Unit and an assignment of the lease for the Unit.
+Label: Yes
+</example>
+
+<example>
+Clause: Notwithstanding anything herein to the contrary, IntriCon shall have a right after termination to continue selling existing products that include the Dynamic Hearing Technology as long as IntriCon pays the appropriate royalties in accordance with the payment clauses in section 4.9 and, for the avoidance of doubt, such other clauses of this Agreement (including 4.3, 4.10, 5, 6 and 10.1 will continue to apply in respect of such sales.
+Label: Yes
+</example>
+
+<example>
+Clause: Subject to Section 2.6, the Village Media Company shall, or shall cause HOFV to, pay to PFHOF a minimum guarantee of one million two hundred and fifty thousand dollars ($1,250,000) (the "Annual Guarantee") each year during the Term; provided that the Parties acknowledge and agree that after the first five (5) years of the Term, the Annual Guarantee shall increase by three percent (3%) on a year-over-year basis (e.g., the Annual Guarantee shall increase to $1,287,500 for year six (6) and to $1,326,125 for year seven (7)).
+Label: No
+</example>
+
+<example>
+Clause: Licensee shall pay to Licensor for each Licensed Product licensed to a Redistributor or a Customer a royalty equal to the Specified Royalty Percentage of all revenues received (without deduction for value added tax, if any, but excluding any revenues for maintenance and support or upgrade services, which revenues are covered in paragraph (b) below) by Licensee under the Redistributor Agreement or Sublicense applicable to such Licensed Product.
+Label: No
+</example>
+
+<example>
+Clause: Unless earlier terminated as provided herein, this Agreement continues in effect for an initial term of seven (7) years ("Initial Term") and will automatically renew for one or more annual periods after the Initial Term (each a "Renewal Term") unless either party gives notice of non-renewal at least one hundred eighty (180) days prior to the beginning of any Renewal Term.
+Label: No
+</example>
+
+Clause: {{text}} Reply with either: Yes, No
+Label:

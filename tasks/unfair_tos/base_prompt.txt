@@ -1,0 +1,32 @@
+Classify each clause by type.
+Options: Arbitration, Unilateral change, Content removal, Jurisdiction, Choice of law, Limitation of liability, Unilateral termination, Contract by using, Other
+
+Clause: in no event will academia.edu 's aggregate liability arising out of or in connection with these terms or from the use of or inability to use the site , services or collective content exceed the greater of fifty dollars ( $ 50 ) and subscription fees paid by you during the 12 month period before the act giving rise to the liability . 
+Label: Arbitration
+
+Clause: the licenses granted by amazon terminate if you do not comply with these conditions of use or any service terms . 
+Label: Unilateral change
+
+Clause: we reserve the right to make changes to our site , policies , service terms , and these conditions of use at any time . 
+Label: Content removal
+
+Clause: while we 're not required to do so , we may access , review , screen , and delete your content at any time and for any reason , including if we think your content violates these terms . 
+Label: Jurisdiction
+
+Clause: we encourage you to give the privacy policy a careful look because , by using our services , you agree that your information may be collected and processed by snap group limited in the uk and snap inc. in the u.s. , as well as their affiliates , and transferred outside of the country in which you reside , including to countries that may not have the same data-protection laws as your country . 
+Label: Choice of law
+
+Clause: the laws of england and wales govern these terms and any claims and disputes ( whether contractual or otherwise ) arising out of or relating to these terms or their subject matter . 
+Label: Limitation of liability
+
+Clause: we both agree that all of these claims can only be litigated in dublin , ireland , and we each agree to personal jurisdiction of the courts located in dublin , ireland . 
+Label: Unilateral termination
+
+Clause: any dispute or claim relating in any way to these terms and conditions or the service will be resolved by binding arbitration , rather than in court , except for duolingo 's right to seek injunctive relief as set forth below . 
+Label: Contract by using
+
+Clause: a statement by you , made under penalty of perjury , that the above information in your notice is accurate and that you are the copyright owner or are authorized to act on the copyright owner 's behalf . 
+Label: Other
+
+Post: {{text}}
+Label:

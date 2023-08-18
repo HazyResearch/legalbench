@@ -1,0 +1,4 @@
+Clause: {{text}}
+
+Does the clause require insurance? Choices: "Yes" or "No"
+Label:

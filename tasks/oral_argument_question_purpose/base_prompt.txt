@@ -1,34 +1,25 @@
-Classify the function that the question serves. Options: Background, Clarification, Communicate, Criticism, Criticism, Criticsm, Humor, Implications, Implications, Support
+Classify the function that the question serves. Options: Background, Clarification, Communicate, Criticism, Humor, Implications, Support
 
 Question: So, counsel, we've spoken a little bit about how Colorado has handled this compelled speech question differently with respect to different messages, some that it prefers, others that it dislikes. I'm curious how other states have dealt with this conundrum besides Colorado and how you -- which ones of those you think we should take account of.
 Answer: Background
 
-Question: Well, so what are the differences between -- what differences do you see between her hypothetical and the actual case that is before us?
+Question: Is that -- do you understand that to be part of the stipulations or not?
 Answer: Clarification
 
-Question: It doesn't say you have to meet the standards of the federal rules. It's -- and it reflects the backdrop, again, as Justice Thomas alluded to, of the Article II concern that would exist if the government's power to control prosecution of a case or pursuit of a civil action were somehow removed from the government's power. So why shouldn't we read the statute, given the Article II concern, read that provision for what it says?
+Question: Last question. This might be what Justice Kagan was asking, but it might be something different. The -- if you have to intervene before you move to dismiss -- and so, if this is repetitive, I apologize -- the D.C. Circuit said that would be largely academic, that requirement, if you had to intervene before moving to dismiss. Do you agree with that? I mean, in other words, it doesn't matter one way or the other.
 Answer: Communicate
 
-Question: So this is a carveout that's applicable just to the same-sex context?
+Question: Even though the site doesn't say anything about that? It doesn't say, wow, gay marriage is a wonderful thing. It *41 doesn't say -- it doesn't even say, you know, we're here to celebrate this wonderful marriage in my hypothetical. It doesn't even say that.
 Answer: Criticism
 
-Question: So I will -- I will write a press release for many faiths and many belief systems that are -- but they have to be consistent with mine and I won't do it if it -- if it offends my religious faith. Good to go?
-Answer: Criticism 
-
-Question: Well, my question really was not whether this website is a public accommodation. I understand that's been stipulated. That wasn't my question. What I'm trying to understand is the breadth of your argument, and what I get is that you're making a -- a tiny sliver of an argument. So the website can put anything on its website, even something that will blatantly or subtly *72 tell a same-sex couple, well, this is not a service that I want. They can do that. And a website can also potentially get itself out from being a public accommodation simply by reserving a degree of selectivity. That's what you've told me so far.
-Answer: Criticsm
-
-Question: He was affirming discussions and thoughts by Learned Hand. And you're asking us to overrule that form of consent as extortion, is that right? He would get it right this time?
+Question: I mean, it does seem a little bit like due process Lochnerism for corporations here, doesn't it?
 Answer: Humor
 
-Question: So, for you, as -- as there's an effort to protect both the equal rights of gay and lesbian people and same-sex couples and at the same time protect free speech rights, your line is look at whether the action of the business involves speech?
+Question: Do they have to -- can you compel that speech? Do they have to publish it?
 Answer: Implications
 
-Question: I hate to ---- be stuck on the same question, Mr. Dvoretzky, but, as between these two positions, which is Mr. Liu's position is that you have a right and they have a duty -- you know, you have -- they have a duty not to interfere with your water, as opposed to they have a duty to ensure access to your water. Both of those are not spelled out in the contract. You know, both of those are implied rights and duties. So how do we choose between them?
-Answer: Implications 
-
-Question: You said earlier that you had some things to say about Arizona v. California and the nature of what happened there. Have you gotten that out?
+Question: Ms. Hansford, I think everyone might be underselling Steele here. I mean, it's true what Justice Alito says about this first sentence sets up the question in an odd way. But the actual holding and heart of the opinion is on page 286, and that's where the Court says -- it says, okay, we deem the Lanham Act's scope to encompass Petitioners' activities here, and then it says why.n Why do we deem it that way? His operations and their effects weren't confined within the territorial limits of a foreign nation. He brought component parts of his wares in the U.S. and Bulovas filtered through the Mexican border into this country. His competing goods reflected adversely on Bulova's trade reputation in markets cultivated here as well as abroad. So, in some ways, I mean, what Steele says here on page 286, it doesn't use the two-step terminology that we've developed, but this is basically the second step as we've understood it.
 Answer: Support
 
-Question: {{text}}
+Question: {{question}}
 Answer:

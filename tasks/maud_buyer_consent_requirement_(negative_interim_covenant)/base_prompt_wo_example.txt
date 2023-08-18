@@ -1,7 +1,0 @@
-Instruction: Read the segment of a merger agreement and answer the multiple-choice question by choosing the option that best characterizes the agreement.
-Question: What is the requirement for Buyer consent regarding the negative covenants of interim?
-Option Option A: Consent may not be unreasonably withheld, conditioned or delayed
-Option Option B: Flat consent
-
-Merger Agreement: {{text}}
-Answer:

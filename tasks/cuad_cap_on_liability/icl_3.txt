@@ -1,0 +1,16 @@
+Does the clause specify a cap on liability upon the breach of a party’s obligation? This includes time limitation for the counterparty to bring claims or maximum amount for recovery.
+
+Clause: Defective or nonconforming Product shall be replaced by Seller without additional charge, or in lieu thereof, at Seller's option, Seller may refund the purchase price upon return of such Product at Seller's expense and such refund or replacement shall constitute Buyer's sole and exclusive remedy.
+Label: Yes
+
+Clause: EXCEPT FOR LIABILITY ARISING OUT OF OR IN CONNECTION WITH DISTRIBUTOR'S BREACH OF SECTION 9 (PROPRIETARY RIGHTS AND SOFTWARE LICENSING) OR EXHIBIT C (SOFTWARE LICENSE AGREEMENT), IN NO EVENT SHALL EITHER PARTY, ITS RESPECTIVE AFFILIATES, OFFICERS, DIRECTORS, EMPLOYEES, AGENTS OR SUPPLIERS BE LIABLE FOR ANY SPECIAL, INCIDENTAL,<omitted>INDIRECT OR CONSEQUENTIAL DAMAGES, OR LOST REVENUE, LOST PROFITS, OR LOST OR DAMAGED DATA, WHETHER ARISING IN CONTRACT, TORT (INCLUDING NEGLIGENCE), OR OTHERWISE, EVEN IF SUCH PARTY HAS BEEN INFORMED OF THE POSSIBILITY THEREOF.
+Label: Yes
+
+Clause: The Franchisee shall participate in any self-audit scheme which may from time to time form part of the Burger King System.
+Label: No
+
+Clause: Such insurance (i) will be primary insurance with respect to each Party's own participation under this Agreement and (ii) will be issued by a recognized insurer rated by A.M. Best "A-VII" (or its equivalent) or better, or an insurer pre-approved in writing by the other Party.
+Label: No
+
+Clause: {{text}}
+Label:

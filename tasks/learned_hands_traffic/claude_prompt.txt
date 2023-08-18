@@ -1,0 +1,34 @@
+Does the post discuss problems with traffic and parking tickets, fees, driver's licenses, and other issues experienced with the traffic system. It also concerns issues with car accidents and injuries, cars' quality, repairs, purchases, and other contracts?
+
+<example>
+Post: I was stopped the other day and was given a court date. The cop allowed me to drive home and was was a very nice guy. I'm just worried about what will happen once I appear in court. If the officer didn't arrest me at the time, can i still go to jail?
+Label: Yes
+</example>
+
+<example>
+Post: As a preface to this story I drive a truck for the nation's largest retailer and they pay me very good (six figures good).   I was on my off day and took an out of town trip with my wife and kids in the family minivan. We started to approach the small town of Uniontown AL and I was immediately pulled over by a police officer (he passed me going the opposite direction then proceeded to do a unturn to get behind me). I'm puzzled because I always drive safe and legal, my wife always gripes at me for this habit. Before the officer approached my window I had done decided that I must have hit a 45 mph zone without realizing it and I never slowed down from 55 mph. When he approached my window the first thing the officer told me is I was doing 70 in a 55. My jaw dropped because I know I was going 55. I didn't argue with the officer and I didn't confirm or deny doing 70. I pretty much remained silent. He gave me my citation and I carried on. My wife did research on this town's police force and found a message board with so many other horror stories just like mine with people getting pulled over for doing 70 in a 55. So I think it's obvious that this town is running a scam.   I know the obvious answer is to "lawyer up" and I'm planning on doing that this Monday. But my most concerning question is, will that even do any good in a corrupt jurisdiction? I mean if the cops are going to flat out lie and say motorists were speeding then does that mean the staff of the municipal court could be in on it as well?   And to revisit my beginning statement where I drive truck for the nation's largest retailer... They will not tolerate a serious violation on my mvr. So I'm possibly facing a $100,000/yr job loss. Who knows, they might be understanding and give me a slap on the wrist but either way I'm scared!   Where do I go from here?
+Label: Yes
+</example>
+
+<example>
+Post: My partner and I are moving from Illinois to separate states. He will be working in New York and I will be attending grad school in Connecticut. He currently owns a car that is registered in IL which he will be giving to me to use while I'm in school.   I am trying to work through the mess of how/when we need to transfer everything. Can we both be on the title if we live in separate states? Is it easier to transfer title to me while we are still in IL and then register the car in CT? Will there be complications if he is on title still and is not a CT resident? Ideally he would remain on title as he will be paying for insurance, maintenance, and still will drive the car when we see each other.
+Label: Yes
+</example>
+
+<example>
+Post: I received a letter from our landlord today (fairly large apartment building) claiming that multiple other residents have filed complaints about us having marijuana  smell coming from our apartment on two occasions. They note that no smoking of any kind is allowed anywhere on the property and that according to a human rights tribunal decision landlords are now permitted to give a single written warning to a tenant on the issue and a second occurrence would require automatic lease termination and that the matter must be rectified by tomorrrow.  Now this is extremely unsettling to my husband and I for multiple reasons. First neither of us or any of our guest have ever smoked anything in or around the building and definitely not in our apartment. Also I am currently 8 months pregnant and we are scheduled to move out of our current apartment into another apartment run by the same management a few weeks after my due date. I am very concerned because we seem to have no way to prove our case, not only that, it would greatly effect our lives to have our lease terminated for this reason since it would mean us not being able to move into our new place at the end of september, and it would most likely prevent us from being able to find a new place to move into since the vacancy rate in our city is already about 0.5% so landlords can be extremely picky. I will obviously be talking with the building manager/landlord as soon as possible, however this is really stressing me out as I don't know how I am supposed to prove that I haven't been smoking and there seems to be nothing stopping these people from complaining again since they have done so in the past. The other detail to note is our apartment is next to the elevator which I have noticed the smell of marijuana in before.  Any suggestions as so how we should approach this would be greatly appreciated.
+Label: No
+</example>
+
+<example>
+Post: Last week, my landlord had sent me a "viewing schedule" with a list of days / times the place could be shown (it's not guaranteed there will be showings at those time slots, so he may or may not enter at those times). The schedule is Sat, Monday, Wednesday @ 10, 1, 4, or 7 each week until the place is rented.  Is this sufficient notice for him to enter my place? He sent me the schedule last week. I was under the impression he would still need to give 24hr notice before actually entering, or is the viewing schedule he sent enough notice?
+Label: No
+</example>
+
+<example>
+Post: TLDR: Landlord is ending our roommate's monthly lease, she refuses to move out and is threatening legal action.    I live in a household of 3 women, including myself. My roommate and I are on the original lease while the 3rd roommate agreed to a monthly sublease. Due to recent events, feeling overall uncomfortable and somewhat threatened by the new roommate, we offered her 30 days to find a new place. She claims we have no right to end her monthly sublease and has threatened to take us to court. With my limited knowledge of Chicago leasing laws, I understand we may not directly be able to end her sublease, however she has no lease with the landlord and he is able to end her sublease. He gave her a signed 30 day termination notice, she still attempted to pay rent after the notice and he didn't accept her portion from her. Is there anything else we can do to get her out of the house? I want to go about this as civil and legal as possible.
+Label: No
+</example>
+
+Post: {{text}} Reply with either: Yes, No
+Label:

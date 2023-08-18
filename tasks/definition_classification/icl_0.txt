@@ -1,0 +1,16 @@
+Identify if the sentence defines a term.
+
+Sentence: Black's Law Dictionary defines turpitude as: ‘(I)nherent baseness or vileness of principle or action; shameful wickedness; depravity.’ 
+Label: Yes
+
+Sentence: "The word 'damage' traditionally describes a harm to property (hence, 'property damage'), rather than harm to the person (usually referred to as 'personal injury')." 
+Label: Yes
+
+Sentence: We concluded, therefore, that because the purpose of the certificates of analysis was use at trial, they were not properly admissible as business or public records under the hearsay rules, id., at 321-322, nor were they admissible under the Confrontation Clause, id., at 324.
+Label: No
+
+Sentence: Nothing in our precedents stating that lands reserved from the public domain were “reserved from sale,” Grisar v. McDowell, 6 Wall.
+Label: No
+
+Sentence: {{text}}
+Label:

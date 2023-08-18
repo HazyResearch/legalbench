@@ -1,0 +1,16 @@
+Does the clause specify a cap on liability upon the breach of a party’s obligation? This includes time limitation for the counterparty to bring claims or maximum amount for recovery.
+
+Clause: EXCEPT FOR DAMAGES FOR WHICH A PARTY IS RESPONSIBLE PURSUANT TO ITS INDEMNIFICATION OBLIGATIONS SET FORTH IN SECTION 10 ABOVE, EACH PARTY SPECIFICALLY DISCLAIMS ALL LIABILITY FOR AND SHALL IN NO EVENT BE LIABLE FOR ANY INCIDENTAL, SPECIAL, INDIRECT OR CONSEQUENTIAL DAMAGES, EXPENSES, LOST PROFITS, LOST SAVINGS, INTERRUPTIONS OF BUSINESS OR OTHER DAMAGES OF ANY KIND OR CHARACTER WHATSOEVER ARISING OUT OF OR RELATED TO THIS AGREEMENT OR RESULTING FROM THE MANUFACTURE, HANDLING. MARKETING, SALE, DISTRIBUTION OR USE OF LICENSED PRODUCT REGARDLESS OF THE FORM OF ACTION, WHETHER IN CONTRACT, TORT, STRICT LIABILITY OR OTHERWISE, EVEN IF SUCH PARTY WAS ADVISED OF THE POSSIBILITY OF SUCH DAMAGES.
+Label: Yes
+
+Clause: In no event will Licensor be liable for any indirect, incidental, reliance, special or consequential damages arising out of the performance or non-performance of this Agreement, whether or not Licensor had been advised of the possibility of such damages.
+Label: Yes
+
+Clause: Datec must not assign this agreement or any right under this agreement unless Datec (a) is not in breach of this agreement; (b) obtains the prior written consent of the BSP (c) ensures that the assignee agrees to be bound by all of the Datec's obligations under this agreement; and (d) acknowledges that it remains bound by this agreement
+Label: No
+
+Clause: If your employment with the Company is terminated for any reason, the Company shall pay or provide to you (or to your authorised representative or estate) (i) any Salary earned through the Termination Date (as defined below); (ii) unpaid expense reimbursements (subject to, and in accordance with, paragraph 6 of this Agreement); and (iii) any vested benefits you may have under any employee benefit plan of the Company through the Termination Date, which vested benefits shall be paid and/or provided in accordance with the terms of such employee benefit plans (collectively, the "Accrued Benefits").
+Label: No
+
+Clause: {{text}}
+Label:

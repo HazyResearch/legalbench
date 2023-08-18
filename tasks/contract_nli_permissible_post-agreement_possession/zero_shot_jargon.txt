@@ -1,0 +1,4 @@
+Clause: {{text}}
+
+Identify if the clause provides that the Receiving Party may retain some Confidential Information even after the return or destruction of Confidential Information. Choices: "Yes" or "No"
+Label:

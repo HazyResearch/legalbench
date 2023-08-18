@@ -1,0 +1,44 @@
+Identify if the clause provides that the Agreement shall not grant Receiving Party any right to Confidential Information.
+
+<example>
+Clause: No other right or license, whether expressed or implied, in the Confidential Information is granted to the Parties hereunder.  
+Label: Yes
+</example>
+
+<example>
+Clause: Neither the execution of this Agreement nor the disclosure of any Confidential Information is construed as granting either expressly or by implication, estoppel or otherwise, any license or right to the Confidential Information or any intellectual property rights embodied therein. 
+Label: Yes
+</example>
+
+<example>
+Clause: 7. Neither this Agreement nor the supply of any information grants the Recipient any licence, interest or right in respect of any intellectual property rights of the Discloser except the right to copy the Confidential Information solely for the Purpose. 
+Label: Yes
+</example>
+
+<example>
+Clause: 8. Title to, interest in, and all other rights of ownership to Confidential Information shall remain with the Disclosing Party.  
+Label: Yes
+</example>
+
+<example>
+Clause: Therefore, the parties agree that a) Recipient may disclose Confidential Information to its Subsidiaries without Discloser’s consent, if and to the extent such disclosure is required in order to fulfill the Purpose; and b) a disclosure to or by a party’s respective Subsidiaries shall be considered as disclosure to or by the respective party; and 
+Label: No
+</example>
+
+<example>
+Clause: "Confidential Information" of a disclosing party ("Discloser") means the following, regardless of its form and including copies made by the receiving party ("Recipient"), whether the Recipient becomes aware of it before or after the date of this Agreement: except where that information is:  known to the Recipient free of any obligation to keep it confidential; or 
+Label: No
+</example>
+
+<example>
+Clause: In consideration of the said discussions both parties agree: 6) that the provisions of this agreement shall last for the duration of the discussions relating to the Proposed Transaction and for 2 years following their conclusion. 
+Label: No
+</example>
+
+<example>
+Clause: 4.1 Regular Board meetings are, in the ordinary course of events, not open to the public and/or media. d) If no recordal is made, the matter, discussions and all resolutions should be deemed to be confidential unless declared by the Board by resolution as not confidential. 
+Label: No
+</example>
+
+Clause: {{text}} Reply with either: Yes, No
+Label:
