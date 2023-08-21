@@ -8,7 +8,7 @@ parent: Tasks
 ### Given a clause from a privacy policy, classify if the clause describes if and how users will be informed about changes to the privacy policy.
 ---
 
-**Contributor**: Sunny Gandhi
+
 
 **Source**: [OPP-115](https://usableprivacy.org/data)
 

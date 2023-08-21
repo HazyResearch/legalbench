@@ -3,7 +3,7 @@
 ### Given a clause from a privacy policy, classify if the clause describe practices that pertain only to a specific group of users (e.g., children, Europeans, or California residents).
 ---
 
-**Contributor**: Sunny Gandhi
+
 
 **Source**: [OPP-115](https://usableprivacy.org/data)
 

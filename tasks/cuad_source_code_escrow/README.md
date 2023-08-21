@@ -3,7 +3,7 @@
 ### Classify if the clause requires one party to deposit its source code into escrow with a third party, which can be released to the counterparty upon the occurrence of certain events (bankruptcy, insolvency, etc.).
 ---
 
-**Contributor**: Neel Guha 
+
 
 **Source**: [Atticus Project](https://www.atticusprojectai.org/cuad>)
 

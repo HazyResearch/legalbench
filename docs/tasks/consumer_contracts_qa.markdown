@@ -8,7 +8,7 @@ parent: Tasks
 ### Answer yes/no questions on the rights and obligations created by clauses in terms of services agreements.
 ---
 
-**Contributor**: Noam Kolt
+
 
 **Source**: Noam Kolt
 

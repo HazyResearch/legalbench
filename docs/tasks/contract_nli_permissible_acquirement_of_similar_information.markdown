@@ -8,7 +8,7 @@ parent: Tasks
 ### Identify if the clause provides that the Receiving Party may acquire information similar to Confidential Information from a third party.
 ---
 
-**Contributor**: Neel Guha
+
 
 **Source**: [ContractNLI](https://stanfordnlp.github.io/contract-nli/)
 

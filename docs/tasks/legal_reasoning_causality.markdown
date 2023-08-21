@@ -8,7 +8,7 @@ parent: Tasks
 ### Given an excerpt from a district court opinion, classify if it relies on statistical evidence in its reasoning.
 ---
 
-**Contributor**: Haggai Porat, Tom Zur
+
 
 **Source**: Haggai Porat, Tom Zur
 

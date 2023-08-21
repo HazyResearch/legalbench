@@ -3,7 +3,7 @@
 ### Given a legal question, identify the holding statement (amongst a set of candidates) that best answers a particular legal question.
 ---
 
-**Contributor**: Faiz Surani, Varun Iyer
+
 
 **Source**: [SCALR](https://github.com/lexeme-dev/scalr)
 

@@ -7,7 +7,7 @@ parent: Tasks
 
 ### Read an excerpt from a merger agreement and answer: do pandemics or other public health events have to have disproportionate impact to qualify for Material Adverse Effect (MAE)?
 ---
-**Contributor**: Zehua Li (zehuali@stanford.edu)
+(zehuali@stanford.edu)
 
 **Source**: [Atticus Project](https://www.atticusprojectai.org/maud)
 

@@ -2,7 +2,7 @@
 
 ### Read an excerpt from a merger agreement and answer: is the “ability to consummate” concept subject to Material Adverse Effect (MAE) carveouts?
 ----
-**Contributor**: Zehua Li (zehuali@stanford.edu)
+(zehuali@stanford.edu)
 
 **Source**: [Atticus Project](https://www.atticusprojectai.org/maud)
 

@@ -8,7 +8,7 @@ parent: Tasks
 ### Classify if the clause specifies a minimum order size or minimum amount or units pertime period that one party must buy from the counterparty.
 ---
 
-**Contributor**: Neel Guha 
+
 
 **Source**: [Atticus Project](https://www.atticusprojectai.org/cuad>)
 

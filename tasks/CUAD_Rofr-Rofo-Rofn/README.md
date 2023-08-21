@@ -3,7 +3,7 @@
 ### Classify if the clause grant one party a right of first refusal, right of first offer or right of first negotiation to purchase, license, market, or distribute equity interest, technology, assets, products or services.
 ---
 
-**Contributor**: Neel Guha 
+
 
 **Source**: [Atticus Project](https://www.atticusprojectai.org/cuad>)
 

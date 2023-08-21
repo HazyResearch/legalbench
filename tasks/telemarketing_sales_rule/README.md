@@ -2,7 +2,7 @@
 
 ### Determine how 16 C.F.R. § 310.3(a)(1) and 16 C.F.R. § 310.3(a)(2) (governing deceptive practices) apply to different fact patterns.
 ---
-**Contributor**: Jonathan H. Choi
+
 
 **Source**: Jonathan H. Choi
 

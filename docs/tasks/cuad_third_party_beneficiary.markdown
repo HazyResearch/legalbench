@@ -8,7 +8,7 @@ parent: Tasks
 ### Classify if the clause specifies that that there a non-contracting party who is a beneficiary to some or all of the clauses in the contract and therefore can enforce its rights against a contracting party.
 ---
 
-**Contributor**: Neel Guha 
+
 
 **Source**: [Atticus Project](https://www.atticusprojectai.org/cuad>)
 

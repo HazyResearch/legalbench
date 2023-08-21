@@ -8,7 +8,7 @@ parent: Tasks
 ### Classify if the clause specifies the date upon which the agreement becomes effective.
 ---
 
-**Contributor**: Neel Guha 
+
 
 **Source**: [Atticus Project](https://www.atticusprojectai.org/cuad>)
 

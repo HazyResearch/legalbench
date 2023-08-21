@@ -8,7 +8,7 @@ parent: Tasks
 ### Classify if the clause awards either party liquidated damages for breach or a fee upon the termination of a contract (termination fee).
 ---
 
-**Contributor**: Neel Guha 
+
 
 **Source**: [Atticus Project](https://www.atticusprojectai.org/cuad>)
 

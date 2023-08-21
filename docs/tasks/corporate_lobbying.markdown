@@ -8,7 +8,7 @@ parent: Tasks
 ### Predict if a proposed bill is relevant to a company given information about the bill and the company.
 ---
 
-**Contributor**: John Nay
+
 
 **Source**: John Nay
 

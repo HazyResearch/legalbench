@@ -8,7 +8,7 @@ parent: Tasks
 ### Classify if a user post implicates legal isssues related to benefits.
 ---
 
-**Contributor**: Legal Design Lab
+
 
 **Source**: [Learned Hands](https://spot.suffolklitlab.org/data/#learnedhands)
 

@@ -8,7 +8,7 @@ parent: Tasks
 ### Read an excerpt from a merger agreement and answer: what type of offer could the Board take actions on notwithstanding the no-shop provision?
 ---
 
-**Contributor**: Zehua Li (zehuali@stanford.edu)
+(zehuali@stanford.edu)
 
 **Source**: [Atticus Project](https://www.atticusprojectai.org/maud)
 

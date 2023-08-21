@@ -3,7 +3,7 @@
 ### Classify if the clause requires a party not to disparage the counterparty.
 ---
 
-**Contributor**: Neel Guha 
+
 
 **Source**: [Atticus Project](https://www.atticusprojectai.org/cuad>)
 

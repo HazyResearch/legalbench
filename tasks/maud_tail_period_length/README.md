@@ -2,7 +2,7 @@
 
 ### Read an excerpt from a merger agreement and answer: how long is the Tail Period?
 ---
-**Contributor**: Zehua Li (zehuali@stanford.edu)
+(zehuali@stanford.edu)
 
 **Source**: [Atticus Project](https://www.atticusprojectai.org/maud)
 

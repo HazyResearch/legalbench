@@ -3,7 +3,7 @@
 ### Classify if the clause require a party to share revenue or profit with the counterparty for any technology, goods, or services.
 ---
 
-**Contributor**: Neel Guha 
+
 
 **Source**: [Atticus Project](https://www.atticusprojectai.org/cuad>)
 

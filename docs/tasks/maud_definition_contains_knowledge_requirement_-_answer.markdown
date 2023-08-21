@@ -7,7 +7,7 @@ parent: Tasks
 
 ### Read an excerpt from a merger agreement and answer: what is the knowledge requirement in the definition of “Intervening Event”?
 ---
-**Contributor**: Zehua Li (zehuali@stanford.edu)
+(zehuali@stanford.edu)
 
 **Source**: [Atticus Project](https://www.atticusprojectai.org/maud)
 

@@ -2,7 +2,7 @@
 
 ### Classify whether a sentence from a judicial opinion overrules a previous case.
 ---
-**Contributor**: Neel Guha 
+
 
 **Source**: [CaseHOLD](https://github.com/reglab/casehold)
 

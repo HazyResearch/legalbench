@@ -3,7 +3,7 @@
 ### Given a statute, a fact pattern, and an assertion, determine if the assertion is "entailed" by the fact pattern and statute.
 ---
 
-**Contributor**: Nils Holzenberger
+
 
 **Source**: <https://nlp.jhu.edu/law/>
 

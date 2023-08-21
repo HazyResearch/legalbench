@@ -3,7 +3,7 @@
 ### Classify if the clause specifies a  duration of any warranty against defects or errors in technology, products, or services provided under the contract.
 ---
 
-**Contributor**: Neel Guha 
+
 
 **Source**: [Atticus Project](https://www.atticusprojectai.org/cuad>)
 

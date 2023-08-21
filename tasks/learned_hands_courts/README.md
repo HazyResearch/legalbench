@@ -3,7 +3,7 @@
 ### Classify if a user post implicates legal isssues related to courts.
 ---
 
-**Contributor**: Legal Design Lab
+
 
 **Source**: [Learned Hands](https://spot.suffolklitlab.org/data/#learnedhands)
 

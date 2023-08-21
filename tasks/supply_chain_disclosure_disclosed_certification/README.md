@@ -3,7 +3,7 @@
 ### Given a supply chain disclosure, determine if the statement discloses to what extent, if any, that the retail seller or manufacturer requires direct suppliers to certify that materials incorporated into the product comply with the laws regarding slavery and human trafficking of the country or countries in which they are doing business.
 ---
 
-**Contributor**: Adam Chilton & Galit Sarfaty
+
 
 **Source**: Adam Chilton & Galit Sarfaty
 

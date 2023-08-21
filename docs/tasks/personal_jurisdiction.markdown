@@ -7,7 +7,7 @@ parent: Tasks
 
 ### Given a fact pattern describing the set of contacts between a plaintiff, defendant, and forum, determine if a court in that forum could excercise personal jurisdiction over the defendant.
 ---
-**Contributor**: Neel Guha 
+
 
 **Source**: Neel Guha
 

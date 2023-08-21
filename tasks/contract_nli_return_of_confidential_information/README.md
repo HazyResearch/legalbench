@@ -3,7 +3,7 @@
 ### Identify if the clause provides that the Receiving Party shall destroy or return some Confidential Information upon the termination of Agreement.
 ---
 
-**Contributor**: Neel Guha
+
 
 **Source**: [ContractNLI](https://stanfordnlp.github.io/contract-nli/)
 

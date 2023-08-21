@@ -8,7 +8,7 @@ parent: Tasks
 ### Classify if the clause gives a party the right to audit the books, records, or physical locations of the counterparty to ensure compliance with the contract.
 ---
 
-**Contributor**: Neel Guha 
+
 
 **Source**: [Atticus Project](https://www.atticusprojectai.org/cuad>)
 

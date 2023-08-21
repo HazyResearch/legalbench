@@ -8,7 +8,7 @@ parent: Tasks
 ### Identify if the clause provides that ome obligations of Agreement may survive termination of Agreement.
 ---
 
-**Contributor**: Neel Guha
+
 
 **Source**: [ContractNLI](https://stanfordnlp.github.io/contract-nli/)
 

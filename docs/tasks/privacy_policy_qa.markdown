@@ -7,7 +7,7 @@ parent: Tasks
 
 ### Given a question and a clause from a privacy policy, determine if the clause contains enough information to answer the question.
 ---
-**Contributor**: Neel Guha
+
 
 **Source**: [Privacy Q&A Corpus](https://github.com/AbhilashaRavichander/PrivacyQA_EMNLP)
 

@@ -7,7 +7,7 @@ parent: Tasks
 
 ### Given a statute, determine if the text contains an explicit private right of action.
 ---
-**Contributor**: Neel Guha, Diego Zambrano
+
 
 **Source**: Neel Guha, Diego Zambrano
 

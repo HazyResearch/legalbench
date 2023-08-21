@@ -3,7 +3,7 @@
 ### Classify if a particular piece of evidence qualifies as hearsay.
 ---
 
-**Contributor**: Neel Guha 
+
 
 **Source**: Neel Guha
 

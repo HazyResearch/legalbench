@@ -3,7 +3,7 @@
 ### Classify whether an excerpt from a Canada Tax Court decision includes the outcome of the appeal, and if so, specify whether the appeal was allowed or dismissed.
 ---
 
-**Contributor**: Sean Rehaag
+
 
 **Source**: Sean Rehaag
 

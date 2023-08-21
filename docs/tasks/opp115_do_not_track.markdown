@@ -8,7 +8,7 @@ parent: Tasks
 ### Given a clause from a privacy policy, classify if the clause describes if and how Do Not Track signals for online tracking and advertising are honored.
 ---
 
-**Contributor**: Sunny Gandhi
+
 
 **Source**: [OPP-115](https://usableprivacy.org/data)
 

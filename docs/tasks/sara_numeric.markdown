@@ -8,7 +8,7 @@ parent: Tasks
 ### Given a statute and a set of facts, determine how much tax an individual owes.
 ---
 
-**Contributor**: Nils Holzenberger
+
 
 **Source**: <https://nlp.jhu.edu/law/>
 

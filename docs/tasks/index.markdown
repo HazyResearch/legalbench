@@ -1,12 +1,12 @@
 ---
 layout: default
 title: Tasks
-nav_order: 1
+nav_order: 3
 has_children: true
 ---
 
 ## Task organization
-LegalBench tasks are organized into six categories based on legal-reasoning type. These are: 
+LegalBench tasks are organized into six categories based on the type of legal reasoning the task requires. These are: 
 
 - Issue-spotting: tasks in which an LLM must determine if a set of facts raise a particular set of legal questions, implicate an area of the law, or are relevant to a specific party.
 - Rule-recall: tasks which require the LLM to generate the correct legal rule on an issue in a jurisdiction (e.g., the rule for hearsay in US federal court), or answer a question about what the law in a jurisdiction does/does not permit.

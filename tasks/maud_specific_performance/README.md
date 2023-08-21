@@ -2,7 +2,7 @@
 
 ### Read an excerpt from a merger agreement and answer: what is the wording of the Specific Performance clause regarding the parties’ entitlement in the event of a contractual breach?
 ---
-**Contributor**: Zehua Li (zehuali@stanford.edu)
+(zehuali@stanford.edu)
 
 **Source**: [Atticus Project](https://www.atticusprojectai.org/maud)
 

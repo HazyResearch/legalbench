@@ -3,7 +3,7 @@
 ### Classify if the clause limits the ability of a party to transfer the license being granted to a third party.
 ---
 
-**Contributor**: Neel Guha 
+
 
 **Source**: [Atticus Project](https://www.atticusprojectai.org/cuad>)
 

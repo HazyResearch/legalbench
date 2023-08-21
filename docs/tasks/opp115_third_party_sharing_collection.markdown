@@ -8,7 +8,7 @@ parent: Tasks
 ### Given a clause from a privacy policy, classify if the clause describe how user information may be shared with or collected by third parties.
 ---
 
-**Contributor**: Sunny Gandhi
+
 
 **Source**: [OPP-115](https://usableprivacy.org/data)
 

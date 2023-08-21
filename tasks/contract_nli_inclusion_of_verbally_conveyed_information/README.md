@@ -3,7 +3,7 @@
 ### Identify if the clause provides that Confidential Information may include verbally conveyed information.
 ---
 
-**Contributor**: Neel Guha
+
 
 **Source**: [ContractNLI](https://stanfordnlp.github.io/contract-nli/)
 

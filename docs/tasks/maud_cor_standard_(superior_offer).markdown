@@ -7,7 +7,7 @@ parent: Tasks
 
 ### Read an excerpt from a merger agreement and answer: what standard should the board follow when determining whether to change its recommendation in connection with a superior offer?
 ---
-**Contributor**: Zehua Li (zehuali@stanford.edu)
+(zehuali@stanford.edu)
 
 **Source**: [Atticus Project](https://www.atticusprojectai.org/maud)
 

@@ -3,7 +3,7 @@
 ### Given a supply chain disclosure, determine if the statement discloses whether the retail seller or manufacturer engages in verification of product supply chains to evaluate and address risks of human trafficking and slavery.
 ---
 
-**Contributor**: Adam Chilton & Galit Sarfaty
+
 
 **Source**: Adam Chilton & Galit Sarfaty
 

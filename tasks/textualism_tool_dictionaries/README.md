@@ -3,7 +3,7 @@
 ### Determine if a paragraph from a judicial opinion is applying a form textualism that relies on the dictionary meaning of terms.
 ---
 
-**Contributor**: Austin Peters
+
 
 **Source**: Austin Peters
 

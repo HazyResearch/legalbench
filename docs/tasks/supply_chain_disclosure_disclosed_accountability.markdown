@@ -8,7 +8,7 @@ parent: Tasks
 ### Given a supply chain disclosure, determine whether the statement discloses to what extent, if any, that the retail seller or manufacturer maintains internal accountability standards and procedures for employees or contractors failing to meet company standards regarding slavery and trafficking.
 ---
 
-**Contributor**: Adam Chilton & Galit Sarfaty
+
 
 **Source**: Adam Chilton & Galit Sarfaty
 

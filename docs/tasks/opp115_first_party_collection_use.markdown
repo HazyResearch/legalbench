@@ -8,7 +8,7 @@ parent: Tasks
 ### Given a clause from a privacy policy, classify if the clause describes how and why a service provider collects user information.
 ---
 
-**Contributor**: Sunny Gandhi
+
 
 **Source**: [OPP-115](https://usableprivacy.org/data)
 

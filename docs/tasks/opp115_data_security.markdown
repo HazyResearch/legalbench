@@ -8,7 +8,7 @@ parent: Tasks
 ### Given a clause from a privacy policy, classify if the clause describes how user information is protected.
 ---
 
-**Contributor**: Sunny Gandhi
+
 
 **Source**: [OPP-115](https://usableprivacy.org/data)
 

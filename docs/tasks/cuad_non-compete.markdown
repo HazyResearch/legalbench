@@ -8,7 +8,7 @@ parent: Tasks
 ### Classify if the clause restricts the ability of a party to compete with the counterparty or operate in a certain geography or business or technology sector.
 ---
 
-**Contributor**: Neel Guha 
+
 
 **Source**: [Atticus Project](https://www.atticusprojectai.org/cuad>)
 

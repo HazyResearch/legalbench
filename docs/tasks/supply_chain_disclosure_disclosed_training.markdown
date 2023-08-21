@@ -8,7 +8,7 @@ parent: Tasks
 ### Given a supply chain disclosure, determine if the statement discloses whether the retail seller or manufacturer provides company employees and management, who have direct responsibility for supply chain management, training on human trafficking and slavery, particularly with respect to mitigating risks within the supply chains of products.
 ---
 
-**Contributor**: Adam Chilton & Galit Sarfaty
+
 
 **Source**: Adam Chilton & Galit Sarfaty
 

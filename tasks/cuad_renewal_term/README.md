@@ -3,7 +3,7 @@
 ### Classify if the clause specifies a renewal term.
 ---
 
-**Contributor**: Neel Guha 
+
 
 **Source**: [Atticus Project](https://www.atticusprojectai.org/cuad>)
 

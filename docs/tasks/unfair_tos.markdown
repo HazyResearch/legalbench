@@ -8,7 +8,7 @@ parent: Tasks
 ### Given a clause from a terms-of-service contract, determine the category the clause belongs to.
 ---
 
-**Contributor**: Joel Niklaus
+
 
 **Source**: [Claudette](https://arxiv.org/abs/1805.01217)
 

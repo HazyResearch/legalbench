@@ -3,7 +3,7 @@
 ### Classify if a clause describes a license grant to a licensee (incl. sublicensor) and the affiliates of such licensee/sublicensor.
 ---
 
-**Contributor**: Neel Guha 
+
 
 **Source**: [Atticus Project](https://www.atticusprojectai.org/cuad>)
 

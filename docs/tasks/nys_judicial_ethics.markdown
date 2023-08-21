@@ -8,7 +8,7 @@ parent: Tasks
 ### Answer questions on judicial ethics from the New York State Unified Court System Advisory Committee.
 ---
 
-**Contributor**: Peter Henderson
+
 
 **Source**: Peter Henderson
 

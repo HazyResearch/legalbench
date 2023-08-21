@@ -1,6 +1,6 @@
 # contract_nli_sharing_with_third-parties
 
-**Contributor**: Neel Guha
+
 
 **Source**: [ContractNLI](https://stanfordnlp.github.io/contract-nli/)
 

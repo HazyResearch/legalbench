@@ -8,7 +8,7 @@ parent: Tasks
 ### Identify if the clause provides that the Receiving Party may retain some Confidential Information even after the return or destruction of Confidential Information.
 ---
 
-**Contributor**: Neel Guha
+
 
 **Source**: [ContractNLI](https://stanfordnlp.github.io/contract-nli/)
 

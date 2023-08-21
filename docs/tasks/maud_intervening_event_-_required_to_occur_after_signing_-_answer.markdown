@@ -8,7 +8,7 @@ parent: Tasks
 ### Read an excerpt from a merger agreement and answer: is an “Intervening Event” required to occur after signing?
 ---
 
-**Contributor**: Zehua Li (zehuali@stanford.edu)
+(zehuali@stanford.edu)
 
 **Source**: [Atticus Project](https://www.atticusprojectai.org/maud)
 

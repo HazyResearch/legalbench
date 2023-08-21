@@ -8,7 +8,7 @@ parent: Tasks
 ### Given a supply chain disclosure, determine if the statement discloses whether the retail seller or manufacturer performs any type of audit, or reserves the right to audit.
 ---
 
-**Contributor**: Adam Chilton & Galit Sarfaty
+
 
 **Source**: Adam Chilton & Galit Sarfaty
 

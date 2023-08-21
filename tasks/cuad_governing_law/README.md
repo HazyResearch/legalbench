@@ -3,7 +3,7 @@
 ### Classify if the clause specifies which state/country's law governs the contract.
 ---
 
-**Contributor**: Neel Guha 
+
 
 **Source**: [Atticus Project](https://www.atticusprojectai.org/cuad>)
 

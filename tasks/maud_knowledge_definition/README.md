@@ -3,7 +3,7 @@
 ### Read an excerpt from a merger agreement and answer: what counts as Knowledge?
 ---
 
-**Contributor**: Zehua Li (zehuali@stanford.edu)
+(zehuali@stanford.edu)
 
 **Source**: [Atticus Project](https://www.atticusprojectai.org/maud)
 

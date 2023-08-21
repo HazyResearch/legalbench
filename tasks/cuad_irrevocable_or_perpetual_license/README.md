@@ -3,7 +3,7 @@
 ### Classify if the clause specifies a license grant that is irrevocable or perpetual.
 ---
 
-**Contributor**: Neel Guha 
+
 
 **Source**: [Atticus Project](https://www.atticusprojectai.org/cuad>)
 

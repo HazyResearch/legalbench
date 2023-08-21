@@ -3,7 +3,7 @@
 ### Identify if the clause provides that the Receiving Party may create a copy of some Confidential Information in some circumstances.
 ---
 
-**Contributor**: Neel Guha
+
 
 **Source**: [ContractNLI](https://stanfordnlp.github.io/contract-nli/)
 

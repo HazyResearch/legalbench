@@ -2,7 +2,7 @@
 
 ### Answer questions about citizenship law from across the world.
 ---
-**Contributor**: Peter Henderson
+
 
 **Source**: [GLOBALCIT Citizenship Law Dataset](https://globalcit.eu/modes-acquisition-citizenship/)
 

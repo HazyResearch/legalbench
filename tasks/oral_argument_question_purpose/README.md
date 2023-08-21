@@ -3,7 +3,7 @@
 ### Given a question asked during oral argument, classify the purpose of the question.
 ---
 
-**Contributor**: Gregory M. Dickinson
+
  
 **Source**: Gregory M. Dickinson
 

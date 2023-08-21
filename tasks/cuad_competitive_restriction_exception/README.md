@@ -3,7 +3,7 @@
 ### Classify if the clause mentions exceptions or carveouts to Non-Compete, Exclusivity and No-Solicit of Customers.
 ---
 
-**Contributor**: Neel Guha 
+
 
 **Source**: [Atticus Project](https://www.atticusprojectai.org/cuad>)
 

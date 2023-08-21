@@ -3,7 +3,7 @@
 ### Given a supply chain disclosure, determine if the statement discloses whether the retail seller or manufacturer requires direct suppliers to certify that they comply with labor and anti-trafficking laws.
 ---
 
-**Contributor**: Adam Chilton & Galit Sarfaty
+
 
 **Source**: Adam Chilton & Galit Sarfaty
 

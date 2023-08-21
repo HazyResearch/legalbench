@@ -3,7 +3,7 @@
 ### Answer yes/no questions about whether contractual clauses discuss particular issues.
 ---
 
-**Contributor**: Nikon Rasumov-Rahe, Aditya Narayana, and Dmitry Talisman
+-Rahe, Aditya Narayana, and Dmitry Talisman
 
 **Source**: Nikon Rasumov-Rahe, Aditya Narayana, and Dmitry Talisman
 

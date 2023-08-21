@@ -8,7 +8,7 @@ parent: Tasks
 ### Given a set of facts about the citizenships of plaintiffs and defendants and the amounts associated with claims, determine if the criteria for diversity jurisdiction have been met (variant 1).
 ---
 
-**Contributor**: Neel Guha 
+
 
 **Source**: Neel Guha
 

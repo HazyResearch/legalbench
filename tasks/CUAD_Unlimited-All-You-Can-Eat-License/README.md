@@ -3,7 +3,7 @@
 ### Classify if the clause grants one party an “enterprise,” “all you can eat” or unlimited usage license.
 ---
 
-**Contributor**: Neel Guha 
+
 
 **Source**: [Atticus Project](https://www.atticusprojectai.org/cuad>)
 

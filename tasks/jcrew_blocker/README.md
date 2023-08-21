@@ -2,7 +2,7 @@
 
 ### Classify if a clause in a loan agreement is a J.Crew blocker provision.
 ---
-**Contributor**: Enam Hoque
+
 
 **Source**: Enam Hoque
 

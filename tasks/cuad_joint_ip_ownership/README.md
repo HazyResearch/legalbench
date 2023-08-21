@@ -3,7 +3,7 @@
 ### Classify if the clause provides for joint or shared ownership of intellectual property between the parties to the contract.
 ---
 
-**Contributor**: Neel Guha 
+
 
 **Source**: [Atticus Project](https://www.atticusprojectai.org/cuad>)
 

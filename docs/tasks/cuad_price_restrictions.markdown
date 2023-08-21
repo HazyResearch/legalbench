@@ -8,7 +8,7 @@ parent: Tasks
 ### Classify if the clause places a restriction on the ability of a party to raise or reduce prices of technology, goods, or services provided.
 ---
 
-**Contributor**: Neel Guha 
+
 
 **Source**: [Atticus Project](https://www.atticusprojectai.org/cuad>)
 

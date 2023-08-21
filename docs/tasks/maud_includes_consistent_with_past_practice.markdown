@@ -8,7 +8,7 @@ parent: Tasks
 ### Read an excerpt from a merger agreement and answer: does the wording of the Efforts Covenant clause include “consistent with past practice”?
 ---
 
-**Contributor**: Zehua Li (zehuali@stanford.edu)
+(zehuali@stanford.edu)
 
 **Source**: [Atticus Project](https://www.atticusprojectai.org/maud)
 

@@ -3,7 +3,7 @@
 ### Read an excerpt from a merger agreement and answer: how long is the initial matching rights period in case the board changes its recommendation?
 ---
 
-**Contributor**: Zehua Li (zehuali@stanford.edu)
+(zehuali@stanford.edu)
 
 **Source**: [Atticus Project](https://www.atticusprojectai.org/maud)
 

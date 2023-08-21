@@ -3,7 +3,7 @@
 ### Read an excerpt from a merger agreement and answer: when are representations and warranties required to be made according to the bring down provision?
 ---
 
-**Contributor**: Zehua Li (zehuali@stanford.edu)
+(zehuali@stanford.edu)
 
 **Source**: [Atticus Project](https://www.atticusprojectai.org/maud)
 

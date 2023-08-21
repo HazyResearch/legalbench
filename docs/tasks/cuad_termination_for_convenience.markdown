@@ -8,7 +8,7 @@ parent: Tasks
 ### Classify if the clause specifies that one party can terminate this contract without cause (solely by giving a notice and allowing a waiting period to expire).
 ---
 
-**Contributor**: Neel Guha 
+
 
 **Source**: [Atticus Project](https://www.atticusprojectai.org/cuad>)
 

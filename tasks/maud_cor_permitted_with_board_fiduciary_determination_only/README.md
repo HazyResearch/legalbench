@@ -3,7 +3,7 @@
 ### Read an excerpt from a merger agreement and answer: is Change of Recommendation permitted as long as the board determines that such change is required to fulfill its fiduciary obligations?
 ---
 
-**Contributor**: Zehua Li (zehuali@stanford.edu)
+(zehuali@stanford.edu)
 
 **Source**: [Atticus Project](https://www.atticusprojectai.org/maud)
 

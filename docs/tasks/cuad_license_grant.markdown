@@ -8,7 +8,7 @@ parent: Tasks
 ### Classify if the clause contains a license granted by one party to its counterparty.
 ---
 
-**Contributor**: Neel Guha 
+
 
 **Source**: [Atticus Project](https://www.atticusprojectai.org/cuad>)
 

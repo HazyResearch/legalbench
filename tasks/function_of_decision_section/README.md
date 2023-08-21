@@ -3,7 +3,7 @@
 ### Classify the function of different sections of legal written opinions.
 ---
 
-**Contributor**: Gregory M. Dickinson
+
 
 **Source**: Gregory M. Dickinson
 

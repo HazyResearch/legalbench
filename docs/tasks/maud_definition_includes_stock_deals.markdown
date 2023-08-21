@@ -7,7 +7,7 @@ parent: Tasks
 
 ### Read an excerpt from a merger agreement and answer: what qualifies as a superior offer in terms of stock deals?
 ---
-**Contributor**: Zehua Li (zehuali@stanford.edu)
+(zehuali@stanford.edu)
 
 **Source**: [Atticus Project](https://www.atticusprojectai.org/maud)
 

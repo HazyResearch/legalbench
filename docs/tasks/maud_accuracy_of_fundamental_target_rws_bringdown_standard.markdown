@@ -8,7 +8,7 @@ parent: Tasks
 ### Read an excerpt from a merger agreement and answer: how accurate must the fundamental representations and warranties be according to the bring down provision?
 ---
 
-**Contributor**: Zehua Li (zehuali@stanford.edu)
+(zehuali@stanford.edu)
 
 **Source**: [Atticus Project](https://www.atticusprojectai.org/maud)
 

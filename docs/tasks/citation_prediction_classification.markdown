@@ -8,7 +8,7 @@ parent: Tasks
 ### Given a legal statement and a case citation, determine if the citation is supportive of the legal statement.
 ---
 
-**Contributor**: Michael Livermore, Daniel N. Rockmore
+
 
 **Source**: Michael Livermore, Daniel N. Rockmore
 

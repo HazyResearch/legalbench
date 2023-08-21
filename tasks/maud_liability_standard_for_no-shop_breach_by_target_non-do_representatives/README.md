@@ -2,7 +2,7 @@
 
 ### Read an excerpt from a merger agreement and answer: what is the liability standard for no-shop breach by Target Non-D&O Representatives?
 ---
-**Contributor**: Zehua Li (zehuali@stanford.edu)
+(zehuali@stanford.edu)
 
 **Source**: [Atticus Project](https://www.atticusprojectai.org/maud)
 

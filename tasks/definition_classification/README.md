@@ -3,7 +3,7 @@
 ### Given a sentence from a Supreme Court opinion, classify whether or not that sentence offers a definition of a term.
 ---
 
-**Contributor**: Kevin Tobia
+
 
 **Source**: Kevin Tobia
 

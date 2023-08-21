@@ -8,7 +8,7 @@ parent: Tasks
 ### Classify if the clause describes a license grant by affiliates of the licensor or that includes intellectual property of affiliates of the licensor.
 ---
 
-**Contributor**: Neel Guha 
+
 
 **Source**: [Atticus Project](https://www.atticusprojectai.org/cuad>)
 

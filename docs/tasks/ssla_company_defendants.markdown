@@ -7,7 +7,7 @@ parent: Tasks
 
 ### Extract the identities of the company defendants from excerpts of securities class action complaints.
 ---
-**Contributor**: Jessica Wu, Jason Hegland
+
 
 **Source**: [SSLA](https://sla.law.stanford.edu/)
 

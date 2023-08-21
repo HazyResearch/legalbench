@@ -3,7 +3,7 @@
 ### Given a clause from a privacy policy, classify if the clause describes how long user information is stored.
 ---
 
-**Contributor**: Sunny Gandhi
+
 
 **Source**: [OPP-115](https://usableprivacy.org/data)
 

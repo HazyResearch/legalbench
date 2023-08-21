@@ -1,6 +1,6 @@
 # Most Favored Nation
 
-**Contributor**: Neel Guha 
+
 
 **Source**: [Atticus Project](https://www.atticusprojectai.org/cuad>)
 

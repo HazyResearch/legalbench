@@ -2,7 +2,7 @@
 
 ### Given a privacy policy clause and a description of the clause, determine if the description is correct.
 ---
-**Contributor**: Neel Guha
+
 
 **Source**: [APP-350 Corpus](https://github.com/AbhilashaRavichander/PrivacyQA_EMNLP)
 

@@ -7,7 +7,7 @@ parent: Tasks
 
 ### Given a fact pattern, identify the type of successor liability present.
 ---
-**Contributor**: Frank Fagan
+
 
 **Source**: Frank Fagan
 

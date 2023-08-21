@@ -8,7 +8,7 @@ parent: Tasks
 ### Classify if the clause restricts a party’s soliciting or hiring employees and/or contractors from the counterparty, whether during the contract or after the contract ends (or both).
 ---
 
-**Contributor**: Neel Guha 
+
 
 **Source**: [Atticus Project](https://www.atticusprojectai.org/cuad>)
 

@@ -3,7 +3,7 @@
 ### Given a legal statement, predict the name of the case which best supports the statement.
 ---
 
-**Contributor**: Michael Livermore, Daniel N. Rockmore
+
 
 **Source**: Michael Livermore, Daniel N. Rockmore
 

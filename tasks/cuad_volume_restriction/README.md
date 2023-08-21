@@ -3,7 +3,7 @@
 ### Classify if the clause specifies a fee increase or consent requirement, etc. if one party’s use of the product/services exceeds certain threshold.
 ---
 
-**Contributor**: Neel Guha 
+
 
 **Source**: [Atticus Project](https://www.atticusprojectai.org/cuad>)
 

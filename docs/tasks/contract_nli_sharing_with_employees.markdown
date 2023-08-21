@@ -8,7 +8,7 @@ parent: Tasks
 ### Identify if the clause provides that the Receiving Party may share some Confidential Information with some of Receiving Party's employees.
 ---
 
-**Contributor**: Neel Guha
+
 
 **Source**: [ContractNLI](https://stanfordnlp.github.io/contract-nli/)
 

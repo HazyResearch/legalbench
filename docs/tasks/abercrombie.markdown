@@ -8,7 +8,7 @@ parent: Tasks
 ### Determine the *Abercrombie* classification for a mark/product pair.
 ---
 
-**Contributor**: Neel Guha
+
 
 **Source**: Neel Guha
 

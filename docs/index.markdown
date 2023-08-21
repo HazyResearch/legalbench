@@ -15,7 +15,7 @@ permalink: /
 The LegalBench project is an ongoing open science effort to collaboratively curate tasks for evaluating legal reasoning in English large language models (LLMs). The benchmark currently consists of **162** tasks gathered from **40** contributors.
 
 - [Read the paper.](https://arxiv.org/abs/2209.06120)
-- [Download the dataset from Huggingface.]()
+- [Download the dataset from Huggingface.](https://huggingface.co/datasets/nguha/legalbench)
 - [See prompts for different tasks.](https://github.com/HazyResearch/legalbench/)
 
 ## What is LegalBench?
@@ -23,12 +23,14 @@ The LegalBench project is an ongoing open science effort to collaboratively cura
 LegalBench is a benchmark consisting of different legal reasoning *tasks*. Each task has an associated *dataset*, consisting of input-output pairs. Examples of tasks include:
 
 - The [hearsay](/tasks/hearsay.html) task, for which the input is a description of some evidence and the output is whether or not that evidence would be considered hearsay (i.e., "Yes" or "No").
-- The [definition extraction](tasks/definition_extraction.html) task, for which the input is a sentence (from a Supreme Court opinion) which defines a term, and the output is the term.
+- The [proa](tasks/proa.html) task, for which the input is a statute, and the output is whether or not that statute contains a private right of action.
 - The [Rule QA](/tasks/rule_qa.html) task, for which the input is a question about the substance of a law, and the output is the correct answer to the question.
 
-Task datasets can be used to evaluate LLMs by providing the LLM with the input, and evaluating how frequently it generates the corresponding output. LegalBench tasks cover a wide range of textual types, task structures, legal domains, and difficulty levels. Descriptions of each task are available [here](./tasks/index.markdown).
+Task datasets can be used to evaluate LLMs by providing the LLM with the input, and evaluating how frequently it generates the desired output. LegalBench tasks cover a wide range of textual types, task structures, legal domains, and difficulty levels. Descriptions of each task are available [here](./tasks/index.markdown).
 
-Notably, LegalBench tasks have been assembled through a unique crowd-sourcing effort within the legal community. [Individuals and organizations](#contributors) from a broad range of legal backgrounds---lawyers, computational legal practitioners, law professors, and legal impact labs---have contributed tasks they see as "interesting" or "useful." Interesting tasks are those that require a type of reasoning that the contributor deemed to be worth measuring. For instance, the task might correspond to one that law students are frequently expected to perform as part of assessments. Useful tasks correspond to processes that legal professionals currently engage in (either manually or through other means), and thus represent potential practical applications for LLMs.
+
+## Where do tasks come from?
+Notably, LegalBench tasks have been assembled through a unique crowd-sourcing effort within the legal community. [Individuals and organizations](#contributors) from a broad range of legal backgrounds---lawyers, computational legal practitioners, law professors, and legal impact labs---have contributed tasks they see as "interesting" or "useful." Interesting tasks are those that require a type of reasoning that the contributor deemed to be worth measuring. For instance, the task might correspond to one that law students are frequently expected to perform as part of assessments. Useful tasks correspond to realistic potential applications of LLMs (e.g., contractual analysis). LegalBench has also been augmented with tasks derived from existing legal benchmarks (e.g., CUAD), thus providing a single platform for evaluating a wide range of legal tasks.
 
 **LegalBench is ongoing and we are always looking to incorporate more tasks. See [here](./contribute.markdown) for more information on how to get involved!**
 
@@ -36,7 +38,7 @@ Notably, LegalBench tasks have been assembled through a unique crowd-sourcing ef
 
 **For AI researchers**: LegalBench provides a collection of interesting and hard tasks. Researchers have long recognized the distinct technical challenges posed by legal tasks: complex jargon, longer contexts, sophisticated multi-step reasoning, intricate structure, and minimal labeled data. LegalBench offers AI researchers a new and relevant setting in which to evaluate existing LLMs.
 
-**For the legal community**: LegalBench provides a means of assessing the performance of different LLMs for law-relevant tasks. As the legal community increasingly explores the potential applications and uses for LLMs, empirical assessments of LLM performance on domain-relevant tasks grow in importance. LegalBench provides legal professionals with guidance on the types of tasks where current LLMs/prompting methods are proficient, and the types where significant technical improvements are necessary.
+**For the legal community**: LegalBench provides a means of assessing the performance of different LLMs for law-relevant tasks. As the legal community increasingly explores the potential applications and uses for LLMs, empirical assessments of LLM performance on domain-relevant tasks grow in importance. LegalBench provides legal professionals with guidance on the types of tasks for which current LLMs/prompting methods are proficient, and the types where significant technical improvements are necessary.
 
 ## Citation information
 

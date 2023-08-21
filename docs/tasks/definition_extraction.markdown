@@ -8,7 +8,7 @@ parent: Tasks
 ### Given a sentence from a Supreme Court opinion offering a definition of a term, extract the term being defined.
 ---
 
-**Contributor**: Kevin Tobia
+
 
 **Source**: Kevin Tobia
 

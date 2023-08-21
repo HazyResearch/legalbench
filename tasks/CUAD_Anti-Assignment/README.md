@@ -3,7 +3,7 @@
 ### Classify if the clause requires consent or notice of a party if the contract is assigned to a third party.
 ---
 
-**Contributor**: Neel Guha 
+
 
 **Source**: [Atticus Project](https://www.atticusprojectai.org/cuad>)
 

@@ -8,7 +8,7 @@ parent: Tasks
 ### Given a clause fro ma privacy policy, classify if the clause describes the choices and control options available to users.
 ---
 
-**Contributor**: Sunny Gandhi
+
 
 **Source**: [OPP-115](https://usableprivacy.org/data)
 

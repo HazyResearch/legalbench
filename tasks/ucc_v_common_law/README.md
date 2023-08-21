@@ -2,7 +2,7 @@
 
 ### Determine if a contract is governed by the Uniform Commercial Code (UCC) or the common law of contracts.
 ---
-**Contributor**: Spencer Williams
+
 
 **Source**: Spencer Williams
 

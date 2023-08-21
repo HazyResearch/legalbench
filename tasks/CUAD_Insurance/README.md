@@ -3,7 +3,7 @@
 ### Classify if clause creates a requirement for insurance that must be maintained by one party for the benefit of the counterparty.
 ---
 
-**Contributor**: Neel Guha 
+
 
 **Source**: [Atticus Project](https://www.atticusprojectai.org/cuad>)
 

@@ -3,7 +3,7 @@
 ### Identify if the clause provides that all Confidential Information shall be expressly identified by the Disclosing Party.
 ---
 
-**Contributor**: Neel Guha
+
 
 **Source**: [ContractNLI](https://stanfordnlp.github.io/contract-nli/)
 
