@@ -19,7 +19,7 @@ This page provides an overview of how to get started with LegalBench.
 
 - Prompt templates for each task are accessible on the [Github repository](https://github.com/HazyResearch/legalbench/).
 - If you would like to add a prompt template, then please create a pull-request on that repository.
-- See [here]() for an example of how to generate prompts for a dataset using a template.
+- See [here](https://github.com/HazyResearch/legalbench/blob/main/UsingLegalBench.ipynb) for an example of how to generate prompts for a dataset using a template.
 
 
 ## Evaluation

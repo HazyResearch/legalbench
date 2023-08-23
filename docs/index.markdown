@@ -14,7 +14,7 @@ permalink: /
 
 The LegalBench project is an ongoing open science effort to collaboratively curate tasks for evaluating legal reasoning in English large language models (LLMs). The benchmark currently consists of **162** tasks gathered from **40** contributors.
 
-- [Read the paper.](https://arxiv.org/abs/2209.06120)
+- [Read the paper.](https://arxiv.org/abs/2308.11462)
 - [Download the dataset from Huggingface.](https://huggingface.co/datasets/nguha/legalbench)
 - [See prompts for different tasks.](https://github.com/HazyResearch/legalbench/)
 
@@ -45,15 +45,13 @@ Notably, LegalBench tasks have been assembled through a unique crowd-sourcing ef
 If you intend to reference LegalBench broadly, please use the citation below. If you are working with a particular task, please use the citation below **in addition** to the task specific citation (which can be found on the task page).
 
 ```bib
-@misc{https://doi.org/10.48550/arxiv.2209.06120, 
-  doi = {10.48550/ARXIV.2209.06120}, 
-  url = {https://arxiv.org/abs/2209.06120}, 
-  author = {Guha, Neel and Ho, Daniel E. and Nyarko, Julian and Ré, Christopher}, 
-  keywords = {Artificial Intelligence (cs.AI), FOS: Computer and information sciences, FOS: Computer and information sciences}, 
-  title = {LegalBench: Prototyping a Collaborative Benchmark for Legal Reasoning}, 
-  publisher = {arXiv}, 
-  year = {2022}, 
-  copyright = {arXiv.org perpetual, non-exclusive license}
+@misc{guha2023legalbench,
+      title={LegalBench: A Collaboratively Built Benchmark for Measuring Legal Reasoning in Large Language Models}, 
+      author={Neel Guha and Julian Nyarko and Daniel E. Ho and Christopher Ré and Adam Chilton and Aditya Narayana and Alex Chohlas-Wood and Austin Peters and Brandon Waldon and Daniel N. Rockmore and Diego Zambrano and Dmitry Talisman and Enam Hoque and Faiz Surani and Frank Fagan and Galit Sarfaty and Gregory M. Dickinson and Haggai Porat and Jason Hegland and Jessica Wu and Joe Nudell and Joel Niklaus and John Nay and Jonathan H. Choi and Kevin Tobia and Margaret Hagan and Megan Ma and Michael Livermore and Nikon Rasumov-Rahe and Nils Holzenberger and Noam Kolt and Peter Henderson and Sean Rehaag and Sharad Goel and Shang Gao and Spencer Williams and Sunny Gandhi and Tom Zur and Varun Iyer and Zehua Li},
+      year={2023},
+      eprint={2308.11462},
+      archivePrefix={arXiv},
+      primaryClass={cs.CL}
 }
 ```
 
