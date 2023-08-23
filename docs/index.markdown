@@ -22,9 +22,9 @@ The LegalBench project is an ongoing open science effort to collaboratively cura
 
 LegalBench is a benchmark consisting of different legal reasoning *tasks*. Each task has an associated *dataset*, consisting of input-output pairs. Examples of tasks include:
 
-- The [hearsay](/tasks/hearsay.html) task, for which the input is a description of some evidence and the output is whether or not that evidence would be considered hearsay (i.e., "Yes" or "No").
+- The [hearsay](tasks/hearsay.html) task, for which the input is a description of some evidence and the output is whether or not that evidence would be considered hearsay (i.e., "Yes" or "No").
 - The [proa](tasks/proa.html) task, for which the input is a statute, and the output is whether or not that statute contains a private right of action.
-- The [Rule QA](/tasks/rule_qa.html) task, for which the input is a question about the substance of a law, and the output is the correct answer to the question.
+- The [Rule QA](tasks/rule_qa.html) task, for which the input is a question about the substance of a law, and the output is the correct answer to the question.
 
 Task datasets can be used to evaluate LLMs by providing the LLM with the input, and evaluating how frequently it generates the desired output. LegalBench tasks cover a wide range of textual types, task structures, legal domains, and difficulty levels. Descriptions of each task are available [here](./tasks/index.markdown).
 
