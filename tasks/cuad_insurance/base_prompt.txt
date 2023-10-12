@@ -1,0 +1,22 @@
+Is there a requirement for insurance that must be maintained by one party for the benefit of the counterparty?
+
+Clause: The Venture may acquire insurance on behalf of any Member, employee, agent or other person engaged in the business interest of the Venture against any liability asserted against them or incurred by them while acting in good faith on behalf of the Venture.
+Label: Yes
+
+Clause: Motor Vehicle Insurance covering bodily injury, death of a person or property damage arising out of the ownership, maintenance or use of any motor vehicles in an amount not less than $1,000,000 combined single limit for personal and bodily injury and death.
+Label: Yes
+
+Clause: EFS shall deliver to Client, upon execution of the Agreement, certificates of insurance as evidence of the required coverages.
+Label: Yes
+
+Clause: Neither NETTAXI or SpinRecords.com shall assign its ---------- respective rights or delegate its obligations hereunder, either in whole or in part, whether by operation of law or otherwise, without the prior written consent of the other party. Any attempted assignment or delegation without the other party's written consent will be void.
+Label: No
+
+Clause: Purchase orders issued by MediWound to CBC during a certain year for quantities exceeding [***]% of the applicable Annual Forecast shall be binding upon CBC, except that with respect to any amounts exceeding [***]% of the applicable Annual Forecast, CBC's obligation to provide such exceeding quantities shall be based on best efforts and CBC shall have an extended lead time for delivery as shall be agreed upon by the parties on a case by case basi
+Label: No
+
+Clause: Notwithstanding the limits set forth in the<omitted>foregoing sentence, Customer may more frequently conduct "for cause" physical inspections or audits of a Facility with five (5) days' advance written notice to Manufacturer if Customer has reasonable cause to believe that an inspection or audit of such Facility is warranted because Manufacturer's activities with respect to such Facility are in breach of this Agreement, applicable Laws, the Quality Agreement or the applicable Facility Addendum.
+Label: No
+
+Clause: {{text}}
+Label:

@@ -1,0 +1,22 @@
+Does the clause restrict the ability of a party to compete with the counterparty or operate in a certain geography or business or technology sector?
+
+Clause: Upon written request of Client, EFS shall discontinue or modify any Advertisement that in the reasonable opinion of Client is not appropriate for the Client brand or is competitive with Client business.
+Label: Yes
+
+Clause: VerticalNet and PaperExchange shall be responsible for the sale of all advertising on the Co-Branded Sites; provided, however, that neither party shall sell advertising on the Co-Branded Sites to a competitor (as defined in 1.16 and 1.25) and provided that each party shall submit any proposed advertising for the Co-Branded Sites to the other party for its prior written approval, such approval not to be unreasonably withheld, delayed or conditioned.
+Label: Yes
+
+Clause: Franchisee also acknowledges that Pretzel Time has granted the Franchise to Franchisee in consideration of and reliance upon Franchisee's agreement to deal exclusively with Pretzel Time. Franchisee therefore agrees that during the term of the Franchise Agreement, or the period of time which Franchisee operates a Unit under this Agreement, whichever is shorter, neither Franchisee nor any Affiliate, immediate family member, or in the event Franchisee is a corporation any Owner thereof and member of his immediate family or in the event Franchise is a partnership any partner (general or limited) thereof and any member of his immediate family, shall: (1) Have any direct or indirect interest as an owner, investor, partner, director, officer, employee, consultant, representative, agent or in any other capacity in any Competitive Business located or operating at the Site or within three (3) miles of any Pretzel Time Unit in operation or under development on the effective date of termination or expiration of this Agreement, except a Pretzel Time Unit operated by Franchisee under Franchise Agreements with Pretzel Time; or (2) Recruit or hire any employee who, within the immediately preceding six (6) month period, was employed by Pretzel Time or any Pretzel Time Unit operated by Pretzel Time, its Affiliates or another franchisee or licensee of Pretzel Time, without obtaining the prior written permission of Pretzel Time or such franchisee.
+Label: Yes
+
+Clause: However, no assignment shall be effective until such time as Franchisor or its designated affiliate gives Lessor written notice of its acceptance of the assignment, and nothing contained herein or in any other document shall constitute Franchisor or its designated subsidiary or affiliate a party to the Lease Agreement, or guarantor thereof, and shall not create any liability or obligation of Franchisor or its parent unless and until the Lease Agreement is assigned to, and accepted in writing by, Franchisor or its parent, subsidiary or affiliate.
+Label: No
+
+Clause: This Agreement may not be assigned without the prior written consent of the other Party hereto.
+Label: No
+
+Clause: These exclusivity obligations will not limit Smith's right to appear in any of the entertainment fields or in the entertainment portion of any television, film or video program; provided, however, that Smith may not appear in, or provide services in connection with, advertisements for any computer game or videogame sports products.
+Label: No
+
+Clause: {{text}}
+Label:
