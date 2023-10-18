@@ -47,6 +47,8 @@ Please see [here](https://hazyresearch.stanford.edu/legalbench/getting-started/)
 
 LegalBench is a mix of created and transformed datasets. We ask that you follow the license of the dataset creator. Please see the [task page](https://github.com/HazyResearch/legalbench/tree/main/tasks) for a list of tasks and licenses.
 
+Please see the [notebook](https://github.com/HazyResearch/legalbench/blob/main/UsingLegalBench.ipynb) for an example of how to select tasks based on license information.
+
 ## Citing this work
 
 Please include all citations below, which credit all sources LegalBench draws on.
