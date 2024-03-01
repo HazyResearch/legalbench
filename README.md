@@ -51,10 +51,14 @@ Please see the [notebook](https://github.com/HazyResearch/legalbench/blob/main/U
 
 ## Recent work involving LegalBench
 
-The following papers/projects have built upon LegalBench in various ways. If you've worked with LegalBench and would like us to add a pointer to your work here, please get in touch! 
+We'd like to highlight community efforts building on LegalBench. If you've worked with LegalBench and would like us to add a pointer to your work here, please get in touch! 
 
+Projects/evaluation frameworks:
 - [vals.ai](https://www.vals.ai/)
 - Stanford Center for Foundation Model Research's [HELM Lite Benchmark](https://crfm.stanford.edu/helm/lite/latest/)
+
+Research:
+- Nihal V. Nayak, Yiyang Nan, Avi Trost, & Stephen H. Bach. [Learning to Generate Instruction Tuning Datasets for Zero-Shot Task Adaptation](https://arxiv.org/abs/2402.18334) (2024)
 - Sergio Servantez, Joe Barrow, Kristian Hammond, & Rajiv Jain. [Chain of Logic: Rule-Based Reasoning with Large Language Models](https://arxiv.org/abs/2402.10400) (2024).
 
 ## Citing this work
