@@ -49,6 +49,14 @@ LegalBench is a mix of created and transformed datasets. We ask that you follow 
 
 Please see the [notebook](https://github.com/HazyResearch/legalbench/blob/main/UsingLegalBench.ipynb) for an example of how to select tasks based on license information.
 
+## Recent work involving LegalBench
+
+The following papers/projects have built upon LegalBench in various ways. If you've worked with LegalBench and would like us to add a pointer to your work here, please get in touch! 
+
+- [vals.ai](https://www.vals.ai/)
+- Stanford Center for Foundation Model Research's [HELM Lite Benchmark](https://crfm.stanford.edu/helm/lite/latest/)
+- Sergio Servantez, Joe Barrow, Kristian Hammond, & Rajiv Jain. [Chain of Logic: Rule-Based Reasoning with Large Language Models](https://arxiv.org/abs/2402.10400) (2024).
+
 ## Citing this work
 
 Please include all citations below, which credit all sources LegalBench draws on.
