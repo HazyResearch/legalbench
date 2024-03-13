@@ -56,6 +56,7 @@ We'd like to highlight community efforts building on LegalBench. If you've worke
 Projects/evaluation frameworks:
 - [vals.ai](https://www.vals.ai/)
 - Stanford Center for Foundation Model Research's [HELM Lite Benchmark](https://crfm.stanford.edu/helm/lite/latest/)
+- [Reexpress AI: Uncertainty-aware Legal Reasoning](https://github.com/ReexpressAI/Example_Data/blob/main/tutorials/tutorial8_legalbench/README.md)
 
 Research:
 - Nihal V. Nayak, Yiyang Nan, Avi Trost, & Stephen H. Bach. [Learning to Generate Instruction Tuning Datasets for Zero-Shot Task Adaptation](https://arxiv.org/abs/2402.18334) (2024)
