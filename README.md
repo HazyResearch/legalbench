@@ -16,11 +16,11 @@ LegalBench is a benchmark consisting of different legal reasoning *tasks*. Each 
 - The [definition extraction](./tasks/definition_extraction/README.md) task, for which the input is a sentence (from a Supreme Court opinion) which defines a term, and the output is the term.
 - The [Rule QA](./tasks/rule_qa/README.md) task, for which the input is a question about the substance of a law, and the output is the correct answer to the question.
 
-Task datasets can be used to evaluate LLMs by providing the LLM with the input, and evaluating how frequently it generates the corresponding output. LegalBench tasks cover a wide range of textual types, task structures, legal domains, and difficulty levels. Descriptions of each task are available [here](./tasks/index.markdown).
+Task datasets can be used to evaluate LLMs by providing the LLM with the input, and evaluating how frequently it generates the corresponding output. LegalBench tasks cover a wide range of textual types, task structures, legal domains, and difficulty levels. Descriptions of each task are available [here](https://hazyresearch.stanford.edu/legalbench/tasks/).
 
 Notably, LegalBench tasks have been assembled through a unique crowd-sourcing effort within the legal community. [Individuals and organizations](https://hazyresearch.stanford.edu/legalbench/#contributors) from a broad range of legal backgrounds---lawyers, computational legal practitioners, law professors, and legal impact labs---have contributed tasks they see as "interesting" or "useful." Interesting tasks are those that require a type of reasoning that the contributor deemed to be worth measuring. For instance, the task might correspond to one that law students are frequently expected to perform as part of assessments. Useful tasks correspond to processes that legal professionals currently engage in (either manually or through other means), and thus represent potential practical applications for LLMs.
 
-**LegalBench is ongoing and we are always looking to incorporate more tasks. See [here](./contribute.markdown) for more information on how to get involved!**
+**LegalBench is ongoing and we are always looking to incorporate more tasks. See [here](https://hazyresearch.stanford.edu/legalbench/contribute/) for more information on how to get involved!**
 
 
 ## Who are we?
@@ -48,6 +48,19 @@ Please see [here](https://hazyresearch.stanford.edu/legalbench/getting-started/)
 LegalBench is a mix of created and transformed datasets. We ask that you follow the license of the dataset creator. Please see the [task page](https://github.com/HazyResearch/legalbench/tree/main/tasks) for a list of tasks and licenses.
 
 Please see the [notebook](https://github.com/HazyResearch/legalbench/blob/main/UsingLegalBench.ipynb) for an example of how to select tasks based on license information.
+
+## Recent work involving LegalBench
+
+We'd like to highlight community efforts building on LegalBench. If you've worked with LegalBench and would like us to add a pointer to your work here, please get in touch! 
+
+Projects/evaluation frameworks:
+- [vals.ai](https://www.vals.ai/)
+- Stanford Center for Foundation Model Research's [HELM Lite Benchmark](https://crfm.stanford.edu/helm/lite/latest/)
+- [Reexpress AI: Uncertainty-aware Legal Reasoning](https://github.com/ReexpressAI/Example_Data/blob/main/tutorials/tutorial8_legalbench/README.md)
+
+Research:
+- Nihal V. Nayak, Yiyang Nan, Avi Trost, & Stephen H. Bach. [Learning to Generate Instruction Tuning Datasets for Zero-Shot Task Adaptation](https://arxiv.org/abs/2402.18334) (2024)
+- Sergio Servantez, Joe Barrow, Kristian Hammond, & Rajiv Jain. [Chain of Logic: Rule-Based Reasoning with Large Language Models](https://arxiv.org/abs/2402.10400) (2024).
 
 ## Citing this work
 
