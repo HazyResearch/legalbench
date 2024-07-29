@@ -120,7 +120,7 @@ Please include all citations below, which credit all sources LegalBench draws on
 
 The following individuals/groups have contributed to LegalBench:
 
-- [Neel Guha](https://www.neelguha.com/)
+- [Neel Guha](https://neelguha.github.io/)
 - Julian Nyarko
 - Daniel E. Ho
 - Christopher Ré
