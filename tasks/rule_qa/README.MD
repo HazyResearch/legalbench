@@ -22,6 +22,7 @@ Rule QA is a question-answer task in which the model is asked about laws. Questi
 
 We constructed this dataset by hand. For each sample, we provide the area of law it relates to (e.g. Civil Procedure).
 
+**Note**: This task is intended to be evaluated in a zero-shot setting. As a result, `train.tsv` is intentionally blank.
 
 ## Data column names
 
