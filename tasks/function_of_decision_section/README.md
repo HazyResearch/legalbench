@@ -19,7 +19,7 @@
 
 Lawyers reading prior court decisions must be able to identify the function that each section of the written decision serves within the context of the whole. Beginning lawyers in law school are taught to do so intentionally and explicitly as they read cases. As lawyers become more experienced over time, the process becomes second nature. This task is to classify a paragraph extracted from a written decision into one of seven possible categories: Facts, Procedural History, Issue, Rule, Analysis, Conclusion, or Decree.
 
-1. Facts - The paragraph describes the faction background that led up to the present lawsuit.
+1. Facts - The paragraph describes the factual background that led up to the present lawsuit.
 2. Procedural History - The paragraph describes the course of litigation that led to the current proceeding before the court.
 3. Issue - The paragraph describes the legal or factual issue that must be resolved by the court.
 4. Rule - The paragraph describes a rule of law relevant to resolving the issue.
