@@ -1,7 +1,7 @@
-index	text	answer	document_name
-0	Microsoft may terminate this Agreement at any time without cause upon [*] ([*]) days prior written notice.	Yes	INKTOMICORP_06_08_1998-EX-10.14-SOFTWARE HOSTING AGREEMENT.PDF
-1	This Agreement may be terminated by ArTara upon thirty (30) days prior written notice to University.	Yes	ArtaraTherapeuticsInc_20200110_8-K_EX-10.5_11943350_EX-10.5_License Agreement.pdf
-2	In addition, either you or Nationwide may terminate this Agreement<omitted>for any reason on at least ninety (90) days written notice to the other party.	Yes	AULAMERICANUNITTRUST_04_24_2020-EX-99.8.77-SERVICING AGREEMENT.PDF
-3	NEITHER PARTY SHALL HAVE ANY LIABILITY TO THE OTHER PARTY FOR ANY LOST PROFITS OR SPECIAL, INCIDENTAL, INDIRECT OR CONSEQUENTIAL DAMAGES, EVEN IF SUCH PARTY HAS BEEN ADVISED OF THE POSSIBILITY OF SUCH DAMAGES.	No	MERITLIFEINSURANCECO_06_19_2020-EX-10.(XIV)-MASTER SERVICES AGREEMENT.PDF
-4	The term of this Agreement shall continue for one (1) year following the Launch Date, unless earlier terminated as provided herein.	No	2ThemartComInc_19990826_10-12G_EX-10.10_6700288_EX-10.10_Co-Branding Agreement_ Agency Agreement.pdf
-5	LEA shall not at any time do or cause to be done any act, omission, or thing contesting or in any way impairing or tending to impair any part of T&B's right, title and interest in the Licensed Intellectual Property.	No	LegacyEducationAllianceInc_20200330_10-K_EX-10.18_12090678_EX-10.18_Development Agreement.pdf
+answer	index	text	document_name
+Yes	0	Microsoft may terminate this Agreement at any time without cause upon [*] ([*]) days prior written notice.	INKTOMICORP_06_08_1998-EX-10.14-SOFTWARE HOSTING AGREEMENT.PDF
+Yes	1	This Agreement may be terminated by ArTara upon thirty (30) days prior written notice to University.	ArtaraTherapeuticsInc_20200110_8-K_EX-10.5_11943350_EX-10.5_License Agreement.pdf
+Yes	2	In addition, either you or Nationwide may terminate this Agreement<omitted>for any reason on at least ninety (90) days written notice to the other party.	AULAMERICANUNITTRUST_04_24_2020-EX-99.8.77-SERVICING AGREEMENT.PDF
+No	3	NEITHER PARTY SHALL HAVE ANY LIABILITY TO THE OTHER PARTY FOR ANY LOST PROFITS OR SPECIAL, INCIDENTAL, INDIRECT OR CONSEQUENTIAL DAMAGES, EVEN IF SUCH PARTY HAS BEEN ADVISED OF THE POSSIBILITY OF SUCH DAMAGES.	MERITLIFEINSURANCECO_06_19_2020-EX-10.(XIV)-MASTER SERVICES AGREEMENT.PDF
+No	4	The term of this Agreement shall continue for one (1) year following the Launch Date, unless earlier terminated as provided herein.	2ThemartComInc_19990826_10-12G_EX-10.10_6700288_EX-10.10_Co-Branding Agreement_ Agency Agreement.pdf
+No	5	LEA shall not at any time do or cause to be done any act, omission, or thing contesting or in any way impairing or tending to impair any part of T&B's right, title and interest in the Licensed Intellectual Property.	LegacyEducationAllianceInc_20200330_10-K_EX-10.18_12090678_EX-10.18_Development Agreement.pdf

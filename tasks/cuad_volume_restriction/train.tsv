@@ -1,7 +1,7 @@
-index	text	answer	document_name
-0	This Support Plan covers a 12 Month period, with a Maximum Cap of hours for that period.	Yes	TRIZETTOGROUPINC_08_18_1999-EX-10.17-TECHNICAL INFRASTRUCTURE MAINTENANCE AGREEMENT.PDF
-1	The foregoing obligations of Wildform, shall be limited to a maximum of forty (40) hours, or up to a maximum of two hundred twenty (220) emails, whichever accumulates first.	Yes	ON2TECHNOLOGIES,INC_11_17_2006-EX-10.3-SUPPORT AND MAINTENANCE AGREEMENT.PDF
-2	TPC agrees that such photograph shoots shall not exceed five (5) hours each in duration.	Yes	TEARDROPGOLFCO_10_23_1996-EX-10.12-ENDORSEMENT AGREEMENT.PDF
-3	The Annual Maintenance Fee is 18% of the undiscounted License Fees due to Changepoint hereunder and is payable annually in advance.	No	CHANGEPOINTCORP_03_08_2000-EX-10.6-LICENSE AND HOSTING AGREEMENT.PDF
-4	However, any Party may terminate its participation in this Agreement at the end of the Initial Period or at any time thereafter by giving at least one year's prior notice, in writing, to the other remaining Parties.	No	STARTECGLOBALCOMMUNICATIONSCORP_11_16_1998-EX-10.30-CONSTRUCTION AND MAINTENANCE AGREEMENT.PDF
-5	In no event shall DGT be liable for consequential or incidental damages arising from any breach or breaches of this Agreement.	No	HUBEIMINKANGPHARMACEUTICALLTD_09_19_2006-EX-10.1-OUTSOURCING AGREEMENT.PDF
+answer	index	text	document_name
+Yes	0	This Support Plan covers a 12 Month period, with a Maximum Cap of hours for that period.	TRIZETTOGROUPINC_08_18_1999-EX-10.17-TECHNICAL INFRASTRUCTURE MAINTENANCE AGREEMENT.PDF
+Yes	1	The foregoing obligations of Wildform, shall be limited to a maximum of forty (40) hours, or up to a maximum of two hundred twenty (220) emails, whichever accumulates first.	ON2TECHNOLOGIES,INC_11_17_2006-EX-10.3-SUPPORT AND MAINTENANCE AGREEMENT.PDF
+Yes	2	TPC agrees that such photograph shoots shall not exceed five (5) hours each in duration.	TEARDROPGOLFCO_10_23_1996-EX-10.12-ENDORSEMENT AGREEMENT.PDF
+No	3	The Annual Maintenance Fee is 18% of the undiscounted License Fees due to Changepoint hereunder and is payable annually in advance.	CHANGEPOINTCORP_03_08_2000-EX-10.6-LICENSE AND HOSTING AGREEMENT.PDF
+No	4	However, any Party may terminate its participation in this Agreement at the end of the Initial Period or at any time thereafter by giving at least one year's prior notice, in writing, to the other remaining Parties.	STARTECGLOBALCOMMUNICATIONSCORP_11_16_1998-EX-10.30-CONSTRUCTION AND MAINTENANCE AGREEMENT.PDF
+No	5	In no event shall DGT be liable for consequential or incidental damages arising from any breach or breaches of this Agreement.	HUBEIMINKANGPHARMACEUTICALLTD_09_19_2006-EX-10.1-OUTSOURCING AGREEMENT.PDF

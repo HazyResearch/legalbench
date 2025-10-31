@@ -7,3 +7,12 @@ __pycache__/
 .plans/
 CLAUDE.md
 **/CLAUDE.md
+
+# Evaluation results
+results/*.json
+*.egg-info/
+.venv/
+.env
+
+# Pre-downloaded test data (download via scripts/download_legalbench_data.py)
+tasks/**/test.tsv

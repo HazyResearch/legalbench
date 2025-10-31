@@ -18,6 +18,13 @@ Requires-Dist: numpy>=1.23
 Requires-Dist: pandas>=1.5
 Requires-Dist: scikit-learn>=1.3
 Requires-Dist: nltk>=3.8
+Requires-Dist: datasets<3.0.0,>=2.19.0
+Requires-Dist: pydantic>=2.0
+Requires-Dist: termcolor>=2.3.0
+Requires-Dist: python-dotenv>=1.0.0
+Requires-Dist: anthropic>=0.18.0
+Requires-Dist: tqdm>=4.65.0
+Requires-Dist: claude-agent-sdk>=0.1.4
 Provides-Extra: dev
 Requires-Dist: pytest>=7.4.0; extra == "dev"
 Requires-Dist: black>=24.0.0; extra == "dev"
@@ -68,6 +75,361 @@ Please see [here](https://hazyresearch.stanford.edu/legalbench/contribute/) for 
 ## Evaluating on LegalBench tasks
 
 Please see [here](https://hazyresearch.stanford.edu/legalbench/getting-started/) for more details.
+
+## Evaluating AI Agents with Maite
+
+This repository includes a complete evaluation framework for testing AI agents (built with the Claude Agent SDK) on LegalBench tasks. The framework provides systematic measurement of agent performance on legal reasoning tasks with full traceability and comparison capabilities.
+
+### Features
+
+- **Systematic Evaluation**: Run agents on curated sets of legal reasoning tasks
+- **Multiple Task Selection**: Evaluate by task name, category, or quick smoke test
+- **Full Traceability**: Capture execution traces, tool calls, timing, and token usage
+- **Comparison Reports**: Compare runs with delta calculations and multiple output formats (table, markdown, JSON)
+- **Canonical Integration**: Uses official LegalBench evaluation metrics and data loading patterns
+
+### Quick Start
+
+```bash
+# Install the package
+pip install -e .
+
+# Run quick smoke test (5 tasks, 5 samples each)
+python scripts/run_eval.py --quick
+
+# Run specific tasks
+python scripts/run_eval.py --tasks hearsay,contract_qa --samples 20
+
+# Run all conclusion tasks
+python scripts/run_eval.py --category CONCLUSION_TASKS --samples 10
+
+# Compare two evaluation runs
+python scripts/compare_runs.py results/run1.json results/run2.json
+```
+
+### Installation
+
+```bash
+# Clone the repository
+git clone https://github.com/HazyResearch/legalbench.git
+cd legalbench
+
+# Install dependencies
+pip install -e .
+
+# Verify installation
+python -c "from eval_maite.evaluator import LegalBenchEvaluator; print('✓ Installation successful')"
+```
+
+### Usage
+
+#### Running Evaluations
+
+The `run_eval.py` script provides multiple ways to select tasks for evaluation:
+
+```bash
+# Evaluate specific tasks
+python scripts/run_eval.py --tasks hearsay,personal_jurisdiction,contract_qa --samples 20
+
+# Evaluate all tasks in a category
+python scripts/run_eval.py --category CONCLUSION_TASKS --samples 10
+
+# Quick smoke test (5 representative tasks × 5 samples = 25 total)
+python scripts/run_eval.py --quick
+
+# Specify agent configuration
+python scripts/run_eval.py --tasks hearsay \
+  --model claude-sonnet-4 \
+  --temperature 0.0 \
+  --timeout 60 \
+  --samples 20
+
+# Save to custom location
+python scripts/run_eval.py --tasks hearsay --output my_evaluation.json
+
+# Include detailed traces for debugging
+python scripts/run_eval.py --tasks hearsay --samples 5 --include-traces
+```
+
+**Available Task Categories:**
+- `ISSUE_TASKS` - Issue spotting (17 tasks)
+- `RULE_TASKS` - Rule recall (5 tasks)
+- `CONCLUSION_TASKS` - Conclusion application (12 tasks)
+- `INTERPRETATION_TASKS` - Contract/policy interpretation (118 tasks)
+- `RHETORIC_TASKS` - Legal rhetoric analysis (10 tasks)
+
+**Quick Test Tasks** (one from each category):
+1. `learned_hands_torts` (Issue)
+2. `international_citizenship_questions` (Rule)
+3. `hearsay` (Conclusion)
+4. `contract_qa` (Interpretation)
+5. `overruling` (Rhetoric)
+
+#### Comparing Results
+
+The `compare_runs.py` script generates detailed comparison reports between two evaluation runs:
+
+```bash
+# Basic comparison (table format)
+python scripts/compare_runs.py results/run1.json results/run2.json
+
+# Markdown format for documentation
+python scripts/compare_runs.py results/run1.json results/run2.json --format markdown
+
+# JSON format for programmatic processing
+python scripts/compare_runs.py results/run1.json results/run2.json --format json
+
+# Export comparison to file
+python scripts/compare_runs.py results/run1.json results/run2.json --output comparison.json
+
+# Custom threshold for significance (default: 1%)
+python scripts/compare_runs.py results/run1.json results/run2.json --threshold 0.05
+```
+
+**Example Comparison Output:**
+
+```
+╔════════════════════════════════════════════════════════════════════════╗
+║                     Evaluation Comparison Report                       ║
+╚════════════════════════════════════════════════════════════════════════╝
+
+📊 Run Metadata Comparison
+
+  Run 1: run_20251030_120000
+  Timestamp: 2025-10-30 12:00:00
+  Agent: maite v0.1.0
+  Model: claude-sonnet-4
+
+  Run 2: run_20251030_130000
+  Timestamp: 2025-10-30 13:00:00
+  Agent: maite v0.1.0
+  Model: claude-sonnet-4
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+📊 Task-by-Task Comparison
+
+┌────────────────────────────┬─────────┬─────────┬─────────────┬──────────────────────┐
+│ Task Name                  │ Run 1   │ Run 2   │ Delta       │ Metric               │
+├────────────────────────────┼─────────┼─────────┼─────────────┼──────────────────────┤
+│ hearsay                    │ 0.8500  │ 0.8700  │ +0.0200 ↑   │ balanced_accuracy    │
+│ personal_jurisdiction      │ 0.7800  │ 0.7600  │ -0.0200 ↓   │ balanced_accuracy    │
+│ contract_qa                │ 0.9200  │ 0.9200  │ +0.0000 →   │ balanced_accuracy    │
+│ learned_hands_torts        │   --    │ 0.8100  │ NEW         │ balanced_accuracy    │
+└────────────────────────────┴─────────┴─────────┴─────────────┴──────────────────────┘
+
+Legend: ↑ = Improvement  ↓ = Regression  → = No significant change (< 1%)
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+📈 Summary Comparison
+
+  Overall Performance:
+    Run 1: 0.8500 (60 samples)
+    Run 2: 0.8400 (80 samples)
+    Change: -0.0100 (↓ 1.18%)
+
+✓ Comparison complete!
+```
+
+### Output Format
+
+Evaluation results are saved as JSON files in the `results/` directory:
+
+```json
+{
+  "run_id": "run_20251030_153000",
+  "timestamp": "2025-10-30T15:30:00Z",
+  "agent_config": {
+    "name": "maite",
+    "version": "0.1.0",
+    "model": "claude-sonnet-4",
+    "temperature": 0.0,
+    "tools": [],
+    "timeout": 60,
+    "max_retries": 3
+  },
+  "tasks": ["hearsay", "personal_jurisdiction"],
+  "samples_per_task": 20,
+  "results": [
+    {
+      "task_name": "hearsay",
+      "category": "CONCLUSION_TASKS",
+      "samples_evaluated": 20,
+      "metric": "balanced_accuracy",
+      "score": 0.85,
+      "avg_execution_time": 2.3,
+      "avg_tokens": 450.0,
+      "errors": 0
+    }
+  ],
+  "summary": {
+    "total_samples": 40,
+    "total_time": 92.0,
+    "avg_accuracy": 0.82,
+    "tasks_completed": 2,
+    "total_errors": 0
+  }
+}
+```
+
+### Canonical Workflow
+
+The evaluation framework follows the canonical LegalBench pattern:
+
+1. **Load Task Data**: `datasets.load_dataset("nguha/legalbench", task_name)`
+2. **Load Prompt Template**: Read from `tasks/{task_name}/base_prompt.txt`
+3. **Generate Prompts**: `generate_prompts(template, data_df)` (from `utils.py`)
+4. **Execute Agent**: Run agent on each prompt, capture traces
+5. **Extract Answers**: Get ground truth from `data_df["answer"].tolist()`
+6. **Evaluate**: `evaluate(task_name, generations, answers)` (from `evaluation.py`)
+
+This ensures compatibility with official LegalBench metrics and reproducible results.
+
+### Testing
+
+The framework includes comprehensive test coverage (75 tests):
+
+```bash
+# Run all tests
+pytest tests/ -v
+
+# Run specific test suites
+pytest tests/test_canonical_workflow.py -v   # Canonical integration tests
+pytest tests/test_evaluator.py -v            # Evaluator tests
+pytest tests/test_run_eval.py -v             # CLI tests
+pytest tests/test_compare_runs.py -v         # Comparison tool tests
+pytest tests/test_integration_e2e.py -v      # End-to-end integration tests
+```
+
+### Performance
+
+**Quick Smoke Test** (recommended for rapid iteration):
+- 5 tasks × 5 samples = 25 API calls
+- Estimated time: 2-3 minutes
+- Estimated cost: <$0.25
+
+**Full Task Evaluation** (20 samples per task):
+- Single task: ~20 API calls, ~2 minutes
+- 5 tasks: ~100 API calls, ~10 minutes
+- 10 tasks: ~200 API calls, ~20 minutes
+
+### Evaluation Metrics
+
+The framework automatically uses the correct metric for each task:
+
+- **balanced_accuracy**: Default for most tasks (handles class imbalance)
+- **f1_score**: Multi-extraction tasks (e.g., `ssla_*`, `successor_liability`)
+- **balanced_accuracy_stemmed**: Tasks requiring normalization (e.g., `definition_extraction`)
+- **numeric_tolerance**: Numeric tasks within tolerance (e.g., `sara_numeric`)
+- **contains_match**: Open-ended tasks (e.g., `citation_prediction_open`)
+- **manual_evaluation**: Tasks requiring human review (e.g., `rule_qa`)
+
+All metrics are handled by the canonical `evaluate()` function from `evaluation.py`.
+
+### Architecture
+
+```
+eval_maite/
+├── task_loader.py      # Load LegalBench tasks and templates
+├── agent_wrapper.py    # Execute Maite agent with tracing
+├── evaluator.py        # Evaluation engine
+├── models.py           # Pydantic data models
+├── utils.py            # Helper functions
+├── agent_config.py     # Agent discovery and configuration
+└── agent_utils.py      # Retry logic and error handling
+
+scripts/
+├── run_eval.py         # CLI for running evaluations
+└── compare_runs.py     # CLI for comparing runs
+
+tests/
+├── test_canonical_workflow.py    # Canonical integration tests
+├── test_evaluator.py             # Evaluator tests
+├── test_run_eval.py              # CLI tests
+├── test_compare_runs.py          # Comparison tests
+└── test_integration_e2e.py       # End-to-end tests
+```
+
+### Troubleshooting
+
+**"Invalid task names" error:**
+- Verify task name spelling matches LegalBench exactly
+- Use `--category` instead for task groups
+- Run `python -c "from tasks import TASKS; print(TASKS)"` to see all valid tasks
+
+**Agent not found:**
+- Ensure Maite agent is in `../s_c_workbench/` or set `MAITE_AGENT_PATH` environment variable
+- Verify Claude Agent SDK is installed: `pip list | grep claude-agent-sdk`
+
+**Timeout errors:**
+- Increase timeout: `--timeout 120`
+- Reduce sample size: `--samples 5`
+- Check API rate limits
+
+**Out of memory:**
+- Disable trace collection: omit `--include-traces`
+- Reduce sample size: `--samples 10`
+- Run tasks sequentially instead of in batch
+
+### Contributing
+
+See [CONTRIBUTING.md](CONTRIBUTING.md) for guidelines on:
+- Adding new task categories
+- Extending evaluation metrics
+- Improving agent wrappers
+- Adding new output formats
+
+### Documentation
+
+- **PRD**: `.plans/maite-agent-evaluation-system.md` - Full product requirements
+- **Implementation Guide**: `.docs/legalbench_implementation_alpha.md` - Technical details
+- **Phase Summaries**: `.docs/phase*_summary.md` - Implementation progress
+- **Canonical Workflow**: See Appendix A in PRD for official LegalBench pattern
+
+
+## Local Data Setup (Optional)
+
+By default, LegalBench notebooks and evaluation scripts load data from HuggingFace on-the-fly. For faster access and offline usage, you can pre-download all task data locally:
+
+### Quick Start
+
+```bash
+# Pre-download all 162 tasks (train + test data)
+python scripts/download_legalbench_data.py
+```
+
+This will download all task data to `tasks/{task_name}/test.tsv` files. The download takes approximately 3-5 minutes and requires ~500MB-1GB of disk space.
+
+### How It Works
+
+The repository includes a local-first data loading system:
+
+1. **Local files first**: Data is loaded from `tasks/{task_name}/*.tsv` files when available
+2. **Automatic fallback**: If local files are missing, data is automatically downloaded from HuggingFace
+3. **Silent operation**: The fallback happens seamlessly without manual intervention
+
+### Usage
+
+```python
+from data_loader import load_task_data
+
+# Load task data (uses local file if available, otherwise downloads)
+train_df = load_task_data("hearsay", split="train")
+test_df = load_task_data("hearsay", split="test")
+```
+
+### Benefits
+
+- **Faster**: No network calls for data loading
+- **Offline**: Works without internet connection
+- **Reproducible**: Fixed local copies ensure consistency
+
+### Notes
+
+- Training data (`train.tsv`) is already included in the repository
+- Test data (`test.tsv`) is excluded from git (download separately)
+- The `datasets` library (version 2.19.0) is still required for the download script
 
 
 ## Licenses
