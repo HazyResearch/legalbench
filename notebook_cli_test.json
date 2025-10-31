@@ -1,0 +1,39 @@
+{
+  "run_id": "run_20251030_210657",
+  "timestamp": "2025-10-30T21:06:57.998141",
+  "agent_config": {
+    "name": "maite",
+    "version": "0.1.0",
+    "model": "claude-sonnet-4-5",
+    "temperature": 0.3,
+    "tools": [],
+    "timeout": 60,
+    "max_retries": 3
+  },
+  "tasks": [
+    "hearsay"
+  ],
+  "samples_per_task": 3,
+  "results": [
+    {
+      "task_name": "hearsay",
+      "category": "CONCLUSION_TASKS",
+      "samples_evaluated": 3,
+      "metric": "balanced_accuracy",
+      "score": 1.0,
+      "avg_execution_time": 9.962305625279745,
+      "avg_tokens": 208.33333333333334,
+      "avg_tool_calls": null,
+      "errors": 0,
+      "traces": null
+    }
+  ],
+  "summary": {
+    "total_samples": 3,
+    "total_time": 29.89,
+    "avg_accuracy": 1.0,
+    "tasks_completed": 1,
+    "total_errors": 0,
+    "avg_tokens": 208.3
+  }
+}

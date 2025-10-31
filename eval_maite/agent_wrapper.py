@@ -5,11 +5,13 @@ Provides a unified interface to execute Maite agent and capture execution traces
 """
 
 import asyncio
+import os
 import sys
 import time
 from pathlib import Path
 from typing import Optional
 
+from dotenv import load_dotenv
 from termcolor import cprint
 
 from eval_maite.agent_config import discover_workbench_path
@@ -41,6 +43,10 @@ class MaiteAgentWrapper:
         """
         self.config = agent_config
         self.workbench_path = discover_workbench_path()
+
+        # Load environment from s_c_workbench/.env
+        load_dotenv(self.workbench_path / ".env")
+        cprint(f"🔑 CLAUDE_MAX_ENABLED={os.getenv('CLAUDE_MAX_ENABLED', 'not set')}", "cyan")
 
         # Add s_c_workbench to Python path for imports
         workbench_str = str(self.workbench_path)
@@ -179,15 +185,20 @@ class MaiteAgentWrapper:
                 await agent.query(prompt)
 
                 # Stream response and collect messages
+                final_result = None
                 async for message in agent.stream_response():
-                    # Extract text from AssistantMessage
+                    # Collect text from AssistantMessage (for debugging/logging)
                     if isinstance(message, self.AssistantMessage):
                         for block in message.content:
                             if isinstance(block, self.TextBlock):
                                 response_parts.append(block.text)
 
-                    # Extract token usage from ResultMessage
+                    # Extract final result and token usage from ResultMessage
                     if isinstance(message, self.ResultMessage):
+                        # Get the final result (this is the answer to evaluate)
+                        final_result = getattr(message, "result", None)
+
+                        # Get token usage
                         usage = getattr(message, "usage", None)
                         if usage:
                             input_tokens = usage.get("input_tokens", 0)
@@ -204,14 +215,28 @@ class MaiteAgentWrapper:
 
             # Process response
             execution_time = time.time() - start_time
-            actual_output = "".join(response_parts).strip()
+
+            # Use final_result from ResultMessage if available, otherwise fall back to concatenated text
+            if final_result is not None:
+                full_response = final_result.strip()
+                cprint(f"   📋 Using final result from ResultMessage", "cyan")
+            else:
+                full_response = "".join(response_parts).strip()
+                cprint(f"   ⚠️ No final result in ResultMessage, using concatenated text", "yellow")
+
+            # Extract just the answer (first non-empty line) for evaluation
+            # The agent may include analysis after the answer, but we only want the answer
+            answer_lines = [line.strip() for line in full_response.split('\n') if line.strip()]
+            actual_output = answer_lines[0] if answer_lines else full_response
 
             # Check correctness
             is_correct = check_correctness(actual_output, expected_output)
 
             cprint(f"   ✓ Execution complete in {execution_time:.2f}s", "green")
             cprint(f"   Expected: {expected_output}", "white")
-            cprint(f"   Actual: {actual_output[:100]}...", "white")
+            cprint(f"   Actual (extracted): {actual_output}", "white")
+            if len(full_response) > len(actual_output):
+                cprint(f"   Full response: {full_response[:200]}...", "cyan")
             cprint(f"   Correct: {'✅' if is_correct else '❌'}", "white")
 
             # Build trace
