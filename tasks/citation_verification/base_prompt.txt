@@ -1,0 +1,8 @@
+Determine whether the quoted passage matches the cited legal provision.
+
+VERIFIED means the citation resolves to a real provision and the quoted text matches it. NOT_FOUND means the citation resolves to a real provision but the quoted text does not match it. MISATTRIBUTED means the quoted text matches a different provision, not the cited one. CITATION_UNRESOLVED means the citation is malformed or does not resolve to a real provision.
+
+Citation: {{citation}}
+Quote: {{quote}}
+
+Answer: {{answer}}
