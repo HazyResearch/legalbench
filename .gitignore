@@ -1,3 +1,10 @@
 .DS_Store
 .ipynb_checkpoints
 __pycache__/
+legalbench_venv/
+.vscode/
+leaderboard/__pycache__/
+leaderboard/organizer_setup/__pycache__/
+leaderboard/organizer_setup/utils/__pycache__/
+leaderboard/scorer/__pycache__/
+leaderboard/participant_setup/__pycache__/

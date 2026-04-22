@@ -1,0 +1,5 @@
+weave==0.51.54
+scikit-learn==1.7.0
+nltk==3.9.1
+openai==1.90.0 # only included for the example scripts to run - not required for creating submissions
+datasets==3.6.0

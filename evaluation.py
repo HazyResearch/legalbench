@@ -152,7 +152,6 @@ EXACT_MATCH_BALANCED_ACC_TASKS = [
     "privacy_policy_qa",
     "proa",
     "sara_entailment",
-    "successor_liability",
     "scalr",
     "supply_chain_disclosure_best_practice_accountability",
     "supply_chain_disclosure_best_practice_audits",
