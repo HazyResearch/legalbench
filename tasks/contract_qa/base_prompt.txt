@@ -34,4 +34,4 @@ Answer: No
 
 Clause: {{text}}
 Question: {{question}}
-Label:
+Answer:
