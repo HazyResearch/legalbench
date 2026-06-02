@@ -250,6 +250,8 @@ def evaluate_successor_liability(generations: List[str], answers: List[str]):
         "de facto merger",
         "mere continuation",
     ]
+    if not generations:
+        return 0.0
     tp, fp, fn = 0, 0, 0
     for i in range(len(generations)):
         predictions = [c for c in CLASSES if c in str(generations[i])]
@@ -311,6 +313,8 @@ def evaluate_definition_extraction(generations: List[str], answers: List[str]):
     matches ground truth.
     """
 
+    if not generations:
+        return 0.0
     total = 0
     correct = 0
     for i in range(len(generations)):
