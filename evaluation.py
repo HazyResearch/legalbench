@@ -240,6 +240,29 @@ def evaluate_exact_match_balanced_accuracy(generations: List[str], answers: List
     return balanced_accuracy_score(normalized_answers, normalized_gens)
 
 
+def _parse_answer_list(answer):
+    """Parse a successor-liability answer into a list of exception labels.
+
+    The canonical task TSVs use bare comma-separated values
+    ("de facto merger,mere continuation"), but the HuggingFace `nguha/legalbench`
+    mirror serializes the same field as a (sometimes double-quoted) Python list
+    repr ("['de facto merger', 'mere continuation']"). Accept either so callers
+    get correct scores regardless of which distribution they loaded.
+    """
+    s = str(answer).strip()
+    if len(s) >= 2 and s[0] == s[-1] and s[0] in "\"'":
+        s = s[1:-1].strip()
+    if s.startswith("[") and s.endswith("]"):
+        try:
+            import ast
+            parsed = ast.literal_eval(s)
+            if isinstance(parsed, (list, tuple)):
+                return [str(x).strip() for x in parsed]
+        except (ValueError, SyntaxError):
+            s = s.strip("[]").replace("'", "").replace('"', "")
+    return [x.strip() for x in s.split(",") if x.strip()]
+
+
 def evaluate_successor_liability(generations: List[str], answers: List[str]):
     """
     For successor liability, we measure F1 over the predicted exceptions.
@@ -253,7 +276,7 @@ def evaluate_successor_liability(generations: List[str], answers: List[str]):
     tp, fp, fn = 0, 0, 0
     for i in range(len(generations)):
         predictions = [c for c in CLASSES if c in str(generations[i])]
-        sample_answers = str(answers[i]).split(",")
+        sample_answers = _parse_answer_list(answers[i])
 
         for j in range(len(predictions)):
             if predictions[j] in sample_answers:
